@@ -21,12 +21,13 @@ class Welcome extends CI_Controller {
     function __construct(){
    	parent ::__construct();
 	$this->load->helper('common_helper');
+    require "simple_html_dom.php";
    }
 	public function index()
 	{
         $url  = 'http://synd.cricbuzz.com/j2me/1.0/livematches.xml';
 		$html = get_content($url);
-        echo $html; die;
-		$this->load->view('index');
+        $html =str_get_html($html);
+		$this->load->view('index',['games'=>$html]);
 	}
 }
