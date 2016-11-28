@@ -1,0 +1,2085 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14291" >
+		<type>TEST</type>
+		<gameDesc>County Div 2</gameDesc>
+		<series>County Championship Division Two 2015</series>
+		<matchday>4</matchday>
+		<home>Leicestershire</home>
+		<away>Lancashire</away>
+		<teamsabbr>LEIC vs LANCS</teamsabbr>
+		<homeabbr>LEIC</homeabbr>
+		<awayabbr>LANCS</awayabbr>
+		<homeId>145</homeId>
+		<awayId>143</awayId>
+		<venue>Grace Road, Leicester</venue>
+		<startdate>17 05 2015</startdate>
+		<enddate>20 05 2015</enddate>
+		<toss>
+			<winner>Leicestershire</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Lancashire won by 244 runs</status>
+		<result type="win">
+			<winningteam>Lancashire</winningteam>
+			<wonbyruns>244</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Martin Bodenham</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Steve O'Shaughnessy</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150520153926</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>4</currentinningsno>
+		<batteamname>LEIC</batteamname>
+		<bwlteamname>Lancs</bwlteamname>
+		<batteamruns>78</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>30.3</batteamovers>
+		<status>Lancashire won by 244 runs</status>
+		<batsman>
+			<playerid>8327</playerid>
+			<name>Rob Taylor</name>
+			<batsman-name>R Taylor</batsman-name>
+			<batsman-nickname>Rob Taylor</batsman-nickname>
+			<runs>17</runs>
+			<balls-faced>36</balls-faced>
+			<fours>2</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>6494</playerid>
+			<name>Nathan Buck*</name>
+			<bowler-name>N Buck</bowler-name>
+			<bowler-nickname>Buck</bowler-nickname>
+			<overs>6.3</overs>
+			<maidens>0</maidens>
+			<runs>22</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8013</playerid>
+			<name>Jordan Clark</name>
+			<bowler-name>Jordan Clark</bowler-name>
+			<bowler-nickname>J Clark</bowler-nickname>
+			<overs>6</overs>
+			<maidens>2</maidens>
+			<runs>19</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>323</target>
+<lastwicket>
+<playerid>6737</playerid>
+<name>Charlie Shreck</name>
+<player-runs>0</player-runs>
+<player-balls>5</player-balls>
+<runs>78</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>6494</bowlerid>
+<bowlername>N Buck</bowlername>
+</lastwicket>
+		<extras>
+			<byes>9</byes>
+			<wides>0</wides>
+			<noballs>2</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>17</total>
+		</extras>
+		<prevOvers><![CDATA[. . . B4 4 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV2/LEIC_LANCS_MAY17_MAY20/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Buck to Shreck, <b>out</b> Caught by Prince!! <b>Shreck c Prince b Buck 0(5)</b>]]></line><line><![CDATA[Buck to Shreck, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Buck to Shreck, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Buck to Shreck, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Buck to Shreck, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, 1 run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, 1 run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, <b>FOUR</b>]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, byes, <b>FOUR</b>]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Buck to Shreck, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, 1 run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, <b>no ball</b>]]></line><line><![CDATA[<b>Charlie Shreck, right handed bat, comes to the crease</b>]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Buck to McKay, <b>out</b> Caught by Alex Davies!! <b>McKay c Alex Davies b Buck 24(35) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Buck to McKay, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, 2 runs]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, <b>FOUR</b>]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Buck to McKay, <b>FOUR</b>]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, 1 run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, 3 runs]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;J Clark to McKay, 1 run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Buck to McKay, 1 run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Buck to McKay, <b>FOUR</b>]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Buck to McKay, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;J Clark to Rob Taylor, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;J Clark to Tom Wells, <b>out</b> Bowled!! <b>Tom Wells b J Clark 2(25)</b>]]></line><line><![CDATA[J Clark to Tom Wells, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;J Clark to Tom Wells, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;J Clark to Tom Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Buck to Tom Wells, 1 run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;J Clark to McKay, <b>FOUR</b>]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;J Clark to McKay, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jordan Clark, comes into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Buck to McKay, 1 run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Buck to McKay, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nathan Buck, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Jarvis to McKay, 3 runs]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Bailey to McKay, no run]]></line><line><![CDATA[<b>Clint McKay, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, <b>out</b> Caught by Steven Croft!! <b>N O'Brien c Steven Croft b Bailey 3(12)</b>]]></line><line><![CDATA[Bailey to N O'Brien, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, 2 runs]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Bailey to Tom Wells, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Bailey to Tom Wells, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Bailey to Tom Wells, no run]]></line><line><![CDATA[<b>Tom Wells, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Bailey to Ben Raine, <b>out</b> Bowled!! <b>Ben Raine b Bailey 0(2)</b>]]></line><line><![CDATA[Bailey to Ben Raine, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Bailey to Ben Raine, no run]]></line><line><![CDATA[<b>Ben Raine, left handed bat, comes to the crease</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Bailey to Robson, <b>out</b> Caught by Steven Croft!! <b>Robson c Steven Croft b Bailey 4(32) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Bailey to Robson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jarvis to Robson, leg byes, 1 run]]></line><line><![CDATA[<b>Niall O'Brien, left handed bat, comes to the crease</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jarvis to Pinner, <b>out</b> Caught by Kerrigan!! <b>Pinner c Kerrigan b Jarvis 0(6)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jarvis to Pinner, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jarvis to Pinner, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jarvis to Pinner, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jarvis to Pinner, byes, <b>FOUR</b>]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jarvis to Pinner, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jarvis to Pinner, no run]]></line><line><![CDATA[<b>Neil Pinner, right handed bat, comes to the crease</b>]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, <b>out</b> Caught by Alex Davies!! <b>Cosgrove c Alex Davies b Jarvis 1(2)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jarvis to Cosgrove, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, 1 run]]></line><line><![CDATA[<b>Mark Cosgrove, left handed bat, comes to the crease</b>]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, <b>out</b> Bowled!! <b>N Eckersley b Bailey 0(5)</b>]]></line><line><![CDATA[Bailey to N Eckersley, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><line><![CDATA[<b>Ned Eckersley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>out</b> Caught by Horton!! <b>Hill c Horton b Bailey 10(24) [4s-1]</b>]]></line><line><![CDATA[Bailey to Hill, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Jarvis to Hill, 1 run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Bailey to Robson, <b>FOUR</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Bailey to Robson, leg byes, <b>FOUR</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Jarvis to Hill, 2 runs]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Jarvis to Robson, byes, 1 run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Jarvis to Hill, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Jarvis, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Bailey to Hill, 3 runs]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hill and Robson are at the crease. Hill is on strike. Bailey will open the attack</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Tom Wells to Prince, 1 run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, 1 run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Tom Wells to Prince, 1 run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Tom Wells to Prince, <b>FOUR</b>]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Tom Wells to Prince, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;McKay to J Clark, <b>FOUR</b>]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Clint McKay [14.0-3-50-2] is back into the attack</b>]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, 1 run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, 2 runs]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Wells [2.0-0-8-0] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Shreck to Prince, <b>FOUR</b>]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Shreck to J Clark, 1 run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Shreck to J Clark, 2 runs]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;McKay to J Clark, 1 run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[<b>Jordan Clark, right handed bat, comes to the crease</b>]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;McKay to Alex Davies, <b>out</b> Caught by Cosgrove!! <b>Alex Davies c Cosgrove b McKay 54(57) [4s-6]</b>]]></line><line><![CDATA[McKay to Alex Davies, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 1 run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;McKay to Alex Davies, 1 run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;McKay to Alex Davies, 2 runs]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;McKay to Alex Davies, <b>FOUR</b>, the partnership between Alex Davies and Prince is now]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;McKay to Prince, 1 run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;McKay to Alex Davies, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 1 run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 2 runs]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 2 runs]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, <b>wide</b>]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;McKay to Prince, 2 runs]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;McKay to Alex Davies, 1 run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;McKay to Prince, 1 run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;McKay to Alex Davies, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;McKay to Prince, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Clint McKay [11.0-3-32-1] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Shreck to Prince, leg byes, 1 run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Shreck to Prince, <b>FOUR</b>]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Shreck to Prince, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Tom Wells to Alex Davies, <b>FOUR</b>]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Tom Wells to Alex Davies, 2 runs]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Tom Wells to Alex Davies, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Tom Wells to Alex Davies, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Tom Wells to Alex Davies, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Tom Wells to Prince, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, leg byes, 1 run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Tom Wells to Alex Davies, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Wells, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Shreck to Prince, 2 runs]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Rob Taylor to Alex Davies, 2 runs]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Rob Taylor to Alex Davies, <b>FOUR</b>]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Rob Taylor to Alex Davies, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, 1 run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, <b>FOUR</b>]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, 3 runs]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charlie Shreck [6.0-1-18-1] is back into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Rob Taylor to Alex Davies, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Rob Taylor to Alex Davies, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Rob Taylor to Alex Davies, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, 1 run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, <b>FOUR</b>]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, <b>FOUR</b>]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, 2 runs]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, <b>FOUR</b>]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Rob Taylor to Prince, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Taylor, comes into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, 3 runs]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;McKay to Prince, 1 run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, byes, <b>FOUR</b>]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, 1 run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Ben Raine to Alex Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;McKay to Alex Davies, 3 runs]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;McKay to Alex Davies, no run]]></line><line><![CDATA[<b>Alex Davies, right handed bat, comes to the crease</b>]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;McKay to Steven Croft, <b>out</b> Lbw!! <b>Steven Croft lbw b McKay 1(7)</b>]]></line><line><![CDATA[McKay to Steven Croft, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Croft, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, <b>out</b> Lbw!! <b>A Petersen lbw b Ben Raine 34(54) [4s-6]</b>]]></line><line><![CDATA[Ben Raine to A Petersen, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;McKay to Prince, 2 runs]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;McKay to A Petersen, 1 run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;McKay to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;McKay to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;McKay to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 2 runs]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;McKay to Prince, 1 run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 3 runs]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Raine [2.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;McKay to Prince, 3 runs]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Shreck to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Shreck to Prince, 2 runs]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Ben Raine to A Petersen, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Raine, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Shreck to A Petersen, 2 runs]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[<b>Ashwell Prince, left handed bat, comes to the crease</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, <b>out</b> Caught by N O'Brien!! <b>Karl Brown c N O'Brien b Shreck 8(16) [4s-2]</b>]]></line><line><![CDATA[Shreck to Karl Brown, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Shreck to A Petersen, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Shreck to A Petersen, 2 runs]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Shreck to A Petersen, no run]]></line><line><![CDATA[<b>Alviro Petersen, right handed bat, comes to the crease</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>out</b> Horton Run Out!! <b>Horton run out (Cosgrove) 7(10) [4s-1]</b>]]></line><line><![CDATA[Shreck to Horton, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;McKay to Karl Brown, <b>FOUR</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;McKay to Karl Brown, <b>FOUR</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;McKay to Karl Brown, leg byes, <b>FOUR</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>FOUR</b>]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Shreck to Horton, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charlie Shreck, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;McKay to Horton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Horton and Karl Brown are at the crease. Horton is on strike. McKay will open the attack</b>]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Jarvis to Shreck, <b>out</b> Lbw!! <b>Shreck lbw b Jarvis 2(5)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jarvis to Shreck, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, 2 runs]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Buck to Shreck, 1 run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Buck to Shreck, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Jarvis to Rob Taylor, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Jarvis to Rob Taylor, no run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Jarvis to Rob Taylor, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Jarvis to Shreck, 1 run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Jarvis to Shreck, no run]]></line><line><![CDATA[<b>Charlie Shreck, right handed bat, comes to the crease</b>]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Jarvis to McKay, <b>out</b> Caught by Alex Davies!! <b>McKay c Alex Davies b Jarvis 26(33) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jarvis to McKay, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Buck to Rob Taylor, no run]]></line><line><![CDATA[<b>Rob Taylor, left handed bat, comes to the crease</b>]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, <b>out</b> Lbw!! <b>Cosgrove lbw b Buck 79(138) [4s-9]</b>]]></line><line><![CDATA[Buck to Cosgrove, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Jarvis to McKay, 3 runs]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Jarvis to McKay, 1 run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Buck to McKay, 1 run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Jarvis to McKay, <b>FOUR</b>]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Jarvis to McKay, 1 run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Buck to McKay, leg byes, <b>FOUR</b>]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Buck to McKay, 1 run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Jarvis to McKay, 1 run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Jarvis to McKay, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Jarvis to McKay, <b>FOUR</b>]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Jarvis to McKay, <b>FOUR</b>]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Buck to McKay, 2 runs]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Buck to McKay, <b>FOUR</b>]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Buck to McKay, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Clint McKay, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, <b>out</b> Lbw!! <b>Tom Wells lbw b Jarvis 7(12) [4s-1]</b>]]></line><line><![CDATA[Jarvis to Tom Wells, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, byes, 1 run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Buck to Tom Wells, <b>FOUR</b>]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 2 runs]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Jarvis to Tom Wells, 3 runs]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Jarvis [12.0-2-35-2] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Buck to Tom Wells, no run]]></line><line><![CDATA[<b>Tom Wells, right handed bat, comes to the crease</b>]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Buck to Ben Raine, <b>out</b> Bowled!! <b>Ben Raine b Buck 15(28) [4s-2]</b>]]></line><line><![CDATA[Buck to Ben Raine, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Buck to Ben Raine, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Buck to Ben Raine, 2 runs]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Buck to Ben Raine, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Kerrigan to Ben Raine, 1 run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Kerrigan to Ben Raine, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Kerrigan to Ben Raine, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Kerrigan to Cosgrove, 1 run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Kerrigan to Cosgrove, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Kerrigan to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Simon Kerrigan, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Buck to Cosgrove, leg byes, 1 run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 2 runs]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nathan Buck [7.0-0-36-1] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, <b>FOUR</b>]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, 1 run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, 1 run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Jarvis to Ben Raine, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, <b>FOUR</b>]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Jarvis to Ben Raine, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, 1 run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, <b>5 wides</b>]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Jarvis to Ben Raine, 1 run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Jarvis to Ben Raine, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;J Clark to Ben Raine, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jordan Clark [7.0-2-24-1] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, <b>FOUR</b>]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, byes, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Bailey to Ben Raine, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Bailey to Ben Raine, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, 1 run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Bailey to Ben Raine, 1 run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Bailey to Ben Raine, <b>no ball</b>]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Jarvis to Ben Raine, no run]]></line><line><![CDATA[<b>Ben Raine, left handed bat, comes to the crease</b>]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Jarvis to N O'Brien, <b>out</b> Caught by Alex Davies!! <b>N O'Brien c Alex Davies b Jarvis 22(44) [4s-4]</b>]]></line><line><![CDATA[Jarvis to N O'Brien, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Jarvis [7.0-2-23-1] is back into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, <b>no ball</b>]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Buck to N O'Brien, 1 run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Buck to Cosgrove, <b>FOUR</b>]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Bailey to N O'Brien, <b>FOUR</b>]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Bailey [6.0-0-39-1] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Buck to N O'Brien, <b>FOUR</b>]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Buck to N O'Brien, <b>FOUR</b>]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, 1 run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, 1 run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, 3 runs]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, 1 run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Buck to Cosgrove, <b>FOUR</b>]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Buck to Cosgrove, <b>FOUR</b>]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, <b>FOUR</b>]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Buck to N O'Brien, 1 run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, 1 run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;J Clark to N O'Brien, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, 1 run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Buck to N O'Brien, 1 run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, leg byes, <b>FOUR</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Buck to N O'Brien, leg byes, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Buck to N O'Brien, no run]]></line><line><![CDATA[<b>Niall O'Brien, left handed bat, comes to the crease</b>]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Buck to Pinner, <b>out</b> Caught by Steven Croft!! <b>Pinner c Steven Croft b Buck 0(7)</b>]]></line><line><![CDATA[Buck to Pinner, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Buck to Cosgrove, 1 run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Buck to Cosgrove, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Buck to Cosgrove, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nathan Buck, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;J Clark to Pinner, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;J Clark to Pinner, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;J Clark to Pinner, <b>5 wides</b>]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;J Clark to Pinner, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;J Clark to Pinner, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;J Clark to Pinner, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;J Clark to Pinner, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Neil Pinner, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;J Clark to Hill, <b>out</b> Caught by Alex Davies!! <b>Hill c Alex Davies b J Clark 25(38) [4s-4]</b>]]></line><line><![CDATA[J Clark to Hill, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;J Clark to Hill, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;J Clark to Hill, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;J Clark to Hill, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, <b>5 wides</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;J Clark to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jordan Clark, comes into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jarvis to Hill, <b>FOUR</b>]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jarvis to Hill, 2 runs]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, <b>no ball</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jarvis to Hill, <b>FOUR</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jarvis to Cosgrove, 1 run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jarvis to Hill, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, <b>FOUR</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Bailey to Cosgrove, no run]]></line><line><![CDATA[<b>Mark Cosgrove, left handed bat, comes to the crease</b>]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, <b>out</b> Bowled!! <b>N Eckersley b Bailey 13(26) [4s-1]</b>]]></line><line><![CDATA[Bailey to N Eckersley, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, <b>no ball</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, 3 runs]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>FOUR</b>]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>no ball</b>]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>no ball</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Jarvis to Hill, 3 runs]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Jarvis to Hill, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, <b>no ball</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, <b>no ball</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Bailey to N Eckersley, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Bailey to Hill, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Bailey to Hill, <b>FOUR</b>]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Jarvis to N Eckersley, no run]]></line><line><![CDATA[<b>Ned Eckersley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Jarvis to Robson, <b>out</b> Caught by Karl Brown!! <b>Robson c Karl Brown b Jarvis 5(7) [4s-1]</b>]]></line><line><![CDATA[Jarvis to Robson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Jarvis to Robson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Jarvis, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Bailey to Hill, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Bailey to Robson, 1 run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Bailey to Robson, <b>FOUR</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Bailey to Robson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Robson and Hill are at the crease. Robson is on strike. Bailey will open the attack</b>]]></line><line><![CDATA[98.4&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, <b>out</b> Caught by Rob Taylor!! <b>Steven Croft c Rob Taylor b Ben Raine 102(156) [4s-13]</b>]]></line><line><![CDATA[Ben Raine to Steven Croft, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[98.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[98.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[98.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[97.6&nbsp;&nbsp;&nbsp;Shreck to Jarvis, no run]]></line><line><![CDATA[97.5&nbsp;&nbsp;&nbsp;Shreck to Jarvis, no run]]></line><line><![CDATA[97.4&nbsp;&nbsp;&nbsp;Shreck to Jarvis, <b>FOUR</b>]]></line><line><![CDATA[97.3&nbsp;&nbsp;&nbsp;Shreck to Jarvis, no run]]></line><line><![CDATA[97.2&nbsp;&nbsp;&nbsp;Shreck to Jarvis, <b>FOUR</b>]]></line><line><![CDATA[97.1&nbsp;&nbsp;&nbsp;Shreck to Jarvis, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[96.6&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[96.5&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[96.4&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[96.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[96.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[96.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[95.6&nbsp;&nbsp;&nbsp;Shreck to Jarvis, no run]]></line><line><![CDATA[95.5&nbsp;&nbsp;&nbsp;Shreck to Jarvis, no run]]></line><line><![CDATA[95.4&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, <b>out</b> Caught by N Eckersley!! <b>Kerrigan c N Eckersley b Shreck 2(24)</b>]]></line><line><![CDATA[Shreck to Kerrigan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[95.3&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[95.2&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[95.1&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[94.6&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, no run]]></line><line><![CDATA[94.5&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, byes, <b>FOUR</b>]]></line><line><![CDATA[94.4&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, no run]]></line><line><![CDATA[94.3&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, no run]]></line><line><![CDATA[94.2&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, no run]]></line><line><![CDATA[94.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[93.6&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[93.5&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[93.4&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[93.3&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[93.2&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[93.1&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[92.6&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[92.5&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 2 runs]]></line><line><![CDATA[92.4&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[92.4&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, <b>no ball</b>]]></line><line><![CDATA[92.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[92.2&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, leg byes, 1 run]]></line><line><![CDATA[92.1&nbsp;&nbsp;&nbsp;Ben Raine to Kerrigan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Raine [17.0-5-29-0] is back into the attack</b>]]></line><line><![CDATA[91.6&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[91.5&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[91.4&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[91.3&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[91.2&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[91.1&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[90.6&nbsp;&nbsp;&nbsp;McKay to Kerrigan, no run]]></line><line><![CDATA[90.5&nbsp;&nbsp;&nbsp;McKay to Kerrigan, no run]]></line><line><![CDATA[90.4&nbsp;&nbsp;&nbsp;McKay to Kerrigan, no run]]></line><line><![CDATA[90.3&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 1 run]]></line><line><![CDATA[90.2&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[90.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[89.6&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, 2 runs]]></line><line><![CDATA[89.5&nbsp;&nbsp;&nbsp;Shreck to Kerrigan, no run]]></line><line><![CDATA[89.4&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, 1 run]]></line><line><![CDATA[89.3&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[89.2&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[89.1&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[88.6&nbsp;&nbsp;&nbsp;McKay to Kerrigan, no run]]></line><line><![CDATA[88.5&nbsp;&nbsp;&nbsp;McKay to Kerrigan, no run]]></line><line><![CDATA[88.4&nbsp;&nbsp;&nbsp;McKay to Kerrigan, no run]]></line><line><![CDATA[<b>Simon Kerrigan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[88.3&nbsp;&nbsp;&nbsp;McKay to Buck, <b>out</b> Caught by Robson!! <b>Buck c Robson b McKay 25(60) [4s-6]</b>]]></line><line><![CDATA[McKay to Buck, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[88.2&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[88.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[87.6&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[87.5&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[87.4&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[87.3&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, 1 run]]></line><line><![CDATA[87.2&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, 2 runs]]></line><line><![CDATA[87.1&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[86.6&nbsp;&nbsp;&nbsp;McKay to Buck, <b>FOUR</b>]]></line><line><![CDATA[86.5&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[86.4&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[86.3&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 1 run]]></line><line><![CDATA[86.2&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[86.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[85.6&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[85.5&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[85.4&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, 1 run]]></line><line><![CDATA[85.3&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[85.2&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[85.1&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[84.6&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[84.5&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[84.4&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[84.3&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[84.2&nbsp;&nbsp;&nbsp;McKay to Buck, no run]]></line><line><![CDATA[84.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[83.6&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[83.5&nbsp;&nbsp;&nbsp;Shreck to Buck, <b>FOUR</b>]]></line><line><![CDATA[83.4&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[83.3&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[83.2&nbsp;&nbsp;&nbsp;Shreck to Buck, <b>FOUR</b>]]></line><line><![CDATA[83.1&nbsp;&nbsp;&nbsp;Shreck to Buck, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[82.6&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[82.5&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[82.4&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[82.3&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[82.2&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[82.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[81.6&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[81.5&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[81.4&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[81.3&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[81.2&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><line><![CDATA[81.1&nbsp;&nbsp;&nbsp;Shreck to Buck, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charlie Shreck [18.0-5-66-2] is back into the attack</b>]]></line><line><![CDATA[80.6&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[80.5&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[80.4&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 2 runs]]></line><line><![CDATA[80.3&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[80.2&nbsp;&nbsp;&nbsp;McKay to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[80.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[79.6&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[79.5&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[79.4&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[79.3&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[79.2&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[79.1&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[78.6&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><line><![CDATA[78.5&nbsp;&nbsp;&nbsp;Ben Raine to Buck, 1 run]]></line><line><![CDATA[78.4&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[78.3&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[78.2&nbsp;&nbsp;&nbsp;Ben Raine to Buck, leg byes, <b>FOUR</b>]]></line><line><![CDATA[78.1&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[77.6&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[77.5&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[77.4&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 2 runs]]></line><line><![CDATA[77.3&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[77.2&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[77.1&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Wells [13.0-1-61-3] is back into the attack</b>]]></line><line><![CDATA[76.6&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[76.5&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[76.4&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[76.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><line><![CDATA[76.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[76.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[75.6&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[75.5&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[75.4&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[75.3&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, <b>FOUR</b>]]></line><line><![CDATA[75.2&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Ben Raine to Buck, no run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Raine [14.0-5-25-0] is back into the attack</b>]]></line><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, <b>FOUR</b>]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, leg byes, <b>FOUR</b>]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 1 run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Rob Taylor to Buck, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, leg byes, 1 run]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 2 runs]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, byes, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Tom Wells to Buck, no run]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 1 run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nathan Buck, right handed bat, comes to the crease</b>]]></line><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Rob Taylor to Bailey, <b>out</b> Bowled!! <b>Bailey b Rob Taylor 2(13)</b>]]></line><line><![CDATA[Rob Taylor to Bailey, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Rob Taylor to Bailey, no run]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Rob Taylor to Bailey, no run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 1 run]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Rob Taylor to Bailey, 1 run]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 2 runs]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Taylor [4.0-0-13-0] is back into the attack</b>]]></line><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 1 run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, 1 run]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Tom Wells to Bailey, no run]]></line><line><![CDATA[<b>Tom Bailey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, <b>out</b> Caught by N O'Brien!! <b>J Clark c N O'Brien b Tom Wells 44(48) [4s-8]</b>]]></line><line><![CDATA[Tom Wells to J Clark, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Tom Wells to J Clark, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 2 runs]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Ben Raine to J Clark, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Ben Raine to J Clark, 1 run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, 1 run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Ben Raine to Steven Croft, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Ben Raine to J Clark, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Raine [12.0-4-21-0] is back into the attack</b>]]></line><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 2 runs]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Rob Taylor to J Clark, byes, 1 run]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Rob Taylor to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;Cosgrove to Steven Croft, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;Cosgrove to Steven Croft, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;Cosgrove to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Cosgrove to Steven Croft, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Cosgrove to Steven Croft, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Cosgrove to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Rob Taylor to J Clark, 1 run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Rob Taylor to J Clark, no run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, 1 run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Cosgrove to J Clark, no run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Cosgrove to J Clark, <b>FOUR</b>]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Cosgrove to J Clark, <b>FOUR</b>]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Cosgrove to J Clark, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Cosgrove to J Clark, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Cosgrove to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mark Cosgrove [1.0-0-1-0] is back into the attack</b>]]></line><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Rob Taylor to J Clark, 1 run]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Rob Taylor to J Clark, <b>FOUR</b>]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, leg byes, 1 run]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Rob Taylor to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Taylor, comes into the attack</b>]]></line><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Shreck to J Clark, 2 runs]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Shreck to J Clark, <b>FOUR</b>]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Shreck to J Clark, 2 runs]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Shreck to J Clark, <b>FOUR</b>]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Shreck to J Clark, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;McKay to J Clark, 1 run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;McKay to J Clark, <b>FOUR</b>]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;McKay to J Clark, <b>FOUR</b>]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;McKay to Steven Croft, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;McKay to J Clark, 1 run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Shreck to Steven Croft, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 1 run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;McKay to J Clark, leg byes, 1 run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;McKay to J Clark, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;McKay to Steven Croft, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Clint McKay [14.0-4-36-1] is back into the attack</b>]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, <b>FOUR</b>]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Shreck to J Clark, no run]]></line><line><![CDATA[<b>Jordan Clark, right handed bat, comes to the crease</b>]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, <b>out</b> Caught by N O'Brien!! <b>Alex Davies c N O'Brien b Shreck 0(2)</b>]]></line><line><![CDATA[Shreck to Alex Davies, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Shreck to Alex Davies, no run]]></line><line><![CDATA[<b>Alex Davies, right handed bat, comes to the crease</b>]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Shreck to Prince, <b>out</b> Lbw!! <b>Prince lbw b Shreck 29(81) [4s-5]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Shreck to Prince, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Tom Wells to Steven Croft, no run]]></line><line><![CDATA[<b>Steven Croft, right handed bat, comes to the crease</b>]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Tom Wells to Horton, <b>out</b> Caught by N O'Brien!! <b>Horton c N O'Brien b Tom Wells 70(146) [4s-12]</b>]]></line><line><![CDATA[Tom Wells to Horton, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Tom Wells to Horton, <b>FOUR</b>]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Tom Wells to Prince, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Wells [5.0-0-25-1] is back into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>FOUR</b>]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>FOUR</b>]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;McKay to Prince, byes, <b>FOUR</b>]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>FOUR</b>]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>FOUR</b>]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;McKay to Horton, leg byes, 1 run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;McKay to Horton, <b>FOUR</b>]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Shreck to Prince, <b>FOUR</b>]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charlie Shreck [9.0-1-26-0] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;McKay to Prince, 1 run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, <b>FOUR</b>]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;McKay to Horton, <b>no ball</b>]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;McKay to Horton, <b>FOUR</b>]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;McKay to Horton, <b>FOUR</b>]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;McKay to Prince, 1 run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, byes, <b>FOUR</b>]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;McKay to Prince, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;McKay to Horton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Clint McKay [8.0-2-19-1] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, 1 run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, leg byes, <b>FOUR</b>]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Shreck to Prince, leg byes, <b>FOUR</b>]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Cosgrove to Horton, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Cosgrove to Prince, 1 run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Cosgrove to Prince, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Cosgrove to Prince, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Cosgrove to Prince, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Cosgrove to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mark Cosgrove, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Shreck to Prince, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Shreck to Horton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Shreck to Prince, 1 run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Shreck to Horton, 1 run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charlie Shreck [6.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Ben Raine to Prince, <b>FOUR</b>]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Tom Wells to Horton, <b>FOUR</b>]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Tom Wells to Horton, <b>FOUR</b>]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Tom Wells to Prince, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Ben Raine to Prince, 1 run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Ben Raine to Prince, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Tom Wells to Prince, <b>FOUR</b>]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Tom Wells to Prince, no run]]></line><line><![CDATA[<b>Ashwell Prince, left handed bat, comes to the crease</b>]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, <b>out</b> Caught by N O'Brien!! <b>A Petersen c N O'Brien b Tom Wells 8(18) [4s-1]</b>]]></line><line><![CDATA[Tom Wells to A Petersen, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, 2 runs]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, byes, <b>FOUR</b>]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, 2 runs]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Tom Wells to Horton, 3 runs]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, 1 run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, <b>FOUR</b>]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Tom Wells to Horton, 1 run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Tom Wells to Horton, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Tom Wells to A Petersen, 1 run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Tom Wells to Horton, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Wells, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, 1 run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;McKay to A Petersen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Ben Raine to Horton, <b>no ball</b>]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Ben Raine to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Raine, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[<b>Alviro Petersen, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;McKay to Karl Brown, <b>out</b> Caught by N O'Brien!! <b>Karl Brown c N O'Brien b McKay 21(40) [4s-3]</b>]]></line><line><![CDATA[McKay to Karl Brown, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;McKay to Karl Brown, <b>FOUR</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;McKay to Horton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, 2 runs]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;McKay to Karl Brown, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Shreck to Horton, <b>FOUR</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;McKay to Horton, 3 runs]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, <b>FOUR</b>]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;McKay to Karl Brown, 1 run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Shreck to Horton, 1 run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;McKay to Karl Brown, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;McKay to Horton, 1 run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, <b>FOUR</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;McKay to Karl Brown, 1 run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;McKay to Horton, 1 run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;McKay to Horton, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shreck to Horton, 3 runs]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Shreck to Horton, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Shreck to Karl Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charlie Shreck, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;McKay to Horton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Horton and Karl Brown are at the crease. Horton is on strike. McKay will open the attack</b>]]></line><line><![CDATA[<b>Leicestershire have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Leicestershire</b> (Playing XI): Angus Robson, Lewis Hill, Ned Eckersley, Mark Cosgrove(c), Neil Pinner, Niall O'Brien(w), Ben Raine, Clint McKay, Rob Taylor, Charlie Shreck, Tom Wells]]></line><line><![CDATA[<b>Lancashire</b> (Playing XI): Paul Horton, Karl Brown, Alviro Petersen, Ashwell Prince, Steven Croft(c), Alex Davies(w), Jordan Clark, Tom Bailey, Nathan Buck, Simon Kerrigan, Kyle Jarvis]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Lancashire</b> (From): Glen Chapple, Tom Bailey, Nathan Buck, Jordan Clark, Alex Davies(w), Paul Horton, Simon Kerrigan, Stephen Parry, Luke Procter, Tom Smith(c), Karl Brown, Steven Croft, George Edwards, Gavin Griffiths, Kyle Jarvis, Arron Lilley, Alviro Petersen, Luis Reece, Wayne White, Ashwell Prince, Peter Siddle]]></line><line><![CDATA[<b>Leicestershire</b> (From): Mark Cosgrove(c), Matthew Boyce, Ollie Freckingham, Jigar Naik, Angus Robson, James Sykes, Tom Wells, Alex Wyatt, Ned Eckersley, Clint McKay, Niall O'Brien(w), Charlie Shreck, Rob Taylor, Robbie Williams, Dan Redfern, Neil Pinner, Ben Raine, Atif Sheikh, Lewis Hill]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>368</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>98.4</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Lancashire">
+			<players>
+				<player>
+					<playerid>6706</playerid>
+					<name>Paul Horton</name>
+					<batsman-name>P Horton</batsman-name>
+					<batsman-nickname>Horton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>70</runs>
+					<balls>146</balls>
+					<fours>12</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Wells</bowler>
+					<bowlerId>9340</bowlerId>
+						<fielder>Niall O'Brien</fielder>
+						<fielderId>691</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6703</playerid>
+					<name>Karl Brown</name>
+					<batsman-name>K Brown</batsman-name>
+					<batsman-nickname>Karl Brown</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>21</runs>
+					<balls>40</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>McKay</bowler>
+					<bowlerId>1646</bowlerId>
+						<fielder>Niall O'Brien</fielder>
+						<fielderId>691</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>585</playerid>
+					<name>Alviro Petersen</name>
+					<batsman-name>A Petersen</batsman-name>
+					<batsman-nickname>A Petersen</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>18</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Wells</bowler>
+					<bowlerId>9340</bowlerId>
+						<fielder>Niall O'Brien</fielder>
+						<fielderId>691</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>371</playerid>
+					<name>Ashwell Prince</name>
+					<batsman-name>A Prince</batsman-name>
+					<batsman-nickname>Prince</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>29</runs>
+					<balls>81</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>C Shreck</bowler>
+					<bowlerId>6737</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6705</playerid>
+					<name>Steven Croft</name>
+					<batsman-name>S Croft</batsman-name>
+					<batsman-nickname>Steven Croft</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>102</runs>
+					<balls>156</balls>
+					<fours>13</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ben Raine</bowler>
+					<bowlerId>8384</bowlerId>
+						<fielder>Rob Taylor</fielder>
+						<fielderId>8327</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8499</playerid>
+					<name>Alex Davies</name>
+					<batsman-name>Alex Davies</batsman-name>
+					<batsman-nickname>Alex Davies</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Shreck</bowler>
+					<bowlerId>6737</bowlerId>
+						<fielder>Niall O'Brien</fielder>
+						<fielderId>691</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8013</playerid>
+					<name>Jordan Clark</name>
+					<batsman-name>Jordan Clark</batsman-name>
+					<batsman-nickname>J Clark</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>44</runs>
+					<balls>48</balls>
+					<fours>8</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Wells</bowler>
+					<bowlerId>9340</bowlerId>
+						<fielder>Niall O'Brien</fielder>
+						<fielderId>691</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9334</playerid>
+					<name>Tom Bailey</name>
+					<batsman-name>T Bailey</batsman-name>
+					<batsman-nickname>Bailey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>13</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>R Taylor</bowler>
+					<bowlerId>8327</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6494</playerid>
+					<name>Nathan Buck</name>
+					<batsman-name>N Buck</batsman-name>
+					<batsman-nickname>Buck</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>60</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>McKay</bowler>
+					<bowlerId>1646</bowlerId>
+						<fielder>Angus Robson</fielder>
+						<fielderId>9339</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6723</playerid>
+					<name>Simon Kerrigan</name>
+					<batsman-name>S Kerrigan</batsman-name>
+					<batsman-nickname>Kerrigan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>24</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Shreck</bowler>
+					<bowlerId>6737</bowlerId>
+						<fielder>Ned Eckersley</fielder>
+						<fielderId>8322</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2289</playerid>
+					<name>Kyle Jarvis</name>
+					<batsman-name>K Jarvis</batsman-name>
+					<batsman-nickname>Jarvis</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>8</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6703</playerid>
+				<nbr>1</nbr>
+				<runs>41</runs>
+				<overs>12.6</overs>
+				<batsman>Karl Brown</batsman>
+				<batsman-name>K Brown</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>585</playerid>
+				<nbr>2</nbr>
+				<runs>63</runs>
+				<overs>20.4</overs>
+				<batsman>Alviro Petersen</batsman>
+				<batsman-name>A Petersen</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6706</playerid>
+				<nbr>3</nbr>
+				<runs>156</runs>
+				<overs>46.5</overs>
+				<batsman>Paul Horton</batsman>
+				<batsman-name>P Horton</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>371</playerid>
+				<nbr>4</nbr>
+				<runs>156</runs>
+				<overs>47.1</overs>
+				<batsman>Ashwell Prince</batsman>
+				<batsman-name>A Prince</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8499</playerid>
+				<nbr>5</nbr>
+				<runs>156</runs>
+				<overs>47.3</overs>
+				<batsman>Alex Davies</batsman>
+				<batsman-name>Alex Davies</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8013</playerid>
+				<nbr>6</nbr>
+				<runs>229</runs>
+				<overs>64.2</overs>
+				<batsman>Jordan Clark</batsman>
+				<batsman-name>Jordan Clark</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9334</playerid>
+				<nbr>7</nbr>
+				<runs>254</runs>
+				<overs>69.6</overs>
+				<batsman>Tom Bailey</batsman>
+				<batsman-name>T Bailey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6494</playerid>
+				<nbr>8</nbr>
+				<runs>331</runs>
+				<overs>88.3</overs>
+				<batsman>Nathan Buck</batsman>
+				<batsman-name>N Buck</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6723</playerid>
+				<nbr>9</nbr>
+				<runs>356</runs>
+				<overs>95.4</overs>
+				<batsman>Simon Kerrigan</batsman>
+				<batsman-name>S Kerrigan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6705</playerid>
+				<nbr>10</nbr>
+				<runs>368</runs>
+				<overs>98.4</overs>
+				<batsman>Steven Croft</batsman>
+				<batsman-name>S Croft</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>21</byes>
+			<wides>0</wides>
+			<noballs>12</noballs>
+			<legbyes>24</legbyes>
+			<penalty>0</penalty>
+			<total>57</total>
+		</extras>
+		<bowlteam name="Leicestershire">
+			<players>
+				<player>
+					<playerid>1646</playerid>
+					<name>Clint McKay</name>
+					<bowler-name>McKay</bowler-name>
+					<bowler-nickname>McKay</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>23</overs>
+					<maidens>6</maidens>
+					<runsoff>62</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6737</playerid>
+					<name>Charlie Shreck</name>
+					<bowler-name>C Shreck</bowler-name>
+					<bowler-nickname>Shreck</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>27</overs>
+					<maidens>8</maidens>
+					<runsoff>100</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8384</playerid>
+					<name>Ben Raine</name>
+					<bowler-name>Ben Raine</bowler-name>
+					<bowler-nickname>Ben Raine</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>20.4</overs>
+					<maidens>5</maidens>
+					<runsoff>42</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>9340</playerid>
+					<name>Tom Wells</name>
+					<bowler-name>T Wells</bowler-name>
+					<bowler-nickname>Tom Wells</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>1</maidens>
+					<runsoff>68</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>533</playerid>
+					<name>Mark Cosgrove</name>
+					<bowler-name>M Cosgrove</bowler-name>
+					<bowler-nickname>Cosgrove</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8327</playerid>
+					<name>Rob Taylor</name>
+					<bowler-name>R Taylor</bowler-name>
+					<bowler-nickname>Rob Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9339</playerid>
+					<name>Angus Robson</name>
+					<bowler-name>A Robson</bowler-name>
+					<bowler-nickname>Robson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9360</playerid>
+					<name>Lewis Hill</name>
+					<bowler-name>L Hill</bowler-name>
+					<bowler-nickname>Hill</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8322</playerid>
+					<name>Ned Eckersley</name>
+					<bowler-name>N Eckersley</bowler-name>
+					<bowler-nickname>N Eckersley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6688</playerid>
+					<name>Neil Pinner</name>
+					<bowler-name>N Pinner</bowler-name>
+					<bowler-nickname>Pinner</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<bowler-name>N O'Brien</bowler-name>
+					<bowler-nickname>N O'Brien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>249</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>56.1</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Leicestershire">
+			<players>
+				<player>
+					<playerid>9339</playerid>
+					<name>Angus Robson</name>
+					<batsman-name>A Robson</batsman-name>
+					<batsman-nickname>Robson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>7</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder>Karl Brown</fielder>
+						<fielderId>6703</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9360</playerid>
+					<name>Lewis Hill</name>
+					<batsman-name>L Hill</batsman-name>
+					<batsman-nickname>Hill</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>38</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jordan Clark</bowler>
+					<bowlerId>8013</bowlerId>
+						<fielder>Alex Davies</fielder>
+						<fielderId>8499</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8322</playerid>
+					<name>Ned Eckersley</name>
+					<batsman-name>N Eckersley</batsman-name>
+					<batsman-nickname>N Eckersley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>26</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Bailey</bowler>
+					<bowlerId>9334</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>533</playerid>
+					<name>Mark Cosgrove</name>
+					<batsman-name>M Cosgrove</batsman-name>
+					<batsman-nickname>Cosgrove</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>79</runs>
+					<balls>138</balls>
+					<fours>9</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>N Buck</bowler>
+					<bowlerId>6494</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6688</playerid>
+					<name>Neil Pinner</name>
+					<batsman-name>N Pinner</batsman-name>
+					<batsman-nickname>Pinner</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>N Buck</bowler>
+					<bowlerId>6494</bowlerId>
+						<fielder>Steven Croft</fielder>
+						<fielderId>6705</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<batsman-name>N O'Brien</batsman-name>
+					<batsman-nickname>N O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>22</runs>
+					<balls>44</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder>Alex Davies</fielder>
+						<fielderId>8499</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8384</playerid>
+					<name>Ben Raine</name>
+					<batsman-name>Ben Raine</batsman-name>
+					<batsman-nickname>Ben Raine</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>28</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>N Buck</bowler>
+					<bowlerId>6494</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9340</playerid>
+					<name>Tom Wells</name>
+					<batsman-name>T Wells</batsman-name>
+					<batsman-nickname>Tom Wells</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>12</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1646</playerid>
+					<name>Clint McKay</name>
+					<batsman-name>McKay</batsman-name>
+					<batsman-nickname>McKay</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>26</runs>
+					<balls>33</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder>Alex Davies</fielder>
+						<fielderId>8499</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8327</playerid>
+					<name>Rob Taylor</name>
+					<batsman-name>R Taylor</batsman-name>
+					<batsman-nickname>Rob Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6737</playerid>
+					<name>Charlie Shreck</name>
+					<batsman-name>C Shreck</batsman-name>
+					<batsman-nickname>Shreck</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>9339</playerid>
+				<nbr>1</nbr>
+				<runs>5</runs>
+				<overs>1.2</overs>
+				<batsman>Angus Robson</batsman>
+				<batsman-name>A Robson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8322</playerid>
+				<nbr>2</nbr>
+				<runs>44</runs>
+				<overs>8.2</overs>
+				<batsman>Ned Eckersley</batsman>
+				<batsman-name>N Eckersley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9360</playerid>
+				<nbr>3</nbr>
+				<runs>68</runs>
+				<overs>12.6</overs>
+				<batsman>Lewis Hill</batsman>
+				<batsman-name>L Hill</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6688</playerid>
+				<nbr>4</nbr>
+				<runs>78</runs>
+				<overs>15.5</overs>
+				<batsman>Neil Pinner</batsman>
+				<batsman-name>N Pinner</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>691</playerid>
+				<nbr>5</nbr>
+				<runs>137</runs>
+				<overs>29.5</overs>
+				<batsman>Niall O'Brien</batsman>
+				<batsman-name>N O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8384</playerid>
+				<nbr>6</nbr>
+				<runs>188</runs>
+				<overs>41.4</overs>
+				<batsman>Ben Raine</batsman>
+				<batsman-name>Ben Raine</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9340</playerid>
+				<nbr>7</nbr>
+				<runs>203</runs>
+				<overs>44.6</overs>
+				<batsman>Tom Wells</batsman>
+				<batsman-name>T Wells</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>533</playerid>
+				<nbr>8</nbr>
+				<runs>245</runs>
+				<overs>53.4</overs>
+				<batsman>Mark Cosgrove</batsman>
+				<batsman-name>M Cosgrove</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1646</playerid>
+				<nbr>9</nbr>
+				<runs>245</runs>
+				<overs>54.1</overs>
+				<batsman>Clint McKay</batsman>
+				<batsman-name>McKay</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6737</playerid>
+				<nbr>10</nbr>
+				<runs>249</runs>
+				<overs>56.1</overs>
+				<batsman>Charlie Shreck</batsman>
+				<batsman-name>C Shreck</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>6</byes>
+			<wides>16</wides>
+			<noballs>20</noballs>
+			<legbyes>11</legbyes>
+			<penalty>0</penalty>
+			<total>53</total>
+		</extras>
+		<bowlteam name="Lancashire">
+			<players>
+				<player>
+					<playerid>9334</playerid>
+					<name>Tom Bailey</name>
+					<bowler-name>T Bailey</bowler-name>
+					<bowler-nickname>Bailey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>53</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>10</noballs>
+				</player>
+				<player>
+					<playerid>2289</playerid>
+					<name>Kyle Jarvis</name>
+					<bowler-name>K Jarvis</bowler-name>
+					<bowler-nickname>Jarvis</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19.1</overs>
+					<maidens>2</maidens>
+					<runsoff>69</runsoff>
+					<wickets>5</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8013</playerid>
+					<name>Jordan Clark</name>
+					<bowler-name>Jordan Clark</bowler-name>
+					<bowler-nickname>J Clark</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>3</maidens>
+					<runsoff>44</runsoff>
+					<wickets>1</wickets>
+					<wides>16</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6494</playerid>
+					<name>Nathan Buck</name>
+					<bowler-name>N Buck</bowler-name>
+					<bowler-nickname>Buck</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>1</maidens>
+					<runsoff>64</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6723</playerid>
+					<name>Simon Kerrigan</name>
+					<bowler-name>S Kerrigan</bowler-name>
+					<bowler-nickname>Kerrigan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>2</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6706</playerid>
+					<name>Paul Horton</name>
+					<bowler-name>P Horton</bowler-name>
+					<bowler-nickname>Horton</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6703</playerid>
+					<name>Karl Brown</name>
+					<bowler-name>K Brown</bowler-name>
+					<bowler-nickname>Karl Brown</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>585</playerid>
+					<name>Alviro Petersen</name>
+					<bowler-name>A Petersen</bowler-name>
+					<bowler-nickname>A Petersen</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>371</playerid>
+					<name>Ashwell Prince</name>
+					<bowler-name>A Prince</bowler-name>
+					<bowler-nickname>Prince</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6705</playerid>
+					<name>Steven Croft</name>
+					<bowler-name>S Croft</bowler-name>
+					<bowler-nickname>Steven Croft</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8499</playerid>
+					<name>Alex Davies</name>
+					<bowler-name>Alex Davies</bowler-name>
+					<bowler-nickname>Alex Davies</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>203</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>45</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Lancashire">
+			<players>
+				<player>
+					<playerid>6706</playerid>
+					<name>Paul Horton</name>
+					<batsman-name>P Horton</batsman-name>
+					<batsman-nickname>Horton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Mark Cosgrove</fielder>
+						<fielderId>533</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6703</playerid>
+					<name>Karl Brown</name>
+					<batsman-name>K Brown</batsman-name>
+					<batsman-nickname>Karl Brown</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>16</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Shreck</bowler>
+					<bowlerId>6737</bowlerId>
+						<fielder>Niall O'Brien</fielder>
+						<fielderId>691</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>585</playerid>
+					<name>Alviro Petersen</name>
+					<batsman-name>A Petersen</batsman-name>
+					<batsman-nickname>A Petersen</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>34</runs>
+					<balls>54</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Ben Raine</bowler>
+					<bowlerId>8384</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>371</playerid>
+					<name>Ashwell Prince</name>
+					<batsman-name>A Prince</batsman-name>
+					<batsman-nickname>Prince</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>76</runs>
+					<balls>106</balls>
+					<fours>8</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6705</playerid>
+					<name>Steven Croft</name>
+					<batsman-name>S Croft</batsman-name>
+					<batsman-nickname>Steven Croft</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>McKay</bowler>
+					<bowlerId>1646</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8499</playerid>
+					<name>Alex Davies</name>
+					<batsman-name>Alex Davies</batsman-name>
+					<batsman-nickname>Alex Davies</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>54</runs>
+					<balls>57</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>McKay</bowler>
+					<bowlerId>1646</bowlerId>
+						<fielder>Mark Cosgrove</fielder>
+						<fielderId>533</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8013</playerid>
+					<name>Jordan Clark</name>
+					<batsman-name>Jordan Clark</batsman-name>
+					<batsman-nickname>J Clark</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>20</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9334</playerid>
+					<name>Tom Bailey</name>
+					<batsman-name>T Bailey</batsman-name>
+					<batsman-nickname>Bailey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6494</playerid>
+					<name>Nathan Buck</name>
+					<batsman-name>N Buck</batsman-name>
+					<batsman-nickname>Buck</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6723</playerid>
+					<name>Simon Kerrigan</name>
+					<batsman-name>S Kerrigan</batsman-name>
+					<batsman-nickname>Kerrigan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2289</playerid>
+					<name>Kyle Jarvis</name>
+					<batsman-name>K Jarvis</batsman-name>
+					<batsman-nickname>Jarvis</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6706</playerid>
+				<nbr>1</nbr>
+				<runs>19</runs>
+				<overs>3.3</overs>
+				<batsman>Paul Horton</batsman>
+				<batsman-name>P Horton</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6703</playerid>
+				<nbr>2</nbr>
+				<runs>22</runs>
+				<overs>5.5</overs>
+				<batsman>Karl Brown</batsman>
+				<batsman-name>K Brown</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>585</playerid>
+				<nbr>3</nbr>
+				<runs>71</runs>
+				<overs>19.6</overs>
+				<batsman>Alviro Petersen</batsman>
+				<batsman-name>A Petersen</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6705</playerid>
+				<nbr>4</nbr>
+				<runs>72</runs>
+				<overs>22.2</overs>
+				<batsman>Steven Croft</batsman>
+				<batsman-name>S Croft</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8499</playerid>
+				<nbr>5</nbr>
+				<runs>179</runs>
+				<overs>40.3</overs>
+				<batsman>Alex Davies</batsman>
+				<batsman-name>Alex Davies</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>11</total>
+		</extras>
+		<bowlteam name="Leicestershire">
+			<players>
+				<player>
+					<playerid>1646</playerid>
+					<name>Clint McKay</name>
+					<bowler-name>McKay</bowler-name>
+					<bowler-nickname>McKay</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>3</maidens>
+					<runsoff>54</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6737</playerid>
+					<name>Charlie Shreck</name>
+					<bowler-name>C Shreck</bowler-name>
+					<bowler-nickname>Shreck</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>1</maidens>
+					<runsoff>56</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8384</playerid>
+					<name>Ben Raine</name>
+					<bowler-name>Ben Raine</bowler-name>
+					<bowler-nickname>Ben Raine</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>37</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8327</playerid>
+					<name>Rob Taylor</name>
+					<bowler-name>R Taylor</bowler-name>
+					<bowler-nickname>Rob Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9340</playerid>
+					<name>Tom Wells</name>
+					<bowler-name>T Wells</bowler-name>
+					<bowler-nickname>Tom Wells</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>20</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9339</playerid>
+					<name>Angus Robson</name>
+					<bowler-name>A Robson</bowler-name>
+					<bowler-nickname>Robson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9360</playerid>
+					<name>Lewis Hill</name>
+					<bowler-name>L Hill</bowler-name>
+					<bowler-nickname>Hill</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8322</playerid>
+					<name>Ned Eckersley</name>
+					<bowler-name>N Eckersley</bowler-name>
+					<bowler-nickname>N Eckersley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>533</playerid>
+					<name>Mark Cosgrove</name>
+					<bowler-name>M Cosgrove</bowler-name>
+					<bowler-nickname>Cosgrove</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6688</playerid>
+					<name>Neil Pinner</name>
+					<bowler-name>N Pinner</bowler-name>
+					<bowler-nickname>Pinner</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<bowler-name>N O'Brien</bowler-name>
+					<bowler-nickname>N O'Brien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="4">
+		<totalruns>78</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>30.3</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Leicestershire">
+			<players>
+				<player>
+					<playerid>9360</playerid>
+					<name>Lewis Hill</name>
+					<batsman-name>L Hill</batsman-name>
+					<batsman-nickname>Hill</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>24</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Bailey</bowler>
+					<bowlerId>9334</bowlerId>
+						<fielder>Paul Horton</fielder>
+						<fielderId>6706</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9339</playerid>
+					<name>Angus Robson</name>
+					<batsman-name>A Robson</batsman-name>
+					<batsman-nickname>Robson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>32</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Bailey</bowler>
+					<bowlerId>9334</bowlerId>
+						<fielder>Steven Croft</fielder>
+						<fielderId>6705</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8322</playerid>
+					<name>Ned Eckersley</name>
+					<batsman-name>N Eckersley</batsman-name>
+					<batsman-nickname>N Eckersley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Bailey</bowler>
+					<bowlerId>9334</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>533</playerid>
+					<name>Mark Cosgrove</name>
+					<batsman-name>M Cosgrove</batsman-name>
+					<batsman-nickname>Cosgrove</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder>Alex Davies</fielder>
+						<fielderId>8499</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6688</playerid>
+					<name>Neil Pinner</name>
+					<batsman-name>N Pinner</batsman-name>
+					<batsman-nickname>Pinner</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Jarvis</bowler>
+					<bowlerId>2289</bowlerId>
+						<fielder>Simon Kerrigan</fielder>
+						<fielderId>6723</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<batsman-name>N O'Brien</batsman-name>
+					<batsman-nickname>N O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>3</runs>
+					<balls>12</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Bailey</bowler>
+					<bowlerId>9334</bowlerId>
+						<fielder>Steven Croft</fielder>
+						<fielderId>6705</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8384</playerid>
+					<name>Ben Raine</name>
+					<batsman-name>Ben Raine</batsman-name>
+					<batsman-nickname>Ben Raine</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Bailey</bowler>
+					<bowlerId>9334</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9340</playerid>
+					<name>Tom Wells</name>
+					<batsman-name>T Wells</batsman-name>
+					<batsman-nickname>Tom Wells</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>25</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Jordan Clark</bowler>
+					<bowlerId>8013</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1646</playerid>
+					<name>Clint McKay</name>
+					<batsman-name>McKay</batsman-name>
+					<batsman-nickname>McKay</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>35</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>N Buck</bowler>
+					<bowlerId>6494</bowlerId>
+						<fielder>Alex Davies</fielder>
+						<fielderId>8499</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8327</playerid>
+					<name>Rob Taylor</name>
+					<batsman-name>R Taylor</batsman-name>
+					<batsman-nickname>Rob Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>36</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6737</playerid>
+					<name>Charlie Shreck</name>
+					<batsman-name>C Shreck</batsman-name>
+					<batsman-nickname>Shreck</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>N Buck</bowler>
+					<bowlerId>6494</bowlerId>
+						<fielder>Ashwell Prince</fielder>
+						<fielderId>371</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>9360</playerid>
+				<nbr>1</nbr>
+				<runs>20</runs>
+				<overs>6.4</overs>
+				<batsman>Lewis Hill</batsman>
+				<batsman-name>L Hill</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8322</playerid>
+				<nbr>2</nbr>
+				<runs>20</runs>
+				<overs>8.3</overs>
+				<batsman>Ned Eckersley</batsman>
+				<batsman-name>N Eckersley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>533</playerid>
+				<nbr>3</nbr>
+				<runs>21</runs>
+				<overs>9.1</overs>
+				<batsman>Mark Cosgrove</batsman>
+				<batsman-name>M Cosgrove</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6688</playerid>
+				<nbr>4</nbr>
+				<runs>25</runs>
+				<overs>11.1</overs>
+				<batsman>Neil Pinner</batsman>
+				<batsman-name>N Pinner</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9339</playerid>
+				<nbr>5</nbr>
+				<runs>26</runs>
+				<overs>12.1</overs>
+				<batsman>Angus Robson</batsman>
+				<batsman-name>A Robson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8384</playerid>
+				<nbr>6</nbr>
+				<runs>26</runs>
+				<overs>12.3</overs>
+				<batsman>Ben Raine</batsman>
+				<batsman-name>Ben Raine</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>691</playerid>
+				<nbr>7</nbr>
+				<runs>29</runs>
+				<overs>14.2</overs>
+				<batsman>Niall O'Brien</batsman>
+				<batsman-name>N O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9340</playerid>
+				<nbr>8</nbr>
+				<runs>41</runs>
+				<overs>21.3</overs>
+				<batsman>Tom Wells</batsman>
+				<batsman-name>T Wells</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1646</playerid>
+				<nbr>9</nbr>
+				<runs>65</runs>
+				<overs>26.1</overs>
+				<batsman>Clint McKay</batsman>
+				<batsman-name>McKay</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6737</playerid>
+				<nbr>10</nbr>
+				<runs>78</runs>
+				<overs>30.3</overs>
+				<batsman>Charlie Shreck</batsman>
+				<batsman-name>C Shreck</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>9</byes>
+			<wides>0</wides>
+			<noballs>2</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>17</total>
+		</extras>
+		<bowlteam name="Lancashire">
+			<players>
+				<player>
+					<playerid>9334</playerid>
+					<name>Tom Bailey</name>
+					<bowler-name>T Bailey</bowler-name>
+					<bowler-nickname>Bailey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>5</maidens>
+					<runsoff>12</runsoff>
+					<wickets>5</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2289</playerid>
+					<name>Kyle Jarvis</name>
+					<bowler-name>K Jarvis</bowler-name>
+					<bowler-nickname>Jarvis</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>5</maidens>
+					<runsoff>10</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6494</playerid>
+					<name>Nathan Buck</name>
+					<bowler-name>N Buck</bowler-name>
+					<bowler-nickname>Buck</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6.3</overs>
+					<maidens>0</maidens>
+					<runsoff>22</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8013</playerid>
+					<name>Jordan Clark</name>
+					<bowler-name>Jordan Clark</bowler-name>
+					<bowler-nickname>J Clark</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>2</maidens>
+					<runsoff>19</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6706</playerid>
+					<name>Paul Horton</name>
+					<bowler-name>P Horton</bowler-name>
+					<bowler-nickname>Horton</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6703</playerid>
+					<name>Karl Brown</name>
+					<bowler-name>K Brown</bowler-name>
+					<bowler-nickname>Karl Brown</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>585</playerid>
+					<name>Alviro Petersen</name>
+					<bowler-name>A Petersen</bowler-name>
+					<bowler-nickname>A Petersen</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>371</playerid>
+					<name>Ashwell Prince</name>
+					<bowler-name>A Prince</bowler-name>
+					<bowler-nickname>Prince</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6705</playerid>
+					<name>Steven Croft</name>
+					<bowler-name>S Croft</bowler-name>
+					<bowler-nickname>Steven Croft</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8499</playerid>
+					<name>Alex Davies</name>
+					<bowler-name>Alex Davies</bowler-name>
+					<bowler-nickname>Alex Davies</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6723</playerid>
+					<name>Simon Kerrigan</name>
+					<bowler-name>S Kerrigan</bowler-name>
+					<bowler-nickname>Kerrigan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

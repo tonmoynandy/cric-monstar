@@ -1,0 +1,1070 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14641" >
+		<type>T20</type>
+		<gameDesc>48th Match</gameDesc>
+		<series>Indian T20 League 2015</series>
+		<matchday>1</matchday>
+		<home>Hyderabad</home>
+		<away>Punjab</away>
+		<teamsabbr>HYD vs MOH</teamsabbr>
+		<homeabbr>HYD</homeabbr>
+		<awayabbr>MOH</awayabbr>
+		<homeId>255</homeId>
+		<awayId>65</awayId>
+		<venue>Rajiv Gandhi International Stadium, Hyderabad</venue>
+		<startdate>11 05 2015</startdate>
+		<enddate>11 05 2015</enddate>
+		<toss>
+			<winner>Hyderabad</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Hyderabad won by 5 runs</status>
+		<result type="win">
+			<winningteam>Hyderabad</winningteam>
+			<wonbyruns>5</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Kumar Dharmasena</Name>
+			<Country>SL</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Anil Chaudhary</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Krishnamachari Srinivasan</Name>
+			<Country>Ind</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Roshan Mahanama</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>14:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150511180113</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>MOH</batteamname>
+		<bwlteamname>HYD</bwlteamname>
+		<batteamruns>180</batteamruns>
+		<batteamwkts>7</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Hyderabad won by 5 runs</status>
+		<batsman>
+			<playerid>9490</playerid>
+			<name>Beuran Hendricks*</name>
+			<batsman-name>B Hendricks</batsman-name>
+			<batsman-nickname>Beuran Hendricks</batsman-nickname>
+			<runs>0</runs>
+			<balls-faced>0</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>6349</playerid>
+			<name>David Miller</name>
+			<batsman-name>D Miller</batsman-name>
+			<batsman-nickname>D Miller</batsman-nickname>
+			<runs>89</runs>
+			<balls-faced>44</balls-faced>
+			<fours>2</fours>
+			<sixes>9</sixes>
+		</batsman>
+		<bowler>
+			<playerid>1726</playerid>
+			<name>Bhuvneshwar Kumar*</name>
+			<bowler-name>Bhuvneshwar</bowler-name>
+			<bowler-nickname>Bhuvneshwar</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>34</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>702</playerid>
+			<name>Ishant Sharma</name>
+			<bowler-name>Ishant</bowler-name>
+			<bowler-nickname>Ishant</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>49</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>186</target>
+<lastwicket>
+<playerid>8808</playerid>
+<name>Axar Patel</name>
+<player-runs>15</player-runs>
+<player-balls>11</player-balls>
+<runs>158</runs>
+<wicket-nbr>7</wicket-nbr>
+<bowlerid>1726</bowlerid>
+<bowlername>Bhuvneshwar</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<prevOvers><![CDATA[1 2 2 2 6 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 1 6 . 6 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 6 2 1 W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 6 . 4 . 6 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_T20_LEAGUE/HYD_MOH_MAY11/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That's it from all of us here. Tomorrow it is Delhi taking on Chennai. DEL are playing for pride while CHN are playing to strengthen their hold at the top. Join us for that game. Until then, take care and Cya!]]></line><line><![CDATA[Below are some of the <b>tweets</b> related to the game...]]></line><line><![CDATA[<b>Anirudh:</b> Moises Henriques so far this IPL: 219 runs @ an average of 43.8 and S/R of 128.82, 9 wickets @ an economy of 6.57.]]></line><line><![CDATA[<b>Freddie Wilde:</b> Ishant Sharma: putting the death in death bowling. #IPL #HYDvPUN #HYD #PUN]]></line><line><![CDATA[<b>Gaurav Kalra:</b> 28 in 6 was too many..even for ishant.. #HYDvPUN]]></line><line><![CDATA[<b>Sarang Bhalerao:</b> Stellar effort from David Miller. Quality hitting! #PUN fall short yet again. This is not their season.]]></line><line><![CDATA[<b>Harsha Bhogle:</b> 28 to defend, one over, international bowler bowling and everyone in the #HYD dugout looked tense! As it turned out, with good reason!]]></line><line><![CDATA[<b>Warner:</b> "That's one out of the three we needed to win. We were critical with the way we bowled against RAJ. If there is one guy you don't want to bowl at the death, it is David Miller. Credit to Moises (Henriques) for coming in and picking up 3 wickets. If we had stopped David Miller, 160 was a par score. It is a par score on this wicket. The way Morgan and Henriques are playing fearless cricket is good for the team. No, I didn't (when asked if he knew that HYD have won 3 successive games for the first time), but it will be good to make it four in a row now."]]></line><line><![CDATA[<b>David Warner</b> is the <b>Man of the Match</b> for his <b>52-ball 81.</b>]]></line><line><![CDATA[<b>Bailey:</b> "It was extraordinary (on Miller's hitting). It was tantalizing in the end. We just left a bit too much for him (Miller) to do. We have had a lot of positives in the last couple of games. We need to start well with the bat and ball. Can't fault the boys, they are giving it their all."]]></line><line><![CDATA[It was Bipul Sharma, who took the wickets of the openers. Henriques then ripped through the middle-order to put HYD in pole position. Bhuvneshwar Kumar too bowled well in the slog overs. Earlier, it was David Warner, who played a blazing innings to pilot the hosts to a very good total. Shikhar Dhawan and Henriques also essayed decent knocks. With this loss, PUN now have won just two out of 12 matches. ]]></line><line><![CDATA[On the back of Moises Henriques' game-changing spell, HYD won a keenly contested encounter. For the visitors,  David Miller played a flurry of scintillating shots to up the ante, but in the end, they couldn't cross the finish line. Miller, during his thrill-a-minute innings, clobbered as many as nine sixes.  With this win, HYD have 14 points in their kitty, with two matches to go. ]]></line><line><![CDATA[There were some tense faces in the HYD dug-out, but they managed to pull it off. Feel for Miller though, he played a blinder and on most occasions that knock would be a match-winning one, but not today. Ishant goes up to Miller, hugs and consoles him. Good sportsmanship from the HYD bowler. Both teams congratulate each other. HYD with this win, jump up to 3rd in the points table <b>on the basis of more wins than RAJ</b>.]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Ishant to D Miller, <b>SIX</b>, <b>HYD overcome a Miller onslaught to register a 5-run win.</b> Poor over from Ishant. Another full toss just outside off, Miller goes down on his knee, tonks it over long-on for the third six of the over]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Ishant to D Miller, no run, the crowd have started celebrating. It was a low full toss, Miller couldn't get underneath that, mistimes the heave to deep mid-wicket. He still doesn't take the run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Ishant to D Miller, <b>FOUR</b>, well, well, well. Miller is turning it on. Full toss outside off, Miller slashes hard, he gave it his all and the outside edge beat the desperate dive from short third man. Ishant was down on the floor after delivering the ball]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Ishant to D Miller, no run, Ishant gets the yorker right this time, Miller squeezes it to long-off, denies the single]]></line><line><![CDATA[Warner now has a discussion with his bowler]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Ishant to D Miller, <b>SIX</b>, Miller keeping up with the asking rate. Consecutive sixes for him. Full toss outside off, Miller goes off-side, smashes it inside out over extra cover, that went a long way]]></line><line><![CDATA[Bhuvi walks up and has a chat with Ishant. Some tense faces in the HYD dug-out]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Ishant to D Miller, <b>SIX</b>, just the start PUN wanted. Length delivery in the slot, Miller gets his front leg out of the way and hammers it over long-on. It went flat and well over the rope]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Beuran Hendricks, right handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Ishant Sharma [3.0-0-27-0] is back into the attack</b>]]></line><line><![CDATA[<b>28 off the last over.</b> Can Miller pull it off? Who is the bowler for HYD? Ishant bowled the crucial last over against RAJ in the previous game and it is going to be him.]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to A Patel, <b>out</b> Caught by N Ojha!! The orange flags are out once again. Axar perishes after a good knock. Full delivery outside off, Axar shuffles across and tries to scoop it over short fine, gets it off the toe-end and the ball lobs to the right of Ojha, who takes an easy catch. <b>A Patel c N Ojha b Bhuvneshwar 15(11) [4s-2]</b>]]></line><line><![CDATA[Bhuvneshwar to A Patel, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, 1 run, another low full toss, Miller can't get under that, mistimes the heave to deep mid-wicket, just a single this time]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, 2 runs, low full toss on middle, Miller flicks it to deep mid-wicket, calls for two and Axar responds, he had to put in the dive to reach the crease]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, <b>SIX</b>, fantastic hitting! The HYD fans are nervous now. Bhuvi bowls a full length ball on off, Miller bends his knee to get under that, toe-ends the loft over long-off. The ball went over the rope even though it was not middled]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to A Patel, 1 run, full delivery on the stumps, Axar flicks it to deep mid-wicket]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, 1 run, low full toss on the stumps, Miller whips it to deep mid-wicket, he wanted two and had taken a couple of paces down the wicket, Axar sends him back in time, Dhawan fires at the bowler's end and Bhuvi whips the bails off, but Miller made it in with a dive]]></line><end-of-over>end of over</end-of-over><line><![CDATA[So, PUN need 39 runs in 2 overs. Bhuvi to bowl the 19th]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Boult to D Miller, 1 run, short delivery following the batsman, Miller backs away and under-edges the pull, it rolls back to Ojha and Axar calls for the run. 18 off the over.]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Boult to D Miller, <b>SIX</b>, costly over for HYD. The game is not over yet. Boult doesn't get the yorker right, bowls a full toss on the stumps, Miller gets under that and heaves it wide of long-on, got plenty of height and just about clear the rope]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Boult to D Miller, no run, Miller missed out there, it was right in his arc, he went too hard at that and failed to connect]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Boult to D Miller, <b>SIX</b>, drops the slower ball short, there was no one sweeping on the off-side, Miller makes a bit of room and smashes it over cover-point. The ball lands on the ad cushions. So, the six brings up Miller's <b>8th IPL fifty</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Boult to A Patel, 1 run, full and angling into the batsman, Axar drills it to long-on, was in the air but landed well in front of the fielder]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Boult to A Patel, <b>FOUR</b>, good start to the over. Pitched up on the stumps, Axar presents the full face of the bat and lofts it back over Miller's head, no chance for the long-on fielder to stop that]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult [3.0-0-27-1] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, no run, another yorker just outside off, Miller can't lay bat on that]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, <b>SIX</b>, that's out of here. Bhuvneshwar misses the yorker, bowls a length delivery, Miller sends it into the stands over long-on. That was a <b>96 metre</b> six]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, 2 runs, right up there by Bhuvi, Miller clears his front leg and whips it to deep mid-wicket, Dhawan runs to his right, dives and stops the ball, another two taken]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, 2 runs, short delivery that hurries onto the batsman, Miller splices the pull to mid-wicket, the fielder had to run in a long way and the batsmen come back for the second. Axar might have been struggling had Dhawan hit the sticks at the bowler's end]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to D Miller, 2 runs, yorker around off, Miller manages to squirt it off the inside edge to backward square leg, Ishant was slow to get up after sliding and stopping the ball]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to A Patel, 1 run, low full toss outside off, Axar goes for the drive, the ball hits the toe-end and rolls to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bhuvneshwar Kumar [2.0-0-10-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Ishant to A Patel, 1 run, short of length on the hips, Axar whips it down to fine leg]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Ishant to A Patel, <b>FOUR</b>, nice shot! The off-speed delivery on middle, Axar spotted it early, lofts it straight down the ground, it almost went the distance, landed just in front of the ad cushions]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Ishant to A Patel, <b>wide</b>, splays it down leg, Axar stays inside the line and lets it go]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Ishant to D Miller, leg byes, 1 run, Ishant goes up for an lbw appeal, but no way that was out. Full delivery outside leg, Miller clears his front leg and misses the whip, is struck on the back pad]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Ishant to D Miller, no run, slower delivery, off-cutter pitches outside leg and turns in, Miller walks across his sticks and fails to connect, not called a wide as it went over the leg-pole]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Ishant to D Miller, <b>FOUR</b>, poor delivery with the fine leg inside the ring. Short and down leg, Miller swivels and helps it on its way, got it wide of short fine and adds four more to his total]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Ishant to A Patel, 1 run, fullish and on the stumps, Axar nurdles off the inside half to fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ishant Sharma [2.0-0-16-0] is back into the attack</b>]]></line><line><![CDATA[<b>Time-out</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Henriques to A Patel, 1 run, back of a length just outside off, Axar knocks it to mid-off, Warner runs across from extra cover and keeps it to a single]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, good length ball outside off, Miller drives down to long-off]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Henriques to D Miller, no run, takes the pace off the ball, Miller shimmies down the wicket and misses a swing across the line, beaten off the inside edge]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Henriques to D Miller, <b>wide</b>, sprays the slower ball well wide of off, Miller can't reach it, umpire Dharmasena has some excerise]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Henriques to A Patel, 1 run, Axar advances down the wicket, converts it into a fuller length delivery and drives, the outside edge runs down to third man]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Henriques to A Patel, <b>wide</b>, bouncer on the stumps, Axar ducks and the ball sails over it. Bit too high for the umpires liking]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Henriques to A Patel, no run, on a length outside off, Axar goes for the guide down to third man, fails to make the connection]]></line><line><![CDATA[<b>Axar Patel, left handed bat, comes to the crease</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Henriques to Gurkeerat Singh, <b>out</b> Caught by Eoin Morgan!! Third wicket for Henriques. He is on a roll tonight. Once more it is the extra bounce that did the batsman in. Back of a length and on off, Gurkeerat is opened up as he looks to work it into the leg-side, the leading edge pops straight to backward point, Morgan won't drop those. <b>Gurkeerat Singh c Eoin Morgan b Henriques 3(5)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Henriques to Gurkeerat Singh, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Karn Sharma to Gurkeerat Singh, 1 run, quicker and around off, Gurkeerat chops it onto Ojha's pads, the ball deflects to the off-side and the batsmen cross over]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, 1 run, tossed up on middle, Miller nails the sweep straight to the fielder at deep backward square]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, <b>SIX</b>, second six of the over. PUN are in the game till Miller is there. Floated up on the stumps, Miller kneels down and slog sweeps it over deep mid-wicket. Though it was not off the meat, the power of Miller took it over the rope comfortably]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Karn Sharma to Gurkeerat Singh, 1 run, flighted outside off, Gurkeerat comes down the track and pushes it to long-off]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, 1 run, works it with the turn to deep square leg, for a single]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, <b>SIX</b>, lovely shot! Great use of the feet. It was the wrong 'un on middle and leg, Miller dances down the wicket and lofts it handsomely over long-on, cleared the fielder with ease]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, width on offer, Miller slaps it straight to sweeper cover]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Henriques to Gurkeerat Singh, 1 run, effort ball from Henriques, well directed short delivery, right at the batsman, Gurkeerat was surprised by that, he tries to fend it away, the ball thuds into the glove and lobs away wide of the keeper]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Henriques to Gurkeerat Singh, no run, too full and around off, Gurkeerat squeezes it to mid-wicket]]></line><line><![CDATA[<b>Gurkeerat Singh Mann, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Henriques to Bailey, <b>out</b> Caught by Warner!! Henriques wins the battle of the Australians. PUN have lost half their side and slipping to yet another defeat. It was the slower delivery that is dropped short, Bailey wanted to loft it off the back foot over extra cover, doesn't get the power or elevation, offers the simplest of catches to his counterpart. Henriques got a bit of extra bounce and that did Bailey in, hit him high on the bat. <b>Bailey c Warner b Henriques 6(11)</b>]]></line><line><![CDATA[Henriques to Bailey, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, dug in short and just outside off, Miller flat-bats it on the bounce to long-on]]></line><line><![CDATA[Bailey dropped his bat as Henriques was coming onto bowl. Bowler stopped and has a laugh with his Australian mate]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Henriques to Bailey, 1 run, Bailey charges Henriques, works it off the inner part to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, no run, drags the length back, Miller goes for the pull and the ball sneaks past the inside edge. That kept low and was inches away from the leg-stump. Karn thought he had his man]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Karn Sharma to Bailey, 1 run, tossed up on middle and leg, Bailey goes down on one knee and sweeps it to long leg]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, leg byes, 1 run, flighted on leg-stump, Miller kneels down and misses the slog sweep. The ball had pitched outside leg, hence a stifled appeal from the bowler]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Karn Sharma to D Miller, 2 runs, on the leg-stump, nudged away in front of square on the leg-side, split the two fielders in the deep and picked up two]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Karn Sharma to Bailey, 1 run, gets to the pitch of the ball and works it to deep square leg]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Karn Sharma to Bailey, no run, tossed up on middle and leg, Bailey comes down the track and fails to connect with the flick, is struck on the back pad. No appeal for LBW as he was a long way down]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Karn Sharma, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Henriques to Bailey, 1 run, short of length on off, Bailey gets inside the line and nudges it towards mid-wicket, hares across for a quick single]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Henriques to Bailey, no run, on a length around off, the ball hits the seam and hold its line, Bailey goes back to defend, but is beaten comprehensively. No bounce on the wicket though as it goes on the bounce to Ojha]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, banged in short and outside off, Miller gets off his feet and cuts it in the air square of the wicket]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Henriques to Bailey, 1 run, short and just outside off, Bailey pulls it to deep square leg, Bhuvi tidies up]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Henriques to Bailey, no run, back of a length on off, Bailey taps it to the right of the bowler]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, good length just outside off, Miller shuffles across and flicks it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Boult to D Miller, 1 run, short of a length and just outside off, Miller runs it down towards third man for a single]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Boult to Bailey, 1 run, fuller length delivery and well outside off, Bailey goes hard on the drive and gets an inside edge towards mid-on]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Boult to Bailey, no run, overpitched and well outside off, driven crisply but straight to the fielder at extra cover]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Boult to D Miller, 1 run, fuller length delivery and swinging into Miller, flicked away towards deep mid-wicket for a single]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Boult to D Miller, no run, on a good length and just outside off, Miller prods across and defends it towards mid-on]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Boult to D Miller, 2 runs, Miller gets lucky! This was pitched up on middle and shaped away, Miller closed the face of the bat, gets a leading edge that looped through extra cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>George Bailey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Henriques to W Saha, <b>out</b> Caught by Rahul!! That's a superb catch at mid-off and PUN are sliding further! This was pitched up and in that zone outside off, Saha went for the drive, doesn't get hold of the shot and ends up hitting it in the air. Rahul runs forward from mid-off, the ball was always dropping in front of him. He dives, gets his fingers underneath the ball and takes it with his right hand, all the while diving forward. That's a stunning catch, Saha walks off shaking his head. PUN are in big trouble now. <b>W Saha c Rahul b Henriques 5(10)</b>]]></line><line><![CDATA[Henriques to W Saha, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Henriques to W Saha, no run, short of a length and in that channel outside off, Saha looks to pull and missed]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, tad fuller and well outside off, driven towards deep cover for a single]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Henriques to D Miller, no run, another slower ball from Henriques, driven straight to the fielder at extra cover]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Henriques to W Saha, 1 run, the slower short ball from Henriques, Saha jumps down the track and mistimes the pull past square leg]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Henriques to D Miller, 1 run, short of a length and on the stumps, Miller was looking to pull and gets an inside edge, the ball lobs off his chest and loops behind square on the on-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moises Henriques, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Boult to W Saha, no run, nicely bowled by Boult, nearly got a wicket of the extra ball, this one shaped back in after pitching, Saha was nearly cut in half, just about gets his bat down in time and pushes it back towards the bowler]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Boult to W Saha, <b>wide</b>, short of a length and angling across the right-hander, he throws the bat at that and misses, called as a wide. Looked like a harsh call]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Boult to D Miller, 1 run, Boult keeps it very full and just outside off, Miller looks to drive and gets a thick edge through cover, off the mark with a single]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Boult to D Miller, no run, on a good length and just outside off, Miller presses forward and defends it]]></line><line><![CDATA[A slip is in place now]]></line><line><![CDATA[<b>David Miller, left handed bat, comes to the crease</b>]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Boult to Maxwell, <b>out</b> Caught by N Ojha!! Excellent comeback from Boult, he has struck the big blow for HYD. Pace and bounce does Maxwell in, this was short and moved away off the deck, reared onto Maxwell as well. He was in no position as he looked to work it towards the off-side, the outside edge is found and Ojha gleefully holds on. Maxwell walks even before the umpire raised his finger. <b>Maxwell c N Ojha b Boult 11(6) [4s-1 6s-1]</b>]]></line><line><![CDATA[Boult to Maxwell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Boult to Maxwell, <b>FOUR</b>, width on offer from Boult, Maxwell stays behind the line and cracks it in front of square on the off-side. Morgan gets across from sweeper cover, but the ball beats him to the fence]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Boult to W Saha, 1 run, tad fuller and on the off-stump line, driven down towards long-off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult [1.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Bipul Sharma to Maxwell, <b>SIX</b>, that's much better from Maxwell, comes down the track, gets to the pitch of the ball and swings it through the line, clears long-off with ease for his first six]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Bipul Sharma to Maxwell, no run, Maxwell goes for the switch hit and is nearly cleaned up, just went past the off-stump, this was pushed through quicker by Bipul, Maxwell swung and missed]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Bipul Sharma to Maxwell, no run, Bipul Sharma drops one short an just outside off, Maxwell goes hard on the cut and mistimes it towards cover]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Bipul Sharma to W Saha, 1 run, flighted delivery and just outside off, eased down towards long-off for a single]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Bipul Sharma to Maxwell, 1 run, slower and just outside off, dabbed in front of cover-point for a single]]></line><line><![CDATA[<b>Glenn Maxwell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Bipul Sharma to Vohra, <b>out</b> Caught by Bhuvneshwar!! Bipul has two now! Vohra is disappointed but has to walk back to the hut. This was tossed up wider outside off, Vohra was looking to go back over the bowler's head, the slowness of the delivery did him in, he ends up dragging it to long-on. Bhuvneshwar doesn't drop those, PUN have lost both openers now. <b>Vohra c Bhuvneshwar b Bipul Sharma 20(15) [4s-2 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Bipul Sharma to Vohra, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Ishant to Vohra, 1 run, Ishant follows Vohra as he backed away, pushed in front of mid-off for a quick single]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Ishant to W Saha, 1 run, back of a length and on Saha's hips, tucked away behind square on the on-side for a single]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Ishant to W Saha, no run, short of a length and angling back into Saha, he makes room and pushes it in front of cover-point, wants a single and is sent back]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Ishant to Vohra, 1 run, on a good length and just outside off, dabbed in front of cover-point for a quick single. Karn makes a direct hit at the striker's end, but Saha was well in]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Ishant to W Saha, 1 run, short of a good length and shaping away, Saha steers it away towards third man for a single]]></line><line><![CDATA[Dhawan moves to a wide slip fielder]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Ishant to Vohra, 1 run, fuller length delivery and well outside off, Vohra looks to drive and gets a thick edge towards third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Bipul Sharma to W Saha, no run, flighted delivery and just outside off, Saha prods forward and dabs it in front of cover-point]]></line><line><![CDATA[<b>Wriddhiman Saha, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Bipul Sharma to Vijay, <b>out</b> Caught by Dhawan!! Bipul Sharma has struck! This was another lovely piece of bowling, slower and wider outside off, lured Vijay into the drive, it stopped on the batsman, Vijay checked his drive, ends up popping it in the air and to the right of cover. Dhawan gets forward, puts in the dive and holds onto the chance. He is animated, so is the bowler. <b>Vijay c Dhawan b Bipul Sharma 24(18) [4s-4 6s-1]</b>]]></line><line><![CDATA[Bipul Sharma to Vijay, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Bipul Sharma to Vohra, 1 run, slower and just outside off, looked to have stopped on Vohra, he was early in closing the face of the bat, gets a leading edge that pops in between the bowler and the man at cover]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Bipul Sharma to Vohra, no run, tossed up and on the stumps, Vohra made room and was looking to go over long-on, gets an inside edge onto the pads]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Bipul Sharma to Vohra, <b>FOUR</b>, <b>lovely shot</b>, this was tossed up and well outside off, Vohra presses forward, goes inside out over extra cover, one bounce and over the ropes]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Bipul Sharma to Vohra, no run, tossed up and wider outside off, Vohra goes for the flamboyant drive, is beaten on the outside edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bipul Sharma, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Ishant to Vijay, no run, wild swoosh from Vijay, charges down the track and looks to deposit this length ball over mid-wicket, misses by quite a distance]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Ishant to Vijay, <b>FOUR</b>, Vijay is dealing in edges and fours! This was short and just outside off, Vijay was once again late on the pull, gets the top-edge that flies over the keeper and into the fence]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Ishant to Vohra, 1 run, on a good length and well outside off, Vohra goes hard on the drive and gets a thick edge towards Bhuvneshwar at third man]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Ishant to Vohra, <b>SIX</b>, that's some timing from Vohra, too full and on his pads, he gets inside the line and whips it behind square on the on-side, clears the ropes for a maximum]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Ishant to Vohra, no run, tad fuller and on the stumps, Vohra presses across and defends it back towards the bowler]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Ishant to Vohra, no run, Ishant follows Vohra as he charges down the track, he is cramped for room and is hit high on the elbow]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ishant Sharma, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, <b>FOUR</b>, <b>top-edge and four</b>, lucky runs for Vijay, this was short and climbing onto the batsman, Vijay was late on the pull, gets a fat top-edge that flies past the keeper and into the fence]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, the bouncer from Bhuvneshwar, Vijay gets inside the line and lets it go]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, back of a length and in that channel outside off, Vijay runs down the track and mistimes the drive towards cover]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, loose from Vijay, short of a length and shaping away from outside off, draws a loose waft from Vijay and beats his outside edge]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vohra, 1 run, on a good length and in that channel outside off, Vohra plays with an open face and guides it behind square on the off-side for a single]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vohra, <b>FOUR</b>, Bhuvneshwar loses his line as well, too short and on Vohra's hips, flicked away behind square on the on-side. The long leg was inside the ring, no chance for deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Boult to Vijay, <b>FOUR</b>, Boult hasn't got his line right, too straight and on Vijay's pads, he gets inside the line and tucks it very fine. <b>16 from Boult's first over</b>]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Boult to Vohra, leg byes, 1 run, too straight from Boult, ends up drifting onto Vohra's pads, he looks to flick and misses, the ball rolls away behind square off the pads]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Boult to Vijay, 1 run, fuller length delivery and shaping away from outside off, draws Vijay forward on the drive, the inside edge rolls away behind square on the on-side for a single]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Boult to Vijay, no run, fuller length delivery and on the stumps, Vijay presses across and tucks it towards mid-wicket]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Boult to Vijay, <b>FOUR</b>, <b>cracking shot</b>, Boult keeps it full and gets it to swing back into Vijay, he gets his left leg away and flicks it past mid-on for a boundary]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Boult to Vijay, <b>SIX</b>, that's a nice way to greet Boult, length ball and on the stumps, Vijay gets half forward and clips it high and behind square, has enough to clear the fence at long leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, 1 run, tad fuller and in that channel outside off, steered away towards third man for a single]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, that's a cracker from Bhuvneshwar, pulls the length back a fraction and gets it to seam away after hitting the deck, Vijay was neither forward nor back as he poked at that, beaten by a long way]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, on a good length and in that channel outside off, Vijay plays with an open face and guides it straight to backward point]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, short of a length and shaping away from well outside off, Vijay plays away from his body and pushes it towards point]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, tad fuller and well outside off, Vijay leans forward and drives it straight to the fielder at cover-point]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to Vijay, no run, short of a length and just outside off, Vijay gets behind the line and defends it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Vijay and Vohra are at the crease. Vijay is on strike. Bhuvneshwar will open the attack</b>]]></line><line><![CDATA[Welcome back.. Bhuvneshwar has the new ball, a slip is in place..]]></line><line><![CDATA[Runs on the board was crucial. Picking wickets are important in this game and we have to bowl well at the start. Our strength is death bowling. We started well against RAJ in the previous game, but gave away too many before coming back in the end - Warner after being handed the Orange Cap.]]></line><line><![CDATA[Moises Henriques, Shikhar Dhawan and Eoin Morgan too played fine hands for the hosts. For the beleaguered PUN set-up, Sandeep Sharma was the one bowler who bowled a fine spell up front. Rest of the bowlers struggled to keep the lid on the scoring rate. ]]></line><line><![CDATA[On the back of David Warner's compendium of eye-catching shots, HYD amassed a massive total. It was during the second over itself when he made his intentions clear by thwacking Anureet Singh for two fours and a six. He continued to play with a dash of fearlessness and reached his fifty in a mere 36 balls. It was eventually Hendricks who dismissed Warner for a splendid 81, with Gurkeerat Singh taking the catch. <br/>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Sandeep Sharma to Rahul, 2 runs, comedy of errors from Sandeep. Yorker on the stumps, Rahul jams it to the right of the bowler, Sandeep runs to the ball, picks up the ball and fires a wide throw 3 feet away from the stumps. He could have under-armed it, could have ran across and taken the bails off as Rahul had given up. The batsmen sneak in a second on the throw]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Sandeep Sharma to Rahul, <b>FOUR</b>, super shot! That was a good delivery and didn't deserve a boundary. Full ball just short of yorker length, Rahul backs away, opens the bat face and steers it fine, got it wide of the keeper and got four]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Sandeep Sharma to Karn Sharma, 1 run, fires a wide yorker, Karn squeezes it towards cover]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Sandeep Sharma to Rahul, 1 run, low full toss outside off, Rahul goes hard on the drive, the bottom hand comes off the bat and he drags it to deep mid-wicket]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Sandeep Sharma to Karn Sharma, 1 run, Sandeep goes round the wicket, bowls it full and just outside off, Karn drills it down the wicket, the bowler gets a hand and deflects it to long-off]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Sandeep Sharma to Karn Sharma, <b>SIX</b>, freebie from Sandeep to start the last over. Full toss around off, Karn clears his front leg and sends it soaring over the long-on fence for a maximum]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sandeep Sharma [3.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Anureet Singh to Rahul, <b>SIX</b>, poor delivery to end the over. Nice juicy full toss, it was at a good height, Rahul heaves it over deep mid-wicket. It went a long way, landed in the second tier. I guess the biggest six of tonight]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Anureet Singh to Rahul, no run, slanted across the right-hander, Rahul tries to be cheeky, plays the reverse sweep and fails to make contact]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Anureet Singh to Rahul, 2 runs, Vohra saves four runs. Top effort! Full delivery on the stumps, Rahul flicks it beautifully in the air to deep square leg, that ball was sailing over the rope, Vohra leapt up, caught it with his right hand and throws the ball back in before hitting the ground]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Anureet Singh to Karn Sharma, 1 run, once again Karn backs away to the leg-side, Anureet keeps it full and close to the batsman, Karn misses the flick and is hit on the pad, ball rolls down the wicket and Rahul calls for a quick single. The umpire gives it as runs, he might have got an inside edge]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Anureet Singh to Rahul, 1 run, Rahul has missed out there, full toss on leg-stump, whipped down to fine leg, straight to the fielder]]></line><line><![CDATA[Round the wicket]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Anureet Singh to Karn Sharma, 1 run, Karn moves away and Anureet follows him with a full toss, the inside edge rolls behind square leg, for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Beuran Hendricks to Rahul, no run, short delivery just outside off, Rahul goes for the pull and misses, the ball went under his bat. After taking a pasting in his first 2 overs, Hendricks finishes well, his figures: <b>4-0-40-2</b>]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Beuran Hendricks to Karn Sharma, 1 run, drifts onto the pads, Karn glances it fine, Sandeep runs to his left and keeps it to a single]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Beuran Hendricks to Karn Sharma, no run, bumper on the stumps, Karn ducks underneath it]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Beuran Hendricks to Rahul, 1 run, fullish and on off, looked like the slower one, Rahul chips it on the bounce to long-off]]></line><line><![CDATA[<b>Karn Sharma, left handed bat, comes to the crease</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Beuran Hendricks to Rahul, <b>out</b> N Ojha Run Out!! Two wickets in two balls for PUN and they are pulling things back. Good length ball on the stumps, Rahul knocks it towards short mid-wicket, Bailey collects the ball and under-arms a throw at the bowler's end, Ojha was backing up and couldn't get back in even with a dive. <b>N Ojha run out (Bailey) 2(3)</b>]]></line><line><![CDATA[Beuran Hendricks to Rahul, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire called for a run-out check. Ojha the man in question. He is short of the crease. OUT!]]></line><line><![CDATA[<b>Lokesh Rahul, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, <b>out</b> Caught by Gurkeerat Singh!! A hundred missed! He had a very good chance of joining Baz, Gayle and ABD in the hundreds list. Low full toss around off, Warner goes deep in the crease and toe-ends the flick to mid-wicket, easy catch to Gurkeerat. The HYD skipper was very disappointed with himself, was on his knee for a while before walking back. <b>Warner c Gurkeerat Singh b Beuran Hendricks 81(52) [4s-6 6s-5]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Beuran Hendricks to Warner, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Anureet Singh to N Ojha, no run, yorker outside off, Ojha goes low, opens the bat face and digs it to backward point]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, 1 run, low full toss outside leg, Warner moves away to the leg-side, squeezes the drive to long-off]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, <b>FOUR</b>, horrible bowling from Anureet. Another full toss, much higher and closer to the batsman, Warner makes room and lofts it between deep extra cover and long-off. No chance for the fielder in the deep]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, <b>FOUR</b>, Anureet misses the yorker and has been dispatched. It was a full toss outside off, Warner first did well to reach for that, hammers it over extra cover, just lands before the ad cushions. The TV umpire checks and confirms it as four]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, no run, Warner gives the charge to Anureet, takes it on the full and drags it to mid-wicket, Maxwell was the fielder and they don't risk the single]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Anureet Singh to N Ojha, 1 run, on a length outside off, Ojha drives on the up to sweeper cover, hands the strike back to Warner]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Anureet Singh [2.0-0-16-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Beuran Hendricks to N Ojha, 1 run, back of a length on off, Ojha jams it onto the boot, the ball rolls towards point and Warner calls for a quick single]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, 1 run, change of pace, Warner chops the cut towards point, for a single]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, 2 runs, fuller and outside off, Warner mistimes the drive to the right of long-off, takes on Miller and Ojha made it in as the throw came to his end]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, <b>wide</b>, slips the slower delivery down leg, Warner doesn't get bat on the glance, wide given]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, 2 runs, slower ball well wide of off, Warner reaches out and slices it past backward point, comes back for the second before the ball is hunted down. That would have been a wide had Warner let go]]></line><line><![CDATA[<b>Naman Ojha, right handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Time-out</b>]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Beuran Hendricks to Eoin Morgan, <b>out</b> Caught by Vohra!! That is unlucky. Another shot that was timed well, but its towards a fielder. Length delivery on the stumps, Morgan leans forward and plays the pick-up shot, middles it well and hits it to deep backward square, Vohra runs to his left, dives full length and takes an excellent low catch. Morgan's cameo has been cut short. <b>Eoin Morgan c Vohra b Beuran Hendricks 17(7) [4s-1 6s-2]</b>]]></line><line><![CDATA[Beuran Hendricks to Eoin Morgan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Beuran Hendricks to Eoin Morgan, no run, angling in on off and middle, Morgan turns it to mid-wicket and shouts a loud "no"]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Beuran Hendricks [2.0-0-31-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Maxwell to Warner, no run, quicker and following the batsman, Warner backs away and chops it to cover]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Maxwell to Eoin Morgan, 1 run, flatter and on the stumps, Morgan punches it past the diving bowler for a single to long-on]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Maxwell to Eoin Morgan, <b>FOUR</b>, brilliant batting. This is my favorite. Maxwell not afraid to toss it up, Morgan stays leg-side of the ball and lofts it handsomely over extra cover, couple of bounces and into the fence. He is in some mood today]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Maxwell to Eoin Morgan, <b>SIX</b>, lovely shot! Flighted delivery right in the slot, Morgan plants his foot forward and goes through the line, smacks it back over the bowler's head. This went further than the previous one]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Maxwell to Eoin Morgan, <b>SIX</b>, off the mark in style. Morgan has come out with a positive mindset. Slightly tossed up, Morgan takes a step out of the crease, gets to the pitch of the ball and lofts it over long-off, just clears the rope]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Maxwell to Eoin Morgan, no run, pushed through on middle, Morgan knocks it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Glenn Maxwell [2.0-0-11-1] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, no run, slower through the air, Warner leans forward and pushes it down the wicket]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, 2 runs, goes round the wicket, Warner slaps it square of the wicket, calls for two and Morgan responds to his skipper's call]]></line><line><![CDATA[<b>Eoin Morgan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Henriques, <b>out</b> Caught by Anureet Singh!! Well judged catch from Anureet. Henriques had struck it well and would have been a six in some of the grounds. Gurkeerat drags the length back, Henriques advances down the wicket and pulls to deep mid-wicket, the ball was sailing over Anureet, who stood inches in front of the ad cushions and takes it over his head. A much needed wicket for PUN. <b>Henriques c Anureet Singh b Gurkeerat Singh 28(24) [4s-4]</b>]]></line><line><![CDATA[Gurkeerat Singh to Henriques, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Henriques, no run, fraction short, Henriques goes back for the pull and inside edges it onto the pad. Gurkeerat got away with one]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, 1 run, flatter and on the stumps, Warner pushes it down to long-on]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, <b>SIX</b>, that's utter rubbish from Gurkeerat. High full toss, that was a freebie, Warner cashes in as he hoicks it comfortably over deep mid-wicket for a maximum. That ball hit the giant screen and has caused some problem]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gurkeerat Singh Mann [2.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;A Patel to Warner, 1 run, full toss on the stumps, Warner swats it to deep mid-wicket and retains strike]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;A Patel to Warner, <b>SIX</b>, Warner has decided it is time to go. Quicker, fuller and in the slot, Warner clears his front leg and heaves it over long-on, Miller runs to his left and watches the ball sail over him]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;A Patel to Henriques, 1 run, slower and outside off, Henriques eases it square of the wicket on the off-side]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;A Patel to Warner, 1 run, shortish and just outside off, Warner pulls on the bounce to long-on]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;A Patel to Warner, <b>SIX</b>, what a shot! Warner reaches yet another <b>fifty in this IPL.</b> Flatter and outside off, he backs away to the leg-side and lofts it over extra cover off the back foot, it went flat and over the rope. A very difficult shot that]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;A Patel to Warner, no run, too full and just outside off, Warner makes room and squeezes it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Axar Patel [1.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Maxwell to Henriques, <b>FOUR</b>, Saha is not with happy with himself. Was that a chance? Need a replay to confirm that. Angled across the right-hander, Henriques looks to swipe it across the line, might have got an under-edge that goes between Saha's legs. Tough to call it a drop]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Maxwell to Warner, 1 run, flatter and off, Warner shimmies down the wicket to go big, doesn't get to the pitch of the ball, ends up dragging it to long-on]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Maxwell to Henriques, 1 run, Henriques uses his feet, meets the pitch of the ball and drives to long-off]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Maxwell to Warner, 1 run, once more Warner backs away and cuts a straight delivery on the stumps, single to sweeper cover]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Maxwell to Henriques, 1 run, quicker, fuller and outside off, Henriques drives it down to long-off]]></line><line><![CDATA[Stays round the wicket for Henriques]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Maxwell to Warner, 1 run, pushed through, Warner cuts it off the stumps past the diving point fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Glenn Maxwell [1.0-0-2-1] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Sandeep Sharma to Warner, 1 run, full delivery on leg-stump, Warner makes room and drills the drive to long-off, Vijay tidies up near the rope]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Sandeep Sharma to Henriques, 1 run, low full toss on off, Henriques walks across and clips square of the wicket on the leg-side]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Sandeep Sharma to Henriques, no run, too full and just outside off, Henriques drives and picks out cover]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Sandeep Sharma to Henriques, no run, yorker around off, Henriques digs it out to the left of the bowler, Sandeep can't stop it with a dive, but the cover fielder backs up]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Sandeep Sharma to Warner, 1 run, low full toss on middle, Warner stays leg-side of the ball and squeezes the drive to wide long-off, Vijay keeps it to one]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Sandeep Sharma to Henriques, 1 run, full toss on the stumps, Henriques shuffles across and flicks it to deep square leg. He should have done better]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sandeep Sharma [2.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, no run, slower ball from Hendricks, Warner was way too early on the pull and missed, goes to the keeper on the bounce]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Beuran Hendricks to Henriques, 1 run, full and on Henriques' pads, flicked away behind square on the on-side for a single]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Beuran Hendricks to Henriques, <b>FOUR</b>, <b>edged and four</b>, width on offer from Hendricks, Henriques looks to drive and gets a thick edge through the vacant slip region. Gurkeerat decides against the dive at third man and allows the boundary]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, 1 run, fuller length delivery and just outside off, Warner looks to go inside out over cover, ends up slicing it towards sweeper for a single]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Beuran Hendricks to Henriques, 1 run, short of a length and on Henriques' pads, he looks to flick and gets an inside edge onto the pads, just a single]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Beuran Hendricks to Henriques, <b>FOUR</b>, exceptional cricket from Henriques, it wasn't a bad ball by any stretch, full and following Henriques as he backed away, he manages to get his bat under it and flicks it behind square on the on-side for a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Hendricks comes from round the wicket]]></line><line><![CDATA[<b>Free-Hit</b> for Henriques]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, <b>no ball</b>, 1 run, fuller length delivery and well outside off, Warner throws his bat at that and gets a thick edge towards third man. Hendricks is a long way over the bowling crease, it's a big no-ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Beuran Hendricks [1.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;A Patel to Warner, 1 run, Axar drops one short and on the stumps, Warner rocks back and pulls it straight to the fielder at long-on]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;A Patel to Henriques, 1 run, slower and well outside off, Henriques plays with an open face and guides it towards short third man]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;A Patel to Henriques, no run, tossed up and just outside off, pushed back towards the bowler]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;A Patel to Warner, 1 run, flatter and on Warner's pads, nudged away in front of square on the on-side for a single]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;A Patel to Warner, no run, pushed through flatter and quicker, Warner drives it to the right of the bowler, Axar tumbles and stops a single]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;A Patel to Henriques, 1 run, flatter and well outside off, Henriques punches it towards long-off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Axar Patel, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, <b>FOUR</b>, poor ball from Gurkeerat, dropped it short and on the stumps, Warner rocks back and pulls it wide of long-on, no chance for the fielder getting across from deep mid-wicket]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Henriques, 1 run, flighted and just outside off, punched down towards long-on for a single]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Henriques, no run, Henriques comes down the track and punches it straight at his skipper, he can't get out of the way, Mann moves across quickly and stops a single]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, 1 run, flighted and on Warner's pads, nudged away past square leg for a single]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Henriques, 1 run, tossed up and just outside off, driven down towards long-off for a single]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Henriques, <b>FOUR</b>, Gurkeerat Singh drops one short as Henriques came down the track, pulled away over mid-wicket, one bounce and over the ropes for a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gurkeerat Singh Mann [1.0-0-7-0] is back into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Maxwell to Warner, no run, Maxwell slows down the pace and gives the ball more air, Warner prods forward defensively]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Maxwell to Warner, no run, Maxwell drifts one outside off, driven straight to the fielder at cover]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Maxwell to Warner, <b>wide</b>, Maxwell tosses this one well down leg-side, Warner looks to sweep and misses, called as a wide]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Maxwell to Henriques, 1 run, Maxwell drops one short and well outside off, Henriques makes room and cuts it square on the off-side for a single]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Maxwell to Henriques, no run, flighted delivery and well outside off, Henriques goes hard on the drive and mistimes it towards cover]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Maxwell to Henriques, no run, flighted delivery and on the stumps, Henriques goes back and pushes it towards the on-side]]></line><line><![CDATA[<b>Moises Henriques, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Maxwell to Dhawan, <b>out</b> Stumped!! Dhawan has run past the ball, easy stumping for Saha. This was tossed up from round the wicket, Dhawan came down the track, the ball dipped on him and spun across the batsman, Dhawan can't lay his bat on that, he was miles down the track and Saha effects a simple stumping. A much needed wicket for PUN, the opening partnership was threatening to take this game away. <b>Dhawan st W Saha b Maxwell 24(18) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Maxwell to Dhawan, <b>THATS OUT!!</b> Stumped!!]]></line><line><![CDATA[<b>Glenn Maxwell, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Anureet Singh to Dhawan, byes, 1 run, short of a length and following Dhawan as he came down the track, there was a noise as Dhawan pulled and missed, Saha can't collect it cleanly, the umpire gives it as a bye]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, 1 run, full and on Warner's pads, flicked towards mid-on for a single]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, no run, low full toss and just outside off, Warner looks to drive and toe-ends it towards the fielder at cover]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, no run, fuller length delivery and shaping away from outside off, Warner looks to slog it over long-on and misses]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Anureet Singh to Dhawan, 1 run, <b>a direct hit would have found Dhawan short</b>, short of a length and just outside off, Dhawan punched it to the right of Maxwell at cover and called for a quick single, he had to run around the bowler, lost a lot of time in the process, the throw misses the stumps and Dhawan survives]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Anureet Singh to Dhawan, no run, on a good length and just outside off, Dhawan gets half forward and defends it towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Anureet Singh [1.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, no run, pushed through and on Warner's pads, pulled straight to the fielder at short fine]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, no run, Gurkeerat Singh fires one quicker and on the stumps, Warner backs away and mistimes the shot back towards the bowler]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Dhawan, 1 run, slower and on the stumps, eased down towards long-on for a single]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, 1 run, tossed up and on Warner's pads, he goes halfway down on his knees and helps it in front of square on the on-side for a single]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Warner, <b>FOUR</b>, Gurkeerat Singh dropped one short and well outside off as Warner came down the track, cracked away square on the off-side for a boundary]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Gurkeerat Singh to Dhawan, 1 run, tossed up and on Dhawan's pads, worked in front of mid-wicket for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gurkeerat Singh Mann, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Beuran Hendricks to Dhawan, 1 run, on a good length and just outside off, Dhawan looks to drive and gets an inside edge past square leg for a single, <b>18 from the over</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Beuran Hendricks to Dhawan, <b>wide</b>, Hendricks slips one well down leg-side, Dhawan looks to flick and misses, called as a wide]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, 1 run, full and on the stumps, Warner pushes it back towards the stumps at the bowler's end, it deflects away wide of mid-on and the batsmen get a single. Hendricks didn't get a fingertip on that, Dhawan was backing up by a long way]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Beuran Hendricks to Warner, <b>SIX</b>, this is easy pickings for Warner, fraction short and just outside off, Warner rocks back and pulls it high and over deep mid-wicket for a maximum. Superb start this for HYD]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Beuran Hendricks to Dhawan, 1 run, short of a length and on Dhawan's pads, tucked away past square leg for a single]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Beuran Hendricks to Dhawan, <b>FOUR</b>, <b>edged and four</b>, back of a length and well outside off, Dhawan looks to cut, gets a thick edge and the ball races away past the lone slip, third man is pretty square and the ball races away to the fence]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Beuran Hendricks to Dhawan, <b>FOUR</b>, <b>lovely shot</b>, gentle start from Hendricks, offers a long half-volley and well outside off, Dhawan leans into the drive and threads it through the gap past cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Beuran Hendricks, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, 1 run, Sandeep shortened the length as Dhawan came down the track, eased square on the off-side for a single]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, no run, Sandeep gets lucky! Drifts this one on Dhawan's pads, he looks to flick and misses, Saha does well to dive and saves some runs]]></line><line><![CDATA[Third man comes in, a sweeper has been placed]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, <b>FOUR</b>, <b>cracking shot</b>, width on offer from Sandeep, Dhawan comes down the track, makes room and slaps it past cover, no need to run for those]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, <b>FOUR</b>, too straight from Sandeep, he doesn't have anyone behind square on the on-side, Dhawan waits on it and nudges it away very fine, the ball races away to the fence in a jiffy]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, no run, full and curving away from the middle stump line, Dhawan closes the face of the bat and gets a soft leading edge towards the off-side]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, no run, just short of a good length and a hint of shape away from off, Dhawan gets behind the line and defends it towards the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, <b>FOUR</b>, Anureet overcompensates and bowls one full and wide outside off, Warner throws his bat at that and sends it screaming past extra cover for a boundary]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, <b>SIX</b>, <b>lovely shot</b>, poor ball from Anureet, dropped it halfway down the track, Warner is quick to rock back and pulls it high and over mid-wicket for a maximum]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, no run, back of a length and just outside off, Warner gets behind the line and pushes it towards cover-point]]></line><line><![CDATA[Warner has a change of bat]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, no run, on a good length and in that channel outside off, Warner goes hard on the drive and mistimes it towards cover]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, <b>FOUR</b>, that's easy pickings for Warner, fraction short and just outside off, Warner swivels across and muscles it over mid-on, a couple of bounces and over the ropes]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Anureet Singh to Warner, no run, fuller length delivery and on the pads, Warner shuffles across and turns it towards short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Anureet Singh, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, no run, on a good length and just outside off, Dhawan takes a step down the track and drives it towards mid-off]]></line><line><![CDATA[The first slip moves a tad wider now]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Sandeep Sharma to Dhawan, 2 runs, fuller length delivery and in that channel outside off, draws Dhawan into the drive, he gets a thick edge through the vacant second slip region. Hendricks gets across from the deep, puts in the dive and keeps them down to a couple of runs]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Sandeep Sharma to Warner, 3 runs, back of a length and just outside off, Warner goes back and clips it to the right of mid-wicket, the fielder can't save the ball cleanly, Vohra runs from mid-on and pulls the ball back in, saves a run for his team]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Sandeep Sharma to Warner, no run, short of a length and in that channel outside off, Warner gets behind the line and defends it with a straight bat towards short cover]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Sandeep Sharma to Warner, no run, short of a length and angling across Warner, pushed off the back foot towards short extra cover]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Sandeep Sharma to Warner, no run, fuller length delivery and a hint of shape away from off, Warner gets behind the line and defends it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Warner and Dhawan are at the crease. Warner is on strike. Sandeep Sharma will open the attack</b>]]></line><line><![CDATA[The players are in the middle. PUN players are out and are followed by the two openers of HYD, Warner and Dhawan.. Sandeep Sharma has the new ball. Can he nip out some early wickets? A slip is in place..]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Hyderabad</b> (Playing XI): Shikhar Dhawan, David Warner(c), Lokesh Rahul, Naman Ojha(w), Moises Henriques, Eoin Morgan, Karn Sharma, Bipul Sharma, Bhuvneshwar Kumar, Ishant Sharma, Trent Boult]]></line><line><![CDATA[<b>Punjab</b> (Playing XI): Murali Vijay, Manan Vohra, Wriddhiman Saha(w), Glenn Maxwell, David Miller, George Bailey(c), Gurkeerat Singh Mann, Axar Patel, Beuran Hendricks, Anureet Singh, Sandeep Sharma]]></line><line><![CDATA[<b>Bailey:</b> 'We are playing with the same team. We need to back our boys. It's a beautiful batting wicket and should stay the same for the whole game.']]></line><line><![CDATA[<b>Warner:</b> 'We will bat. It's a good wicket, will not change much. We are confident about defending the score. <b>KL Rahul</b>, <b>Bipul Sharma</b> and <b>Trent Boult</b> are back in the team.']]></line><line><![CDATA[<b>Hyderabad have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>Weather Report:</b> It was a pleasant morning in Hyderabad and the conditions remain excellent for cricket. With the temperature hovering around 27 degree Celsius and a humidity of around 38%, players should feel comfortable in the middle.]]></line><line><![CDATA[For PUN, it's all about providing opportunities to their bench. Several young Indian players haven't had the opportunity to show their wares in the middle and the final couple of matches will provide the team management with the opportunity to blood some fresh blood.]]></line><line><![CDATA[<b>Team News:</b> With the weak middle-order a cause for concern, HYD stacked their batting line-up with overseas talent and relied on their Indian bowlers to defend a score of 163 against Delhi. Trent Boult and Dale Steyn ended up warming the bench, a scenario that would have been unthinkable when the tournament began. It nearly backfired on the team, but Bhuvneshwar Kumar and Ishant Sharma held their nerve towards the final stages of the match to help HYD achieve victory. Will the team continue with the same tactics tonight?]]></line><line><![CDATA[On the other hand, PUN have nothing to lose. They are already out of contention and can play with a free spirit, something that was the cornerstone of their spectacular performance last season. They have also released two Australian stars, Mitchell Johnson and Shaun Marsh. George Bailey's team came close to upsetting Kolkata in their last match and will be looking to play in a similar vein tonight as well. It's not quite the battle of the royals, but the pressure will be squarely on HYD tonight.]]></line><line><![CDATA[It's the first of three straight home games for David Warner's team. They are on a roll, having won their last two matches. With 12 points from 11 games, they are in pole position to qualify for the knockout stages of the tournament. They can't take anything for granted though. In a fiercely contested league stage, not one team has been able to make certain their place in the knockout phase of the competition. A win today will take HYD to third spot in the points table while a loss will severely dent their hopes, with their remaining games against fellow playoff competitors, BLR and MUM.]]></line><line><![CDATA[<b>18:45 Local Time, 13:15 GMT</b> We are into the last week of the league stages of IPL 2015 and the race is on as teams look to book their place in the playoff stage of the competition. One team can't get there for sure and they will now look to play spoilsport. Runners-up of last season, Punjab, have had a tournament to forget. But can they put Hyderabad's chances in jeopardy by beating them today? Hello, and a warm welcome to Match 48 of the 8th season of the Indian Premier League.]]></line><line><![CDATA[<b>Preview</b><br/><br/>The race for the play-offs is becoming intense and unpredictable with each passing day in the Pepsi Indian Premier League 2015. None of the four spots for the play-offs have been sealed and there are six teams in the fray. Hyderabad are in the middle of this simmering cauldron and they know what is at stake.<br/><br/>Having won two close games against Rajasthan and Delhi, Hyderabad are at the fourth spot. They are on a winning streak but will be aware that one slip-up at this stage could prove to be fatal for their chances. They will also know that Punjab, currently languishing at the bottom, can prove to be the potential party-spoilers.<br/><br/>Whatever can go wrong for Punjab has gone wrong this season. The batting came good in the game against Kolkata but their bowling was found wanting. Their only goal in the remaining matches would be to avoid the wooden spoon and ensure they spoil other team's chances.<br/><br/>Scenarios: If Rajasthan lose by a big margin to Chennai, and Hyderabad win against Punjab, they can move to third position in the table.<br/><br/>Venue: Rajiv Gandhi International Stadium, Uppal, Hyderabad.<br/><br/>Date: May 11, 2015<br/><br/>Time: 20:00 IST<br/><br/>Weather: Slightly cloudy skies with temperature of 25 degrees<br/><br/><b>Team news</b>:<br/><br/><b>Hyderabad</b><br/><br/>In both their wins against Rajasthan and Delhi, the middle order finally stood up. The batting, still heavily reliant on Shikhar Dhawan and David Warner, has shown that there players who can contribute at vital junctures. In the game at the Brabourne Stadium, Eoin Morgan played a classy innings while in Raipur, it was Moises Henriques who smashed 74 off 46 balls. The bowling is shored up well by Bhuvneshwar Kumar who is turning out to be a death-overs specialist for the team. However, at this stage, they will want experience in their bowling and this might prompt them to include either Dale Steyn or Trent Boult for this match.<br/><br/>Probable XI<br/><br/>1 Shikhar Dhawan, 2 David Warner (c), 3 Moises Henriques, 4 Eoin Morgan, 5 Naman Ojha (wk), 6 Parvez Rasool, 7 Karn Sharma, 8 Dale Steyn/Trent Boult, 9 Bhuvneshwar Kumar, 10 Praveen Kumar, 11 Ishant Sharma<br/><br/><b>Punjab</b><br/><br/>They are at the bottom. The batting, bowling and fielding has been below par and nothing seems to be working well for the team. With their morale low, Punjab might once again make some changes in order to find out the right combination.<br/><br/>Probable XI<br/><br/>1 Murali Vijay, 2 Manan Vohra, 3 Wriddhiman Saha (wk), 4 Glenn Maxwell, 5 David Miller, 6 George Bailey (c), 7 Gurkeerat Singh, 8 Axar Patel, 9 Beuran Hendricks, 10 Anureet Singh/Karanveer Singh, 11 Sandeep Sharma<br/><br/><b>Stats</b><br/><br/>George Bailey has the best average in the Punjab team in this season of the IPL. In 10 games, he has averaged 28.50.<br/>Bhuvneshwar Kumar has 17 wickets in 11 games in IPL 2015, putting him level with Dwayne Bravo and Ashish Nehra.<br/><br/><b>Quotes</b><br/><br/>"I was thinking whatever I bowl, whether it is a slower ball or yorker, it's about the process." - Hyderabad's Bhuvneshwar Kumar is proving to be vital for the team towards the end overs.<br/><br/>"I came into this IPL with a lot of confidence after the World Cup, and I might have expected it to continue. I probably went in overconfident in those first couple of games." - Punjab's Glenn Maxwell admits he suffered a dip in motivation]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Punjab</b> (From): Manan Vohra, Murali Vijay, Wriddhiman Saha(w), Glenn Maxwell, David Miller, George Bailey(c), Gurkeerat Singh Mann, Axar Patel, Beuran Hendricks, Anureet Singh, Sandeep Sharma, Karanveer Singh, Mitchell Johnson, Parvinder Awana, Rishi Dhawan, Shardul Thakur, Shaun Marsh, Shivam Sharma, Thisara Perera, Virender Sehwag, Nikhil Naik, Yogesh Golwalkar]]></line><line><![CDATA[<b>Hyderabad</b> (From): David Warner(c), Shikhar Dhawan, Moises Henriques, Naman Ojha(w), Eoin Morgan, Ravi Bopara, Karn Sharma, Parvez Rasool, Bhuvneshwar Kumar, Praveen Kumar, Ishant Sharma, Trent Boult, Dale Steyn, Lokesh Rahul, Ashish Reddy, Ricky Bhui, Chama Milind, Kane Williamson, Kevin Pietersen, Bipul Sharma, Hanuma Vihari, Prasanth Padmanabhan, Siddarth Kaul]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>185</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Hyderabad">
+			<players>
+				<player>
+					<playerid>1739</playerid>
+					<name>David Warner</name>
+					<batsman-name>Warner</batsman-name>
+					<batsman-nickname>Warner</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>81</runs>
+					<balls>52</balls>
+					<fours>6</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>B Hendricks</bowler>
+					<bowlerId>9490</bowlerId>
+						<fielder>Gurkeerat Singh Mann</fielder>
+						<fielderId>8298</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<batsman-name>Dhawan</batsman-name>
+					<batsman-nickname>Dhawan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>18</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>Maxwell</bowler>
+					<bowlerId>7662</bowlerId>
+						<fielder>Wriddhiman Saha</fielder>
+						<fielderId>1465</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1437</playerid>
+					<name>Moises Henriques</name>
+					<batsman-name>Henriques</batsman-name>
+					<batsman-nickname>Henriques</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>28</runs>
+					<balls>24</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Gurkeerat Singh</bowler>
+					<bowlerId>8298</bowlerId>
+						<fielder>Anureet Singh</fielder>
+						<fielderId>1876</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<batsman-name>E Morgan</batsman-name>
+					<batsman-nickname>Eoin Morgan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>7</balls>
+					<fours>1</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>B Hendricks</bowler>
+					<bowlerId>9490</bowlerId>
+						<fielder>Manan Vohra</fielder>
+						<fielderId>8358</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1599</playerid>
+					<name>Naman Ojha</name>
+					<batsman-name>N Ojha</batsman-name>
+					<batsman-nickname>N Ojha</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>2</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>George Bailey</fielder>
+						<fielderId>1440</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8733</playerid>
+					<name>Lokesh Rahul</name>
+					<batsman-name>Rahul</batsman-name>
+					<batsman-nickname>Rahul</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1844</playerid>
+					<name>Karn Sharma</name>
+					<batsman-name>Karn Sharma</batsman-name>
+					<batsman-nickname>Karn Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6296</playerid>
+					<name>Bipul Sharma</name>
+					<batsman-name>Bipul Sharma</batsman-name>
+					<batsman-nickname>Bipul Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1726</playerid>
+					<name>Bhuvneshwar Kumar</name>
+					<batsman-name>Bhuvneshwar</batsman-name>
+					<batsman-nickname>Bhuvneshwar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>702</playerid>
+					<name>Ishant Sharma</name>
+					<batsman-name>Ishant</batsman-name>
+					<batsman-nickname>Ishant</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<batsman-name>T Boult</batsman-name>
+					<batsman-nickname>Boult</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1446</playerid>
+				<nbr>1</nbr>
+				<runs>56</runs>
+				<overs>6.1</overs>
+				<batsman>Shikhar Dhawan</batsman>
+				<batsman-name>Dhawan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1437</playerid>
+				<nbr>2</nbr>
+				<runs>121</runs>
+				<overs>13.4</overs>
+				<batsman>Moises Henriques</batsman>
+				<batsman-name>Henriques</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>624</playerid>
+				<nbr>3</nbr>
+				<runs>140</runs>
+				<overs>15.2</overs>
+				<batsman>Eoin Morgan</batsman>
+				<batsman-name>E Morgan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1739</playerid>
+				<nbr>4</nbr>
+				<runs>157</runs>
+				<overs>17.1</overs>
+				<batsman>David Warner</batsman>
+				<batsman-name>Warner</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1599</playerid>
+				<nbr>5</nbr>
+				<runs>157</runs>
+				<overs>17.2</overs>
+				<batsman>Naman Ojha</batsman>
+				<batsman-name>N Ojha</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>3</wides>
+			<noballs>1</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Punjab">
+			<players>
+				<player>
+					<playerid>8356</playerid>
+					<name>Sandeep Sharma</name>
+					<bowler-name>Sandeep Sharma</bowler-name>
+					<bowler-nickname>Sandeep Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>33</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1876</playerid>
+					<name>Anureet Singh</name>
+					<bowler-name>Anureet Singh</bowler-name>
+					<bowler-nickname>Anureet Singh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>37</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9490</playerid>
+					<name>Beuran Hendricks</name>
+					<bowler-name>B Hendricks</bowler-name>
+					<bowler-nickname>Beuran Hendricks</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>40</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8298</playerid>
+					<name>Gurkeerat Singh Mann</name>
+					<bowler-name>Gurkeerat Singh</bowler-name>
+					<bowler-nickname>Gurkeerat Singh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7662</playerid>
+					<name>Glenn Maxwell</name>
+					<bowler-name>Maxwell</bowler-name>
+					<bowler-nickname>Maxwell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>28</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8808</playerid>
+					<name>Axar Patel</name>
+					<bowler-name>A Patel</bowler-name>
+					<bowler-nickname>A Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>19</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1597</playerid>
+					<name>Murali Vijay</name>
+					<bowler-name>Vijay</bowler-name>
+					<bowler-nickname>Vijay</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8358</playerid>
+					<name>Manan Vohra</name>
+					<bowler-name>Vohra</bowler-name>
+					<bowler-nickname>Vohra</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1465</playerid>
+					<name>Wriddhiman Saha</name>
+					<bowler-name>W Saha</bowler-name>
+					<bowler-nickname>W Saha</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6349</playerid>
+					<name>David Miller</name>
+					<bowler-name>D Miller</bowler-name>
+					<bowler-nickname>D Miller</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1440</playerid>
+					<name>George Bailey</name>
+					<bowler-name>Bailey</bowler-name>
+					<bowler-nickname>Bailey</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>180</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Punjab">
+			<players>
+				<player>
+					<playerid>1597</playerid>
+					<name>Murali Vijay</name>
+					<batsman-name>Vijay</batsman-name>
+					<batsman-nickname>Vijay</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>18</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Bipul Sharma</bowler>
+					<bowlerId>6296</bowlerId>
+						<fielder>Shikhar Dhawan</fielder>
+						<fielderId>1446</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8358</playerid>
+					<name>Manan Vohra</name>
+					<batsman-name>Vohra</batsman-name>
+					<batsman-nickname>Vohra</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>15</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Bipul Sharma</bowler>
+					<bowlerId>6296</bowlerId>
+						<fielder>Bhuvneshwar Kumar</fielder>
+						<fielderId>1726</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1465</playerid>
+					<name>Wriddhiman Saha</name>
+					<batsman-name>W Saha</batsman-name>
+					<batsman-nickname>W Saha</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>5</runs>
+					<balls>10</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Henriques</bowler>
+					<bowlerId>1437</bowlerId>
+						<fielder>Lokesh Rahul</fielder>
+						<fielderId>8733</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7662</playerid>
+					<name>Glenn Maxwell</name>
+					<batsman-name>Maxwell</batsman-name>
+					<batsman-nickname>Maxwell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>6</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder>Naman Ojha</fielder>
+						<fielderId>1599</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6349</playerid>
+					<name>David Miller</name>
+					<batsman-name>D Miller</batsman-name>
+					<batsman-nickname>D Miller</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>89</runs>
+					<balls>44</balls>
+					<fours>2</fours>
+					<sixes>9</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1440</playerid>
+					<name>George Bailey</name>
+					<batsman-name>Bailey</batsman-name>
+					<batsman-nickname>Bailey</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>11</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Henriques</bowler>
+					<bowlerId>1437</bowlerId>
+						<fielder>David Warner</fielder>
+						<fielderId>1739</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8298</playerid>
+					<name>Gurkeerat Singh Mann</name>
+					<batsman-name>Gurkeerat Singh</batsman-name>
+					<batsman-nickname>Gurkeerat Singh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Henriques</bowler>
+					<bowlerId>1437</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8808</playerid>
+					<name>Axar Patel</name>
+					<batsman-name>A Patel</batsman-name>
+					<batsman-nickname>A Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>11</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Bhuvneshwar</bowler>
+					<bowlerId>1726</bowlerId>
+						<fielder>Naman Ojha</fielder>
+						<fielderId>1599</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9490</playerid>
+					<name>Beuran Hendricks</name>
+					<batsman-name>B Hendricks</batsman-name>
+					<batsman-nickname>Beuran Hendricks</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1876</playerid>
+					<name>Anureet Singh</name>
+					<batsman-name>Anureet Singh</batsman-name>
+					<batsman-nickname>Anureet Singh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8356</playerid>
+					<name>Sandeep Sharma</name>
+					<batsman-name>Sandeep Sharma</batsman-name>
+					<batsman-nickname>Sandeep Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1597</playerid>
+				<nbr>1</nbr>
+				<runs>42</runs>
+				<overs>4.5</overs>
+				<batsman>Murali Vijay</batsman>
+				<batsman-name>Vijay</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8358</playerid>
+				<nbr>2</nbr>
+				<runs>47</runs>
+				<overs>6.1</overs>
+				<batsman>Manan Vohra</batsman>
+				<batsman-name>Vohra</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7662</playerid>
+				<nbr>3</nbr>
+				<runs>60</runs>
+				<overs>7.3</overs>
+				<batsman>Glenn Maxwell</batsman>
+				<batsman-name>Maxwell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1465</playerid>
+				<nbr>4</nbr>
+				<runs>65</runs>
+				<overs>8.6</overs>
+				<batsman>Wriddhiman Saha</batsman>
+				<batsman-name>W Saha</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1440</playerid>
+				<nbr>5</nbr>
+				<runs>81</runs>
+				<overs>12.3</overs>
+				<batsman>George Bailey</batsman>
+				<batsman-name>Bailey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8298</playerid>
+				<nbr>6</nbr>
+				<runs>99</runs>
+				<overs>14.1</overs>
+				<batsman>Gurkeerat Singh Mann</batsman>
+				<batsman-name>Gurkeerat Singh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8808</playerid>
+				<nbr>7</nbr>
+				<runs>158</runs>
+				<overs>18.6</overs>
+				<batsman>Axar Patel</batsman>
+				<batsman-name>A Patel</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<bowlteam name="Hyderabad">
+			<players>
+				<player>
+					<playerid>1726</playerid>
+					<name>Bhuvneshwar Kumar</name>
+					<bowler-name>Bhuvneshwar</bowler-name>
+					<bowler-nickname>Bhuvneshwar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<bowler-name>T Boult</bowler-name>
+					<bowler-nickname>Boult</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>702</playerid>
+					<name>Ishant Sharma</name>
+					<bowler-name>Ishant</bowler-name>
+					<bowler-nickname>Ishant</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>49</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6296</playerid>
+					<name>Bipul Sharma</name>
+					<bowler-name>Bipul Sharma</bowler-name>
+					<bowler-nickname>Bipul Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1437</playerid>
+					<name>Moises Henriques</name>
+					<bowler-name>Henriques</bowler-name>
+					<bowler-nickname>Henriques</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>3</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1844</playerid>
+					<name>Karn Sharma</name>
+					<bowler-name>Karn Sharma</bowler-name>
+					<bowler-nickname>Karn Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>20</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<bowler-name>Dhawan</bowler-name>
+					<bowler-nickname>Dhawan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1739</playerid>
+					<name>David Warner</name>
+					<bowler-name>Warner</bowler-name>
+					<bowler-nickname>Warner</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8733</playerid>
+					<name>Lokesh Rahul</name>
+					<bowler-name>Rahul</bowler-name>
+					<bowler-nickname>Rahul</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1599</playerid>
+					<name>Naman Ojha</name>
+					<bowler-name>N Ojha</bowler-name>
+					<bowler-nickname>N Ojha</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<bowler-name>E Morgan</bowler-name>
+					<bowler-nickname>Eoin Morgan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

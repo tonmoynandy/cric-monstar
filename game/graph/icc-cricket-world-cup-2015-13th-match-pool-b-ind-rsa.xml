@@ -1,0 +1,130 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>South Africa</name>
+	<graph>
+		<id>wag_314</id>
+		<name>Hashim Amla</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_314_Amla.png</url>
+	</graph>
+	<graph>
+		<id>wag_8520</id>
+		<name>Quinton de Kock</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_8520_de_Kock.png</url>
+	</graph>
+	<graph>
+		<id>wag_7825</id>
+		<name>Faf du Plessis</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_7825_du_Plessis.png</url>
+	</graph>
+	<graph>
+		<id>wag_370</id>
+		<name>AB de Villiers</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_370_de_Villiers.png</url>
+	</graph>
+	<graph>
+		<id>wag_6349</id>
+		<name>David Miller</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_6349_D_Miller.png</url>
+	</graph>
+	<graph>
+		<id>wag_211</id>
+		<name>Jean-Paul Duminy</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_211_Duminy.png</url>
+	</graph>
+	<graph>
+		<id>wag_1692</id>
+		<name>Wayne Parnell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_1692_Parnell.png</url>
+	</graph>
+	<graph>
+		<id>wag_731</id>
+		<name>Vernon Philander</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_731_Philander.png</url>
+	</graph>
+	<graph>
+		<id>wag_508</id>
+		<name>Dale Steyn</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_508_Steyn.png</url>
+	</graph>
+	<graph>
+		<id>wag_608</id>
+		<name>Morne Morkel</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_608_M_Morkel.png</url>
+	</graph>
+	<graph>
+		<id>wag_6667</id>
+		<name>Imran Tahir</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_11_6667_Tahir.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>India</name>
+	<graph>
+		<id>wag_576</id>
+		<name>Rohit Sharma</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_576_Rohit.png</url>
+	</graph>
+	<graph>
+		<id>wag_1446</id>
+		<name>Shikhar Dhawan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_1446_Dhawan.png</url>
+	</graph>
+	<graph>
+		<id>wag_1413</id>
+		<name>Virat Kohli</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_1413_Kohli.png</url>
+	</graph>
+	<graph>
+		<id>wag_1447</id>
+		<name>Ajinkya Rahane</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_1447_A_Rahane.png</url>
+	</graph>
+	<graph>
+		<id>wag_413</id>
+		<name>Suresh Raina</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_413_Raina.png</url>
+	</graph>
+	<graph>
+		<id>wag_265</id>
+		<name>MS Dhoni</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_265_Dhoni.png</url>
+	</graph>
+	<graph>
+		<id>wag_1593</id>
+		<name>Ravichandran Ashwin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_1593_Ashwin.png</url>
+	</graph>
+	<graph>
+		<id>wag_7909</id>
+		<name>Mohammed Shami</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_RSA_FEB22/gph_wag_12867_2_7909_Shami.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

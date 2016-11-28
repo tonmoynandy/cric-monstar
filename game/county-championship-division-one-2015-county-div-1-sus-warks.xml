@@ -1,0 +1,2112 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14223" >
+		<type>TEST</type>
+		<gameDesc>County Div 1</gameDesc>
+		<series>County Championship Division One 2015</series>
+		<matchday>3</matchday>
+		<home>Sussex</home>
+		<away>Warwickshire</away>
+		<teamsabbr>SUS vs WARKS</teamsabbr>
+		<homeabbr>SUS</homeabbr>
+		<awayabbr>WARKS</awayabbr>
+		<homeId>41</homeId>
+		<awayId>140</awayId>
+		<venue>County Ground, Hove, Sussex</venue>
+		<startdate>24 05 2015</startdate>
+		<enddate>27 05 2015</enddate>
+		<toss>
+			<winner>Warwickshire</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Sussex won by 1 wkt</status>
+		<result type="win">
+			<winningteam>Sussex</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>1</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Russell Evans</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Michael Gough</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150526150408</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>4</currentinningsno>
+		<batteamname>SUS</batteamname>
+		<bwlteamname>Warks</bwlteamname>
+		<batteamruns>190</batteamruns>
+		<batteamwkts>9</batteamwkts>
+		<batteamovers>46.1</batteamovers>
+		<status>Sussex won by 1 wkt</status>
+		<batsman>
+			<playerid>6532</playerid>
+			<name>Chris Jordan*</name>
+			<batsman-name>C Jordan</batsman-name>
+			<batsman-nickname>Jordan</batsman-nickname>
+			<runs>56</runs>
+			<balls-faced>34</balls-faced>
+			<fours>8</fours>
+			<sixes>2</sixes>
+		</batsman>
+		<batsman>
+			<playerid>9409</playerid>
+			<name>Matthew Hobden</name>
+			<batsman-name>ME Hobden</batsman-name>
+			<batsman-nickname>ME Hobden</batsman-nickname>
+			<runs>0</runs>
+			<balls-faced>3</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>626</playerid>
+			<name>Boyd Rankin*</name>
+			<bowler-name>Rankin</bowler-name>
+			<bowler-nickname>Rankin</bowler-nickname>
+			<overs>5.1</overs>
+			<maidens>0</maidens>
+			<runs>32</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6529</playerid>
+			<name>Chris Wright</name>
+			<bowler-name>C Wright</bowler-name>
+			<bowler-nickname>Chris Wright</bowler-nickname>
+			<overs>13</overs>
+			<maidens>2</maidens>
+			<runs>54</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>190</target>
+<lastwicket>
+<playerid>1640</playerid>
+<name>Steve Magoffin</name>
+<player-runs>0</player-runs>
+<player-balls>3</player-balls>
+<runs>175</runs>
+<wicket-nbr>9</wicket-nbr>
+<bowlerid>626</bowlerid>
+<bowlername>Rankin</bowlername>
+</lastwicket>
+		<extras>
+			<byes>4</byes>
+			<wides>0</wides>
+			<noballs>6</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>11</total>
+		</extras>
+		<prevOvers><![CDATA[. 4 1 1 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 1 W . N W . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 . . 1 B4 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV1/SUS_WARKS_MAY24_MAY27/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Rankin to Jordan, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Chris Wright to ME Hobden, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Chris Wright to ME Hobden, byes, <b>FOUR</b>]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, 1 run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Wright [12.0-2-49-3] is back into the attack</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Rankin to ME Hobden, no run]]></line><line><![CDATA[<b>Matthew Hobden, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Rankin to Magoffin, <b>out</b> Bowled!! <b>Magoffin b Rankin 0(3)</b>]]></line><line><![CDATA[Rankin to Magoffin, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Rankin to Magoffin, <b>no ball</b>]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Rankin to Magoffin, no run]]></line><line><![CDATA[<b>Steve Magoffin, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Rankin to O Robinson, <b>out</b> Caught by Ambrose!! <b>O Robinson c Ambrose b Rankin 8(7) [4s-1]</b>]]></line><line><![CDATA[Rankin to O Robinson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Rankin to Jordan, 1 run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Rankin to Jordan, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, 1 run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Rikki Clarke to O Robinson, 1 run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Rikki Clarke to O Robinson, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Rikki Clarke to O Robinson, <b>FOUR</b>]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Rikki Clarke to O Robinson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rikki Clarke [5.0-1-20-2] is back into the attack</b>]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Rankin to Jordan, <b>FOUR</b>]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Rankin to O Robinson, 1 run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Rankin to Jordan, 1 run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Rankin to O Robinson, 1 run]]></line><line><![CDATA[<b>Oliver Robinson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Rankin to Brown, <b>out</b> Caught by Jeetan Patel!! <b>Brown c Jeetan Patel b Rankin 53(61) [4s-5 6s-1]</b>]]></line><line><![CDATA[Rankin to Brown, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Rankin to Jordan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Boyd Rankin [3.0-0-11-0] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, 1 run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, 2 runs]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, <b>FOUR</b>]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Barker to Jordan, 1 run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Barker to Brown, 1 run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Barker to Jordan, 1 run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Barker to Jordan, <b>FOUR</b>]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Barker to Jordan, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, 1 run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Barker to Brown, 1 run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, <b>SIX</b>]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Barker to Jordan, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Barker to Jordan, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Barker to Brown, 1 run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Barker to Brown, 2 runs]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Keith Barker [12.0-4-34-0] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, 1 run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, <b>FOUR</b>]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Chris Wright to Jordan, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Chris Wright to Brown, 1 run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Chris Wright to Brown, <b>no ball</b>, 2 runs]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Chris Wright to Brown, <b>FOUR</b>]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Chris Wright to Brown, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, <b>FOUR</b>]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Jordan, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, leg byes, 1 run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[<b>Chris Jordan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, <b>out</b> Caught by Laurie Evans!! <b>Cachopa c Laurie Evans b Jeetan Patel 20(56) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jeetan Patel to Cachopa, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Jeetan Patel [2.0-1-1-0] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, 1 run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Chris Wright to Brown, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Rankin to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Rankin to Brown, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Chris Wright to Brown, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Rankin to Brown, 1 run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Rankin to Brown, 2 runs]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Rankin to Brown, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Rankin to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Chris Wright to Cachopa, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Chris Wright to Brown, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Wright [8.0-2-20-3] is back into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Rankin to Cachopa, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Rankin to Brown, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Boyd Rankin, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Barker to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Barker to Brown, 1 run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Barker to Brown, <b>SIX</b>]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, 2 runs]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, 1 run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, <b>FOUR</b>]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Barker to Brown, 1 run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Barker to Brown, <b>FOUR</b>]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, 1 run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, 2 runs]]></line><line><![CDATA[<b>Ben Brown, right handed bat, comes to the crease</b>]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Rikki Clarke to L Wright, <b>out</b> Caught by Jeetan Patel!! <b>L Wright c Jeetan Patel b Rikki Clarke 7(22) [4s-1]</b>]]></line><line><![CDATA[Rikki Clarke to L Wright, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Rikki Clarke to L Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Barker to Cachopa, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Barker to L Wright, 1 run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Rikki Clarke to L Wright, 1 run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Rikki Clarke to L Wright, <b>FOUR</b>]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Barker to L Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Keith Barker [7.0-2-17-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[<b>Craig Cachopa, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, <b>out</b> Lbw!! <b>Ed Joyce lbw b Rikki Clarke 13(42) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Rikki Clarke to Ed Joyce, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, 1 run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, 1 run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, 1 run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jeetan Patel, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Chris Wright to L Wright, no run]]></line><line><![CDATA[<b>Luke Wright, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, <b>out</b> Bowled!! <b>Harry Finch b Chris Wright 1(5)</b>]]></line><line><![CDATA[Chris Wright to Harry Finch, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, 2 runs]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[<b>Harry Finch, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>out</b> Caught by Javid!! <b>Wells c Javid b Chris Wright 19(29) [4s-3]</b>]]></line><line><![CDATA[Chris Wright to Wells, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, 2 runs]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, 1 run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, <b>FOUR</b>]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Chris Wright to Ed Joyce, no run]]></line><line><![CDATA[<b>Ed Joyce, left handed bat, comes to the crease</b>]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, <b>out</b> Caught by (sub)Gordon!! <b>Chris Nash c (sub)Gordon b Chris Wright 2(18)</b>]]></line><line><![CDATA[Chris Wright to Chris Nash, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, 2 runs]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Barker to Wells, <b>FOUR</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Barker to Wells, <b>no ball</b>, <b>FOUR</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Wright, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wells and Chris Nash are at the crease. Wells is on strike. Barker will open the attack</b>]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Jordan to Rankin, <b>out</b> Bowled!! <b>Rankin b Jordan 0(5)</b>]]></line><line><![CDATA[Jordan to Rankin, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Jordan to Rankin, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Jordan to Rankin, no run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Magoffin to Rankin, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Magoffin to Rankin, no run]]></line><line><![CDATA[<b>Boyd Rankin, left handed bat, comes to the crease</b>]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Magoffin to Westwood, <b>out</b> Bowled!! <b>Westwood b Magoffin 2(15)</b>]]></line><line><![CDATA[Magoffin to Westwood, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, 2 runs]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[<b>Ian Westwood, left handed bat, comes to the crease</b>]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, <b>out</b> Caught by Harry Finch!! <b>Rikki Clarke c Harry Finch b Jordan 34(45) [4s-2 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jordan to Rikki Clarke, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, <b>FOUR</b>]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, <b>FOUR</b>]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steve Magoffin [14.0-3-43-2] is back into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;ME Hobden to Jeetan Patel, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, 1 run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;ME Hobden to Jeetan Patel, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, <b>no ball</b>, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, 1 run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, 1 run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, 1 run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, 1 run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, 1 run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, 2 runs]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson [6.0-1-34-1] is back into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, 1 run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, leg byes, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 2 runs]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 1 run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 2 runs]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, 1 run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, 2 runs]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, <b>SIX</b>]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 1 run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [7.0-2-23-0] is back into the attack</b>]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, 2 runs]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, <b>FOUR</b>]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, <b>FOUR</b>]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jeetan Patel, right handed bat, comes to the crease</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Magoffin to Barker, <b>out</b> Bowled!! <b>Barker b Magoffin 0(9)</b>]]></line><line><![CDATA[Magoffin to Barker, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Magoffin to Barker, leg byes, <b>FOUR</b>]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;ME Hobden to Barker, leg byes, 1 run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;ME Hobden to Barker, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;ME Hobden to Barker, no run]]></line><line><![CDATA[<b>Keith Barker, left handed bat, comes to the crease</b>]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, <b>out</b> Bowled!! <b>Laurie Evans b ME Hobden 9(24) [4s-1]</b>]]></line><line><![CDATA[ME Hobden to Laurie Evans, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, 2 runs]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Magoffin to Rikki Clarke, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steve Magoffin [9.0-1-27-1] is back into the attack</b>]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, 1 run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;ME Hobden to Rikki Clarke, no run]]></line><line><![CDATA[<b>Rikki Clarke, right handed bat, comes to the crease</b>]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, <b>out</b> Caught by Brown!! <b>Ambrose c Brown b ME Hobden 32(35) [4s-6]</b>]]></line><line><![CDATA[ME Hobden to Ambrose, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, 1 run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, 1 run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, 1 run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, <b>FOUR</b>]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, 1 run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, <b>FOUR</b>]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, 1 run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, 2 runs]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;ME Hobden to Ambrose, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, 1 run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, <b>FOUR</b>]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, <b>FOUR</b>]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, <b>FOUR</b>]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, no run]]></line><line><![CDATA[<b>Tim Ambrose, right handed bat, comes to the crease</b>]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;O Robinson to Javid, <b>out</b> Caught by Chris Nash!! <b>Javid c Chris Nash b O Robinson 27(62) [4s-2]</b>]]></line><line><![CDATA[O Robinson to Javid, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, <b>FOUR</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;ME Hobden to Laurie Evans, no run]]></line><line><![CDATA[<b>Laurie Evans, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>out</b> Caught by Jordan!! <b>Trott c Jordan b ME Hobden 16(15) [4s-1 6s-1]</b>]]></line><line><![CDATA[ME Hobden to Trott, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;ME Hobden to Javid, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;ME Hobden to Javid, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;O Robinson to Trott, 2 runs]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;O Robinson to Javid, 3 runs]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;O Robinson to Javid, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;ME Hobden to Trott, byes, <b>FOUR</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>no ball</b>]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>SIX</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;ME Hobden to Javid, 1 run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;ME Hobden to Trott, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Magoffin to Trott, leg byes, 1 run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Magoffin to Trott, <b>FOUR</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Magoffin to Trott, 2 runs]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;ME Hobden to Javid, <b>no ball</b>, 2 runs]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;ME Hobden to Trott, 1 run]]></line><line><![CDATA[<b>Jonathan Trott, right handed bat, comes to the crease</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, <b>out</b> Caught by Jordan!! <b>Chris Wright c Jordan b ME Hobden 22(37) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[ME Hobden to Chris Wright, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Matthew Hobden, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Magoffin to Javid, 2 runs]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Jordan to Javid, 2 runs]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Magoffin to Javid, 2 runs]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, <b>FOUR</b>]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, <b>FOUR</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Magoffin to Javid, 1 run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Jordan to Javid, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Magoffin to Javid, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, 3 runs]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Jordan to Javid, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, <b>no ball</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Magoffin to Javid, leg byes, 1 run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Magoffin to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Jordan to Chris Wright, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Jordan to Javid, 1 run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, leg byes, <b>FOUR</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, <b>FOUR</b>]]></line><line><![CDATA[<b>Chris Wright, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, <b>out</b> Lbw!! <b>Varun Chopra lbw b Magoffin 6(10) [4s-1]</b>]]></line><line><![CDATA[Magoffin to Varun Chopra, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Jordan to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, 2 runs]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, <b>FOUR</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Varun Chopra and Javid are at the crease. Varun Chopra is on strike. Magoffin will open the attack</b>]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Chris Wright to ME Hobden, <b>no ball</b>]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, 1 run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Jeetan Patel to ME Hobden, no run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Jeetan Patel to ME Hobden, no run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, 1 run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Jeetan Patel to ME Hobden, 1 run]]></line><line><![CDATA[<b>Matthew Hobden, right handed bat, comes to the crease</b>]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, <b>out</b> Bowled!! <b>Wells b Jeetan Patel 92(181) [4s-12 6s-1]</b>]]></line><line><![CDATA[Jeetan Patel to Wells, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, <b>FOUR</b>]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, <b>FOUR</b>]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, no run]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Chris Wright to Magoffin, 1 run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Wright [10.0-3-41-0] is back into the attack</b>]]></line><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, no run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, 2 runs]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, no run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Magoffin, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jeetan Patel [7.0-2-20-3] is back into the attack</b>]]></line><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, <b>FOUR</b>]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Magoffin, leg byes, 1 run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Magoffin, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Barker to Magoffin, 1 run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Barker to Magoffin, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Barker to Magoffin, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Barker to Magoffin, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Magoffin, 1 run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, <b>FOUR</b>]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Barker to Magoffin, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Barker to Magoffin, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Barker to Magoffin, no run]]></line><line><![CDATA[<b>Steve Magoffin, right handed bat, comes to the crease</b>]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Barker to O Robinson, <b>out</b> Lbw!! <b>O Robinson lbw b Barker 1(5)</b>]]></line><line><![CDATA[Barker to O Robinson, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Barker to O Robinson, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Barker to O Robinson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Rikki Clarke to O Robinson, 1 run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Rikki Clarke to O Robinson, no run]]></line><line><![CDATA[<b>Oliver Robinson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, <b>out</b> Caught by Ambrose!! <b>Jordan c Ambrose b Rikki Clarke 2(13)</b>]]></line><line><![CDATA[Rikki Clarke to Jordan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, 2 runs]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Barker to Wells, 2 runs]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Jordan, no run]]></line><line><![CDATA[<b>Chris Jordan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, <b>out</b> Caught by Jeetan Patel!! <b>Brown c Jeetan Patel b Rikki Clarke 18(24) [4s-2]</b>]]></line><line><![CDATA[Rikki Clarke to Brown, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, <b>FOUR</b>]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Barker to Wells, <b>FOUR</b>]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, 1 run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rikki Clarke [9.0-2-22-1] is back into the attack</b>]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Barker to Brown, 2 runs]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Barker to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Keith Barker [12.0-4-29-1] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Trott to Brown, 3 runs]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Trott to Brown, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Trott to Wells, 1 run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Trott to Wells, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Trott to Brown, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Trott to Brown, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jonathan Trott, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, 3 runs]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, 1 run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Brown, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Brown, no run]]></line><line><![CDATA[<b>Ben Brown, right handed bat, comes to the crease</b>]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, <b>out</b> Caught by Rikki Clarke!! <b>Cachopa c Rikki Clarke b Jeetan Patel 2(11)</b>]]></line><line><![CDATA[Jeetan Patel to Cachopa, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Cachopa, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rikki Clarke [7.0-2-20-1] is back into the attack</b>]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, 2 runs]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Cachopa, no run]]></line><line><![CDATA[<b>Craig Cachopa, right handed bat, comes to the crease</b>]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, <b>out</b> Stumped!! <b>L Wright st Ambrose b Jeetan Patel 0(9)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jeetan Patel to L Wright, <b>THATS OUT!!</b> Stumped!!]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 2 runs]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>FOUR</b>]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 2 runs]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>no ball</b>]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Jeetan Patel to L Wright, no run]]></line><line><![CDATA[<b>Luke Wright, right handed bat, comes to the crease</b>]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Harry Finch, <b>out</b> Bowled!! <b>Harry Finch b Jeetan Patel 12(26) [4s-2]</b>]]></line><line><![CDATA[Jeetan Patel to Harry Finch, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Harry Finch, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Harry Finch, <b>FOUR</b>]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Harry Finch, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 2 runs]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, <b>no ball</b>, 1 run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Jeetan Patel to Harry Finch, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Jeetan Patel to Harry Finch, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, 3 runs]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Jeetan Patel to Wells, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jeetan Patel, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Chris Wright to Harry Finch, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Wright [6.0-2-23-0] is back into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Barker to Harry Finch, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Barker to Harry Finch, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Barker to Harry Finch, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Barker to Harry Finch, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Barker to Harry Finch, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Barker to Harry Finch, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Barker to Wells, <b>FOUR</b>]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Barker to Wells, <b>FOUR</b>]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Barker to Harry Finch, 3 runs]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Harry Finch, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Harry Finch, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Harry Finch, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Harry Finch, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Harry Finch, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Harry Finch, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Barker to Wells, leg byes, <b>FOUR</b>]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Barker to Harry Finch, leg byes, 1 run]]></line><line><![CDATA[<b>Harry Finch, right handed bat, comes to the crease</b>]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, <b>out</b> Caught by Ambrose!! <b>Ed Joyce c Ambrose b Barker 9(23) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Barker to Ed Joyce, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, <b>no ball</b>, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, <b>FOUR</b>]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Barker to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, 1 run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Keith Barker [7.0-1-12-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Rankin to Ed Joyce, 1 run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Rankin to Ed Joyce, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Rankin to Wells, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Rankin to Wells, <b>no ball</b>, <b>SIX</b>]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Rankin to Wells, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Rankin to Wells, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Rankin to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, <b>FOUR</b>]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Ed Joyce, no run]]></line><line><![CDATA[<b>Ed Joyce, left handed bat, comes to the crease</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Chris Nash, <b>out</b> Caught by Varun Chopra!! <b>Chris Nash c Varun Chopra b Rikki Clarke 17(38) [4s-3]</b>]]></line><line><![CDATA[Rikki Clarke to Chris Nash, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Chris Nash, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Chris Nash, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Rankin to Wells, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Rankin to Wells, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Rankin to Chris Nash, 1 run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Rankin to Chris Nash, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Rankin to Wells, 1 run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Rankin to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Boyd Rankin, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Rikki Clarke to Chris Nash, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Rikki Clarke to Chris Nash, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Rikki Clarke to Chris Nash, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, <b>FOUR</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Rikki Clarke to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rikki Clarke, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Barker to Chris Nash, 2 runs]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Barker to Chris Nash, <b>FOUR</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>FOUR</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>FOUR</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Chris Wright to Wells, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Barker to Wells, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, <b>no ball</b>]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, <b>FOUR</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Barker to Wells, <b>no ball</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Chris Wright to Wells, 1 run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Chris Wright to Wells, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Chris Wright to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Wright, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Barker to Wells, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Barker to Chris Nash, 1 run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Barker to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Magoffin to Rankin, <b>out</b> Bowled!! <b>Rankin b Magoffin 6(8) [4s-1]</b>]]></line><line><![CDATA[Magoffin to Rankin, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Magoffin to Rankin, <b>FOUR</b>]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;ME Hobden to Rankin, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;ME Hobden to Rankin, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, 1 run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;ME Hobden to Rankin, 1 run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;ME Hobden to Rankin, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Magoffin to Rankin, 1 run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Magoffin to Rankin, no run]]></line><line><![CDATA[<b>Boyd Rankin, left handed bat, comes to the crease</b>]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Magoffin to Barker, <b>out</b> Caught by Cachopa!! <b>Barker c Cachopa b Magoffin 24(45) [4s-3]</b>]]></line><line><![CDATA[Magoffin to Barker, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, <b>FOUR</b>]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, byes, 2 runs]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, 2 runs]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;ME Hobden to Chris Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Magoffin to Chris Wright, 1 run]]></line><line><![CDATA[<b>Chris Wright, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, <b>out</b> Caught by Brown!! <b>Jeetan Patel c Brown b Magoffin 16(42) [4s-1]</b>]]></line><line><![CDATA[Magoffin to Jeetan Patel, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;ME Hobden to Jeetan Patel, 1 run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;ME Hobden to Barker, 1 run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;ME Hobden to Barker, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;ME Hobden to Jeetan Patel, byes, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;ME Hobden to Jeetan Patel, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;ME Hobden to Jeetan Patel, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matthew Hobden [4.0-1-16-0] is back into the attack</b>]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 2 runs]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Jordan to Barker, <b>FOUR</b>]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, leg byes, 1 run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, <b>no ball</b>]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Magoffin to Barker, <b>FOUR</b>]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Magoffin to Barker, <b>FOUR</b>]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Jordan to Barker, 1 run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Jordan to Barker, 2 runs]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 2 runs]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Jordan to Barker, byes, <b>FOUR</b>]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Magoffin to Barker, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Magoffin to Jeetan Patel, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steve Magoffin [7.0-1-19-0] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, <b>no ball</b>]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Jordan to Barker, 1 run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Jordan to Barker, byes, <b>FOUR</b>]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, leg byes, 1 run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Jordan to Barker, 1 run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Jordan to Barker, leg byes, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;O Robinson to Barker, 3 runs]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;O Robinson to Barker, 2 runs]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;O Robinson to Barker, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;O Robinson to Barker, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;O Robinson to Barker, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;O Robinson to Barker, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Jordan to Barker, 1 run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;O Robinson to Jeetan Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Jordan to Barker, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Jordan to Jeetan Patel, 1 run]]></line><line><![CDATA[<b>Jeetan Patel, right handed bat, comes to the crease</b>]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Jordan to Trott, <b>out</b> Bowled!! <b>Trott b Jordan 35(52) [4s-7]</b>]]></line><line><![CDATA[Jordan to Trott, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;O Robinson to Barker, no run]]></line><line><![CDATA[<b>Keith Barker, left handed bat, comes to the crease</b>]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, <b>out</b> Caught by Harry Finch!! <b>Rikki Clarke c Harry Finch b O Robinson 11(11) [4s-1]</b>]]></line><line><![CDATA[O Robinson to Rikki Clarke, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;O Robinson to Trott, 1 run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, 1 run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Jordan to Trott, <b>FOUR</b>]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Jordan to Trott, <b>FOUR</b>]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Jordan to Rikki Clarke, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [8.0-1-21-0] is back into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, 3 runs]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Magoffin to Trott, <b>FOUR</b>]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;O Robinson to Rikki Clarke, no run]]></line><line><![CDATA[<b>Rikki Clarke, right handed bat, comes to the crease</b>]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;O Robinson to Ambrose, <b>out</b> Lbw!! <b>Ambrose lbw b O Robinson 0(1)</b>]]></line><line><![CDATA[O Robinson to Ambrose, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Tim Ambrose, right handed bat, comes to the crease</b>]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, <b>out</b> Caught by Brown!! <b>Laurie Evans c Brown b O Robinson 6(15) [4s-1]</b>]]></line><line><![CDATA[O Robinson to Laurie Evans, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, <b>no ball</b>, 2 runs]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Magoffin to Trott, <b>FOUR</b>]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Magoffin to Trott, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steve Magoffin [5.0-1-11-0] is back into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>FOUR</b>]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>no ball</b>]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, <b>FOUR</b>]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;O Robinson to Laurie Evans, no run]]></line><line><![CDATA[<b>Laurie Evans, right handed bat, comes to the crease</b>]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;O Robinson to Javid, <b>out</b> Caught by Brown!! <b>Javid c Brown b O Robinson 2(23)</b>]]></line><line><![CDATA[O Robinson to Javid, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;ME Hobden to Trott, byes, <b>FOUR</b>]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;ME Hobden to Javid, leg byes, 1 run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;O Robinson to Trott, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;ME Hobden to Javid, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;ME Hobden to Trott, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;ME Hobden to Trott, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;O Robinson to Trott, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;ME Hobden to Trott, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;ME Hobden to Trott, 2 runs]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;ME Hobden to Trott, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matthew Hobden, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;O Robinson to Javid, 2 runs]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;O Robinson to Javid, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Jordan to Trott, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Jordan to Trott, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;O Robinson to Trott, 1 run]]></line><line><![CDATA[<b>Jonathan Trott, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, <b>out</b> Caught by Jordan!! <b>Varun Chopra c Jordan b O Robinson 16(41) [4s-1]</b>]]></line><line><![CDATA[O Robinson to Varun Chopra, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[<b>Ateeq Javid, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;O Robinson to Westwood, <b>out</b> Caught by Magoffin!! <b>Westwood c Magoffin b O Robinson 13(50) [4s-2]</b>]]></line><line><![CDATA[O Robinson to Westwood, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;O Robinson to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;O Robinson to Westwood, 1 run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;O Robinson to Westwood, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;O Robinson to Westwood, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;O Robinson to Westwood, <b>FOUR</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;O Robinson to Westwood, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;O Robinson to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;O Robinson to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jordan to Westwood, <b>no ball</b>]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, <b>no ball</b>]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, <b>FOUR</b>]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, 2 runs]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Magoffin to Westwood, byes, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, 1 run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Magoffin to Westwood, 1 run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, 1 run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, leg byes, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Jordan to Westwood, 1 run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Jordan to Westwood, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, 1 run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Magoffin to Westwood, <b>FOUR</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, 2 runs]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, 2 runs]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Jordan to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Magoffin to Westwood, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, 1 run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Magoffin to Varun Chopra, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Varun Chopra and Westwood are at the crease. Varun Chopra is on strike. Magoffin will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Warwickshire</b> (Playing XI): Varun Chopra(c), Ian Westwood, Jonathan Trott, Laurie Evans, Tim Ambrose(w), Rikki Clarke, Keith Barker, Jeetan Patel, Ateeq Javid, Chris Wright, Boyd Rankin]]></line><line><![CDATA[<b>Sussex</b> (Playing XI): Luke Wells, Chris Nash, Craig Cachopa, Ed Joyce(c), Luke Wright, Harry Finch, Ben Brown(w), Chris Jordan, Oliver Robinson, Steve Magoffin, Matthew Hobden]]></line><line><![CDATA[<b>Warwickshire have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Sussex</b> (From): Ed Joyce(c), Ashar Zaidi, Ben Brown(w), Harry Finch, Lewis Hatchett, Callum Jackson, Chris Jordan, Chris Liddle, Steve Magoffin, Chris Nash, Matt Prior, Luke Wells, Michael Yardy, James Anyon, Will Beer, Craig Cachopa, Matthew Hobden, Mahela Jayawardene, Jon Lewis, Matt Machan, Tymal Mills, Steffan Piolet, Ajmal Shahzad, Luke Wright, Oliver Robinson]]></line><line><![CDATA[<b>Warwickshire</b> (From): Varun Chopra(c), Tim Ambrose(w), Freddie Coleman, Recordo Gordon, Oliver Hannon-Dalby, Richard Jones, Jeetan Patel, Peter McKay, Boyd Rankin, Jonathon Webb, Chris Woakes, Keith Barker, Paul Best, Rikki Clarke, Laurie Evans, Sam Hain, Ateeq Javid, Tom Lewis, Tom Milnes, William Porterfield, Jonathan Trott, Ian Westwood, Chris Wright]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>180</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>49</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<batsman-name>V Chopra</batsman-name>
+					<batsman-nickname>Varun Chopra</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>41</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Chris Jordan</fielder>
+						<fielderId>6532</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<batsman-name>I Westwood</batsman-name>
+					<batsman-nickname>Westwood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>50</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Steve Magoffin</fielder>
+						<fielderId>1640</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6675</playerid>
+					<name>Ateeq Javid</name>
+					<batsman-name>A Javid</batsman-name>
+					<batsman-nickname>Javid</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>23</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Ben Brown</fielder>
+						<fielderId>2269</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>740</playerid>
+					<name>Jonathan Trott</name>
+					<batsman-name>Trott</batsman-name>
+					<batsman-nickname>Trott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>35</runs>
+					<balls>52</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<batsman-name>Laurie Evans</batsman-name>
+					<batsman-nickname>Laurie Evans</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>15</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Ben Brown</fielder>
+						<fielderId>2269</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<batsman-name>T Ambrose</batsman-name>
+					<batsman-nickname>Ambrose</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<batsman-name>R Clarke</batsman-name>
+					<batsman-nickname>Rikki Clarke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>11</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Harry Finch</fielder>
+						<fielderId>9314</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<batsman-name>K Barker</batsman-name>
+					<batsman-nickname>Barker</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>45</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder>Craig Cachopa</fielder>
+						<fielderId>10064</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<batsman-name>J Patel</batsman-name>
+					<batsman-nickname>Jeetan Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>42</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder>Ben Brown</fielder>
+						<fielderId>2269</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<batsman-name>C Wright</batsman-name>
+					<batsman-nickname>Chris Wright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>13</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<batsman-name>Rankin</batsman-name>
+					<batsman-nickname>Rankin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6664</playerid>
+				<nbr>1</nbr>
+				<runs>35</runs>
+				<overs>14.2</overs>
+				<batsman>Ian Westwood</batsman>
+				<batsman-name>I Westwood</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6666</playerid>
+				<nbr>2</nbr>
+				<runs>35</runs>
+				<overs>14.5</overs>
+				<batsman>Varun Chopra</batsman>
+				<batsman-name>V Chopra</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6675</playerid>
+				<nbr>3</nbr>
+				<runs>54</runs>
+				<overs>22.2</overs>
+				<batsman>Ateeq Javid</batsman>
+				<batsman-name>A Javid</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6531</playerid>
+				<nbr>4</nbr>
+				<runs>76</runs>
+				<overs>26.4</overs>
+				<batsman>Laurie Evans</batsman>
+				<batsman-name>Laurie Evans</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1060</playerid>
+				<nbr>5</nbr>
+				<runs>76</runs>
+				<overs>26.5</overs>
+				<batsman>Tim Ambrose</batsman>
+				<batsman-name>T Ambrose</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>555</playerid>
+				<nbr>6</nbr>
+				<runs>100</runs>
+				<overs>30.5</overs>
+				<batsman>Rikki Clarke</batsman>
+				<batsman-name>R Clarke</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>740</playerid>
+				<nbr>7</nbr>
+				<runs>100</runs>
+				<overs>31.3</overs>
+				<batsman>Jonathan Trott</batsman>
+				<batsman-name>Trott</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>435</playerid>
+				<nbr>8</nbr>
+				<runs>159</runs>
+				<overs>44.2</overs>
+				<batsman>Jeetan Patel</batsman>
+				<batsman-name>J Patel</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6672</playerid>
+				<nbr>9</nbr>
+				<runs>168</runs>
+				<overs>46.4</overs>
+				<batsman>Keith Barker</batsman>
+				<batsman-name>K Barker</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>626</playerid>
+				<nbr>10</nbr>
+				<runs>180</runs>
+				<overs>48.6</overs>
+				<batsman>Boyd Rankin</batsman>
+				<batsman-name>Rankin</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>16</byes>
+			<wides>0</wides>
+			<noballs>14</noballs>
+			<legbyes>8</legbyes>
+			<penalty>0</penalty>
+			<total>38</total>
+		</extras>
+		<bowlteam name="Sussex">
+			<players>
+				<player>
+					<playerid>1640</playerid>
+					<name>Steve Magoffin</name>
+					<bowler-name>S Magoffin</bowler-name>
+					<bowler-nickname>Magoffin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>1</maidens>
+					<runsoff>45</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<bowler-name>C Jordan</bowler-name>
+					<bowler-nickname>Jordan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>1</maidens>
+					<runsoff>48</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<bowler-name>O Robinson</bowler-name>
+					<bowler-nickname>O Robinson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>4</maidens>
+					<runsoff>33</runsoff>
+					<wickets>6</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>9409</playerid>
+					<name>Matthew Hobden</name>
+					<bowler-name>ME Hobden</bowler-name>
+					<bowler-nickname>ME Hobden</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>6574</playerid>
+					<name>Luke Wells</name>
+					<bowler-name>L Wells</bowler-name>
+					<bowler-nickname>Wells</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<bowler-name>C Nash</bowler-name>
+					<bowler-nickname>Chris Nash</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<bowler-name>Cachopa</bowler-name>
+					<bowler-nickname>Cachopa</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<bowler-name>Ed Joyce</bowler-name>
+					<bowler-nickname>Ed Joyce</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<bowler-name>L Wright</bowler-name>
+					<bowler-nickname>L Wright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9314</playerid>
+					<name>Harry Finch</name>
+					<bowler-name>H Finch</bowler-name>
+					<bowler-nickname>Harry Finch</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2269</playerid>
+					<name>Ben Brown</name>
+					<bowler-name>B Brown</bowler-name>
+					<bowler-nickname>Brown</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>191</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>59.3</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Sussex">
+			<players>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<batsman-name>C Nash</batsman-name>
+					<batsman-nickname>Chris Nash</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>38</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder>Varun Chopra</fielder>
+						<fielderId>6666</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6574</playerid>
+					<name>Luke Wells</name>
+					<batsman-name>L Wells</batsman-name>
+					<batsman-nickname>Wells</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>92</runs>
+					<balls>181</balls>
+					<fours>12</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<batsman-name>Ed Joyce</batsman-name>
+					<batsman-nickname>Ed Joyce</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>23</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Barker</bowler>
+					<bowlerId>6672</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9314</playerid>
+					<name>Harry Finch</name>
+					<batsman-name>H Finch</batsman-name>
+					<batsman-nickname>Harry Finch</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>26</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<batsman-name>L Wright</batsman-name>
+					<batsman-nickname>L Wright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<batsman-name>Cachopa</batsman-name>
+					<batsman-nickname>Cachopa</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>11</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder>Rikki Clarke</fielder>
+						<fielderId>555</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2269</playerid>
+					<name>Ben Brown</name>
+					<batsman-name>B Brown</batsman-name>
+					<batsman-nickname>Brown</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>18</runs>
+					<balls>24</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder>Jeetan Patel</fielder>
+						<fielderId>435</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<batsman-name>C Jordan</batsman-name>
+					<batsman-nickname>Jordan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>13</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<batsman-name>O Robinson</batsman-name>
+					<batsman-nickname>O Robinson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>K Barker</bowler>
+					<bowlerId>6672</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1640</playerid>
+					<name>Steve Magoffin</name>
+					<batsman-name>S Magoffin</batsman-name>
+					<batsman-nickname>Magoffin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>29</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9409</playerid>
+					<name>Matthew Hobden</name>
+					<batsman-name>ME Hobden</batsman-name>
+					<batsman-nickname>ME Hobden</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>2275</playerid>
+				<nbr>1</nbr>
+				<runs>46</runs>
+				<overs>15.3</overs>
+				<batsman>Chris Nash</batsman>
+				<batsman-name>C Nash</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>540</playerid>
+				<nbr>2</nbr>
+				<runs>75</runs>
+				<overs>22.1</overs>
+				<batsman>Ed Joyce</batsman>
+				<batsman-name>Ed Joyce</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9314</playerid>
+				<nbr>3</nbr>
+				<runs>115</runs>
+				<overs>30.4</overs>
+				<batsman>Harry Finch</batsman>
+				<batsman-name>H Finch</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>776</playerid>
+				<nbr>4</nbr>
+				<runs>125</runs>
+				<overs>34.1</overs>
+				<batsman>Luke Wright</batsman>
+				<batsman-name>L Wright</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10064</playerid>
+				<nbr>5</nbr>
+				<runs>129</runs>
+				<overs>36.3</overs>
+				<batsman>Craig Cachopa</batsman>
+				<batsman-name>Cachopa</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2269</playerid>
+				<nbr>6</nbr>
+				<runs>156</runs>
+				<overs>45.3</overs>
+				<batsman>Ben Brown</batsman>
+				<batsman-name>B Brown</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6532</playerid>
+				<nbr>7</nbr>
+				<runs>160</runs>
+				<overs>49.4</overs>
+				<batsman>Chris Jordan</batsman>
+				<batsman-name>C Jordan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9531</playerid>
+				<nbr>8</nbr>
+				<runs>161</runs>
+				<overs>50.3</overs>
+				<batsman>Oliver Robinson</batsman>
+				<batsman-name>O Robinson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6574</playerid>
+				<nbr>9</nbr>
+				<runs>186</runs>
+				<overs>58.2</overs>
+				<batsman>Luke Wells</batsman>
+				<batsman-name>L Wells</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>14</noballs>
+			<legbyes>7</legbyes>
+			<penalty>0</penalty>
+			<total>22</total>
+		</extras>
+		<bowlteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<bowler-name>K Barker</bowler-name>
+					<bowler-nickname>Barker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>18</overs>
+					<maidens>6</maidens>
+					<runsoff>38</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<bowler-name>C Wright</bowler-name>
+					<bowler-nickname>Chris Wright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>12.3</overs>
+					<maidens>3</maidens>
+					<runsoff>55</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<bowler-name>R Clarke</bowler-name>
+					<bowler-nickname>Rikki Clarke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>3</maidens>
+					<runsoff>45</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<bowler-name>Rankin</bowler-name>
+					<bowler-nickname>Rankin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<bowler-name>J Patel</bowler-name>
+					<bowler-nickname>Jeetan Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>3</maidens>
+					<runsoff>24</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>740</playerid>
+					<name>Jonathan Trott</name>
+					<bowler-name>Trott</bowler-name>
+					<bowler-nickname>Trott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>6</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<bowler-name>V Chopra</bowler-name>
+					<bowler-nickname>Varun Chopra</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<bowler-name>I Westwood</bowler-name>
+					<bowler-nickname>Westwood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<bowler-name>Laurie Evans</bowler-name>
+					<bowler-nickname>Laurie Evans</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<bowler-name>T Ambrose</bowler-name>
+					<bowler-nickname>Ambrose</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6675</playerid>
+					<name>Ateeq Javid</name>
+					<bowler-name>A Javid</bowler-name>
+					<bowler-nickname>Javid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>200</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>53.4</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<batsman-name>V Chopra</batsman-name>
+					<batsman-nickname>Varun Chopra</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6675</playerid>
+					<name>Ateeq Javid</name>
+					<batsman-name>A Javid</batsman-name>
+					<batsman-nickname>Javid</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>62</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Chris Nash</fielder>
+						<fielderId>2275</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<batsman-name>C Wright</batsman-name>
+					<batsman-nickname>Chris Wright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>37</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>ME Hobden</bowler>
+					<bowlerId>9409</bowlerId>
+						<fielder>Chris Jordan</fielder>
+						<fielderId>6532</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>740</playerid>
+					<name>Jonathan Trott</name>
+					<batsman-name>Trott</batsman-name>
+					<batsman-nickname>Trott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>15</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>ME Hobden</bowler>
+					<bowlerId>9409</bowlerId>
+						<fielder>Chris Jordan</fielder>
+						<fielderId>6532</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<batsman-name>Laurie Evans</batsman-name>
+					<batsman-nickname>Laurie Evans</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>24</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>ME Hobden</bowler>
+					<bowlerId>9409</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<batsman-name>T Ambrose</batsman-name>
+					<batsman-nickname>Ambrose</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>32</runs>
+					<balls>35</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>ME Hobden</bowler>
+					<bowlerId>9409</bowlerId>
+						<fielder>Ben Brown</fielder>
+						<fielderId>2269</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<batsman-name>R Clarke</batsman-name>
+					<batsman-nickname>Rikki Clarke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>34</runs>
+					<balls>45</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder>Harry Finch</fielder>
+						<fielderId>9314</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<batsman-name>K Barker</batsman-name>
+					<batsman-nickname>Barker</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<batsman-name>J Patel</batsman-name>
+					<batsman-nickname>Jeetan Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>69</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<batsman-name>I Westwood</batsman-name>
+					<batsman-nickname>Westwood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<batsman-name>Rankin</batsman-name>
+					<batsman-nickname>Rankin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6666</playerid>
+				<nbr>1</nbr>
+				<runs>6</runs>
+				<overs>2.4</overs>
+				<batsman>Varun Chopra</batsman>
+				<batsman-name>V Chopra</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6529</playerid>
+				<nbr>2</nbr>
+				<runs>49</runs>
+				<overs>15.1</overs>
+				<batsman>Chris Wright</batsman>
+				<batsman-name>C Wright</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>740</playerid>
+				<nbr>3</nbr>
+				<runs>87</runs>
+				<overs>19.4</overs>
+				<batsman>Jonathan Trott</batsman>
+				<batsman-name>Trott</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6675</playerid>
+				<nbr>4</nbr>
+				<runs>91</runs>
+				<overs>20.3</overs>
+				<batsman>Ateeq Javid</batsman>
+				<batsman-name>A Javid</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1060</playerid>
+				<nbr>5</nbr>
+				<runs>126</runs>
+				<overs>29.2</overs>
+				<batsman>Tim Ambrose</batsman>
+				<batsman-name>T Ambrose</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6531</playerid>
+				<nbr>6</nbr>
+				<runs>129</runs>
+				<overs>31.3</overs>
+				<batsman>Laurie Evans</batsman>
+				<batsman-name>Laurie Evans</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6672</playerid>
+				<nbr>7</nbr>
+				<runs>134</runs>
+				<overs>32.6</overs>
+				<batsman>Keith Barker</batsman>
+				<batsman-name>K Barker</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>555</playerid>
+				<nbr>8</nbr>
+				<runs>192</runs>
+				<overs>47.1</overs>
+				<batsman>Rikki Clarke</batsman>
+				<batsman-name>R Clarke</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6664</playerid>
+				<nbr>9</nbr>
+				<runs>199</runs>
+				<overs>52.4</overs>
+				<batsman>Ian Westwood</batsman>
+				<batsman-name>I Westwood</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>626</playerid>
+				<nbr>10</nbr>
+				<runs>200</runs>
+				<overs>53.4</overs>
+				<batsman>Boyd Rankin</batsman>
+				<batsman-name>Rankin</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>0</wides>
+			<noballs>8</noballs>
+			<legbyes>13</legbyes>
+			<penalty>0</penalty>
+			<total>25</total>
+		</extras>
+		<bowlteam name="Sussex">
+			<players>
+				<player>
+					<playerid>1640</playerid>
+					<name>Steve Magoffin</name>
+					<bowler-name>S Magoffin</bowler-name>
+					<bowler-nickname>Magoffin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19</overs>
+					<maidens>3</maidens>
+					<runsoff>55</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<bowler-name>C Jordan</bowler-name>
+					<bowler-nickname>Jordan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15.4</overs>
+					<maidens>3</maidens>
+					<runsoff>38</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>9409</playerid>
+					<name>Matthew Hobden</name>
+					<bowler-name>ME Hobden</bowler-name>
+					<bowler-nickname>ME Hobden</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>1</maidens>
+					<runsoff>48</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>3</noballs>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<bowler-name>O Robinson</bowler-name>
+					<bowler-nickname>O Robinson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>1</maidens>
+					<runsoff>42</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6574</playerid>
+					<name>Luke Wells</name>
+					<bowler-name>L Wells</bowler-name>
+					<bowler-nickname>Wells</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<bowler-name>C Nash</bowler-name>
+					<bowler-nickname>Chris Nash</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<bowler-name>Cachopa</bowler-name>
+					<bowler-nickname>Cachopa</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<bowler-name>Ed Joyce</bowler-name>
+					<bowler-nickname>Ed Joyce</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<bowler-name>L Wright</bowler-name>
+					<bowler-nickname>L Wright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9314</playerid>
+					<name>Harry Finch</name>
+					<bowler-name>H Finch</bowler-name>
+					<bowler-nickname>Harry Finch</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2269</playerid>
+					<name>Ben Brown</name>
+					<bowler-name>B Brown</bowler-name>
+					<bowler-nickname>Brown</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="4">
+		<totalruns>190</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>46.1</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Sussex">
+			<players>
+				<player>
+					<playerid>6574</playerid>
+					<name>Luke Wells</name>
+					<batsman-name>L Wells</batsman-name>
+					<batsman-nickname>Wells</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>29</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder>Ateeq Javid</fielder>
+						<fielderId>6675</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<batsman-name>C Nash</batsman-name>
+					<batsman-nickname>Chris Nash</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>18</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder>Recordo Gordon</fielder>
+						<fielderId>9319</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<batsman-name>Ed Joyce</batsman-name>
+					<batsman-nickname>Ed Joyce</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>42</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9314</playerid>
+					<name>Harry Finch</name>
+					<batsman-name>H Finch</batsman-name>
+					<batsman-nickname>Harry Finch</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<batsman-name>L Wright</batsman-name>
+					<batsman-nickname>L Wright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>22</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder>Jeetan Patel</fielder>
+						<fielderId>435</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<batsman-name>Cachopa</batsman-name>
+					<batsman-nickname>Cachopa</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>56</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder>Laurie Evans</fielder>
+						<fielderId>6531</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2269</playerid>
+					<name>Ben Brown</name>
+					<batsman-name>B Brown</batsman-name>
+					<batsman-nickname>Brown</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>53</runs>
+					<balls>61</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder>Jeetan Patel</fielder>
+						<fielderId>435</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<batsman-name>C Jordan</batsman-name>
+					<batsman-nickname>Jordan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>56</runs>
+					<balls>34</balls>
+					<fours>8</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<batsman-name>O Robinson</batsman-name>
+					<batsman-nickname>O Robinson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>7</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1640</playerid>
+					<name>Steve Magoffin</name>
+					<batsman-name>S Magoffin</batsman-name>
+					<batsman-nickname>Magoffin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9409</playerid>
+					<name>Matthew Hobden</name>
+					<batsman-name>ME Hobden</batsman-name>
+					<batsman-nickname>ME Hobden</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>2275</playerid>
+				<nbr>1</nbr>
+				<runs>14</runs>
+				<overs>5.2</overs>
+				<batsman>Chris Nash</batsman>
+				<batsman-name>C Nash</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6574</playerid>
+				<nbr>2</nbr>
+				<runs>31</runs>
+				<overs>11.2</overs>
+				<batsman>Luke Wells</batsman>
+				<batsman-name>L Wells</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9314</playerid>
+				<nbr>3</nbr>
+				<runs>35</runs>
+				<overs>13.2</overs>
+				<batsman>Harry Finch</batsman>
+				<batsman-name>H Finch</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>540</playerid>
+				<nbr>4</nbr>
+				<runs>38</runs>
+				<overs>17.1</overs>
+				<batsman>Ed Joyce</batsman>
+				<batsman-name>Ed Joyce</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>776</playerid>
+				<nbr>5</nbr>
+				<runs>45</runs>
+				<overs>21.2</overs>
+				<batsman>Luke Wright</batsman>
+				<batsman-name>L Wright</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10064</playerid>
+				<nbr>6</nbr>
+				<runs>98</runs>
+				<overs>33.1</overs>
+				<batsman>Craig Cachopa</batsman>
+				<batsman-name>Cachopa</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2269</playerid>
+				<nbr>7</nbr>
+				<runs>153</runs>
+				<overs>42.2</overs>
+				<batsman>Ben Brown</batsman>
+				<batsman-name>B Brown</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9531</playerid>
+				<nbr>8</nbr>
+				<runs>173</runs>
+				<overs>44.3</overs>
+				<batsman>Oliver Robinson</batsman>
+				<batsman-name>O Robinson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1640</playerid>
+				<nbr>9</nbr>
+				<runs>175</runs>
+				<overs>44.5</overs>
+				<batsman>Steve Magoffin</batsman>
+				<batsman-name>S Magoffin</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>0</wides>
+			<noballs>6</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>11</total>
+		</extras>
+		<bowlteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<bowler-name>K Barker</bowler-name>
+					<bowler-nickname>Barker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>4</maidens>
+					<runsoff>49</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<bowler-name>C Wright</bowler-name>
+					<bowler-nickname>Chris Wright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>2</maidens>
+					<runsoff>54</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<bowler-name>J Patel</bowler-name>
+					<bowler-nickname>Jeetan Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>1</maidens>
+					<runsoff>15</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<bowler-name>R Clarke</bowler-name>
+					<bowler-nickname>Rikki Clarke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>1</maidens>
+					<runsoff>35</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<bowler-name>Rankin</bowler-name>
+					<bowler-nickname>Rankin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5.1</overs>
+					<maidens>0</maidens>
+					<runsoff>32</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<bowler-name>V Chopra</bowler-name>
+					<bowler-nickname>Varun Chopra</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<bowler-name>I Westwood</bowler-name>
+					<bowler-nickname>Westwood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>740</playerid>
+					<name>Jonathan Trott</name>
+					<bowler-name>Trott</bowler-name>
+					<bowler-nickname>Trott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<bowler-name>Laurie Evans</bowler-name>
+					<bowler-nickname>Laurie Evans</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<bowler-name>T Ambrose</bowler-name>
+					<bowler-nickname>Ambrose</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6675</playerid>
+					<name>Ateeq Javid</name>
+					<bowler-name>A Javid</bowler-name>
+					<bowler-nickname>Javid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

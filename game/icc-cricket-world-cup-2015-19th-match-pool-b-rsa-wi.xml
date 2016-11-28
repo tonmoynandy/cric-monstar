@@ -1,0 +1,1091 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12873" >
+		<type>ODI</type>
+		<gameDesc>19th Match, Pool B</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>South Africa</home>
+		<away>West Indies</away>
+		<teamsabbr>RSA vs WI</teamsabbr>
+		<homeabbr>RSA</homeabbr>
+		<awayabbr>WI</awayabbr>
+		<homeId>11</homeId>
+		<awayId>10</awayId>
+		<venue>Sydney Cricket Ground, Sydney</venue>
+		<startdate>27 02 2015</startdate>
+		<enddate>27 02 2015</enddate>
+		<toss>
+			<winner>South Africa</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>South Africa won by 257 runs</status>
+		<result type="win">
+			<winningteam>South Africa</winningteam>
+			<wonbyruns>257</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Steve Davis</Name>
+			<Country>Aus</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Ian Gould</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Ranmore Martinesz</Name>
+			<Country>SL</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Roshan Mahanama</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>03:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150227101522</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>WI</batteamname>
+		<bwlteamname>RSA</bwlteamname>
+		<batteamruns>151</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>33.1</batteamovers>
+		<status>South Africa won by 257 runs</status>
+		<batsman>
+			<playerid>379</playerid>
+			<name>Jerome Taylor</name>
+			<batsman-name>Jerome Taylor</batsman-name>
+			<batsman-nickname>Jerome Taylor</batsman-nickname>
+			<runs>15</runs>
+			<balls-faced>18</balls-faced>
+			<fours>2</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>608</playerid>
+			<name>Morne Morkel*</name>
+			<bowler-name>M Morkel</bowler-name>
+			<bowler-nickname>M Morkel</bowler-nickname>
+			<overs>5.1</overs>
+			<maidens>0</maidens>
+			<runs>23</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<bowler>
+			<playerid>508</playerid>
+			<name>Dale Steyn</name>
+			<bowler-name>Steyn</bowler-name>
+			<bowler-nickname>Steyn</bowler-nickname>
+			<overs>7</overs>
+			<maidens>0</maidens>
+			<runs>24</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>409</target>
+<lastwicket>
+<playerid>1117</playerid>
+<name>Sulieman Benn</name>
+<player-runs>1</player-runs>
+<player-balls>3</player-balls>
+<runs>151</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>608</bowlerid>
+<bowlername>M Morkel</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>8</total>
+		</extras>
+		<prevOvers><![CDATA[. 1 . 4 2 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 1 . 4 2 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 6 . W . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/RSA_WI_FEB27/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That's it from this game. It's a double-header tomorrow. First up, New Zealand lock horns with Australia in Auckland and then India take on UAE in Perth. Looking forward to your company then. Take care. Goodbye!]]></line><line><![CDATA[South Africa also recorded the <b>joint highest victory margin</b> in World Cups in terms of runs.]]></line><line><![CDATA[Jason Holder became the <b>first number 9 batsman to score a World Cup fifty</b>.]]></line><line><![CDATA[Imran Tahir (10-2-45-5) became the <b>first South African spinner to take a five-wicket haul</b> in World Cups.]]></line><line><![CDATA[AB de Villiers also recorded the <b>highest individual score for a number 5 batsman in ODIs</b>.]]></line><line><![CDATA[All of AB de Villiers' 20 ODI tons have come at a <b>strike rate of over hundred</b>, a unique record.]]></line><line><![CDATA[AB de Villiers has faced West Indies thrice in World Cups so far and scored a <b>hat-trick of hundreds</b> - 146 in 2007, 107* in 2011 and 162* in 2015. He also holds the record for the <b>most number of runs against a team in World Cups</b>. He has amassed 415 runs against West Indies.]]></line><line><![CDATA[AB de Villiers' 162* is also the <b>fourth highest individual score by a captain</b> in World Cups.]]></line><line><![CDATA[AB de Villiers also crossed <b>3000 ODI runs as a captain</b>. He is the <b>quickest</b> to this landmark, taking only 60 innings to do so.]]></line><line><![CDATA[AB de Villiers' ton in 52 deliveries is the <b>second fastest hundred in World Cup history</b>.]]></line><line><![CDATA[AB de Villiers now holds the record for the <b>fastest fifty</b> (16 balls), the <b>fastest hundred</b> (31 balls) and the <b>fastest 150</b> (64 balls) in the history of ODIs.]]></line><line><![CDATA[Jason Holder conceded the <b>most runs in two consecutive overs in ODIs - 64.</b>]]></line><line><![CDATA[Jason Holder conceded 34 runs in his 9th over. It is the <b>second most expensive over in World Cups</b>.]]></line><line><![CDATA[Jason Holder registered the bowling figures of 1/104 in his 10 overs, the <b>second most expensive figures in WC history</b> and worst ever by a captain in ODIs.]]></line><line><![CDATA[On the other hand, West Indies have <b>conceded</b> 400+ in an ODI innings <b>three times</b>, the most often by any team.]]></line><line><![CDATA[South Africa have registered <b>four 400+ totals in ODIs</b>. Only India is ahead of them on this count (five 400+ totals).]]></line><line><![CDATA[South Africa scored 163 runs off their last 10 overs - this is the <b>highest number of runs</b> ever scored in the final ten overs of an ODI.]]></line><line><![CDATA[South Africa's 408/5 is the <b>second highest team total in World Cups</b>. It is also their highest in World Cups and the highest ever on Australian soil.]]></line><line><![CDATA[A host of <b>records</b> were broken today. We have enlisted them for you.]]></line><line><![CDATA[<b>Lawrence Booth:</b> TV asking whether AB's innings was the best ever. It's as if his 149 off 44 balls - as long ago as last month - never happened...]]></line><line><![CDATA[<b>Shaun Pollock:</b> Float like a butterfly, sting like AB!]]></line><line><![CDATA[<b>Pat Symcox:</b> Highlights package of @ABdeVilliers17 knock will be easy to produce...just replay the live innings.]]></line><line><![CDATA[<b>Harsha Bhogle:</b> If you lose a match and want to make a statement in the next one,this is what you do. #ABdeVilliers #cwc15<br/>]]></line><line><![CDATA[<b>Aakash Chopra:</b> ABDV is the undisputed King of batting in this generation. Nobody, I repeat nobody, comes close to his genius.<br/>]]></line><line><![CDATA[<b>Kevin Pietersen:</b> Wow - @ABdeVilliers17 - holy bleksim! #FreakShow]]></line><line><![CDATA[Let us have a look at some of the most <b>interesting tweets</b> related to today's game.]]></line><line><![CDATA[<b>de Villiers</b>: "It's a very enjoyable day. I like to focus mainly on the team. It was a really good performance after a disappointing one at the MCG. Very happy with the way the boys rocked up today. They are really motivated to do well and getting the result. I think our top three (de Kock, Amla and du Plessis) are natural ball players, they assess situations and conditions really well. The way they did it today once again was to the T. Perfectly done. Rilee came in and a bit of injection of momentum and I just followed. I think we paced the innings really well, it's all about reading the flow of the game and understanding that we are not going to have momentum for 100 overs of ODI cricket. So you sort of have to play the patience game sometimes and we did it really well today. I was very happy with Farhaan (Behardien) the way he came in there. He asked me if he should be getting the ones to get me on strike, I said no you just play your game and he just hit a six the ball after and he showed what he's capable of, very happy with him at 7. Well, he (Imran Tahir) is just an incredible bowler, he's showed against all kinds of oppositions that he can he stand on his own and just amazing variation and control once again tonight, so very chuffed with him. Well, actually I had some stomach problems last night, so I didn't eat something very good. I had a bit of a rough night, but the Doc gave me an injection this morning and I felt a little bit better. So I won't say stick to my diet. I am a bit of everything. I like sea food, I love pizza, love pasta. I actually went to Jamie Oliver's kitchen yesterday, had a wonderful time with Morne Morkel and his wife and my wife obviously. I like pasta, so let's stick to pasta."]]></line><line><![CDATA[<b>Holder</b>: "I thought we did pretty well early up in the game when we bowled, we thought we were keeping the run rate down, pretty good, but then in the end, AB took the game away from us. If you take away his innings, you know, 150 runs he put on the board, it will look a totally different score if you take away the innings. We dropped chances and we didn't make it easy for ourselves, I think psychologically chasing 400 was a tough task. If we had held one or two chances at the end there, we could have got it under 350, which would have been an easier total to look at. We obviously have some areas to improve on, obviously we need to look at out our death bowling, but again obviously AB played an exceptional innings and I think we must give him credit. Going forward to the next game, we need to take the positives from this game and try to move into India's game with full confidence. We need to put it behind us as quickly as possible, but we need to look at our errors we made in this game, which is important and just look for ways for which we could improve. We are very confident that we could make it to the quarter-finals. Just need to play good cricket against India first and then take on UAE in the last game."]]></line><line><![CDATA[<b>de Villiers</b>: "There are quite a few things that played a role in me performing like that today. I think the credit has to go to the guys up front, they set the base for us. I think Rilee (Rossouw) inspired me a bit with the way he played today. I came in, he had a lot of intensity going and a lot of energy about him. That sort of affected the way I played as well. I straightaway wanted to get that kind of energy going and after timing a few balls, got a bit of momentum behind me and the rest was history. Watching the ball is a very, very important thing to do. I guess the main thing is to know your own game as quickly as possible. Know your weaknesses and strengths and play within that and wait for the opportunity to really hone in on your strengths. I don't see them as risks (smiles). I just enjoy myself out there, I see it more as getting a bit of momentum and try to read the game. I like reading the situations out there, try and get behind what the bowlers are trying to do and understanding my flow of the game as well. Understanding when I have got a bit of momentum behind me and then I sort of earn the right to sort of have a go at the bowlers a little bit. That always happens at the later stages of the innings. I didn't know that (when Mark Nicholas told him that he's got the fastest 150 in ODIs). I should have got it at the Wanderers, not too long ago, but I am very, very happy to have that now. It's just one of those games, it was our day today. The bounce of the ball went our way, my way when I was batting as well. I am sure they (West Indies) will bounce back."]]></line><line><![CDATA[<b>AB de Villiers</b> is the <b>Man of the Match</b>]]></line><line><![CDATA[After a disastrous performance against India at the MCG, South Africa have certainly bounced back in style. For the West Indies, after a promising start, they just completely lost the plot. Even their fielding was below par. South Africa will next take on Ireland in Canberra and the West Indies will meet India in a crucial encounter in Perth.]]></line><line><![CDATA[Sulieman Benn followed it up by bowling a fine spell, but Holder perhaps missed a trick by not having a first slip for Benn. It was Hashim Amla and Faf du Plessis, who then stitched a crucial partnership to take South Africa to a position of strength. On occasions, both the batsmen struggled for timing, but showed the application to put on a century stand. Chris Gayle gave the Windies genuine hope of coming back into the game by snaring the wickets of Amla and du Plessis in a single over, but de Villiers' blitz shut the door on them.<br/>]]></line><line><![CDATA[It has to be remembered that Rilee Rossouw also played his part with an enterprising knock of 61. It was Rossouw, who looked to up the tempo with a slew of cracking strokes square of the wicket on either side. de Villiers looked to play himself in before he took over from Rossouw to produce a magnificent exhibition of stroke-play. Earlier, the West Indies' seamers, Jerome Taylor and Holder made a promising start by extracting seam movement and disconcerting bounce. In particular, Holder produced awkward bounce and took the wicket of Quinton de Kock. It was Holder's ability to cramp de Kock for room from around the wicket that led to his dismissal.<br/>]]></line><line><![CDATA[Amazingly, de Villiers took a mere 12 deliveries to move from 100 to 150. de Villiers' knock was the fastest 150 in the history of ODIs. He notched up the second fastest ton in World Cups. de Villiers has now scored three back-to-back hundreds against the West Indies in World Cups as well. South Africa's total of 408 for 5 was their highest score in World Cups. <br/>]]></line><line><![CDATA[Earlier, de Villiers' wondrously entertaining innings of 162 from just 66 balls took the game away from the grasp of the West Indies. de Villiers played every shot in the book to annihilate the opposition ranks. In fact, his sparkling spread of run-scoring was such that it is hard to pick a shot that encapsulated the breathtaking knock. He played crunching drives, slog sweeps, scoops and cuts to flay the West Indies' bowlers. One of the scoops he smashed for a four off Andre Russell's bowling was played with his top hand coming off the bat handle. In the 48th over of the innings, he also clobbered Holder for 34 runs. Unfortunately for Holder, he was smashed for 30 runs in the last over of the innings as well. <br/>]]></line><line><![CDATA[After AB de Villiers' believe-it-or-not masterpiece with the willow helped South Africa to amass a monstrous score on the board, West Indies collapsed in a heap to lose the match by a huge margin of 257 runs. It turned out to be their heaviest defeat in terms of runs in ODIs. South Africa's thumping win is also the joint highest victory margin in terms of runs in World Cups. West Indies' batsmen looked bereft of technique, especially while facing up to Imran Tahir's box of tricks and Tahir ended up with a five-wicket haul. Jason Holder played a rousing innings, but by then, it was all but over. The Windies camp will be shell-shocked after this defeat.<br/>]]></line><line><![CDATA[The South Africans are all smiles. The West Indian players come down and shake hands with the opposition.]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;M Morkel to Benn, <b>out</b> Caught by Amla!! Game, set, and match. South Africa win by 257 runs. This is the <b>joint highest victory margin by runs in World Cups</b>. Short ball around the off stump, Benn tries to fend, but the ball takes the shoulder of the bat and Amla takes an easy catch at first slip. <b>Benn c Amla b M Morkel 1(3)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[M Morkel to Benn, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Steyn to Benn, 1 run, short of length delivery on the leg stump, Benn pulls it to mid-wicket]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Steyn to Benn, no run, oops! Shortish and at the body, Benn gets into a bit of a tangle as it comes onto him very quickly, it hits him on the right arm guard]]></line><line><![CDATA[<b>Sulieman Benn, left handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Drinks</b> are on the field now]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Steyn to J Holder, <b>out</b> Caught by Amla!! That is a soft dismissal for Holder. Steyn gets his name into the wickets column too. Short of a length delivery outside off stump, Holder looks to pull, but gets it high on the bat, the ball goes straight up in the air and mid-on completes a simple catch. Holder went leg-side, but Steyn followed him and cramped him for room. End of a fine innings from the West Indies captain. <b>J Holder c Amla b Steyn 56(48) [4s-3 6s-4]</b>]]></line><line><![CDATA[Steyn to J Holder, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Steyn to J Holder, no run, slightly fuller in length from Steyn, defended back to the bowler]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Steyn to J Holder, <b>SIX</b>, my word! The bat made a sweet sound as it made contact with the ball. Steyn overpitches and pays the penalty. Full and outside off stump, Holder lofts it easily over wide long-off]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Steyn to J Holder, no run, short of length delivery outside off stump, Holder defends off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dale Steyn [6.0-0-17-0] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;M Morkel to Jerome Taylor, 2 runs, this time he lofts it high over extra-cover as Morkel continues to bowl full, Rossouw gives chase from mid-off, puts in the slide and flicks it back just in time]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;M Morkel to Jerome Taylor, <b>FOUR</b>, top shot! He didn't try to overhit the ball. Full and in the slot, Taylor just plays an extended lofted punch and it flies over wide mid-off]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;M Morkel to Jerome Taylor, no run, bouncer, Taylor ducks under it]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;M Morkel to J Holder, 1 run, <b>maiden ODI fifty</b> for Holder. Back of a length outside off stump, Holder punches it through cover-point. He gets a good round of applause from the crowd. Taylor shakes hands with his captain to congratulate him on the milestone]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;M Morkel to J Holder, no run, short of length delivery just nipping away outside off stump, Holder pokes away from the body and gets beaten]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;M Morkel to J Holder, no run, short of length delivery outside off stump, Holder tries to run it down to third man but misses. He hardly moved the feet on that occasion]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Morne Morkel [4.0-0-16-1] is back into the attack</b>]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, 1 run, full and outside off stump, Holder drives it to extra-cover and keeps strike]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, 2 runs, inswinging low full toss, Holder flicks it through backward square leg]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, <b>FOUR</b>, nicely played! Short ball from Abbott, Holder rocks back and pulls very well through mid-wicket for four more]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, full and on the stumps, Holder wrists it to mid-on]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Jerome Taylor, 1 run, that's up in the air again and this time it drops between three converging fielders. Short ball from Abbott, Taylor top-edges the pull, the ball goes towards backward square leg, keeper, fine leg and mid-wicket converge but it lands safely]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Kyle Abbott to Jerome Taylor, no run, length ball, Taylor mistimes the slog to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tahir (10-2-45-5) ends a terrific spell.]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Tahir to J Holder, <b>SIX</b>, ends the over in style and that spoils Tahir's figures a bit. Flighted delivery from Tahir, Holder takes his front leg out of the way and smashes it over long-on]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Tahir to J Holder, <b>FOUR</b>, full and outside off stump, Holder lofts it over extra-cover and the ball beats Parnell, who runs to his left from long-off]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, 1 run, this has to be taken. Ohhhh noo, the ball escapes. Flighted delivery outside off stump, Taylor looks to loft, gets a thick outside edge, Abbott runs back from backward point, but he runs across it, he tries to turn around to his right but it was all too late]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, yorker from Tahir, Taylor digs it out]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Tahir to J Holder, 1 run, catch is the call as Holder drives uppishly, but it goes well wide of backward point to deep point]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, 1 run, allows the googly to spin back in and nudges it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, driven towards short mid-wicket, the fielder makes a diving save and they don't take the run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Kyle Abbott to Jerome Taylor, 1 run, in the air, but safe! Full and outside off stump, Taylor swings hard and slices it high in the air, the ball flies over backward point, Morne Morkel rushes in from third man, Miller goes back from backward point and in the end ball drops safely between both the fielders]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Jerome Taylor, no run, short of length delivery, Taylor mistimes the pull]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Jerome Taylor, <b>FOUR</b>, he's hit that with one hand! Abbott attempts the inswinging yorker, but it goes as a low full toss, Taylor tries to dig it out and goes at it without the bottom hand grip, the ball flies over wide mid-on and escapes to the boundary]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, 1 run, full and outside off stump, Holder drives it to sweeper cover]]></line><line><![CDATA[Faf du Plessis is captaining the side as AB de Villiers has gone off the field.]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, short and just outside off stump, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, very full, driven back to the bowler. <b>Second maiden over</b> of the day for Tahir]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, beautiful ball! This leggie spins around the off stump line and spins away sharply, beating Taylor's outside edge]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, googly around the off stump, Taylor defends with his bat very close to the pad]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, flighted delivery, blocked]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, slower through the air, Taylor feels for the ball as he looks to drive and gets beaten]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Tahir to Jerome Taylor, no run, flatter ball, defended]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, full and swinging back into the right-hander, Holder misses the flick and is hit on the pad. The impact is on middle-leg and ohhh! A review would have given Abbott his third wicket as <b>Hawk-Eye shows the ball hitting leg stump</b>]]></line><line><![CDATA[Huge appeal for LBW, not given. Are they going for the review? Yes, they are! In fact, the umpire says time over as they took a long time to make the decision.]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, slower ball bumper from Abbott, Holder early into the pull and gets hit on the body, no harm done though]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Jerome Taylor, 1 run, punches this length ball with an angled bat, the man at backward point, who misfields and doesn't make a clean stop]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, 1 run, length outside off stump, guided away to third man]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, that is a very optimistic shout for LBW. Holder was well outside the line of off stump when he was struck on the pad]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Kyle Abbott to J Holder, no run, short of length delivery just outside off stump, Holder defends off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Abbott [5.0-0-21-2] is back into the attack</b>]]></line><line><![CDATA[<b>Jerome Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Tahir to Ramdin, <b>out</b> Bowled!! That's his <b>maiden fifer</b> in ODIs and he's done it in a World Cup. Googly from Tahir, it was bowled slower through the air, Ramdin plays all around it and missed it completely. The ball crashes into middle and leg. Tahir runs and does the Sajda! <b>Ramdin b Tahir 22(47) [4s-2]</b>]]></line><line><![CDATA[Tahir to Ramdin, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Tahir to J Holder, 1 run, allows the ball to spin away and drives along the ground to long-off]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 1 run, gets down on one knee and sweeps the flighted delivery through backward square leg]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 2 runs, it's a top edge but it's safe. Flighted delivery down the leg-side, Ramdin tries to sweep but gets the edge, the ball goes uppishly to short fine leg]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, on the off stump, driven back to the bowler]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Tahir to J Holder, 1 run, tossed up outside off stump, driven wide of long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;du Plessis to J Holder, 1 run, short enough for Holder to hang back and punch to long-off]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, 1 run, full and on the stumps, driven to long-on]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, <b>FOUR</b>, goes deep in the crease and delays the cut, gets the placement right as he sends it to the left of short third man, the Giraffe gives chase but he was gently jogging]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, no run, the length is a little short from du Plessis, Ramdin pulls but picks out mid-wicket]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;du Plessis to J Holder, 1 run, on the stumps, driven down to long-on]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;du Plessis to J Holder, no run, no room whatsoever from du Plessis, Holder defends off the front foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, very full on the stumps, played to mid-wicket, who makes a diving save to his right]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, gives this a bit more air, ball turns and takes a soft outside edge as Ramdin looks to defend off the front foot]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, close to the off stump, defended straight back to the bowler]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Tahir to J Holder, 1 run, spinning away outside off stump, driven along the ground to sweeper cover]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Tahir to J Holder, no run, this time slower through the air, Holder reaches out for the drive and ends up slicing it on the bounce to point]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Tahir to J Holder, <b>FOUR</b>, nice front foot drive from Holder. Nice and full from Tahir, Holder leans forward and drives it along the ground through cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, no run, leans forward and looks to off-drive, gets a thick inside edge, the ball rolls to the left of short mid-wicket, where Steyn dives and stops the ball. The batsmen think about the run for a while but decide against it]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, no run, flatter and on the stumps, mistimed punch off the back foot towards short mid-wicket]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;du Plessis to J Holder, 1 run, down the leg-side, easily flicked away to deep square leg]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;du Plessis to J Holder, 2 runs, full and outside off stump, driven along the ground to deep extra-cover]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, 1 run, quicker ball, Ramdin looks to flick, gets an inside edge that rolls to short fine leg]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, 2 runs, this flatter ball is on the shorter side, Ramdin goes deep in the crease and cuts it to deep point for a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Tahir to J Holder, no run, flatter and on Holder's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Tahir to J Holder, <b>SIX</b>, wonderful hitting from Holder, he's reading Tahir well, it's the googly, Holder watches it all along, takes it on the bounce and lifts it over mid-off, has enough to clear the ropes on the full]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 1 run, this one was drifted around middle, pushed past the bowler for a single]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, slower and just outside off, patted back towards the bowler]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Tahir to J Holder, 1 run, pushed through by Tahir, ends up drifting onto Holder's pads, clipped behind square on the on-side]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 1 run, tossed up and spinning back into Ramdin, nudged away behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;du Plessis to J Holder, no run, du Plessis drifts one outside off, Holder gets behind the line and punches it back at the bowler]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;du Plessis to J Holder, no run, pushed through flatter, Holder goes back and turns it towards mid-wicket]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, 1 run, full-toss from du Plessis, Ramdin was shaping up for the sweep, changes his mind and drives it to long-on for a run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;du Plessis to Ramdin, no run, slower and just outside off, Ramdin presses well forward in defence]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;du Plessis to J Holder, 1 run, tossed up and on off, punched down towards long-off for a single]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;du Plessis to J Holder, 2 runs, flatter and on the stumps, Holder goes back and whips it past mid-wicket for a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Faf du Plessis, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, the wrong 'un from Tahir, Ramdin doesn't spot it as he backed away, manages to nudge it towards cover]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Tahir to J Holder, 1 run, Tahir tosses one well outside off, whipped away in front of square on the on-side for a single]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Tahir to J Holder, no run, flighted and just outside off, Holder presses across and drives it towards cover, the fielder tumbles and saves a run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Tahir to J Holder, <b>SIX</b>, Holder has some revenge for all the hammerings he endured! This was tossed up invitingly and well outside off, he clears his left leg and tonks it high and over long-off for a maximum]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Tahir to J Holder, no run, pushed through quicker and on off, Holder prods forward and gets an inside edge towards the on-side]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 1 run, flatter and skidding through after pitching, Ramdin doesn't get hold of the shot, drags it towards long-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Steyn to J Holder, no run, fuller length delivery and well outside off, Holder is happy to let that go as well]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Steyn to J Holder, no run, on a good length and in that channel well outside off, left alone]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Steyn to J Holder, no run, tad fuller and shaping away from outside off, left alone]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Steyn to Ramdin, 1 run, short and well outside off, slapped away square on the off-side for a single]]></line><line><![CDATA[Looks like Holder has a problem. He went for a single last ball, must have cramped up, the physio is out in the middle, we have a brief hold-up in play. He is stretching his right leg, it's been a miserable night for Holder, he went for 104 with the ball and comes in with his team on the brink of a humiliating defeat. AB and Amla take the chance to have a brief chat.]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, on a good length and just outside off, Ramdin gets behind the line and defends it]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, short and wide from Steyn, Ramdin cuts it straight to the fielder at cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Tahir to J Holder, no run, the googly from Tahir, Holder gets well forward and defends it to the left of leg-slip]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Tahir to J Holder, no run, tossed up and well outside off, Holder drives it straight to the fielder at cover]]></line><line><![CDATA[<b>Jason Holder, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Tahir to A Russell, <b>out</b> Caught by Kyle Abbott!! Fourth wicket for Tahir and West Indies are plunging towards a humiliating defeat. This was the leg-break that was attempted by Tahir, he ends up dragging it short and well outside off, the ball spun away as Russell shaped for the cut, he gets a thick top-edge and to the right of short third man. It looked like it would fall in no-man's land, but Abbott dives forward, gets his fingers underneath and holds onto an excellent catch. <b>A Russell c Kyle Abbott b Tahir 0(3)</b>]]></line><line><![CDATA[Tahir to A Russell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Tahir to A Russell, no run, slower and wider from Tahir, Russell cuts it to the left of extra cover, the fielder dives and makes a smart stop]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Tahir to A Russell, no run, appeal for LBW, but Russell was struck well outside off, he was lunging forward by a long way]]></line><line><![CDATA[<b>Andre Russell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Tahir to Sammy, <b>out</b> Stumped!! Excellent keeping from de Kock. South Africa have been very sharp today. This was tossed up invitingly by Tahir, the googly outside off, dipped onto the batsman as he got forward, the momentum of the shot dragged his foot out of the crease. de Kock is quick to whip the bails off, Sammy was struggling to get back, his feet was in the air when the bails went up. The third umpire has a look and sends him on his way. <b>Sammy st de Kock b Tahir 5(11)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tahir to Sammy, <b>THATS OUT!!</b> Stumped!!]]></line><line><![CDATA[Appeal for a stumping. de Kock was quick to remove the bails. Did Sammy lift his back-foot? He dragged his foot forward, did he make his ground back in time? Or is it in the air? Doesn't look so, Sammy might be in a heap of trouble here. <b>OUT</b> is the call]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, another play and a miss from Ramdin, once again poking at one that was well wide outside off]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, teasing line and length from Steyn, tad fuller and shaping away from outside off, Ramdin is lured into playing away from his body, misses it by a distance]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, on a good length and well outside off, Ramdin goes hard on the drive and gets a bottom-edge towards cover-point]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Steyn to Sammy, 1 run, the edge is found this time around, but there's no one at 4th slip, Sammy was pushing forward to one that shaped away, gets a single to third man]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Steyn to Sammy, no run, that's a loose waft from Sammy, this was short and shaping away from outside off, Sammy went chasing after that and nearly nicked it through to the keeper]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Steyn to Sammy, no run, short of a length and well outside off, Sammy gets across and defends it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now]]></line><line><![CDATA[Earlier, after Gayle was dismissed, Samuels survived a loud shout for LBW off Kyle Abbott's bowling, but surprisingly, South Africa didn't go for the review. The Hawk-Eye suggested that the ball was hitting the middle stump. However, Samuels didn't last long as he was dismissed by Abbott. Abbott also took the wicket of Gayle. Abbott's ability to bowl good lengths and hit the bat hard helped him to pick up wickets. On the other hand, West Indies' batsmen paid the price for hanging back in the crease. Interestingly, South Africa's seamers have looked to mix it up by bowling cross-seam to get the ball to skid off the surface under lights.]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the first 16 overs: West Indies started their reply on a disastrous note by losing the wickets of Chris Gayle and Marlon Samuels. Jonathan Carter and Dwayne Smith, then were dismissed on the back of fine catches taken by AB de Villiers and David Miller. To make it worse for them, Lendl Simmons' wicket was taken by Imran Tahir as West Indies found themselves in dire straits. On replays it was clear that Simmons had edged it and shouldn't have been given out LBW, but he didn't take the review.<br/>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, the wrong 'un from Tahir, Ramdin was lunging forward in defence, gets an inside edge onto the pads. Tahir goes up in an excited appeal but stops mid-way]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, slower and wider from Tahir, Ramdin lunges forward and pushes it towards cover]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, pushed towards mid-wicket, off the back foot]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, the leg-break from Tahir, Ramdin covers for the spin as he lunges forward on the defensive push]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Tahir to Sammy, 1 run, this one is drifted outside off, Sammy leans forward and eases it past cover for a single]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Tahir to Sammy, no run, flighted and just outside off, Sammy presses forward and defends it towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, on a good length and just outside off, Ramdin gets well forward and defends it back towards the bowler]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, fuller length delivery and on the stumps, Ramdin presses forward and drives it towards mid-on]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, on a good length and shaping away from outside off, left alone]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, lovely outswinger from Steyn, on a length and leaving Ramdin late, he was prodding forward in defence, is beaten by a long way]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Steyn to Ramdin, no run, short of a length and well outside off, steered away towards point]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Steyn to Sammy, 1 run, that would have been close had Miller made a direct hit at the striker's end! This was a back of a length delivery and just outside off, Sammy dabbed it in front of point and called for a quick single. Ramdin responded but <b>would have been short of his ground</b> had there been a direct hit]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dale Steyn [3.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Tahir to Sammy, 1 run, tossed up and outside off, Sammy backs away and punches it towards sweeper cover, just a single]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 1 run, the sweep from Ramdin, gets down on his knees, rolls his wrists and gets it away behind square on the on-side for a single]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, tossed up and on off, Ramdin presses forward and drives it towards cover]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Tahir to Sammy, 1 run, this one is given more air, driven square past cover for a single]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Tahir to Sammy, no run, the googly now, Sammy spots it early, looks to drive and gets an inside edge towards mid-wicket]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Tahir to Sammy, no run, pushed through by Tahir, the slider on middle, Sammy was late to spot it, just about gets his bat down in time and blocks]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;M Morkel to Ramdin, no run, on a good length and just outside off, Ramdin presses forward and defends it]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;M Morkel to Ramdin, no run, mix-up between the two batsmen, but Miller can't gather the ball cleanly, that allows the batsmen to get back, this was short and just outside off, Ramdin had steered it to the left of backward point. Miller was quick to get across, puts in the dive and stops, can't gather it cleanly though and the ball pops away]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;M Morkel to Ramdin, no run, that has gone right through Ramdin, short of a length and angling back into Ramdin, he was late as he pushed forward, the ball goes right through the gap between bat and pad]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;M Morkel to Ramdin, no run, on a good length and just outside off, Ramdin prods across and blocks]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;M Morkel to Ramdin, <b>FOUR</b>, that's nicely played by Ramdin, this was short and wide from Morkel, Ramdin gets on top of the bounce and cracks it square on the off-side for a boundary]]></line><line><![CDATA[<b>Replays in:</b> There was a huge inside edge on that dismissal. Simmons didn't even bother to consult with his partner, off he went]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;M Morkel to Ramdin, no run, short of a length and just outside off, Ramdin prods across and blocks]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Sammy, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Tahir to Simmons, <b>out</b> Lbw!! West Indies are crashing towards a humiliating loss here! This was the attempted googly from Tahir, went straight through after pitching, Simmons was prodding half-forward, the ball rapped him low on the pads. The impact was on middle and it was going nowhere but middle of middle. Simple call for umpire Davis, Simmons walks away without even thinking about a review. West Indies have lost half their side. <b>Simmons lbw b Tahir 0(2)</b>]]></line><line><![CDATA[Tahir to Simmons, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Tahir to Simmons, no run, pushed through by Tahir, Simmons looks to flick and misses, the ball brushed his pads on the way to the keeper]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Tahir to Ramdin, 1 run, low full-toss from Tahir, punched down to long-on for a single]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, the googly from Tahir, Ramdin spots it early and blocks]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Tahir to Ramdin, no run, flatter and skidding on, Ramdin prods forward in defence]]></line><line><![CDATA[<b>Lendl Simmons, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Tahir to Dwayne Smith, <b>out</b> Caught by D Miller!! Now, Smith falls! West Indies are falling away! A wicket off the first ball for Tahir, but that's a stunning take from Miller at long-on. This was tossed up and just outside off, Smith went for the big hit straightaway, he struck it well all-right, but hadn't counted for Miller. He runs to his left at long-on, leaps in the air and takes the catch overhead, tumbles down and holds onto it, in front of the sightscreen, that's a superb catch. He's mobbed by his mates, West Indies are in tatters. <b>Dwayne Smith c D Miller b Tahir 31(34) [4s-4 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tahir to Dwayne Smith, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Imran Tahir, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[<b>Denesh Ramdin, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;M Morkel to J Carter, <b>out</b> Caught by de Villiers!! <b>AB can't do anything wrong today</b>! This was banged in short and just outside off, Carter was struggling on the pull all along, the ball goes high off the bat and to the left of mid-on. AB runs across a few paces to his left, slides and comes up with the catch. The umpire checks for the front-foot no-ball, but Morkel is fine this time around. West Indies lose their third wicket. <b>J Carter c de Villiers b M Morkel 10(20) [4s-1]</b>]]></line><line><![CDATA[M Morkel to J Carter, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;M Morkel to J Carter, 2 runs, fuller length delivery and shaping away from outside off, Carter throws his bat at that, gets a thick edge and to the right of third man for a brace. Well <b>that was a huge no-ball</b> and Ian Gould hasn't spotted that. Morkel went way over the line]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;M Morkel to J Carter, 2 runs, Carter finally gets hold of the pull, short and just outside off, Carter swivels across and pulls it past mid-wicket. Rossouw gets across from the deep and keeps them down to a couple of runs]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, Morkel shortens his length on off, Carter was looking to nudge it towards the on-side, closes the face of the bat a tad too early and gets a soft leading edge towards cover-point]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, back of a length and just outside off, Carter stays back and defends it with an angled bat towards point]]></line><line><![CDATA[Morkel loses his action and aborts at the last moment]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, 1 run, short and just outside off, Smith swivels across on the pull, gets a single to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, no run, short of a length and angling across the left-hander, Carter went for the big pull, once again doesn't get hold of the shot, ends up dragging it to mid-wicket]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, no run, short of a length and well outside off, Carter goes hard on the cut and gets a bottom edge towards Miller at gully]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, 1 run, fuller length delivery and just outside off, pushed to the left of mid-on for a quick single]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, tad fuller and just outside off, Smith stays besides the line and dabs it towards backward point]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, <b>FOUR</b>, much better from Smith, pitched up and in the slot outside off, he gets a good stride forward and drags it over mid-on, a couple of bounces and over the ropes for a boundary]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, fuller length delivery and well outside off, Smith drives it firmly but straight to AB at mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, fuller length delivery and shaping away from well outside off, Carter goes for the big off-drive, ends up connecting with thin air, that was rather ambitious from the batsman]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, on a length and angling across Carter, punched off the back foot towards point]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, 1 run, short of a length and angling into Smith's pads, he tucks it to the right of backward square leg, Tahir gets across and keeps them down to a single]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, <b>FOUR</b>, that's in Smith's area! This was pitched up and held its line around off, Smith leans forward, gets underneath the ball and lifts it high and over wide mid-on, one bounce and over the ropes for a boundary]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, no run, full and angling into Smith's pads, he looks to flick and is struck high on the pads]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, no run, short and on the off-stump channel, Smith plays the short-arm jab, but can't get it past Tahir at backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, 1 run, tad fuller and around off, Smith nudges it behind square on the on-side for a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, on a good length and just outside off, Smith presses across and blocks]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, <b>FOUR</b>, <b>Smith gets lucky again</b>, this was full and just outside off, Smith went for the big heave over mid-wicket, he wasn't looking at the ball, gets a thick inside edge that brushes past the off-stump and races away to the fence]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, on a fuller length and just outside off, Smith prods forward and defends it back to the bowler]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, <b>Tahir has dropped one now diving forward</b>, this was a good length delivery and around off, Smith was looking to slug it away over mid-wicket, the bat turned in his hands and ends up looping towards mid-on. Tahir got both hands and allows the ball to slip away, he pushed his hands at that, the ball hit his wrists and bounced out]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, 1 run, fuller length delivery and shaping away from outside off, Carter slashes and ends up slicing it behind square on the off-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, no run, on a good length and just outside off, Smith prods across and defends it towards point]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;M Morkel to J Carter, 1 run, <b>Dwayne Smith had given up</b>! A poor call from Carter, punches it straight to mid-off and calls for a quick single. Rossouw was quick on the ball, gets a good bounce, has time to aim at the striker's end, he misses though and Smith survives]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, tad fuller and shaping away from outside off, Carter gets a big stride forward, lifts his bat and lets it go]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, short of a length and just outside off, no room for Carter to free his arms, defended with an angled bat and towards cover-point]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;M Morkel to J Carter, no run, back of a length and going away with the angle, Carter was looking to run it down towards third man, is late on the shot and gets a bottom edge that bounces through to the keeper]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;M Morkel to Dwayne Smith, 1 run, back of a length and angling into Smith, he hops across and tucks it in front of square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Morne Morkel, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, no run, fuller length delivery and shaping away from outside off, left alone]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, <b>FOUR</b>, Carter is off the mark and in some style! This was banged in short and on the stumps, Carter swivels back and pulls it exquisitely over square leg for a boundary]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, leg byes, 1 run, Abbott overcompensates and bowls one full and on Smith's pads, he looks to whip and misses, the ball rolls away behind square on the on-side]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, <b>FOUR</b>, that's much better from Smith, long half-volley from Abbott, full and way outside off, Smith gets a big stride forward and drives it sweetly past cover for a boundary]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, Smith's not looking comfortable, he was rushed into the shot once again, this was short and reared from a length, he manages to push it away after taking the bottom hand off the handle]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, fuller length delivery and just outside off, punched straight to the fielder at mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, 1 run, Smith moves around in his crease, looking to force Steyn into a mistake, this was pitched up and just outside off, driven to the right of extra cover for a single]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, no run, Steyn is hitting the bat hard, on a good length and in that channel outside off, Smith was prodding forward on the defensive push, the ball rolls back towards the bowler]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Steyn to J Carter, leg byes, 1 run, short of a length and on Carter's pads, he looks to flick and misses, the ball rolls away off the pads and behind square on the on-side]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Steyn to J Carter, <b>wide</b>, the bumper from Steyn, but it's wayward and well down leg-side, wide called]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, 1 run, that's a <b>chance</b> and Steyn has <b>missed it</b>. Smith was early into the push, the ball goes off the inner half of the bat and lobs back towards Steyn, at a comfortable height, looked like he lost it completely, by the time he put his hands above, the ball had already gone past him]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, no run, Steyn shortens his length and gets it to hold its line around off, rushed Smith into the flick, he gets an inside edge and the ball rolls away towards the off-side]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, no run, short of a length and just outside off, cramps Smith for room, he slashes and misses. de Kock collects it at chest high]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, no run, pitched up and the line is tad wider outside off, another easy leave for the batsman]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, no run, fuller length delivery and just outside off, going away with the angle, Carter is happy to let it go]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Kyle Abbott to J Carter, no run, short of a length and shaping away from outside off, left alone]]></line><line><![CDATA[<b>Jonathan Carter, left handed bat, comes to the crease</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Samuels, <b>out</b> Caught by de Kock!! This is wonderful bowling from Abbott, and West Indies have lost both the centurions from the Zimbabwe match. This was pitched up and in that corridor outside off, nipped away a fraction. Samuels was nowhere behind the line as he wafted at that, the outside edge is found and de Kock holds on gleefully, moving across to his right. West Indies chase is all but over now. <b>Samuels c de Kock b Kyle Abbott 0(9)</b>]]></line><line><![CDATA[Kyle Abbott to Samuels, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, 1 run, too straight from Abbott, Smith works it in front of square on the on-side for a single]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, no run, tad fuller and just outside off, Smith prods forward and defends it with a straight bat towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Steyn to Samuels, no run, short of a length and holding its line outside off, Samuels plays inside the line and lets it go]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Steyn to Samuels, no run, this one didn't bounce at all, stayed pretty low, lucky for Samuels that it wasn't on the stumps, he was jumping across as he looked to get behind the line, the ball sneaks past the outside edge, bounces and then goes to the keeper]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Steyn to Samuels, no run, tad fuller and on the off-stump channel, Samuels shuffles across and defends it back towards the bowler]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Steyn to Samuels, no run, that one climbed off the deck, Steyn shortened his length by a fraction and gets this one to shape away, Samuels wasn't in any position as he pushed forward, beaten by a long way. Goes to de Kock at head high]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Steyn to Samuels, no run, Steyn shortens his length and on the stumps, Samuels hops across and defends it towards the on-side]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Steyn to Samuels, <b>wide</b>, Steyn drifts this one well down leg-side, called as a wide]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, leg byes, 1 run, tad fuller and on Smith's pads, he looks to work it towards the on-side and misses, sneaks in a leg-bye as the ball rolls away towards square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Kyle Abbott to Samuels, no run, on a good length and on off, Samuels gets half-forward as he pushes it towards mid-on]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Kyle Abbott to Samuels, no run, back of a length and in that channel outside off, Samuels stays behind the line and defends it]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Kyle Abbott to Samuels, <b>wide</b>, on a length and slanting down leg-side, Samuels looks to flick and misses, wide called]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Samuels, no run, was there an inside edge on that? Only that could have saved Samuels. Else, he was a dead duck. He was caught in his crease to one that nipped back in, gets struck low on the pads and in front of middle. <b>Looks like it was pad first</b>. Hawk-Eye suggests that the ball was crashing into the middle stump. A <b>reprieve</b> for Samuels]]></line><line><![CDATA[Loud shout for LBW. SA do not <b>review</b>]]></line><line><![CDATA[<b>Marlon Samuels, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Gayle, <b>out</b> Bowled!! That's a massive jolt for West Indies! A terrible shot from Gayle, this was pitched up and nipped back in a fraction. Gayle backed away on the big slog, misses and the timber is rattled. Abbott is chuffed as he celebrates with his mates, a big shot attempted by Gayle, perhaps a bit too early in the piece. He was looking to put Abbott under presssure, but all he's done is to put his own team under pressure. <b>Gayle b Kyle Abbott 3(4)</b>]]></line><line><![CDATA[Kyle Abbott to Gayle, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Dwayne Smith, leg byes, 1 run, short of a length and angling onto Smith's pads, he was looking to pull and missed, the ball rolls away off the pads and behind square]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Kyle Abbott to Gayle, leg byes, 1 run, fuller length delivery and on Gayle's pads, he looks to flick and misses, the ball rolls away off the pads and to the right of the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Abbott, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, <b>SIX</b>, <b>lovely shot</b>, fraction too short and just outside off, Smith is quick to transfer his weight on the back-foot and pulls it high and over deep mid-wicket, there's a fielder there but he's a mute spectator. 10 runs from the first over]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, no run, teasing line from Steyn, in that corridor outside off and nipping away, Smith looks to cut, he stays rooted to the crease on the shot and misses]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, no run, on a good length and shaping away from well outside off, Smith goes hard on the drive and mistimes it towards cover]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Steyn to Gayle, 3 runs, aggression from Gayle, on a length and on the stumps, Gayle clears his left leg and heaves it over mid-on, the timing wasn't sweet and the ball stops well in front of the ropes, Gayle is off the mark with three]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Steyn to Gayle, no run, back of a length and on Gayle's ribs, he shuffles across, rides with the bounce and pats it down towards short leg]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Steyn to Dwayne Smith, 1 run, flashing start from Smith, short of a length and shaping away from outside off, Smith went chasing after that and slices it backward of square past point, it was in the air but well wide of the diving fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dwayne Smith and Gayle are at the crease. Dwayne Smith is on strike. Steyn will open the attack</b>]]></line><line><![CDATA[Two slips in place as Steyn opens the bowling for RSA..]]></line><line><![CDATA[Welcome back.. Can Gayle & Co. give a fitting reply after AB's demolition job? It's a tough task though..]]></line><line><![CDATA[<b>Anil Kumble:</b> Batting reinvented by AB @ABdeVilliers17 ..fastest records being broken fast...#cwc2015]]></line><line><![CDATA[<b>Tom Moody:</b> I believe we've just witnessed why AB de Villiers is the BEST in the World. #WCC15 #MasterClass]]></line><line><![CDATA[<b>Rajneesh Gupta:</b> @ABdeVilliers17 now has the Fastest 50, Fastest 100 and Fastest 150 in One-Day Internationals!!!!<br/>]]></line><line><![CDATA[<b>Graeme Smith:</b> Hahahhaha oh my !]]></line><line><![CDATA[<b>Simon Wilde:</b> After getting to 55 off 34 balls (frankly pathetic), AB went 44411441122604114624442641266466 to finish 162 off 66 #gulp]]></line><line><![CDATA[<b>Michael Vaughan:</b> I guess they will just blame the modern bats.... 162 off 66 balls from @ABdeVilliers17 #Genius]]></line><line><![CDATA[<b>Scyld Berry:</b> Amazing. Taking the sport to yet another level - the ultimate in hitting. AB de Villiers 162* off 66 balls v WI, and 64 off two Holder overs]]></line><line><![CDATA[Here are a few tweets praising the wondrous batting of AB de Villiers]]></line><line><![CDATA[And if one casts their mind back to the opening 10-15 overs, West Indies bowled with great discipline. A score of 280 looked tough at that stage. But that's the genius of AB with help from the others. Also credit to SA for sticking to their gameplan of batting solidly till the 35th over and then unleashing.]]></line><line><![CDATA[Have a look at these mind-boggling numbers that South Africa racked up - <b>last 20 overs - 261</b>. <b>Last 15 - 222. Last 10 - 150. Last 5 - 96</b>. <b>Holder's</b> first spell read - 5-2-9-1. Then 3-0-31-0. Last two overs - 34 and 30 respectively. <b>Final figures - 10-2-104-1</b>. <b>Worst figures</b> in WC history for a <b>10-over spell</b> and by a captain. Phew! Just insane stuff!]]></line><line><![CDATA[<b>de Villiers</b>: "I am also a bit surprised. Very enjoyable knock today, I thought the foundation the boys laid up front once again allowed us to free up. I don't know, it's just one of those knocks that I think the ball obviously bounced my way. Little bit of luck here and there and I made it count. Not a huge fan of setting targets. We had our basic plans in place. A score around 300 halfway through the innings looked like an achievable total and we were probably pushing for that, maybe 320. And you get some of those days where you click in the last 10 overs. I thought Rilee (Rossouw) played an exceptional knock, great injection of momentum therefore for us and I could bat around him in the start and then could free up at the end as well. It's a bit of everything, bit of a pain in the previous game, this game is only halfway and the only thing on my mind is to win this game. So, a lot of things play a role and we are just ready to defend this total now."]]></line><line><![CDATA[<b>AB de Villiers</b>, the man of the moment, spoke to Russel Arnold and we have transcribed the interview word by word.]]></line><line><![CDATA[On a slightly controversial note, Ian Gould, one of the umpires, seemed to have a problem with the condition of one of the balls used for the match. He had discussions with both Holder and Taylor.]]></line><line><![CDATA[The West Indies camp would be disappointed as they bowled well upfront. Holder perhaps missed a trick by not having a first slip for Benn. Benn was getting a nice drift and troubled Amla and du Plessis. He also made a mistake by introducing Darren Sammy into the attack when de Villiers took strike. Barring an excellent catch taken by Jerome Taylor at long-on to dismiss David Miller, West Indies's fielding wasn't up to the mark. It is a good wicket for batting and at the SCG, the dew factor may come into play, but it has to be remembered that so far only Ireland have been successful in a chasing down a target in this World Cup in Australia. <br/>]]></line><line><![CDATA[Initially, de Villiers played with a full face of the bat against the seamers. In 40th over of the innings, de Villiers then gave a glimpse of his immense ability by clobbering the wily spinner Sulieman Benn for two fours and a six. He essayed a majestic shot over extra cover for a six and followed it up by going right back in the crease to play the cut shot and collect four runs. He also used the sweep shot to good effect. The century stand between Rossouw and de Villiers came in a mere 60 deliveries. It was Andre Russell, who eventually took the wicket of Rossouw, but by then, the damage was already done. de Villiers though, continued to smash the Windies bowlers to shreds. He even used the scoop to thump Russell for a couple of sumptuous shots and clobbered Holder for 34 runs in the 48th over of the innings. de Villiers composed his century in 52 deliveries and took just 12 more deliveries to get to his 150. His century turned out to be the <b>second fastest</b> in the history of the World Cup. He now holds the record for the <b>fastest 150 in ODIs</b>. South Africa also amassed their <b>highest total in World Cups</b>.]]></line><line><![CDATA[The experienced duo of Hashim Amla and Faf du Plessis, then looked to steady South Africa's innings. Both the batsmen had their fair share of luck, but they set a solid foundation with a century stand. It was Chris Gayle, who struck twice in a single over to send du Plessis and Amla back to the pavilion. But just in the nick of time, de Villiers and Rossouw ripped apart the opposition ranks with their sizzling knocks. It was Rossouw, who upped the tempo by smashing a flurry of boundaries square of the wicket on either side. He reached his fifty in style by playing a forceful cut shot off Taylor over backward point for a six. de Villiers took over from him to dismantle the Windies attack with a wide array of shots.]]></line><line><![CDATA[After South Africa's top-order batsmen struggled against a disciplined effort by the West Indies' seamers upfront, the sparkling explosion of fireworks from the willow of AB de Villiers and Rilee Rossouw helped them to recover and post a mammoth total on the board. In fact, West Indies started on a good note, with Jason Holder and Jerome Taylor bowling with purpose. Both of them produced movement off the deck and Holder also extracted awkward bounce from the surface. Interestingly, they looked to cramp South Africa's opener Quinton de Kock for room and the plan worked, with Holder snaffling the wicket of de Kock.<br/>]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>SIX</b>, shuffles across to this low full toss angling in around off, gets under it and hammers it over the deep square leg boundary for another six, this was just too good from de Villiers, after conceding <b>34 runs in the last over</b>, Holder concedes <b>30 in this one</b>. This is also the <b>highest score on Australian soil</b>]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>SIX</b>, full on the stumps, de Villiers launches it over the long-off fence for another maxmimum, <b>he missed out on the fastest 150 in the last month, but this time he has done it</b>]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>FOUR</b>, full outside off, de Villiers brings up his <b>150</b>,the fastest 150, with another boundary. He took just <b>12 balls</b> to reach 150 from the 100-run mark, de Villiers lofted this to the right of long-off, who could only see it crashing into the fence]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>SIX</b>, banged in short and outside off, de Villiers rocks back and muscles the pull over the deep mid-wicket fence for back-to-back sixes]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>SIX</b>, shuffles across to this fullish delivery on middle stump line, de Villiers gets under it and launches it over the deep backward square leg fence, this is just too good for the West Indies' captain]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 2 runs, fuller and on the stumps, de Villiers puts his front foot out of the way and goes for the slog, ends up miscuing it through mid-wicket but it was good enough for a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;A Russell to Behardien, no run, slower ball outside off, Behardien was lining up for a big one, but can't connect, the keeper collects]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 1 run, <b>dropped by Smith!</b> It was fuller length outside off, de Villiers uppishly drives to extra cover, where Smith tries to reverse cup it, but floors it, Holder is not happy with the effort]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;A Russell to de Villiers, <b>FOUR</b>, back of a length delivery from Russell, de Villiers rocks back and pulls it towards deep mid-wicket, the fielder dives to his right but can't get a hand on it, the umpires check whether it was a six or a four, but the ball bounced before the rope]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;A Russell to Behardien, 1 run, very full on middle, Behardien squeezes it out towards mid-wicket and was looking for the single there, de Villiers was backing up too far and the fielder has a shy at the non-striker's end, he misses as de Villiers dives and the batsmen then get the single on the overthrow, poor cricket from West Indies there]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;A Russell to Behardien, <b>SIX</b>, Behardien joins the party now, it was full and around off, Behardien gets under it and sends it up and over the long-off fence for his first maximum, great batting from the South Africans here]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;A Russell to Behardien, 2 runs, fullish delivery angling in on middle, Behardien chips it over mid-wicket for a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>SIX</b>, on a length and on the stumps, de Villiers smashes it to the deep mid-wicket fence, the ball sails well over the rope - <b>34 came off that Holder over, the 2nd most expensive over in WC history</b>]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 2 runs, slower ball from Holder, de Villiers mistimes the loft, Benn runs back from mid-off, tries to dive, but can't even get a hand on it, the batsmen take another two]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>FOUR</b>, this time he goes on the off-side, it was around off, de Villiers changes his stance and reverse sweeps it over the short third man and the ball runs away to the fence in no time]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>FOUR</b>, a boundary off the free-hit, it was a low full toss and around off, de Villiers goes across and hoicks it to the deep backward square leg fence]]></line><line><![CDATA[<b>Free-hit</b> coming up]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>no ball</b>, <b>FOUR</b>, <b>what a super shot!</b> He goes down on one knee after shuffling across and scoops it to the fine leg fence, another no-ball from Holder, he has lost his footing here]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 2 runs, de Villiers can't get a boundary off the <b>free-hit</b>, it was fuller and outside off, de Villiers mistimes the drive to widish long-off, the batsmen come back for the second]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>no ball</b>, <b>SIX</b>, <b>de Villiers gets his century in style</b>, this is the <b>2nd fastest hundred</b> in World Cup history, de Villiers makes it <b>3 in 3 against West Indies in World Cups</b>, it was length around off, de Villiers just launches it straight down the ground for another maximum, Holder overstepped as well on that occasion]]></line><line><![CDATA[<b>de Villiers is on 99 now</b>]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>FOUR</b>, fuller in length and around off, de Villiers clears his front leg, gets under it and just lofts it to the long-on fence, the fielder was inside the circle]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 1 run, <b>run-out chance missed!</b> It was angling away outside off, de Villiers mistimes the punch to the left of the bowler and sets off, the bowler was quick to move across to his left, grabs the ball, turns and fires in the throw at the non-striker's end. de Villiers was nowhere near the crease had Russell got a direct-hit, but he survives]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;A Russell to Behardien, 1 run, just short of a good length and slightly wide outside off, Behardien punches it square of the wicket for a single]]></line><line><![CDATA[<b>Farhaan Behardien, right handed bat, comes to the crease</b>]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;A Russell to D Miller, <b>out</b> Caught by Jerome Taylor!! That is a sensational catch from Taylor at the long-on boundary. The umpires check for the no-ball and then Taylor's foot, but it is all fine. It was a fullish delivery just around off, Miller goes for the loft, but doesn't get the desired distance. Taylor from long-on runs to his right, puts his right hand out and plucks the ball out of thin air. He managed to keep his feet away from the rope as well. That is just a superb piece of fielding, <b>catch of the tournament so far</b>. The celebrations were also not bad. Russell goes <b>flat on the ground</b> in front of Taylor's feet and Sammy <b>doffed his cap twice</b> to show his respect to Taylor, all in good fun. <b>D Miller c Jerome Taylor b A Russell 20(16)</b>]]></line><line><![CDATA[A Russell to D Miller, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 1 run, very full and around off, de Villiers moves across and clips it to backward square leg for a run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;A Russell to de Villiers, <b>FOUR</b>, <b>great improvisation from AB!</b> It was full outside off, de Villiers shuffles across his sticks, kneels down and plays a one-handed sweep of sorts - just sensational stuff - to the fine leg fence for a boundary, the fielder was inside the circle]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;A Russell to de Villiers, no run, great fielding from Russell, he angles this one across off, de Villiers goes hard, but mistimes the shot to the left of the bowler, who puts his left hand out and prevents the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;J Holder to D Miller, 2 runs, <b>in the airrr, but Gayle makes a mess of it!</b> It was high full toss outside off, Miller goes hard at it, but ends up slicing it high. Gayle from cover runs back, but was never looking comfortable to take the catch, he dives, but the ball bounces away from him. Maybe, he was put off by Carter, who was also just behind him and was going for the catch as well. It could have been the sun as well, not sure about that]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;J Holder to D Miller, 2 runs, yorker delivery outside off, Miller squeezes it out towards long-off and the batsmen take another couple there]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;J Holder to D Miller, <b>wide</b>, very full but a little too wide this time around, wided by the umpire]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;J Holder to D Miller, no run, yorker length delivery just inside the tramline, Miller reaches out, but can't connect this time]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;J Holder to D Miller, 2 runs, low full toss wide outside off, Miller chases it and mistimes the push past the bowler, the batsmen take two because the ball went very slowly to the fielder at long-off]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;J Holder to D Miller, 2 runs, full outside off, Miller reaches out and lofts it inside-out over extra cover, the batsmen take another couple before the sweeper runs across to his left and cuts it off]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;J Holder to D Miller, 2 runs, full and slightly wide outside off, Miller reaches out and drives to the left of backward point, the batsmen had already set off for the single, the fielder dives to his left and makes a half-stop, the batsmen then take the second as the ball rolls away further from him, great running that]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jason Holder [7.0-2-29-1] is back into the attack</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;A Russell to de Villiers, <b>SIX</b>, <b>what a shot!</b> He shuffles across, goes down on one knee and plays the scoop to perfection, the fielder at fine leg was inside the circle and even if he was at the rope, he would have seen it sailing into the crowd, where a gentleman takes a great catch]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 2 runs, low full toss around off, de Villiers whips it towards deep mid-wicket and charges back for the second, the bowler is livid with his fielder there, but there's nothing he can do with de Villiers running like that]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 2 runs, touch fuller this time and angles across off from round the wicket, de Villiers mistimes the heave towards deep mid-wicket, the ball didn't have much pace on it and the bastmen take a couple]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;A Russell to D Miller, 1 run, works this delivery on middle stump line to square leg to hand over the strike back to his captain]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 1 run, angling in on leg, de Villiers shuffles across and plays the pick up shot, picks out backward square leg, the batsmen though take another quick run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;A Russell to D Miller, 1 run, yorker just outside off, Miller jams it out to mid-off for a quick run, <b>300 comes up</b> for South Africa with that single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Benn to D Miller, 1 run, tossed up on the stumps, Miller goes deep in the crease and works it to deep square leg to keep the strike]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Benn to D Miller, no run, in the blockhole, Miller squeezes it out to cover]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Benn to D Miller, <b>wide</b>, down the leg-side, Miller fails to nurdle it fine, wided by the umpire]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Benn to D Miller, 2 runs, floated up on off and turning in towards Miller, who dances down the track and works it in front of mid-wicket, the fielder was at the rope and had to come a fair way in, giving the batsmen ample time to take the second]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Benn to de Villiers, 1 run, short and wide outside off, de Villiers rocks back and cuts it to sweeper cover]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Benn to de Villiers, <b>FOUR</b>, touch flatter and outside off, de Villiers shuffles across once again, bends on his knees and sweeps it airily towards the fine leg fence for back-to-back boundaries]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Benn to de Villiers, <b>FOUR</b>, another great shot from de Villiers, he shuffles across, kneels down and sweeps it past a diving short fine leg fielder, the ball runs away to the fence, this was the 9th four of his innings]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;A Russell to D Miller, 2 runs, touch fuller and on off and middle, Miller works it through the mid-wicket region, the batsmen take another couple before the fielder in the deep runs across to his left and stops the ball]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;A Russell to D Miller, no run, back of a length delivery angled across off, Miller hangs back and lines up for the pull, but he fails to connect as the ball goes under his bat]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 1 run, low full toss around off, de Villiers clips it towards deep mid-wicket, can only get a single there]]></line><line><![CDATA[Round the wicket to de Villiers now]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;A Russell to D Miller, 1 run, pushes this length delivery angled across off to mid-off and sets off for a single]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;A Russell to D Miller, 2 runs, on middle stump line, Miller wrists it through the vacant mid-on region, the batsmen come back for the second]]></line><line><![CDATA[<b>David Miller, left handed bat, comes to the crease</b>]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;A Russell to Rossouw, <b>out</b> Caught by Ramdin!! Rossouw perishes for the cause. Neverthless, it was a great innings as it provided the impetus for the hitting in the end overs. It was on a good length and around off, Rossouw backs away and looks to go big over covers, but gets a thick outside edge. Ramdin takes a simple catch to his left. This also ends the <b>134-run partnership</b> between him and de Villiers. de Villiers pats him on the back as he walks past him. <b>Rossouw c Ramdin b A Russell 61(39) [4s-6 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[A Russell to Rossouw, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Benn to Rossouw, 1 run, gives this one more air and around off, Rossouw backs away and cuts it towards point, who moves to his right and stops the ball, but can't prevent the single]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Benn to de Villiers, 1 run, shortish and outside off, de Villiers hangs back and cuts it to point, the batsmen take a quick single]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Benn to de Villiers, <b>FOUR</b>, floated up outside off, de Villiers goes down on one knee and sweeps it behind square, the ball runs away to the fence as there was no-one behind square in the deep on the on-side]]></line><line><![CDATA[Round the wicket to de Villiers]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Benn to Rossouw, 1 run, tossed up on middle, Rossouw kneels down for the slog sweep, but mistimes it through mid-wicket, good enough for a single though]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Benn to Rossouw, <b>FOUR</b>, low full toss from Benn, a gift for Rossouw, who doesn't disappoint and drives it to the deep extra cover fence]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Benn to Rossouw, no run, flighted delivery outside off, Rossouw goes for the reverse paddle, but fails to connect, the keeper collects]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>de Villiers has scored 2 centuries in 2 World Cup games</b> against West Indies prior to this game. Can he do it the third time?]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;A Russell to de Villiers, <b>FOUR</b>, this is just great batting from de Villiers, he dances down the track to this fullish and wide delivery outside off, reaches out and lofts it to the wide long-off fence]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;A Russell to de Villiers, <b>FOUR</b>, back of a length delivery on middle and leg, de Villiers rocks back and pulls it to the deep mid-wicket fence]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;A Russell to de Villiers, no run, full and around off, de Villiers drives and drives hard, but hits it straight to extra cover]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;A Russell to de Villiers, 2 runs, slower delivery on off and middle, de Villiers shuffles across and tucks it away behind square, the batsmen take two before the fielder from fine leg moves to his left and hunts the ball down]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;A Russell to de Villiers, no run, fuller and on off and middle, Villiers leans forward and drives, picks out extra cover and says no for the single]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;A Russell to Rossouw, 1 run, Rossouw comes down the track and punches it to cover to get the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>72 runs came off the batting powerplay</b>. These are the most number of runs that have been scored in the batting PP in the World Cup so far]]></line><line><![CDATA[<b>Andre Russell [4.0-0-23-0] is back into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Benn to de Villiers, 2 runs, tossed up around off, de Villiers drives it wide of long-off and the batsmen have ample time to come back for the second before the fielder can get around]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Benn to de Villiers, <b>FOUR</b>, third consecutive boundary for de Villiers to bring up his <b>fifty</b>, it was a short delivery around off, de Villiers lofts it inside-out over covers and the ball runs away to the fence]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Benn to de Villiers, <b>FOUR</b>, backs away and Benn follows him with a quicker full toss, de Villiers this time dispatches it to the deep mid-wicket fence for back-to-back boundaries]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Benn to de Villiers, <b>SIX</b>, floated up on middle stump, de Villiers makes room and lofts it beautifully inside-out over cover, <b>100 of the partnership comes up in just 60 balls</b>]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Benn to Rossouw, 1 run, low full toss on middle, Rossouw just eases it down to long-on for a single]]></line><line><![CDATA[Will bowl to Rossouw from over the wicket]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Benn to de Villiers, 1 run, flatter and outside off, de Villiers cuts it towards cover-point and the batsmen hurry across for a single, the fielder made a little fumble as well, making it easier for them to take the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sulieman Benn [7.0-0-37-0] is back into the attack</b>]]></line><line><![CDATA[Benn will bowl the final over of the batting powerplay]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 2 runs, pushes this delivery on middle stump line in front of long-on, the batsmen take two on account of good running between the wickets]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, <b>SIX</b>, Rossouw gets to his <b>2nd ODI fifty</b> in style, this was just too good a shot, it was banged in short and well outside off, Rossouw jumps high in the crease and cuts it well over the deep backward point fence for a maximum, super shot from Rossouw]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Jerome Taylor to de Villiers, 1 run, full and outside off, de Villiers slices the drive to sweeper cover for a single]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 1 run, fuller and straighter in line, Rossouw went for a big hoick but gets an inside edge that rolls away to short fine, the batsmen take a single]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, <b>3 wides</b>, down the leg-side, Rossouw fails to clip it and the keeper also can't stop it cleanly even after diving to his right, the batsmen take two extra runs apart from the wide]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 2 runs, very full on middle, Rossouw squeezes out the drive towards cover, the batsman was charging to the other end when the fielder throws it at the non-striker's end, there was no one backing up, the ball went towards the deep mid-wicket region and quick running ensured that they come back for the extra run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Jerome Taylor to de Villiers, 1 run, the third umpire has been pressed into service to check a run-out chance, but Rossouw looks to have made his ground easily. <b>Not Out</b> will flash on the big screen, it was a good length delivery outside off, de Villiers shuffles across and looks to clip it through the on-side, gets an inside edge on the pad, the batsmen go through for a quick run as the ball rolls away into the off-side, Taylor runs across, picks it up and under-arms the throw at the striker's end, gets a direct-hit but Rossouw was well in]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 1 run, homing in on off and middle, Villiers shuffles across just a touch and works it to deep mid-wicket, he was looking for the second run, but the fielder was quick to reach the ball]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>FOUR</b>, full and just outside off, de Villiers drills the drive past a diving extra cover and the ball runs away to the fence in no time, this is great batting]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;J Holder to de Villiers, <b>FOUR</b>, goes for the yorker but ends up bowling a low full toss, de Villiers drills it uppishly over the bowler's head, who fails to get his hands on it, the ball runs away to the long-off fence as the fielder was inside the circle]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;J Holder to Rossouw, 1 run, full and outside off, Rossouw leans forward and drives it to extra cover, who was standing deep in the circle, the batsmen pinch a quick run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 1 run, takes the pace off again and bowls this on a length and on off, de Villiers drops it in front of point and gives the strike back to Rossouw]]></line><line><![CDATA[Back to over the wicket for de Villiers]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;J Holder to Rossouw, 1 run, slower ball angling in on leg, Rossouw works it past square leg for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Holder continues from round the wicket]]></line><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 1 run, length ball on off, Rossouw pushes it gently in front of mid-off and sets off, he will retain strike]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Jerome Taylor to de Villiers, 1 run, fuller and angling in on off and middle, de Villiers drives it to long-on]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Jerome Taylor to de Villiers, <b>FOUR</b>, great shot from the South African captain, it was overpitched from Taylor, de Villiers drives it down the ground to the long-off fence, the fielder from long-on gave chase but he had no chance]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 1 run, almost a yorker from Taylor on the stumps, Rossouw drills it towards the non-striker and de Villiers fails to get out of the way, the batsmen take a single as the ball rolls away towards mid-off, de Villiers saved a run for West Indies there]]></line><line><![CDATA[<b>Free-hit</b> coming up]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, <b>no ball</b>, <b>FOUR</b>, on a good length and outside off, Rossouw waits for it inside the crease, opens the face of the bat and places it beautifully between the fielder at short third and backward point, to make matters worse, he has overstepped there]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 2 runs, another low full toss from Taylor, Rossouw drives it through the covers, the fielder from extra cover runs and dives to his right, but can't stop the ball. The batsmen take two before the sweeper tidies up]]></line><line><![CDATA[Comes round the wicket now]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, <b>FOUR</b>, poor ball to start the over from Taylor, it was a full toss but it had to be put away, Rossouw did just that as he drove it magnificently through the covers, the ball runs away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;J Holder to Rossouw, 1 run, angling in around off and middle, Rossouw whips it through mid-wicket and will keep the strike]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;J Holder to Rossouw, 2 runs, low full toss from Holder, Rossouw shuffles across and mistimes the drive towards long-on, the ball had very little pace on it and the batsmen took on Samuels in the deep, who held onto the ball for a little too long there]]></line><line><![CDATA[Round the wicket again to Rossouw this time]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 1 run, low full toss from Holder, de Villiers helps it down to long-on for a run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;J Holder to Rossouw, 1 run, angling away outside off, Rossouw looks to drive, the ball rolls away to third man off the outside edge]]></line><line><![CDATA[Mid-off has been moved back and sweeper comes into the circle]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 1 run, full and on middle and leg, de Villiers wrists it towards long-on and gets to the other end]]></line><line><![CDATA[Back to over the wicket now]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;J Holder to de Villiers, 2 runs, fuller in length and on the stumps, de Villiers moves across just a touch and works it towards deep mid-wicket for a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jason Holder [5.0-2-9-1] is back into the attack</b>]]></line><line><![CDATA[Jason Holder replaces Chris Gayle in the attack. He will start from round the wicket]]></line><line><![CDATA[Time for the <b>batting powerplay</b>]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, <b>FOUR</b>, banged in short and at the batsman, the ball sits up nicely for Rossouw to short-arm pull it to the deep backward square leg fence, good way to end the over]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 2 runs, yorker outside off, Rossouw opens the face of the bat and guides it towards the squarish third man region, good running ensures that the batsmen come back for the second]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Jerome Taylor to de Villiers, 1 run, angling in on the pads, de Villiers works it behind square and gets to the other end]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Jerome Taylor to de Villiers, 2 runs, another slower one that was banged in short and outside off, de Villiers waits for it and ramps it to the right of the keeper, the batsmen take two before big Benn from third man runs to his left and cuts it off]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, 1 run, back of a length delivery outside off, Rossouw goes for the pull, but mistimes it to the left of the bowler, who fails to stop the ball. The batsmen take a quick single as the ball rolls away towards mid-on]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Jerome Taylor to Rossouw, no run, slower one on a good length and on off and middle, Rossouw defends it to the left of cover, who moves across and stops the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jerome Taylor [5.0-1-20-0] is back into the attack</b>]]></line><line><![CDATA[Jerome Taylor will start the proceedings after the drinks break. He is currently having a chat with the umpire about the ball. West Indies have had some issues with the ball today.]]></line><line><![CDATA[Time for the second <b>drinks</b> break.]]></line><line><![CDATA[On a slightly controversial note, Ian Gould, one of the umpires for the match, didn't seem to be particularly happy with the condition of one of the balls and had a chat with the West Indies' captain, Holder. It has to be said that this is a rather abrasive surface and the ball will get scuffed up a bit.  ]]></line><line><![CDATA[It was Chris Gayle, who made the crucial breakthrough by snaring the wicket of du Plessis. Denesh Ramdin, the wicket-keeper, also deserves the credit for showing excellent reflexes to take the catch. To make it even better for the Windies, Gayle dismissed Amla, with the batsman finding himself plumb in front to be dismissed LBW. He is certainly a man with a golden arm. From South Africa's perspective, they need AB de Villiers to essay a captain's knock.]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the last 18 overs: Sulieman Benn, the slow left-arm orthodox, followed up the fine efforts of West Indies' seamers by bowling tidily. He even induced the edge off Hashim Amla's bat, but Jason Holder perhaps missed a trick by not having a fielder stationed at first slip for Benn. As the Windies generally bowled with good control, for a brief period, Amla and Faf du Plessis struggled to free their arms and collect runs. However, Amla and du Plessis are world-class batsmen, and they were able to get through the difficult period and amass fifties. Du Plessis yet again showed his ability to use the depth of the crease and bisect the gaps in the field. <br/>]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Gayle to Rossouw, 1 run, quicker and close to off, Rossouw knocks it to the right of cover and picks up a single]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Gayle to Rossouw, <b>wide</b>, darted down the leg-side, wide signalled]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Gayle to de Villiers, 1 run, tosses it up bit wide of off, de Villiers reaches out, lunges forward and drives it to sweeper cover]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Gayle to Rossouw, 1 run, flighted outside off, Rossouw drives it to sweeper cover]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Gayle to Rossouw, no run, short and outside off, Rossouw middles the cut, finds the fielder at backward point]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Gayle to Rossouw, no run, fired into the blockhole, Rossouw brings his bat down and jams it towards cover]]></line><line><![CDATA[Round the wicket now!]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Gayle to de Villiers, 1 run, tossed up on off, de Villiers eases it to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Sammy to de Villiers, 1 run, fullish and on off, de Villiers comes forward and drives it to long-on]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Sammy to Rossouw, 1 run, nurdled away to square leg for a single]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Sammy to Rossouw, <b>FOUR</b>, rank long hop from Sammy, bowled from over the wicket, Rossouw had plenty of time to rock back and muscle the pull past the diving mid-wicket fielder, Gayle had no chance of stopping that in the ring]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Sammy to Rossouw, <b>FOUR</b>, bad delivery from Sammy and Rossouw dispatches it. Drops it short and angles it in from round the wicket, Rossouw goes back and pulls it in the air over mid-wicket, only fielder in the deep and he beat him comfortably]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Sammy to de Villiers, 1 run, driven off the inside part to long-on]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Sammy to Rossouw, 1 run, too straight from Sammy, Rossouw milks it behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Gayle to de Villiers, no run, goes right back in the crease and knocks it to the right of the bowler, Gayle gets across and stops it with his boot. Rossouw stands his ground, Gayle thuds into him and has a stare at the batsman. He was just fooling around there, Rossouw also had a smile on his face]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Gayle to de Villiers, <b>wide</b>, fired down the leg-side, de Villiers has nothing to with it]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Gayle to de Villiers, no run, leans forward and turns it gently to mid-wicket]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Gayle to de Villiers, 2 runs, provides a bit of width, de Villiers carves it behind point for a brace]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Gayle to Rossouw, 1 run, flatter and on off, Rossouw eases it off the back foot to sweeper cover]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Gayle to Rossouw, 2 runs, bit short and outside off, Rossouw cuts it to the left of sweeper and sprints back for the second]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Gayle to Rossouw, no run, flighted on off, bowled from round the wicket, Rossouw is half-forward and defending to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Sammy to de Villiers, 2 runs, again, some very good running by these two, de Villiers nudges it with soft hands in front of square on the leg-side, the fielder from mid-wicket had a bit of ground to cover,]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Sammy to Rossouw, 1 run, on a length close to off, Rossouw punches it to sweeper cover]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Sammy to Rossouw, no run, back of a length around off, Rossouw knocks it to cover, calls "no" for the single]]></line><line><![CDATA[Switches to round the wicket for Rossouw!]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Sammy to de Villiers, 1 run, wicket-to-wicket from Sammy, de Villiers punches off the inside part again, the ball rolls down to long-on]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Sammy to de Villiers, no run, good length ball on middle, de Villiers stays in the crease and bunts it to cover]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Sammy to de Villiers, 2 runs, brilliant running from Rossouw, fuller and on off, de Villiers drives it off the inner half to long-on, Rossouw was always looking for two and he gets it comfortably]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Sammy [5.0-0-32-0] is back into the attack</b>]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Gayle to de Villiers, 1 run, slower and turning in, de Villiers waits and nurdles it to deep square leg]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Gayle to de Villiers, no run, flighted on off, de Villiers defends it back down the wicket]]></line><line><![CDATA[Three men circling ABD, slip, leg slip and silly point in place..]]></line><line><![CDATA[<b>AB de Villiers, right handed bat, comes to the crease</b>]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Gayle to Amla, <b>out</b> Lbw!! Well, well he has removed both set batsmen. Amla has a chat with Rossouw before making his way back to the pavilion. It looked dead as soon as the ball thudded into the pads. It was pushed through, skids on after pitching, Amla shuffles across and misses the nudge through the on-side, was struck right in front of middle stump. That is as plumb as you can get. Those two wickets has brought West Indies back into the game. <b>Amla lbw b Gayle 65(88) [4s-1 6s-1]</b>]]></line><line><![CDATA[Gayle to Amla, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Gayle to Rossouw, 1 run, quicker and outside off, Rossouw slaps it to sweeper cover]]></line><line><![CDATA[<b>Rilee Rossouw, left handed bat, comes to the crease</b>]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Gayle to du Plessis, <b>out</b> Caught by Ramdin!! The man with the golden arm strikes! Gayle breaks the dangerous looking partnership. It was an excellent take from Ramdin. There was a bit of extra bounce on that occasion, du Plessis made room and was looking to go over extra cover, gets a thickish outside edge and Ramdin snaffles it at chest height. For a second, no one really bothered to appeal, but umpire Davis raised his finger. In fact, the ball got stuck in the webbing of Ramdin's gloves. <b>du Plessis c Ramdin b Gayle 62(70) [4s-3]</b>]]></line><line><![CDATA[Gayle to du Plessis, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Gayle to du Plessis, no run, comes down the track, ekes out an inside edge onto the pads, the ball lobs to the off-side and Faf didn't have a clue where the ball was as he hurries back to the crease]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Samuels to du Plessis, 1 run, pulls the length back, du Plessis nurdles it in front of square on the leg-side, retains strike]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Samuels to du Plessis, <b>FOUR</b>, brilliant shot! It was not all that short, but Faf made good use of the crease, backs away and lofts it off the back foot over extra cover. The slowness of the wicket allowed him to play that shot]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Samuels to du Plessis, no run, advances down the wicket, works it away with the spin to backward square, picks out the fielder there]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Samuels to du Plessis, 2 runs, slower and on off, du Plessis shuffles across, goes on his knee and scoops it over Ramdin, who was moving to his left]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Samuels to Amla, 1 run, flighted well wide of off, Amla reaches out and drives it to sweeper cover]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Samuels to du Plessis, 1 run, tad short and outside off, du Plessis cuts it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Marlon Samuels [1.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Gayle to du Plessis, 1 run, drops it short, du Plessis goes back and pulls it along the ground to deep mid-wicket. 8 runs off the over, without much risks taken]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Gayle to Amla, 1 run, nudged away comfortably to deep mid-wicket]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Gayle to Amla, 2 runs, easily done, Gayle is not getting his line right, turning into the pads, Amla works it with soft hands to deep square leg, the fielder from deep mid-wicket had a long way to cover]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Gayle to du Plessis, 1 run, flatter and just outside off, du Plessis punches it to sweeper cover]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Gayle to du Plessis, <b>wide</b>, quicker and down leg, Faf gets inside the line and lets it go]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Gayle to Amla, 1 run, darts it into the pads, Amla nurdles it behind square leg for a single]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Gayle to du Plessis, 1 run, uses the depth of the crease and nudges it to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Gayle, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, pulls the length back, Amla middles the punch and finds mid-off, he hit that too well, which didn't even allow him to take a single]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, fullish and on off, du Plessis comes forward and drives it to long-on]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, leans forward and milks it away to deep mid-wicket]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, now, Faf reaches his <b>fifty</b>, his second successive fifty. Amla walks up and congratulates him. Slower delivery on off, du Plessis works it to mid-wicket for a single]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Sammy to du Plessis, <b>FOUR</b>, both batsmen are shifting gears, pitched up just outside off, Faf gets a good stride forward and lofts it handsomely to the long-off fence. The fielder was inside the circle and it was a calculated hit from du Plessis]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 2 runs, back of a length around off, du Plessis stands in the crease and heaves it to deep mid-wicket, he used his wrists to get it in front of square]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, flighted on off, du Plessis shimmies down the track and drives it straight down the ground, Benn does not field the ball and it hits the stumps, ricochets towards cover]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, again not off the middle, it comes off the inside half and trickles away to long-on. That run brings up the <b>100-run</b> stand between these two]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Benn to Amla, 2 runs, quicker and close to off, Amla flashes a cut and the ball takes the outside edge and rolls away to third man, Samuels runs behind the ball and keeps it down to a couple]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Benn to Amla, no run, flatter and just outside off, Amla knocks it to backward point]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, tossed up around off, du Plessis drops it to cover-point and calls for a quick single]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Benn to du Plessis, 2 runs, slightly short, du Plessis backs away and lifts it over extra cover, Taylor runs to his left from long-off and fires a throw at the bowler's end. Amla was made it to hurry, a better throw or a direct hit would have made it interesting]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Sammy to Amla, 2 runs, in the air, but safe. Another one that holds up on the wicket, Amla is early into the shot, chips it uppishly to long-on. Since there was no pace on the ball, it allowed Faf to come back for the second]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, takes the pace off the ball, Amla closes the bat face early, gets a soft leading edge back to the bowler]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, pitched up outside off, Amla drives it to Gayle at cover]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Sammy to Amla, <b>SIX</b>, Amla brings up his <b>28th ODI fifty</b>. A superb shot to get to the landmark. He waves his bat at the crowd. It was on a length just outside off, he hits it through the line straight back over the bowler's head. The ball had enough to clear the boundary rope]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, fuller and angling into the stumps, driven off the inner part to long-on]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, back of a length on off, Amla uses those wrists to nurdle it to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, Faf was almost knocked over, skips out of the crease, Amla meets the pitch of the ball and drills it in the air straight back at his partner, du Plessis does well to react quickly and get down, the long-on fielder tidies up in the deep]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Benn to Amla, no run, goes deep in the crease and cuts, finds the fielder at backward point]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, allows the ball to come, opens the bat face and knocks it to sweeper cover]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, gives the charge to Benn and eases it to long-on]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, comes down the track and was looking to drive it to long-off, but gets a thickish inside edge and it runs down to long-on]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, touch short and outside off, Amla cuts it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Sammy to du Plessis, no run, back of a length on off, du Plessis stays in the crease and knocks it in front of short mid-wicket]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, off-speed delivery, Amla leans forward and nudges it to mid-wicket]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, shortish and just outside off, Amla flashes a cut and picks out backward point]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, fuller and on off, Amla drives, the ball takes the inside half of the bat and dribbles towards mid-on, Russell runs across from mid-wicket and keeps them down at their respective ends]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, fullish and attacking the stumps, Faf drives it to long-on]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, angled in from wide of the crease, Amla stays back and nurdles it behind square for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, gets a good stride forward and wrists it to long-on]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Benn to Amla, no run, slower and on off, Amla presses forward and blocks]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, flighted on off, du Plessis drives it back to the bowler, Benn allows the ball to burst through his hands, the ball hits the umpire's leg on the way to long-on]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Benn to du Plessis, no run, arm-ball that skids on, du Plessis is neither forward nor back, gets an inside edge onto the pad. The ball drops near his feet, it so easily could have rolled back onto the stumps]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, eases the drive down to long-off]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, fraction short and just outside off, du Plessis cuts it square of the wicket, thinks about the second but doesn't go through with it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, yorker aimed at the base of the stumps, squeezed back to the bowler. Good delivery to end the over]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, on a length close to off, du Plessis brings his bat down at an angle, the ball takes the outside half and rolls to the right of point]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, rolls his wrists and works it away to deep square leg]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, pitched up just outside off, Amla drives it to mid-off, takes a couple of steps down the pitch before sending Faf back on the single. That was a good call]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, fuller and just outside off, Amla pushes it to the left of Sammy, who stops it in his followthrough]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, on the middle stump line, du Plessis hangs back and nudges it to the right of mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Benn to Amla, no run, tossed up on off, Amla makes room and drives it inside out, picks out Gayle at extra cover]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, skips out of the crease, gets to the pitch of the ball and drives it to long-on]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, driven down the ground to long-on]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Benn to Amla, no run, comes down the track and drives it to the right of the bowler, Benn dives and makes a fine save]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, backs away slightly and knocks it to sweeper cover]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, punched to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Gould has a chat with Holder. Then, notes something down in his pocket diary. Not sure what that was about. In between overs, Holder was seen showing the ball to the umpires. He was not happy with one of the balls.]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 2 runs, another edge that is safe, on a length and holds its line, du Plessis hangs his bat away from the body, the ball takes the edge and runs down to third man, Carter runs across and keeps it down to a brace]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, back of a length on off, Amla shuffles across and wrists it in front of square on the leg-side]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Sammy to Amla, no run, wicket-to-wicket from Sammy, Amla presses forward and blocks it straight to the bowler]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Sammy to Amla, 2 runs, drags the length back, Amla opens the bat face and punches it to the right of backward point, hares back for the second]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Sammy to du Plessis, 1 run, the ball seemed to hold up on the wicket, du Plessis checks his punch, it was slightly uppish but well wide of the mid-wicket fielder]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Sammy to Amla, 1 run, too straight, on middle, Amla leans forward and flicks it through mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Ramdin is standing up to the stumps for Sammy]]></line><line><![CDATA[<b>Darren Sammy, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, tossed up close to off, Amla drives it down to long-off and keeps strike]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Benn to Amla, no run, once again finds cover with the drive]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Benn to Amla, 2 runs, edged and safe! No slip fielder and Amla gets away with it. Slower and outside off, Amla is drawn forward and drives, the ball takes the outside edge and runs down to third man]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Benn to Amla, no run, rolls his wrists and tucks it to backward square, straight to the fielder]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Benn to Amla, no run, flighted just outside off, Amla drives and picks out Gayle at cover, who dives and stops the ball]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, quicker and around off, punched to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;A Russell to Amla, no run, bouncer just outside off, Amla sways away from the line of the delivery]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;A Russell to du Plessis, 1 run, shortens the length, du Plessis stands tall and punches it to sweeper cover. This time he waited for the ball to arrive]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, the ball doesn't seem to be coming on, du Plessis is early on the punch, mistimes it back to the bowler]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, too full and outside off, du Plessis reaches out and drags it off the toe-end to the on-side]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;A Russell to du Plessis, 2 runs, fuller and on off, du Plessis works it to the right of mid-on, Samuels dives and makes a half stop]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, back of a length around off, du Plessis stays on leg-stump and knocks it to backward point, shouts "no" for the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;A Russell to du Plessis, <b>wide</b>, bumper on the stumps, du Plessis ducks under and looks at the umpire, who signals it a wide for height]]></line><end-of-over>end of over</end-of-over><line><![CDATA[I don't know if we have to find some form. Leading up to this World Cup, we have played some great cricket. But, it tends to happen. World Cup is pressure moments and there is no escaping it, there is no hiding in the shadows. You lose one game and you are in the spotlight. So, won one, lost one, we need to win a couple to find our way into the quarters and then anything could happen. From those quarters, you are three games away from winning the trophy. So, I guess we just need to find some form with the bat, ball and in the field again. I do open the bowling. You are always kind of up against the opening batters. And he (Gayle) made 200 or something, a great knock. These days guys seem to knock off 200 quite easily. Somebody like him, I mean it's expected of somebody like him. He is a great batter, I think leading up to that knock, he hadn't made many runs. So, it's great to see him back in form. And I am up for the challenge. You always want to play against guys who are in form and he is certainly some guy who is in little bit of form.<br/>]]></line><line><![CDATA[<b>The World Cup, this could be my last World Cup, I might not make the next one in four years time, I might be too old</b>. So, I am going to kind of remember every moment and treasure it, if we can go all the way and win this one. It's crazy, close to 90,000 people I reckon, 89,000 of them were Indians. It's still a great place to play (talking about the previous game against India at the MCG). You are standing at the top of your mark and you can't even get to the captain's attention, who is only 5 metres away from you at mid-off. Great place to play cricket again, MCG. Also got great memories of that place. Just amazing atmosphere of that place again. Whether you win or lose, those are the moments I will remember for the rest of my life.]]></line><line><![CDATA[<b>Steyn:</b> Lovely place to come and play cricket. Boys enjoyed playing cricket here, fond memories even if we lose. Couple of years ago we won a series in Australia, exactly where Graeme walked out with a broken hand. So, great place to come and play cricket. I do remember it, I don't remember watching the game (referring to the 1992 World Cup semi-final against England). My cricket only started a couple of years later, but I remember kind of watching, that was kind of the first thing I remember about cricket, the 1992 World Cup. Jonty's run out of Inzamam, the 22 or 21 runs off 1 ball. I actually got Andrew Hudson's shirt the other day, felt the material and how things have changed. It's pretty amazing, this place holds so much history and again a great place to have a World Cup in Australia and New Zealand. Loving it. I am really enjoying it. So, it's a great place to tour. We were here recently, we were in New Zealand before the World Cup. Australia is always a great place to visit. Sydney is a great city and kind of reminds me of Cape Town, with the ocean and everything. ]]></line><line><![CDATA[Dale Steyn spoke to Mark Nicholas before the start of play today. We have his interview transcribed word to word. Here it is:]]></line><line><![CDATA[<b>Drinks</b> are on the field now.]]></line><line><![CDATA[Holder has certainly added a yard of pace and with his ability to extract bounce from a length, it makes him a bowler to watch out for. If he can get his front leg to snap down hard and point towards the wicket while delivering the ball, he may become a force to reckon with. At present, it seems to collapse at the point of the delivery and as a result, he isn't able to transfer the (kinetic) energy from his legs to the upper body and then to the ball. ]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the first 16 overs: The West Indies' seamers, Jason Holder and Jerome Taylor bowled with good disciplines upfront. Both of them produced seam movement off the deck and Holder also extracted disconcerting bounce from the surface. Interestingly, they looked to cramp the left-handed Quinton de Kock for room by bowling from around the wicket. After surviving a few nervous moments, the strategy worked as de Kock was dismissed by Holder. Hashim Amla too struggled with the delivery that nipped back off the seam. <br/>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Benn to Amla, 2 runs, skips out and clips it off his pads to deep mid-wicket for a couple]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Benn to Amla, no run, gets inside the line and defends it off the back foot to the right of the bowler]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, skips out of the crease and drives it to long-on]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Benn to du Plessis, 2 runs, shortish again, du Plessis backs away and cuts it to sweeper cover, where Simmons slips while fielding the ball and the batsmen complete two]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, stays on the back foot and punches it square of the wicket]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Benn to Amla, <b>FOUR</b>, short and wide, Amla goes on the back foot and cuts it powerfully to the deep backward point fence, the fielder that no chance of stopping that one]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;A Russell to Amla, 3 runs, full and outside off, Amla reaches out and square-drives it towards square third man, Benn is late in getting to the ball, he saw the ball going past point and then moved across to his right to field it]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;A Russell to du Plessis, 1 run, back of a length and outside off, du Plessis runs it down with an open bat face towards third man]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;A Russell to du Plessis, <b>FOUR</b>, shortish one again from Russell, du Plessis gets back slightly and pulls it along the ground to the deep mid-wicket fence]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, shortish on off, du Plessis shapes up for the pull but decides to leave it alone at the last instant taking his bat out of the way]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;A Russell to Amla, 1 run, Amla moves across his off-stump and tucks it through backward square leg]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;A Russell to Amla, no run, back of a length and outside off, Amla punches it to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Benn to du Plessis, no run, flighted on off, du Plessis defends it off the back foot to the right of the bowler, who moves across and gets to it]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, leans on the front foot and clips it towards deep mid-wicket]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Benn to du Plessis, 1 run, moves across a touch and works it off the pads to mid-wicket]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Benn to du Plessis, no run, stays on the back foot and defends it with a straight bat to the right of the bowler]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Benn to Amla, 1 run, flighted on off, Amla gets forward and drives it to long-off]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Benn to Amla, no run, full and just outside off, Amla drives it straight to the short cover fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sulieman Benn, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;A Russell to du Plessis, 2 runs, edged and safe! It was a shortish ball from Russell, du Plessis swivels back and pulls, gets a thick top-edge and the ball balloons towards third man, Benn comes running to his left but he was well away from the ball as it was very fine and drops in no-man's land]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;A Russell to Amla, 1 run, full and outside off, Amla reaches out and drives it to sweeper cover, finds the fielder]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;A Russell to Amla, 2 runs, length delivery outside off, Amla drives it to sweeper cover for a quick brace]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;A Russell to Amla, no run, low full toss just outside off, Amla drives it to short cover]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;A Russell to Amla, 2 runs, Amla moves across his off stump and flicks it off his pads through backward square leg for a couple, good running between the wickets]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;A Russell to Amla, no run, Amla shuffles across a touch to this length delivery and works it towards mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Samuels to du Plessis, no run, moves across and turns it towards square leg]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Samuels to Amla, 1 run, punches it off the back foot to the right of the bowler, who moves across quickly but is not able to get to the ball, it rolls towards long-on]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Samuels to du Plessis, 1 run, stays inside the line and whips it towards deep mid-wicket]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Samuels to du Plessis, 2 runs, shuffles across, gets down and paddles it to fine leg for a couple]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Samuels to Amla, 1 run, shuffles across and clips it past the mid-wicket fielder]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Samuels to Amla, no run, goes back and gently turns it towards short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Marlon Samuels, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Another bowling change. Marlon Samuels comes in.]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;A Russell to du Plessis, 2 runs, shuffles across and clips it to mid-wicket for a comfortable brace]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, gets forward and looks to drive it to mid-on, the ball goes off the thick outside half of his bat and finds the mid-off fielder]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, short of length and shaping back in sharply, du Plessis stays back and looks to defend, gets an inside edge onto the pad]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;A Russell to du Plessis, no run, nipping back into the batsman again, du Plessis leans forward and works it towards mid-wicket]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;A Russell to Amla, 1 run, back of a length and shaping back in, Amla stays back, works it towards mid-on for a brisk single]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;A Russell to du Plessis, leg byes, 1 run, on the pads, leans forward to flick, misses and the ball goes off the pad behind square]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andre Russell, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[Andre Russell will replace Jerome Taylor now. Just a slip in place]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;J Holder to du Plessis, 1 run, back of a length delivery nipping back in, du Plessis wrists it towards mid-wicket and sets off for a quick run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, short of length and wide of off, du Plessis reaches out and cuts it to backward point]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, gets back and punches it again, finds the fielder at short cover]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, back of a length and coming back into the batsman, du Plessis stays back and punches it to short cover]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, short of length and outside off, du Plessis just watches it closely and gets out of the way to let it go through]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, back of a length and just outside off, du Plessis mistimes it towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, back of a length around off, Amla punches it back to the bowler]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Jerome Taylor to du Plessis, 1 run, a 121kph slower delivery from Taylor outside off, du Plessis mistimes the drive to mid-off for a quick single]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, 1 run, shortish on leg, Amla swivels back and pulls it to fine leg, finds the fielder near the rope]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, full and outside off, Amla drives it off the front foot and finds the cover-point fielder again]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, fullish and outside off, Amla reaches out and drives it to point, Russell moves across to his left and fields it well]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, back of a length and just outside off, Amla defends it off the back foot towards point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, back of a length that nips back in, du Plessis looks to steer, gets an inside edge and the ball goes on the bounce to the keeper]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;J Holder to du Plessis, 2 runs, shortish one from Holder, du Plessis gets back and pulls it through backward square leg, the fielder in the deep runs along the rope to his left and gets the ball but fires a wayward throw at the striker's end. Good running between the wickets as the batsmen complete two]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, short of length and outside off, du Plessis shuffles across to cover the stumps and lets it go]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, length delivery coming back into the batsman, du Plessis works it towards square leg]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, fuller and coming back in a touch, du Plessis covers the sticks and shoulders arms to it]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;J Holder to Amla, 1 run, short of length and shaping back in, Amla works it towards mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Jerome Taylor to du Plessis, no run, back of a length and coming back into the batsman, du Plessis stays back and tucks it in front of mid-on taking his bottom hand off the bat]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Jerome Taylor to du Plessis, 2 runs, fullish around off, du Plessis punch-drives it to deep extra cover to get off the mark]]></line><line><![CDATA[A slight delay here as Amla is putting on his shoe again]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, 1 run, leans forward as the ball nips back in and flicks it towards mid-wicket, sets off for a quick single, Amla's right shoe came off as he was running to the other end, du Plessis gave it to him with a big smile on his face]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, back of a length and coming back in, Amla looks to clip, the ball goes off the thigh pad behind square]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, 2 runs, back of a length and outside off, Amla punches it square of the wicket with the bottom hand coming off the bat]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, stays back and wrists it, the ball goes off the inside half to square leg, wants a single but is sent back by du Plessis]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, <b>wide</b>, banged in short, Amla sinks under that it but that was too high]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Coming back to the wicket, it was the extra bounce that brought about de Kock's fall. He was nicely set up by the West Indian bowlers]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, covers the sticks as the ball moves away from him and lets it go through. A maiden wicket over from Holder]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;J Holder to du Plessis, no run, around the off stump, du Plessis lets it go through]]></line><line><![CDATA[<b>Faf du Plessis, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;J Holder to de Kock, <b>out</b> Caught by A Russell!! Big wicket for West Indies. de Kock has played that straight into the hands of the cover-point fielder. It was a short of length delivery from Holder outside off, de Kock stays on the back foot and cuts it hard, Russell just has to move slightly to his left and snaffles an easy take. Holder is pumped up and so are the rest of the fielders. <b>de Kock c A Russell b J Holder 12(19) [4s-3]</b>]]></line><line><![CDATA[J Holder to de Kock, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Quinton de Kock has holed out to cover-point</b>.]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;J Holder to de Kock, no run, full around off, de Kock knocks it behind point]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;J Holder to de Kock, no run, short of length and nips back in, de Kock defends it towards square leg]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;J Holder to de Kock, no run, back of a length and outside off, de Kock stays back and knocks it behind point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, short of length on the hips again, Amla tucks it behind square]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, lot of bounce in this surface. It was shortish on the hips, Amla looks to tuck, gets an inside edge and the ball pops off the bat again and flies to his right]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, banged in short on the stumps, Amla ducks underneath it, that was a 145kph bumper from Taylor]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, no run, full on off, touch slower as well, Amla blocks it off the front foot, the ball rolls to the right of the bowler]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, 2 runs, length delivery around off, Amla gets forward and pushes at it, the ball takes the inside half of the bat and rolls through backward square leg]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Jerome Taylor to Amla, 2 runs, Amla is finally off the mark on his 10th delivery. Presents the full face of the bat and punches this fullish ball to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;J Holder to de Kock, no run, stays on the back foot and pushes it towards point]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;J Holder to de Kock, <b>FOUR</b>, de Kock was very lucky there! He stays back and pushes at this fullish delivery from Holder, the ball takes the inside edge and flies past the leg stump to the fine leg fence]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;J Holder to de Kock, no run, comes round the wicket to de Kock. It is a back of a length delivery that pushes de Kock into the crease and he defends it back to Holder]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;J Holder to Amla, leg byes, 1 run, back of a length and coming back into the batsman, Amla looks to clip, the ball takes the thigh pad and runs away behind square, loud appeal for lbw but the umpire is not interested, that was sliding past the leg-stump]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, short of length and outside off, Amla cuts it to cover point]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;J Holder to Amla, <b>wide</b>, slides this down leg, Amla shuffles across to tuck but is not able to connect, good take by the keeper diving to his left]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, stays on the back foot and defends this inswinging delivery back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, ooohhh he almost chopped that back on! de Kock gets forward to this low inswinging full toss around off, he pushes at it but the ball nips back in, takes the inside edge and goes past his leg-stump]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, length delivery coming back in sharply, de Kock presents the full face of the bat and defends]]></line><line><![CDATA[The second slip has moved to catching short cover]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, nips back into the batsman, de Kock looks to flick, misses and is hit on the pads, the ball deflects towards the off-side]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, short and well outside off, de Kock arches back and looks to ramp it, misses, good carry through to the keeper]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, back of a length and on the hips, de Kock tucks taking his bottom hand off the bat just in front of square on the on-side]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, back of a length and coming back into the left-hander, de Kock defends it off the back foot into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, fuller around off, Amla gets forward and drives it to mid-off]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, back of a length and outside off, Amla defends it towards point]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, lovely delivery, almost shaved off Amla's off-stump. It was a back of a length delivery that nips back in sharply, Amla is pushed back into his crease and pushes at it, the ball beats the inside edge of his bat and goes through to the keeper. Snicko shows that there was no bat involved and hit the trouser on its way to the keeper]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, shortish and outside off, Amla mistimes the cut to cover point]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, some bounce again on this shortish delivery, Amla hops back and defends it back towards the bowler]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;J Holder to Amla, no run, short of length and outside off, Amla gets on top of the bounce and knocks it behind point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jason Holder, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, de Kock comes on the front foot and drives hard, Simmons at cover, dives to his right and makes a fine stop]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, <b>FOUR</b>, pitched up this time around off, de Kock leans into the drive, presents the full face of the bat and drills it through the extra cover region, excellent placement once again from de Kock, Samuels at the rope sticks his boot to stop the ball but is not able to prevent the boundary]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, in that channel outside off, de Kock shoulders arms to it]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, comes round the wicket now. Taylor gets some extra bounce here. de Kock stays back and looks to defend, the ball hits the splice of the bat and drops down]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, <b>FOUR</b>, a boundary to get off the mark. Nicely done by de Kock, good placement by him. It was a back of a length delivery outside off, de Kock gets back and punches it square of the wicket, the fielder slides near the rope but is not able to stop the ball from crossing the fence]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Jerome Taylor to de Kock, no run, on a length and moving away from the batsman, de Kock gets his bat out of the way at the last moment and lets it go through, good carry to the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>de Kock and Amla are at the crease. de Kock is on strike. Jerome Taylor will open the attack</b>]]></line><line><![CDATA[South African openers Hashim Amla and Quinton de Kock have walked out to the middle. Jerome Taylor to start with the new ball for West Indies. Two slips in place for him...]]></line><line><![CDATA[The players are walking out for the national anthems. All done. Curtly Ambrose gives a motivational speech to the West Indies players. They break up the huddle now and are taking the field.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>West Indies</b> (Playing XI): Chris Gayle, Dwayne Smith, Marlon Samuels, Denesh Ramdin(w), Lendl Simmons, Jonathan Carter, Darren Sammy, Andre Russell, Jason Holder(c), Jerome Taylor, Sulieman Benn]]></line><line><![CDATA[<b>South Africa</b> (Playing XI): Hashim Amla, Quinton de Kock(w), Faf du Plessis, Rilee Rossouw, AB de Villiers(c), David Miller, Farhaan Behardien, Dale Steyn, Kyle Abbott, Morne Morkel, Imran Tahir]]></line><line><![CDATA[<b>South Africa have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>AB de Villiers:</b> "It is a beautiful cricket field. Lots of tradition and history. Just love to play some cricket here. Very excited about today. They have got a lot of good players in the team. I think we are pretty clear about what we need to do today to all the players. Just try and follow those game plans. And do the basics well today and hopefully come out on top. We will have a bat first. We know we have to keep our feet on the ground. And work hard today to get a good foundation to allow the middle-order to free up at the end. Hopefully get some good runs behind us and put West Indies under pressure. We just want to play some good cricket and win games. That's all we do. You can't control the toss. Luckily I won it today and we are having a bat first. You can't control certain things - toss is one of them. Bat or bowl first, we need to do both to win the World Cup. And we are hoping to play good cricket whether we bat or bowl first. We had some nice discussions. We didn't hit a lot of balls in the last few days to be honest. Just tried to get away from what happened there. Definitely not our best performance. A little bit embarrassing the way we played there (talking about the loss against India). It is still a long tournament and lots of time to fix things. It is not always a fluent road that you are looking forward to in a World Cup. You just wanna win games of cricket. We will try and up that today."]]></line><line><![CDATA[<b>Jason Holder:</b> "No, actually this is my first official game here. I had two warm-up games prior to that. We are coming here full of confidence. Last two games batting has been firing for us. Keep on improving and just have a good game today. It is a good wicket. I am not too disheartened to be bowling first. We get some early wickets and put them under pressure.  We should be in for a really good game. We just have one change - Sulieman Benn is in for Nikita Miller. It is just a straight swap. We are just about getting the guys together. It is good for West Indies cricket. Put some wins on the board and just bring back some pride to West Indies cricket. That's most important."]]></line><line><![CDATA[<b>Pitch Report:</b> "It is a dry wicket. There is a decent grass covering. The surface is a litte bit two-paced. It is a good wicket for batting. The average score here is 250 batting first. However, a team can get around 300 here," <b>Shaun Pollock</b>.]]></line><line><![CDATA[<b>Weather update:</b> There were a few showers earlier but the rain has passed. It is bright and sunny now. It is expected to stay clear throughout the day.]]></line><line><![CDATA[<b>Head-to-head:</b> South Africa lead West Indies <b>3-2</b> in World Cups.]]></line><line><![CDATA[<b>Pool position:</b> West Indies occupy the second spot in the points table with 4 points (won 2 out of 3), while South Africa are fourth with 2 points (won 1 out of 2). West Indies (+1.339) also have a better run-rate in comparison to South Africa (-0.680).]]></line><line><![CDATA[<b>Team news:</b> West Indies' star batsman <b>Chris Gayle</b> is doubtful for this game as he is nursing a sore back. <b>Sulieman Benn</b>, who missed the last game due to injury, might make it back into the team. For South Africa, <b> Farhaan Behardien</b> and <b>Kyle Abbott</b> might replace Wayne Parnell and the injured Vernon Philander. JP Duminy also seems unlikely for this game.]]></line><line><![CDATA[<b>West Indies</b>]]></line><line><![CDATA[In the recent bilateral series against South Africa, West Indies were completely steamrolled. However, on this big stage, they have managed to lift their game considerably. Their last match against Zimbabwe was a record fest. Chris Gayle and Marlon Samuels annihilated Zimbabwe with a record 372-run stand. Gayle, in fact, became the fourth player in ODI history to score a double ton. Although Zimbabwe put up a spirited performance while chasing, the duo of Jerome Taylor and Jason Holder made sure the Caribbean team cruised to a 73-run victory.]]></line><line><![CDATA[Skipper <b>Jason Holder</b> knows that South Africa can bounce back. He also believes in his team's ability to put up a good show against them. "You can't underestimate them. You have to pay special attention to them. I think once we just stick to our plans. We have plans for them, and if we execute our plans, I think we'll be better off at the end of the day," he added.]]></line><line><![CDATA[<b>South Africa</b>]]></line><line><![CDATA[A hard fought win against Zimbabwe in their first game meant that South Africa had to put up an improved show against India in their second match. History was on their side, having defeated the Asian team three out of three times in their previous World Cup outings. However, India proved to be a much harder opposition to beat. Chasing a big total of 308, the batsmen faltered, finally being bowled out for a mere 177. Barring Faf du Plessis, none of the batsmen could live up to their potential. Their fielding was below par and although they bowled well towards the end, their bowlers lacked inspiration.]]></line><line><![CDATA[Ahead of the encounter, <b>Hashim Amla</b> insisted that South Africa had put the humiliating 130-run defeat against India behind them. "We didn't play good cricket, but we take the knock on the chin. We know we have a few more games in the round-robin phase, and guys have been playing well. So we don't want to dwell too much on it. But going into the next game we certainly know we've got to perform better," he said.]]></line><line><![CDATA[West Indies, who started off their World Cup campaign on a poor note, have spiced up things in Pool B with back-to-back comprehensive wins. On the other hand, South Africa's performances in the tournament so far have been below par considering their standards. Both the teams will be facing each other today at the iconic SCG, in what is expected to be a high-profile encounter. Let us first have a look at how they have fared in their recent games.]]></line><line><![CDATA[<b>Preview</b><br/><br/>South African captain AB de Villiers fought hard to make himself as unobtrusive as possible to the West Indies skipper Jason Holder on Thursday, not making eye contact and pretending not to be listening to his opposite number during the media interaction on Thursday ahead of the ICC Cricket World Cup Group B match at the Sydney Cricket Ground.<br/><br/>But on Friday, de Villiers will have to take charge and breathe life into the Proteas' campaign that has been off only to a sluggish start. In defeating Zimbabwe and losing to India, they have not resembled the side that came into the tournament looking the best prepared to take on favourites Australia. But they exude a quiet confidence that they will peak at the right time.<br/><br/>"We are not sure of the place in the quarterfinals. We would not like to be that team that stumbles before we get there. The most important thing is to make sure we have a spot there first and then play some high-pressure, make-or-break kind of cricket," de Villiers said, indicating that an element of doubt had crept into the team's thinking.<br/><br/>"They (West Indies) are a dangerous team. I believe if you put enough pressure on them like any other team really, they can crumble. Also, you've got to look at the other side. We haven't played well in the last game. So we have to make sure that we look after our side and our games and make sure we do the basics well. We must make sure we play a good game of cricket," he said.<br/><br/>The West Indies, on the contrary, have gained some momentum by regrouping after the shock defeat by Ireland. They have beaten Pakistan in Christchurch and Zimbabwe in Canberra quite comprehensively, What's more, the redoubtable Chris Gayle also hammered the first double century in World Cup history, making the West Indies' opponents stress a bit.<br/><br/>The West Indies face a couple of question marks over the fitness of players like Gayle and left-arm spinner Suleiman Benn, both of whom are playing with back problems. Holder said Gayle has been struggling over the past with his back. "We're trying to monitor him as best as we possibly can," he said. "We'll see how Benn pulls up on Friday and make a decision."<br/><br/>Holder also said the team was aware that South African team could compete as a unit, though it has players who stand out. "You can't underestimate them. You have to pay special attention to them. I think once we just stick to our plans. We have plans for them, and if we execute our plans, I think we'll be better off at the end of the day," he said.<br/><br/>Holder, all of six foot seven inches but still establishing himself as leader of the West Indies team, allowed himself a wry smile when asked if he felt strange that de Villiers was in the media conference room when he was speaking to the media. The Proteas captain, grinning was more forthcoming.<br/><br/>"It's quite interesting. I actually felt a bit uncomfortable. I didn't want to put him off, you know. It will feel a little bit intimidating for me to sit here in the background. So I was trying to pretend like I'm not listening and not to make eye contact just to make him feel a bit more comfortable," de Villiers said.<br/><br/>On Friday, de Villiers and his team will have to turn up, refreshed after an off day and rediscover their mojo if the spectators at the historic SCG and those watching on TV or internet are to be treated to a competitive contest. The two teams have the wherewithal, explosive strikers and respected pace and seam bowlers, to deliver an intense battle]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>West Indies</b> (From): Chris Gayle, Dwayne Smith, Darren Bravo, Marlon Samuels, Denesh Ramdin(w), Lendl Simmons, Darren Sammy, Andre Russell, Jason Holder(c), Jerome Taylor, Nikita Miller, Sulieman Benn, Jonathan Carter, Sheldon Cottrell, Kemar Roach]]></line><line><![CDATA[<b>South Africa</b> (From): Hashim Amla, Quinton de Kock(w), Faf du Plessis, AB de Villiers(c), David Miller, Jean-Paul Duminy, Farhaan Behardien, Wayne Parnell, Dale Steyn, Imran Tahir, Morne Morkel, Rilee Rossouw, Kyle Abbott, Aaron Phangiso]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>408</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="South Africa">
+			<players>
+				<player>
+					<playerid>8520</playerid>
+					<name>Quinton de Kock</name>
+					<batsman-name>de Kock</batsman-name>
+					<batsman-nickname>de Kock</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>12</runs>
+					<balls>19</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Holder</bowler>
+					<bowlerId>8313</bowlerId>
+						<fielder>Andre Russell</fielder>
+						<fielderId>7736</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>314</playerid>
+					<name>Hashim Amla</name>
+					<batsman-name>Amla</batsman-name>
+					<batsman-nickname>Amla</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>65</runs>
+					<balls>88</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Gayle</bowler>
+					<bowlerId>247</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7825</playerid>
+					<name>Faf du Plessis</name>
+					<batsman-name>du Plessis</batsman-name>
+					<batsman-nickname>du Plessis</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>62</runs>
+					<balls>70</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Gayle</bowler>
+					<bowlerId>247</bowlerId>
+						<fielder>Denesh Ramdin</fielder>
+						<fielderId>399</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2244</playerid>
+					<name>Rilee Rossouw</name>
+					<batsman-name>R Rossouw</batsman-name>
+					<batsman-nickname>Rossouw</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>61</runs>
+					<balls>39</balls>
+					<fours>6</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Russell</bowler>
+					<bowlerId>7736</bowlerId>
+						<fielder>Denesh Ramdin</fielder>
+						<fielderId>399</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>370</playerid>
+					<name>AB de Villiers</name>
+					<batsman-name>de Villiers</batsman-name>
+					<batsman-nickname>de Villiers</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>162</runs>
+					<balls>66</balls>
+					<fours>17</fours>
+					<sixes>8</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6349</playerid>
+					<name>David Miller</name>
+					<batsman-name>D Miller</batsman-name>
+					<batsman-nickname>D Miller</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>16</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Russell</bowler>
+					<bowlerId>7736</bowlerId>
+						<fielder>Jerome Taylor</fielder>
+						<fielderId>379</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8283</playerid>
+					<name>Farhaan Behardien</name>
+					<batsman-name>F Behardien</batsman-name>
+					<batsman-nickname>Behardien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>508</playerid>
+					<name>Dale Steyn</name>
+					<batsman-name>Steyn</batsman-name>
+					<batsman-nickname>Steyn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9203</playerid>
+					<name>Kyle Abbott</name>
+					<batsman-name>Kyle Abbott</batsman-name>
+					<batsman-nickname>Kyle Abbott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>608</playerid>
+					<name>Morne Morkel</name>
+					<batsman-name>M Morkel</batsman-name>
+					<batsman-nickname>M Morkel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6667</playerid>
+					<name>Imran Tahir</name>
+					<batsman-name>Tahir</batsman-name>
+					<batsman-nickname>Tahir</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>8520</playerid>
+				<nbr>1</nbr>
+				<runs>18</runs>
+				<overs>5.4</overs>
+				<batsman>Quinton de Kock</batsman>
+				<batsman-name>de Kock</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7825</playerid>
+				<nbr>2</nbr>
+				<runs>145</runs>
+				<overs>29.2</overs>
+				<batsman>Faf du Plessis</batsman>
+				<batsman-name>du Plessis</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>314</playerid>
+				<nbr>3</nbr>
+				<runs>146</runs>
+				<overs>29.4</overs>
+				<batsman>Hashim Amla</batsman>
+				<batsman-name>Amla</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2244</playerid>
+				<nbr>4</nbr>
+				<runs>280</runs>
+				<overs>42.1</overs>
+				<batsman>Rilee Rossouw</batsman>
+				<batsman-name>R Rossouw</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6349</playerid>
+				<nbr>5</nbr>
+				<runs>328</runs>
+				<overs>46.4</overs>
+				<batsman>David Miller</batsman>
+				<batsman-name>D Miller</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>11</wides>
+			<noballs>3</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>16</total>
+		</extras>
+		<bowlteam name="West Indies">
+			<players>
+				<player>
+					<playerid>379</playerid>
+					<name>Jerome Taylor</name>
+					<bowler-name>Jerome Taylor</bowler-name>
+					<bowler-nickname>Jerome Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>1</maidens>
+					<runsoff>64</runsoff>
+					<wickets>0</wickets>
+					<wides>4</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8313</playerid>
+					<name>Jason Holder</name>
+					<bowler-name>J Holder</bowler-name>
+					<bowler-nickname>J Holder</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>2</maidens>
+					<runsoff>104</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<bowler-name>A Russell</bowler-name>
+					<bowler-nickname>A Russell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>74</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>356</playerid>
+					<name>Marlon Samuels</name>
+					<bowler-name>Samuels</bowler-name>
+					<bowler-nickname>Samuels</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1117</playerid>
+					<name>Sulieman Benn</name>
+					<bowler-name>S Benn</bowler-name>
+					<bowler-nickname>Benn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>79</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>253</playerid>
+					<name>Darren Sammy</name>
+					<bowler-name>Sammy</bowler-name>
+					<bowler-nickname>Sammy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>50</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>247</playerid>
+					<name>Chris Gayle</name>
+					<bowler-name>Gayle</bowler-name>
+					<bowler-nickname>Gayle</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>21</runsoff>
+					<wickets>2</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>255</playerid>
+					<name>Dwayne Smith</name>
+					<bowler-name>Dwayne Smith</bowler-name>
+					<bowler-nickname>Dwayne Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>399</playerid>
+					<name>Denesh Ramdin</name>
+					<bowler-name>Ramdin</bowler-name>
+					<bowler-nickname>Ramdin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>599</playerid>
+					<name>Lendl Simmons</name>
+					<bowler-name>L Simmons</bowler-name>
+					<bowler-nickname>Simmons</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8314</playerid>
+					<name>Jonathan Carter</name>
+					<bowler-name>J Carter</bowler-name>
+					<bowler-nickname>J Carter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>151</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>33.1</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="West Indies">
+			<players>
+				<player>
+					<playerid>255</playerid>
+					<name>Dwayne Smith</name>
+					<batsman-name>Dwayne Smith</batsman-name>
+					<batsman-nickname>Dwayne Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>34</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder>David Miller</fielder>
+						<fielderId>6349</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>247</playerid>
+					<name>Chris Gayle</name>
+					<batsman-name>Gayle</batsman-name>
+					<batsman-nickname>Gayle</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>356</playerid>
+					<name>Marlon Samuels</name>
+					<batsman-name>Samuels</batsman-name>
+					<batsman-nickname>Samuels</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder>Quinton de Kock</fielder>
+						<fielderId>8520</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8314</playerid>
+					<name>Jonathan Carter</name>
+					<batsman-name>J Carter</batsman-name>
+					<batsman-nickname>J Carter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>20</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Morkel</bowler>
+					<bowlerId>608</bowlerId>
+						<fielder>AB de Villiers</fielder>
+						<fielderId>370</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>399</playerid>
+					<name>Denesh Ramdin</name>
+					<batsman-name>Ramdin</batsman-name>
+					<batsman-nickname>Ramdin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>22</runs>
+					<balls>47</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>599</playerid>
+					<name>Lendl Simmons</name>
+					<batsman-name>L Simmons</batsman-name>
+					<batsman-nickname>Simmons</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>253</playerid>
+					<name>Darren Sammy</name>
+					<batsman-name>Sammy</batsman-name>
+					<batsman-nickname>Sammy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>11</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder>Quinton de Kock</fielder>
+						<fielderId>8520</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<batsman-name>A Russell</batsman-name>
+					<batsman-nickname>A Russell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder>Kyle Abbott</fielder>
+						<fielderId>9203</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8313</playerid>
+					<name>Jason Holder</name>
+					<batsman-name>J Holder</batsman-name>
+					<batsman-nickname>J Holder</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>56</runs>
+					<balls>48</balls>
+					<fours>3</fours>
+					<sixes>4</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Steyn</bowler>
+					<bowlerId>508</bowlerId>
+						<fielder>Hashim Amla</fielder>
+						<fielderId>314</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>379</playerid>
+					<name>Jerome Taylor</name>
+					<batsman-name>Jerome Taylor</batsman-name>
+					<batsman-nickname>Jerome Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>18</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1117</playerid>
+					<name>Sulieman Benn</name>
+					<batsman-name>S Benn</batsman-name>
+					<batsman-nickname>Benn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Morkel</bowler>
+					<bowlerId>608</bowlerId>
+						<fielder>Hashim Amla</fielder>
+						<fielderId>314</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>247</playerid>
+				<nbr>1</nbr>
+				<runs>12</runs>
+				<overs>1.3</overs>
+				<batsman>Chris Gayle</batsman>
+				<batsman-name>Gayle</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>356</playerid>
+				<nbr>2</nbr>
+				<runs>16</runs>
+				<overs>3.3</overs>
+				<batsman>Marlon Samuels</batsman>
+				<batsman-name>Samuels</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8314</playerid>
+				<nbr>3</nbr>
+				<runs>52</runs>
+				<overs>10.6</overs>
+				<batsman>Jonathan Carter</batsman>
+				<batsman-name>J Carter</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>255</playerid>
+				<nbr>4</nbr>
+				<runs>52</runs>
+				<overs>11.1</overs>
+				<batsman>Dwayne Smith</batsman>
+				<batsman-name>Dwayne Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>599</playerid>
+				<nbr>5</nbr>
+				<runs>53</runs>
+				<overs>11.6</overs>
+				<batsman>Lendl Simmons</batsman>
+				<batsman-name>L Simmons</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>253</playerid>
+				<nbr>6</nbr>
+				<runs>63</runs>
+				<overs>17.1</overs>
+				<batsman>Darren Sammy</batsman>
+				<batsman-name>Sammy</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7736</playerid>
+				<nbr>7</nbr>
+				<runs>63</runs>
+				<overs>17.4</overs>
+				<batsman>Andre Russell</batsman>
+				<batsman-name>A Russell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>399</playerid>
+				<nbr>8</nbr>
+				<runs>108</runs>
+				<overs>25.6</overs>
+				<batsman>Denesh Ramdin</batsman>
+				<batsman-name>Ramdin</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8313</playerid>
+				<nbr>9</nbr>
+				<runs>150</runs>
+				<overs>32.4</overs>
+				<batsman>Jason Holder</batsman>
+				<batsman-name>J Holder</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1117</playerid>
+				<nbr>10</nbr>
+				<runs>151</runs>
+				<overs>33.1</overs>
+				<batsman>Sulieman Benn</batsman>
+				<batsman-name>S Benn</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>8</total>
+		</extras>
+		<bowlteam name="South Africa">
+			<players>
+				<player>
+					<playerid>508</playerid>
+					<name>Dale Steyn</name>
+					<bowler-name>Steyn</bowler-name>
+					<bowler-nickname>Steyn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9203</playerid>
+					<name>Kyle Abbott</name>
+					<bowler-name>Kyle Abbott</bowler-name>
+					<bowler-nickname>Kyle Abbott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>37</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>608</playerid>
+					<name>Morne Morkel</name>
+					<bowler-name>M Morkel</bowler-name>
+					<bowler-nickname>M Morkel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5.1</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6667</playerid>
+					<name>Imran Tahir</name>
+					<bowler-name>Tahir</bowler-name>
+					<bowler-nickname>Tahir</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>2</maidens>
+					<runsoff>45</runsoff>
+					<wickets>5</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7825</playerid>
+					<name>Faf du Plessis</name>
+					<bowler-name>du Plessis</bowler-name>
+					<bowler-nickname>du Plessis</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>17</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>314</playerid>
+					<name>Hashim Amla</name>
+					<bowler-name>Amla</bowler-name>
+					<bowler-nickname>Amla</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8520</playerid>
+					<name>Quinton de Kock</name>
+					<bowler-name>de Kock</bowler-name>
+					<bowler-nickname>de Kock</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2244</playerid>
+					<name>Rilee Rossouw</name>
+					<bowler-name>R Rossouw</bowler-name>
+					<bowler-nickname>Rossouw</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>370</playerid>
+					<name>AB de Villiers</name>
+					<bowler-name>de Villiers</bowler-name>
+					<bowler-nickname>de Villiers</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6349</playerid>
+					<name>David Miller</name>
+					<bowler-name>D Miller</bowler-name>
+					<bowler-nickname>D Miller</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8283</playerid>
+					<name>Farhaan Behardien</name>
+					<bowler-name>F Behardien</bowler-name>
+					<bowler-nickname>Behardien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

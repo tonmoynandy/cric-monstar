@@ -1,0 +1,1620 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14214" >
+		<type>TEST</type>
+		<gameDesc>County Div 1</gameDesc>
+		<series>County Championship Division One 2015</series>
+		<matchday>3</matchday>
+		<home>Worcestershire</home>
+		<away>Somerset</away>
+		<teamsabbr>WORCS vs SOM</teamsabbr>
+		<homeabbr>WORCS</homeabbr>
+		<awayabbr>SOM</awayabbr>
+		<homeId>147</homeId>
+		<awayId>119</awayId>
+		<venue>New Road, Worcester</venue>
+		<startdate>03 05 2015</startdate>
+		<enddate>06 05 2015</enddate>
+		<toss>
+			<winner>Worcestershire</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Worcestershire won by an innings and 62 runs</status>
+		<result type="win">
+			<winningteam>Worcestershire</winningteam>
+			<wonbyruns>62</wonbyruns>
+			<wonbywickets></wonbywickets>
+			<wonbyinnings>True</wonbyinnings>
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Russell Evans</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Michael Gough</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150505130508</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>3</currentinningsno>
+		<batteamname>SOM</batteamname>
+		<bwlteamname>Worcs</bwlteamname>
+		<batteamruns>90</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>32</batteamovers>
+		<status>Worcestershire won by an innings and 62 runs</status>
+		<batsman>
+			<playerid>524</playerid>
+			<name>Abdur Rehman*</name>
+			<batsman-name>Rehman</batsman-name>
+			<batsman-nickname>Rehman</batsman-nickname>
+			<runs>2</runs>
+			<balls-faced>7</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>9466</playerid>
+			<name>Charles Morris*</name>
+			<bowler-name>C Morris</bowler-name>
+			<bowler-nickname>Morris</bowler-nickname>
+			<overs>13</overs>
+			<maidens>3</maidens>
+			<runs>38</runs>
+			<wickets>4</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6700</playerid>
+			<name>Jack Shantry</name>
+			<bowler-name>Jack Shantry</bowler-name>
+			<bowler-nickname>Jack Shantry</bowler-nickname>
+			<overs>8</overs>
+			<maidens>2</maidens>
+			<runs>15</runs>
+			<wickets>4</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>63</target>
+<lastwicket>
+<playerid>320</playerid>
+<name>Alfonso Thomas</name>
+<player-runs>0</player-runs>
+<player-balls>5</player-balls>
+<runs>90</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>6700</bowlerid>
+<bowlername>Jack Shantry</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>1</total>
+		</extras>
+		<prevOvers><![CDATA[2 1 4 . 4 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. W 2 . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 1 . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>W . . . . W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV1/WORCS_SOM_MAY03_MAY06/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Jack Shantry to Alfonso Thomas, <b>out</b> Caught by Leach!! <b>Alfonso Thomas c Leach b Jack Shantry 0(5)</b>]]></line><line><![CDATA[Jack Shantry to Alfonso Thomas, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Jack Shantry to Alfonso Thomas, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Jack Shantry to Alfonso Thomas, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Jack Shantry to Alfonso Thomas, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Jack Shantry to Alfonso Thomas, no run]]></line><line><![CDATA[<b>Alfonso Thomas, right handed bat, comes to the crease</b>]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, <b>out</b> Lbw!! <b>Jamie Overton lbw b Jack Shantry 10(11) [4s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jack Shantry to Jamie Overton, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, 1 run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Jack Shantry to Rehman, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Jack Shantry to Rehman, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Jack Shantry to Rehman, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Jack Shantry to Rehman, 2 runs]]></line><line><![CDATA[<b>Abdur Rehman, left handed bat, comes to the crease</b>]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, <b>out</b> Lbw!! <b>Hildreth lbw b Jack Shantry 35(73) [4s-4]</b>]]></line><line><![CDATA[Jack Shantry to Hildreth, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, 1 run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charles Morris [11.0-3-26-4] is back into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, 1 run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, 1 run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, <b>out</b> Caught by Cox!! <b>Gregory c Cox b Jack Shantry 14(33) [4s-1 6s-1]</b>]]></line><line><![CDATA[Jack Shantry to Gregory, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Leach to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Leach [8.0-3-22-2] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Ross Whiteley to Gregory, <b>FOUR</b>]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Ross Whiteley to Gregory, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Ross Whiteley to Gregory, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, 1 run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, 2 runs]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, 1 run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Ross Whiteley to Gregory, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Ross Whiteley to Gregory, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, 1 run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ross Whiteley, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Morris to Gregory, <b>SIX</b>]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Morris to Gregory, 2 runs]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Shantry, comes into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, 1 run]]></line><line><![CDATA[<b>Lewis Gregory, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Morris to Trego, <b>out</b> Caught by Senanayake!! <b>Trego c Senanayake b Morris 14(16) [4s-2]</b>]]></line><line><![CDATA[Morris to Trego, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Morris to Trego, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Morris to Trego, 2 runs]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Leach to Trego, <b>FOUR</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Leach to Trego, <b>FOUR</b>]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Leach to Trego, 2 runs]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Leach to Trego, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, 2 runs]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[<b>Peter Trego, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Leach to Barrow, <b>out</b> Caught by Alex Gidman!! <b>Barrow c Alex Gidman b Leach 0(9)</b>]]></line><line><![CDATA[Leach to Barrow, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, 2 runs]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[<b>Alex Barrow, right handed bat, comes to the crease</b>]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Leach to Allenby, <b>out</b> Bowled!! <b>Allenby b Leach 1(3)</b>]]></line><line><![CDATA[Leach to Allenby, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Leach to Allenby, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Morris to Allenby, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jim Allenby, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Morris to T Cooper, <b>out</b> Bowled!! <b>T Cooper b Morris 7(19) [4s-1]</b>]]></line><line><![CDATA[Morris to T Cooper, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Leach to T Cooper, leg byes, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Leach to Hildreth, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[<b>James Hildreth, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, <b>out</b> Caught by Cox!! <b>Johann Myburgh c Cox b Morris 6(14)</b>]]></line><line><![CDATA[Morris to Johann Myburgh, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Leach to T Cooper, <b>FOUR</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, 1 run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Morris to T Cooper, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, 2 runs]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Leach, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[<b>Tom Cooper, right handed bat, comes to the crease</b>]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Morris to Trescothick, <b>out</b> Bowled!! <b>Trescothick b Morris 0(2)</b>]]></line><line><![CDATA[Morris to Trescothick, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trescothick and Johann Myburgh are at the crease. Trescothick is on strike. Morris will open the attack</b>]]></line><line><![CDATA[111.5&nbsp;&nbsp;&nbsp;Trego to Senanayake, <b>out</b> Caught by Trescothick!! <b>Senanayake c Trescothick b Trego 10(18) [4s-1]</b>]]></line><line><![CDATA[Trego to Senanayake, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[111.4&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[111.3&nbsp;&nbsp;&nbsp;Trego to Morris, leg byes, 1 run]]></line><line><![CDATA[111.2&nbsp;&nbsp;&nbsp;Trego to Morris, no run]]></line><line><![CDATA[111.1&nbsp;&nbsp;&nbsp;Trego to Morris, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[110.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, 1 run]]></line><line><![CDATA[110.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, no run]]></line><line><![CDATA[110.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Senanayake, 1 run]]></line><line><![CDATA[110.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, 1 run]]></line><line><![CDATA[110.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, no run]]></line><line><![CDATA[110.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[109.6&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[109.5&nbsp;&nbsp;&nbsp;Trego to Senanayake, byes, <b>FOUR</b>]]></line><line><![CDATA[109.4&nbsp;&nbsp;&nbsp;Trego to Morris, 1 run]]></line><line><![CDATA[109.3&nbsp;&nbsp;&nbsp;Trego to Morris, no run]]></line><line><![CDATA[109.2&nbsp;&nbsp;&nbsp;Trego to Morris, no run]]></line><line><![CDATA[109.1&nbsp;&nbsp;&nbsp;Trego to Senanayake, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[108.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, no run]]></line><line><![CDATA[108.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, no run]]></line><line><![CDATA[108.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Morris, no run]]></line><line><![CDATA[<b>Charles Morris, right handed bat, comes to the crease</b>]]></line><line><![CDATA[108.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, <b>out</b> Caught by Trescothick!! <b>Leach c Trescothick b Alfonso Thomas 95(129) [4s-14 6s-2]</b>]]></line><line><![CDATA[Alfonso Thomas to Leach, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[108.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[108.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[107.6&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[107.5&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[107.4&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[107.3&nbsp;&nbsp;&nbsp;Trego to Senanayake, 2 runs]]></line><line><![CDATA[107.2&nbsp;&nbsp;&nbsp;Trego to Leach, 1 run]]></line><line><![CDATA[107.1&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[106.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, 3 runs]]></line><line><![CDATA[106.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[106.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Senanayake, 1 run]]></line><line><![CDATA[106.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Senanayake, no run]]></line><line><![CDATA[106.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Senanayake, no run]]></line><line><![CDATA[106.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Senanayake, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[105.6&nbsp;&nbsp;&nbsp;Trego to Senanayake, 1 run]]></line><line><![CDATA[105.5&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[105.4&nbsp;&nbsp;&nbsp;Trego to Senanayake, <b>FOUR</b>]]></line><line><![CDATA[105.3&nbsp;&nbsp;&nbsp;Trego to Senanayake, no run]]></line><line><![CDATA[105.2&nbsp;&nbsp;&nbsp;Trego to Leach, 1 run]]></line><line><![CDATA[105.1&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sachithra Senanayake, right handed bat, comes to the crease</b>]]></line><line><![CDATA[104.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Jack Shantry, <b>out</b> Caught by Gregory!! <b>Jack Shantry c Gregory b Alfonso Thomas 4(10)</b>]]></line><line><![CDATA[Alfonso Thomas to Jack Shantry, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[104.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Jack Shantry, no run]]></line><line><![CDATA[104.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Jack Shantry, no run]]></line><line><![CDATA[104.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, 1 run]]></line><line><![CDATA[104.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, <b>SIX</b>]]></line><line><![CDATA[104.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Jack Shantry, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alfonso Thomas [19.0-4-66-2] is back into the attack</b>]]></line><line><![CDATA[103.6&nbsp;&nbsp;&nbsp;Trego to Jack Shantry, 1 run]]></line><line><![CDATA[103.5&nbsp;&nbsp;&nbsp;Trego to Jack Shantry, no run]]></line><line><![CDATA[103.4&nbsp;&nbsp;&nbsp;Trego to Jack Shantry, no run]]></line><line><![CDATA[103.3&nbsp;&nbsp;&nbsp;Trego to Jack Shantry, no run]]></line><line><![CDATA[103.2&nbsp;&nbsp;&nbsp;Trego to Jack Shantry, 2 runs]]></line><line><![CDATA[103.1&nbsp;&nbsp;&nbsp;Trego to Leach, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[102.6&nbsp;&nbsp;&nbsp;Gregory to Jack Shantry, no run]]></line><line><![CDATA[<b>Jack Shantry, left handed bat, comes to the crease</b>]]></line><line><![CDATA[102.5&nbsp;&nbsp;&nbsp;Gregory to Cox, <b>out</b> Caught&Bowled!! <b>Cox c and b Gregory 109(162) [4s-14 6s-2]</b>]]></line><line><![CDATA[Gregory to Cox, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[102.4&nbsp;&nbsp;&nbsp;Gregory to Cox, 2 runs]]></line><line><![CDATA[102.3&nbsp;&nbsp;&nbsp;Gregory to Cox, <b>SIX</b>]]></line><line><![CDATA[102.2&nbsp;&nbsp;&nbsp;Gregory to Leach, 1 run]]></line><line><![CDATA[102.1&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[101.6&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[101.5&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[101.4&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[101.3&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[101.2&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[101.1&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[101.1&nbsp;&nbsp;&nbsp;Trego to Cox, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[100.6&nbsp;&nbsp;&nbsp;Gregory to Leach, <b>FOUR</b>]]></line><line><![CDATA[100.5&nbsp;&nbsp;&nbsp;Gregory to Leach, <b>FOUR</b>, the partnership between Leach and Cox is now]]></line><line><![CDATA[100.4&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[100.3&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[100.2&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[100.1&nbsp;&nbsp;&nbsp;Gregory to Leach, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[99.6&nbsp;&nbsp;&nbsp;Trego to Leach, 1 run]]></line><line><![CDATA[99.5&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[99.4&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[99.3&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[99.2&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[99.1&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peter Trego [19.0-5-60-2] is back into the attack</b>]]></line><line><![CDATA[98.6&nbsp;&nbsp;&nbsp;Gregory to Cox, <b>SIX</b>]]></line><line><![CDATA[98.5&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[98.4&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[98.3&nbsp;&nbsp;&nbsp;Gregory to Leach, 1 run]]></line><line><![CDATA[98.2&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[98.2&nbsp;&nbsp;&nbsp;Gregory to Leach, <b>wide</b>]]></line><line><![CDATA[98.1&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lewis Gregory [19.0-2-69-1] is back into the attack</b>]]></line><line><![CDATA[97.6&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[97.5&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[97.4&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[97.3&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[97.2&nbsp;&nbsp;&nbsp;Rehman to Leach, 1 run]]></line><line><![CDATA[97.1&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[96.6&nbsp;&nbsp;&nbsp;Trego to Leach, 1 run]]></line><line><![CDATA[96.5&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[96.4&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[96.3&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[96.3&nbsp;&nbsp;&nbsp;Trego to Leach, <b>no ball</b>]]></line><line><![CDATA[96.2&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[96.1&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[95.6&nbsp;&nbsp;&nbsp;Rehman to Cox, 1 run]]></line><line><![CDATA[95.5&nbsp;&nbsp;&nbsp;Rehman to Leach, 1 run]]></line><line><![CDATA[95.4&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[95.3&nbsp;&nbsp;&nbsp;Rehman to Leach, <b>FOUR</b>]]></line><line><![CDATA[95.2&nbsp;&nbsp;&nbsp;Rehman to Cox, 1 run]]></line><line><![CDATA[95.1&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[94.6&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[94.5&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[94.4&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[94.3&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[94.2&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[94.1&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peter Trego [17.0-4-56-2] is back into the attack</b>]]></line><line><![CDATA[93.6&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[93.5&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[93.4&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[93.3&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[93.2&nbsp;&nbsp;&nbsp;Rehman to Cox, <b>FOUR</b>]]></line><line><![CDATA[93.1&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Abdur Rehman [7.0-1-18-0] is back into the attack</b>]]></line><line><![CDATA[92.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, <b>SIX</b>]]></line><line><![CDATA[92.5&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, <b>FOUR</b>]]></line><line><![CDATA[92.4&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[92.3&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, 1 run]]></line><line><![CDATA[92.2&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[92.1&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[91.6&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><line><![CDATA[91.5&nbsp;&nbsp;&nbsp;Trego to Leach, 1 run]]></line><line><![CDATA[91.4&nbsp;&nbsp;&nbsp;Trego to Leach, no run]]></line><line><![CDATA[91.3&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><line><![CDATA[91.2&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[91.1&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peter Trego [16.0-4-53-2] is back into the attack</b>]]></line><line><![CDATA[90.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, <b>FOUR</b>, the partnership between Leach and Cox is now]]></line><line><![CDATA[90.5&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[90.4&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, <b>FOUR</b>]]></line><line><![CDATA[90.3&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[90.2&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, <b>FOUR</b>]]></line><line><![CDATA[90.1&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[89.6&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[89.5&nbsp;&nbsp;&nbsp;Gregory to Cox, leg byes, <b>FOUR</b>]]></line><line><![CDATA[89.4&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[89.3&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[89.2&nbsp;&nbsp;&nbsp;Gregory to Leach, 1 run]]></line><line><![CDATA[89.1&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[88.6&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[88.5&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[88.4&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[88.3&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[88.2&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, 1 run]]></line><line><![CDATA[88.1&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jamie Overton [13.0-1-32-1] is back into the attack</b>]]></line><line><![CDATA[87.6&nbsp;&nbsp;&nbsp;Gregory to Cox, <b>FOUR</b>]]></line><line><![CDATA[87.5&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[87.4&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[87.3&nbsp;&nbsp;&nbsp;Gregory to Leach, 1 run]]></line><line><![CDATA[87.2&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[87.1&nbsp;&nbsp;&nbsp;Gregory to Cox, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[86.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, <b>FOUR</b>]]></line><line><![CDATA[86.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, <b>FOUR</b>]]></line><line><![CDATA[86.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[86.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, 2 runs]]></line><line><![CDATA[86.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, leg byes, 3 runs]]></line><line><![CDATA[86.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[85.6&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[85.5&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[85.4&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[85.3&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[85.2&nbsp;&nbsp;&nbsp;Gregory to Cox, 1 run]]></line><line><![CDATA[85.1&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[84.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, 1 run]]></line><line><![CDATA[84.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, 1 run]]></line><line><![CDATA[84.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, 1 run]]></line><line><![CDATA[84.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><line><![CDATA[84.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, <b>FOUR</b>]]></line><line><![CDATA[84.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[83.6&nbsp;&nbsp;&nbsp;Gregory to Leach, no run]]></line><line><![CDATA[83.5&nbsp;&nbsp;&nbsp;Gregory to Cox, 1 run]]></line><line><![CDATA[83.4&nbsp;&nbsp;&nbsp;Gregory to Cox, no run]]></line><line><![CDATA[83.3&nbsp;&nbsp;&nbsp;Gregory to Leach, 1 run]]></line><line><![CDATA[83.2&nbsp;&nbsp;&nbsp;Gregory to Leach, <b>FOUR</b>]]></line><line><![CDATA[83.1&nbsp;&nbsp;&nbsp;Gregory to Cox, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lewis Gregory [15.0-2-54-1] is back into the attack</b>]]></line><line><![CDATA[82.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, <b>FOUR</b>]]></line><line><![CDATA[82.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[82.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[82.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[82.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><line><![CDATA[82.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alfonso Thomas [16.0-4-43-2] is back into the attack</b>]]></line><line><![CDATA[81.6&nbsp;&nbsp;&nbsp;Rehman to Leach, 1 run]]></line><line><![CDATA[81.5&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[81.4&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[81.4&nbsp;&nbsp;&nbsp;Rehman to Leach, <b>no ball</b>]]></line><line><![CDATA[81.3&nbsp;&nbsp;&nbsp;Rehman to Cox, 1 run]]></line><line><![CDATA[81.2&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[81.1&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[80.6&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[80.5&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[80.4&nbsp;&nbsp;&nbsp;Allenby to Cox, 1 run]]></line><line><![CDATA[80.3&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[80.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[80.1&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[79.6&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[79.5&nbsp;&nbsp;&nbsp;Rehman to Cox, 1 run]]></line><line><![CDATA[79.4&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[79.3&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[79.2&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[79.1&nbsp;&nbsp;&nbsp;Rehman to Leach, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[78.6&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[78.5&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[78.4&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[78.3&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[78.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[78.1&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[77.6&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[77.5&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[77.4&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[77.3&nbsp;&nbsp;&nbsp;Rehman to Cox, 1 run]]></line><line><![CDATA[77.2&nbsp;&nbsp;&nbsp;Rehman to Cox, 2 runs]]></line><line><![CDATA[77.1&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[76.6&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[76.5&nbsp;&nbsp;&nbsp;Allenby to Leach, <b>FOUR</b>]]></line><line><![CDATA[76.4&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[76.3&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[76.2&nbsp;&nbsp;&nbsp;Allenby to Leach, <b>FOUR</b>]]></line><line><![CDATA[76.1&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jim Allenby [12.0-4-19-0] is back into the attack</b>]]></line><line><![CDATA[75.6&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[75.5&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[75.4&nbsp;&nbsp;&nbsp;Rehman to Cox, <b>FOUR</b>]]></line><line><![CDATA[75.3&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[75.2&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Rehman to Cox, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, 1 run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Rehman to Cox, 1 run]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Rehman to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, 1 run]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Rehman to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Abdur Rehman [1.0-0-2-0] is back into the attack</b>]]></line><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, <b>FOUR</b>]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Allenby to Cox, 1 run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, 2 runs]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, 1 run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, no run]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Allenby to Cox, leg byes, 1 run]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Jamie Overton to Leach, no run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Jamie Overton to Cox, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;Allenby to Leach, no run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;Allenby to Cox, 1 run]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Leach, right handed bat, comes to the crease</b>]]></line><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, <b>out</b> Caught by Johann Myburgh!! <b>Alex Gidman c Johann Myburgh b Jamie Overton 78(166) [4s-9]</b>]]></line><line><![CDATA[Jamie Overton to Alex Gidman, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jamie Overton [6.0-1-14-0] is back into the attack</b>]]></line><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Allenby to Cox, <b>FOUR</b>]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, 1 run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Gregory to Cox, <b>FOUR</b>]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, 3 runs]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, 2 runs]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lewis Gregory [14.0-2-45-1] is back into the attack</b>]]></line><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Allenby to Cox, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jim Allenby [6.0-2-11-0] is back into the attack</b>]]></line><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, 1 run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, 3 runs]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, 1 run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, 2 runs]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, 1 run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, 1 run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, <b>FOUR</b>]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, leg byes, <b>FOUR</b>]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Trego to Cox, 1 run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, 1 run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Cox, 2 runs]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, 1 run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Trego to Cox, <b>FOUR</b>]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Trego to Cox, <b>FOUR</b>]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Trego to Cox, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Trego to Cox, <b>FOUR</b>]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Trego to Cox, <b>FOUR</b>]]></line><line><![CDATA[<b>Ben Cox, right handed bat, comes to the crease</b>]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, <b>out</b> Caught by Trescothick!! <b>Ross Whiteley c Trescothick b Trego 11(36)</b>]]></line><line><![CDATA[Trego to Ross Whiteley, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Ross Whiteley, 1 run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Ross Whiteley, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Ross Whiteley, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Ross Whiteley, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Ross Whiteley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alfonso Thomas [10.0-3-24-2] is back into the attack</b>]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Rehman to Alex Gidman, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Rehman to Alex Gidman, 2 runs]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Rehman to Alex Gidman, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Rehman to Alex Gidman, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Rehman to Alex Gidman, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Rehman to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Abdur Rehman, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, 3 runs]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, leg byes, 1 run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, 2 runs]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, 1 run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, 2 runs]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, 1 run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Allenby to Ross Whiteley, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, 3 runs]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Allenby to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Trego to Ross Whiteley, no run]]></line><line><![CDATA[<b>Ross Whiteley, left handed bat, comes to the crease</b>]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Trego to Kervezee, <b>out</b> Bowled!! <b>Kervezee b Trego 29(51) [4s-4]</b>]]></line><line><![CDATA[Trego to Kervezee, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Trego to Kervezee, <b>FOUR</b>]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Trego to Kervezee, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Trego to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Allenby to Kervezee, 1 run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Allenby to Kervezee, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Allenby to Kervezee, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Allenby to Kervezee, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Allenby to Kervezee, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Allenby to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jim Allenby, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Trego to Kervezee, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Gregory to Kervezee, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Gregory to Kervezee, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, leg byes, 2 runs]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, 2 runs]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Trego to Kervezee, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peter Trego [4.0-3-4-0] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Gregory to Kervezee, 1 run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Gregory to Kervezee, 1 run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, 1 run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, 2 runs]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, 1 run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lewis Gregory [10.0-2-21-1] is back into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, 1 run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, 2 runs]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, 3 runs]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, <b>FOUR</b>]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Jamie Overton to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jamie Overton [2.0-0-2-0] is back into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Gregory to Kervezee, <b>FOUR</b>]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Gregory to Kervezee, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, <b>FOUR</b>]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Kervezee, no run]]></line><line><![CDATA[<b>Alexei Kervezee, right handed bat, comes to the crease</b>]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, <b>out</b> Lbw!! <b>Mitchell lbw b Alfonso Thomas 27(78) [4s-4]</b>]]></line><line><![CDATA[Alfonso Thomas to Mitchell, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, 1 run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Gregory to Mitchell, <b>FOUR</b>]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, 3 runs]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Jamie Overton to Mitchell, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Trego to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peter Trego [2.0-1-4-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Jamie Overton to Mitchell, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Jamie Overton to Mitchell, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Jamie Overton to Mitchell, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Jamie Overton to Mitchell, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Jamie Overton to Mitchell, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Jamie Overton to Alex Gidman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jamie Overton, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, 1 run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Trego to Mitchell, <b>FOUR</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Trego to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peter Trego, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Gregory to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, 5 runs]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Gregory to Mitchell, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Alex Gidman, no run]]></line><line><![CDATA[<b>Alex Gidman, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Tom Fell, <b>out</b> Caught by Trego!! <b>Tom Fell c Trego b Alfonso Thomas 1(7)</b>]]></line><line><![CDATA[Alfonso Thomas to Tom Fell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Tom Fell, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Tom Fell, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Tom Fell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Gregory to Mitchell, leg byes, <b>FOUR</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Gregory to Tom Fell, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Gregory to Tom Fell, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Gregory to Tom Fell, no run]]></line><line><![CDATA[<b>Thomas Charles Fell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Gregory to Richard Oliver, <b>out</b> Caught&Bowled!! <b>Richard Oliver c and b Gregory 3(3)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Gregory to Richard Oliver, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Gregory to Mitchell, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, 1 run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, <b>FOUR</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Richard Oliver, 1 run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Richard Oliver, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Gregory to Mitchell, 2 runs]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Gregory to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lewis Gregory, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, 3 runs]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Alfonso Thomas to Mitchell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mitchell and Richard Oliver are at the crease. Mitchell is on strike. Alfonso Thomas will open the attack</b>]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Jack Shantry to Rehman, <b>out</b> Caught by Tom Fell!! <b>Rehman c Tom Fell b Jack Shantry 13(29) [4s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jack Shantry to Rehman, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Jack Shantry [15.0-8-43-0] is back into the attack</b>]]></line><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, <b>FOUR</b>]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, no run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, no run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, no run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, no run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Morris to Rehman, <b>FOUR</b>]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Morris to Rehman, <b>FOUR</b>]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Leach to Alfonso Thomas, no run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Leach to Rehman, 3 runs]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, 2 runs]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, 2 runs]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Leach to Rehman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Morris to Alfonso Thomas, no run]]></line><line><![CDATA[<b>Alfonso Thomas, right handed bat, comes to the crease</b>]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, <b>out</b> Caught by Cox!! <b>Jamie Overton c Cox b Morris 41(56) [4s-7 6s-1]</b>]]></line><line><![CDATA[Morris to Jamie Overton, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Morris to Rehman, 1 run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Morris to Rehman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Leach to Rehman, 1 run]]></line><line><![CDATA[<b>Abdur Rehman, left handed bat, comes to the crease</b>]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Leach to Gregory, <b>out</b> Caught by Senanayake!! <b>Gregory c Senanayake b Leach 30(58) [4s-5]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Leach to Gregory, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Morris to Gregory, 1 run]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charles Morris [19.0-4-57-4] is back into the attack</b>]]></line><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Leach [16.0-2-52-2] is back into the attack</b>]]></line><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;Kervezee to Gregory, no run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;Kervezee to Gregory, no run]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;Kervezee to Gregory, no run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;Kervezee to Jamie Overton, 1 run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;Kervezee to Jamie Overton, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Kervezee to Jamie Overton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alexei Kervezee, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Jack Shantry to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Morris to Gregory, 1 run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Morris to Gregory, <b>FOUR</b>]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, 1 run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Morris to Jamie Overton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, 1 run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Jack Shantry to Jamie Overton, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Shantry [12.0-6-38-0] is back into the attack</b>]]></line><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Morris to Gregory, <b>FOUR</b>]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Morris to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charles Morris [16.0-4-43-4] is back into the attack</b>]]></line><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, no run]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Senanayake to Gregory, 1 run]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, leg byes, 1 run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, 2 runs]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Leach to Gregory, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, no run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, <b>SIX</b>]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, no run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Senanayake to Gregory, 1 run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, <b>FOUR</b>]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Senanayake to Jamie Overton, 1 run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Senanayake to Gregory, 1 run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Leach to Jamie Overton, no run]]></line><line><![CDATA[<b>Jamie Overton, right handed bat, comes to the crease</b>]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Leach to Trego, <b>out</b> Caught by Mitchell!! <b>Trego c Mitchell b Leach 14(33) [4s-2]</b>]]></line><line><![CDATA[Leach to Trego, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Leach to Trego, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Senanayake to Gregory, <b>FOUR</b>]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Senanayake to Trego, 1 run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Senanayake to Trego, <b>FOUR</b>]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Senanayake to Gregory, 1 run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Leach to Trego, <b>FOUR</b>]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Senanayake to Trego, 1 run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Senanayake to Gregory, 1 run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Senanayake to Trego, 1 run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Senanayake to Trego, 2 runs]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Leach to Gregory, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Leach to Gregory, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Leach to Gregory, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Leach to Gregory, <b>FOUR</b>]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Leach to Gregory, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Leach to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Senanayake to Gregory, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Senanayake to Gregory, <b>FOUR</b>]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Senanayake to Gregory, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Leach to Trego, byes, <b>FOUR</b>]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Leach to Trego, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Leach to Gregory, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Leach to Gregory, no run]]></line><line><![CDATA[<b>Lewis Gregory, right handed bat, comes to the crease</b>]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Leach to Hildreth, <b>out</b> Caught by Cox!! <b>Hildreth c Cox b Leach 41(78) [4s-5]</b>]]></line><line><![CDATA[Leach to Hildreth, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Senanayake to Hildreth, 1 run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Senanayake to Trego, 1 run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Senanayake to Trego, no run]]></line><line><![CDATA[<b>Peter Trego, right handed bat, comes to the crease</b>]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Senanayake to Barrow, <b>out</b> Caught by Mitchell!! <b>Barrow c Mitchell b Senanayake 26(67) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Senanayake to Barrow, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Leach to Hildreth, 2 runs]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Senanayake to Hildreth, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Leach to Barrow, 2 runs]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Leach to Barrow, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Leach [7.0-1-22-0] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Senanayake to Barrow, 1 run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Senanayake to Barrow, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Senanayake to Hildreth, 1 run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Senanayake to Hildreth, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sachithra Senanayake, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Morris to Barrow, 2 runs]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Morris to Barrow, <b>FOUR</b>]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, byes, 2 runs]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, 2 runs]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Morris to Barrow, 2 runs]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, 1 run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Jack Shantry to Barrow, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Jack Shantry to Barrow, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Jack Shantry to Barrow, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Jack Shantry to Barrow, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Jack Shantry to Barrow, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Jack Shantry to Barrow, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, 1 run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, 1 run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Jack Shantry to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Shantry [5.0-3-22-0] is back into the attack</b>]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, 1 run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Ross Whiteley to Hildreth, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, 1 run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, <b>FOUR</b>]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Ross Whiteley to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ross Whiteley, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Leach to Hildreth, <b>FOUR</b>]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Leach to Barrow, 1 run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Morris to Barrow, 1 run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, 1 run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Leach to Barrow, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Leach to Hildreth, 1 run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Leach to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Morris to Barrow, no run]]></line><line><![CDATA[<b>Alex Barrow, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Morris to Allenby, <b>out</b> Caught by Mitchell!! <b>Allenby c Mitchell b Morris 7(9) [4s-1]</b>]]></line><line><![CDATA[Morris to Allenby, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, byes, 1 run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Morris to Hildreth, 2 runs]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Leach to Allenby, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Leach to Allenby, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Leach to Allenby, <b>FOUR</b>]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Leach to Allenby, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Leach to Allenby, <b>no ball</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Leach to Allenby, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Leach to Allenby, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Morris to Allenby, 3 runs]]></line><line><![CDATA[<b>Jim Allenby, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Morris to T Cooper, <b>out</b> Caught by Cox!! <b>T Cooper c Cox b Morris 30(50) [4s-4 6s-1]</b>]]></line><line><![CDATA[Morris to T Cooper, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Morris to Hildreth, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Leach to T Cooper, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Morris to Hildreth, 2 runs]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Morris to Hildreth, no run]]></line><line><![CDATA[<b>James Hildreth, right handed bat, comes to the crease</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, <b>out</b> Caught by Cox!! <b>Johann Myburgh c Cox b Morris 11(38) [4s-1]</b>]]></line><line><![CDATA[Morris to Johann Myburgh, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Morris to T Cooper, 3 runs]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Leach to T Cooper, 1 run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Morris to T Cooper, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Morris to T Cooper, <b>SIX</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, 2 runs]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Leach to Johann Myburgh, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Leach to T Cooper, <b>no ball</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Leach to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Leach, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, <b>FOUR</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, <b>FOUR</b>]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, 2 runs]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, <b>FOUR</b>]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Jack Shantry to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Morris to T Cooper, 3 runs]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Morris to T Cooper, no run]]></line><line><![CDATA[<b>Tom Cooper, right handed bat, comes to the crease</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Morris to Trescothick, <b>out</b> Caught by Cox!! <b>Trescothick c Cox b Morris 10(16) [4s-2]</b>]]></line><line><![CDATA[Morris to Trescothick, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Jack Shantry to Johann Myburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Morris to Trescothick, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Morris to Johann Myburgh, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Charles Morris, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Jack Shantry to Trescothick, <b>FOUR</b>]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Jack Shantry to Trescothick, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Jack Shantry to Trescothick, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Jack Shantry to Trescothick, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Jack Shantry to Trescothick, <b>FOUR</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Jack Shantry to Trescothick, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trescothick and Johann Myburgh are at the crease. Trescothick is on strike. Jack Shantry will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Worcestershire</b> (Playing XI): Daryl Mitchell(c), Richard Oliver, Thomas Charles Fell, Alex Gidman, Alexei Kervezee, Ross Whiteley, Ben Cox(w), Joe Leach, Sachithra Senanayake, Jack Shantry, Charles Morris]]></line><line><![CDATA[<b>Somerset</b> (Playing XI): Marcus Trescothick(c), Johann Myburgh, Tom Cooper, James Hildreth, Alex Barrow(w), Jim Allenby, Lewis Gregory, Peter Trego, Jamie Overton, Alfonso Thomas, Abdur Rehman]]></line><line><![CDATA[<b>Worcestershire have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Somerset</b> (From): Marcus Trescothick(c), Tom Abell, Alex Barrow(w), Adam Dibble, Lewis Gregory, James Hildreth, Jack Leach, Craig Overton, James Regan, Alfonso Thomas, Max Waller, Abdur Rehman, Jim Allenby, Tom Cooper, George Dockrell, Tim Groenewald, Craig Kieswetter, Johann Myburgh, Jamie Overton, Peter Trego]]></line><line><![CDATA[<b>Worcestershire</b> (From): Daryl Mitchell(c), Gareth Andrew, Ben Cox(w), Alex Gidman, Alexei Kervezee, Mitchell McClenaghan, Chris Russell, Jack Shantry, Shaaiq Choudhry, Brett D'Oliveira, Nick Harrison, Joe Leach, Sachithra Senanayake, Richard Oliver, Thomas Charles Fell, Tom Kohler-Cadmore, Charles Morris]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>250</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>75.1</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Somerset">
+			<players>
+				<player>
+					<playerid>44</playerid>
+					<name>Marcus Trescothick</name>
+					<batsman-name>M Trescothick</batsman-name>
+					<batsman-nickname>Trescothick</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>16</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8015</playerid>
+					<name>Johann Myburgh</name>
+					<batsman-name>Johann Myburgh</batsman-name>
+					<batsman-nickname>Johann Myburgh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>38</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6708</playerid>
+					<name>Tom Cooper</name>
+					<batsman-name>T Cooper</batsman-name>
+					<batsman-nickname>T Cooper</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>50</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>408</playerid>
+					<name>James Hildreth</name>
+					<batsman-name>J Hildreth</batsman-name>
+					<batsman-nickname>Hildreth</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>41</runs>
+					<balls>78</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Leach</bowler>
+					<bowlerId>6696</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6593</playerid>
+					<name>Jim Allenby</name>
+					<batsman-name>J Allenby</batsman-name>
+					<batsman-nickname>Allenby</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>9</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Daryl Mitchell</fielder>
+						<fielderId>6687</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7941</playerid>
+					<name>Alex Barrow</name>
+					<batsman-name>Barrow</batsman-name>
+					<batsman-nickname>Barrow</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>26</runs>
+					<balls>67</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Senanayake</bowler>
+					<bowlerId>6729</bowlerId>
+						<fielder>Daryl Mitchell</fielder>
+						<fielderId>6687</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2264</playerid>
+					<name>Peter Trego</name>
+					<batsman-name>P Trego</batsman-name>
+					<batsman-nickname>Trego</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>33</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Leach</bowler>
+					<bowlerId>6696</bowlerId>
+						<fielder>Daryl Mitchell</fielder>
+						<fielderId>6687</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7854</playerid>
+					<name>Lewis Gregory</name>
+					<batsman-name>L Gregory</batsman-name>
+					<batsman-nickname>Gregory</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>58</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Leach</bowler>
+					<bowlerId>6696</bowlerId>
+						<fielder>Sachithra Senanayake</fielder>
+						<fielderId>6729</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8512</playerid>
+					<name>Jamie Overton</name>
+					<batsman-name>Jamie Overton</batsman-name>
+					<batsman-nickname>Jamie Overton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>41</runs>
+					<balls>56</balls>
+					<fours>7</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>524</playerid>
+					<name>Abdur Rehman</name>
+					<batsman-name>Rehman</batsman-name>
+					<batsman-nickname>Rehman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>29</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jack Shantry</bowler>
+					<bowlerId>6700</bowlerId>
+						<fielder>Thomas Charles Fell</fielder>
+						<fielderId>9407</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>320</playerid>
+					<name>Alfonso Thomas</name>
+					<batsman-name>A Thomas</batsman-name>
+					<batsman-nickname>Alfonso Thomas</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>20</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>44</playerid>
+				<nbr>1</nbr>
+				<runs>11</runs>
+				<overs>3.5</overs>
+				<batsman>Marcus Trescothick</batsman>
+				<batsman-name>M Trescothick</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8015</playerid>
+				<nbr>2</nbr>
+				<runs>50</runs>
+				<overs>15.3</overs>
+				<batsman>Johann Myburgh</batsman>
+				<batsman-name>Johann Myburgh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6708</playerid>
+				<nbr>3</nbr>
+				<runs>59</runs>
+				<overs>17.5</overs>
+				<batsman>Tom Cooper</batsman>
+				<batsman-name>T Cooper</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6593</playerid>
+				<nbr>4</nbr>
+				<runs>71</runs>
+				<overs>19.5</overs>
+				<batsman>Jim Allenby</batsman>
+				<batsman-name>J Allenby</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7941</playerid>
+				<nbr>5</nbr>
+				<runs>132</runs>
+				<overs>42.1</overs>
+				<batsman>Alex Barrow</batsman>
+				<batsman-name>Barrow</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>408</playerid>
+				<nbr>6</nbr>
+				<runs>134</runs>
+				<overs>43.2</overs>
+				<batsman>James Hildreth</batsman>
+				<batsman-name>J Hildreth</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2264</playerid>
+				<nbr>7</nbr>
+				<runs>169</runs>
+				<overs>51.2</overs>
+				<batsman>Peter Trego</batsman>
+				<batsman-name>P Trego</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7854</playerid>
+				<nbr>8</nbr>
+				<runs>221</runs>
+				<overs>66.1</overs>
+				<batsman>Lewis Gregory</batsman>
+				<batsman-name>L Gregory</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8512</playerid>
+				<nbr>9</nbr>
+				<runs>227</runs>
+				<overs>67.5</overs>
+				<batsman>Jamie Overton</batsman>
+				<batsman-name>Jamie Overton</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>524</playerid>
+				<nbr>10</nbr>
+				<runs>250</runs>
+				<overs>75.1</overs>
+				<batsman>Abdur Rehman</batsman>
+				<batsman-name>Rehman</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>7</byes>
+			<wides>0</wides>
+			<noballs>7</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>15</total>
+		</extras>
+		<bowlteam name="Worcestershire">
+			<players>
+				<player>
+					<playerid>6700</playerid>
+					<name>Jack Shantry</name>
+					<bowler-name>Jack Shantry</bowler-name>
+					<bowler-nickname>Jack Shantry</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15.1</overs>
+					<maidens>8</maidens>
+					<runsoff>43</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9466</playerid>
+					<name>Charles Morris</name>
+					<bowler-name>C Morris</bowler-name>
+					<bowler-nickname>Morris</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>24</overs>
+					<maidens>5</maidens>
+					<runsoff>71</runsoff>
+					<wickets>5</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6696</playerid>
+					<name>Joe Leach</name>
+					<bowler-name>J Leach</bowler-name>
+					<bowler-nickname>Leach</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>22</overs>
+					<maidens>4</maidens>
+					<runsoff>76</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>3</noballs>
+				</player>
+				<player>
+					<playerid>7945</playerid>
+					<name>Ross Whiteley</name>
+					<bowler-name>Ross Whiteley</bowler-name>
+					<bowler-nickname>Ross Whiteley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6729</playerid>
+					<name>Sachithra Senanayake</name>
+					<bowler-name>Senanayake</bowler-name>
+					<bowler-nickname>Senanayake</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>634</playerid>
+					<name>Alexei Kervezee</name>
+					<bowler-name>Kervezee</bowler-name>
+					<bowler-nickname>Kervezee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>1</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6687</playerid>
+					<name>Daryl Mitchell</name>
+					<bowler-name>D Mitchell</bowler-name>
+					<bowler-nickname>Mitchell</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10046</playerid>
+					<name>Richard Oliver</name>
+					<bowler-name>Richard Oliver</bowler-name>
+					<bowler-nickname>Richard Oliver</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9407</playerid>
+					<name>Thomas Charles Fell</name>
+					<bowler-name>TC Fell</bowler-name>
+					<bowler-nickname>Tom Fell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6824</playerid>
+					<name>Alex Gidman</name>
+					<bowler-name>A Gidman</bowler-name>
+					<bowler-nickname>Alex Gidman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6682</playerid>
+					<name>Ben Cox</name>
+					<bowler-name>B Cox</bowler-name>
+					<bowler-nickname>Cox</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>402</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>111.5</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Worcestershire">
+			<players>
+				<player>
+					<playerid>6687</playerid>
+					<name>Daryl Mitchell</name>
+					<batsman-name>D Mitchell</batsman-name>
+					<batsman-nickname>Mitchell</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>78</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>A Thomas</bowler>
+					<bowlerId>320</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10046</playerid>
+					<name>Richard Oliver</name>
+					<batsman-name>Richard Oliver</batsman-name>
+					<batsman-nickname>Richard Oliver</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>L Gregory</bowler>
+					<bowlerId>7854</bowlerId>
+						<fielder>L Gregory</fielder>
+						<fielderId>7854</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9407</playerid>
+					<name>Thomas Charles Fell</name>
+					<batsman-name>TC Fell</batsman-name>
+					<batsman-nickname>Tom Fell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Thomas</bowler>
+					<bowlerId>320</bowlerId>
+						<fielder>Peter Trego</fielder>
+						<fielderId>2264</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6824</playerid>
+					<name>Alex Gidman</name>
+					<batsman-name>A Gidman</batsman-name>
+					<batsman-nickname>Alex Gidman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>78</runs>
+					<balls>166</balls>
+					<fours>9</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jamie Overton</bowler>
+					<bowlerId>8512</bowlerId>
+						<fielder>Johann Myburgh</fielder>
+						<fielderId>8015</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>634</playerid>
+					<name>Alexei Kervezee</name>
+					<batsman-name>Kervezee</batsman-name>
+					<batsman-nickname>Kervezee</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>29</runs>
+					<balls>51</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>P Trego</bowler>
+					<bowlerId>2264</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7945</playerid>
+					<name>Ross Whiteley</name>
+					<batsman-name>Ross Whiteley</batsman-name>
+					<batsman-nickname>Ross Whiteley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>36</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>P Trego</bowler>
+					<bowlerId>2264</bowlerId>
+						<fielder>Marcus Trescothick</fielder>
+						<fielderId>44</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6682</playerid>
+					<name>Ben Cox</name>
+					<batsman-name>B Cox</batsman-name>
+					<batsman-nickname>Cox</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>109</runs>
+					<balls>162</balls>
+					<fours>14</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>L Gregory</bowler>
+					<bowlerId>7854</bowlerId>
+						<fielder>L Gregory</fielder>
+						<fielderId>7854</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6696</playerid>
+					<name>Joe Leach</name>
+					<batsman-name>J Leach</batsman-name>
+					<batsman-nickname>Leach</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>95</runs>
+					<balls>129</balls>
+					<fours>14</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Thomas</bowler>
+					<bowlerId>320</bowlerId>
+						<fielder>Marcus Trescothick</fielder>
+						<fielderId>44</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6700</playerid>
+					<name>Jack Shantry</name>
+					<batsman-name>Jack Shantry</batsman-name>
+					<batsman-nickname>Jack Shantry</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>10</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Thomas</bowler>
+					<bowlerId>320</bowlerId>
+						<fielder>Lewis Gregory</fielder>
+						<fielderId>7854</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6729</playerid>
+					<name>Sachithra Senanayake</name>
+					<batsman-name>Senanayake</batsman-name>
+					<batsman-nickname>Senanayake</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>18</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>P Trego</bowler>
+					<bowlerId>2264</bowlerId>
+						<fielder>Marcus Trescothick</fielder>
+						<fielderId>44</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9466</playerid>
+					<name>Charles Morris</name>
+					<batsman-name>C Morris</batsman-name>
+					<batsman-nickname>Morris</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>14</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>10046</playerid>
+				<nbr>1</nbr>
+				<runs>14</runs>
+				<overs>5.1</overs>
+				<batsman>Richard Oliver</batsman>
+				<batsman-name>Richard Oliver</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9407</playerid>
+				<nbr>2</nbr>
+				<runs>19</runs>
+				<overs>6.4</overs>
+				<batsman>Thomas Charles Fell</batsman>
+				<batsman-name>TC Fell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6687</playerid>
+				<nbr>3</nbr>
+				<runs>44</runs>
+				<overs>20.5</overs>
+				<batsman>Daryl Mitchell</batsman>
+				<batsman-name>D Mitchell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>634</playerid>
+				<nbr>4</nbr>
+				<runs>103</runs>
+				<overs>37.4</overs>
+				<batsman>Alexei Kervezee</batsman>
+				<batsman-name>Kervezee</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7945</playerid>
+				<nbr>5</nbr>
+				<runs>135</runs>
+				<overs>49.3</overs>
+				<batsman>Ross Whiteley</batsman>
+				<batsman-name>Ross Whiteley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6824</playerid>
+				<nbr>6</nbr>
+				<runs>199</runs>
+				<overs>62.6</overs>
+				<batsman>Alex Gidman</batsman>
+				<batsman-name>A Gidman</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6682</playerid>
+				<nbr>7</nbr>
+				<runs>367</runs>
+				<overs>102.5</overs>
+				<batsman>Ben Cox</batsman>
+				<batsman-name>B Cox</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6700</playerid>
+				<nbr>8</nbr>
+				<runs>379</runs>
+				<overs>104.6</overs>
+				<batsman>Jack Shantry</batsman>
+				<batsman-name>Jack Shantry</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6696</playerid>
+				<nbr>9</nbr>
+				<runs>392</runs>
+				<overs>108.3</overs>
+				<batsman>Joe Leach</batsman>
+				<batsman-name>J Leach</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6729</playerid>
+				<nbr>10</nbr>
+				<runs>402</runs>
+				<overs>111.5</overs>
+				<batsman>Sachithra Senanayake</batsman>
+				<batsman-name>Senanayake</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>1</wides>
+			<noballs>6</noballs>
+			<legbyes>21</legbyes>
+			<penalty>0</penalty>
+			<total>32</total>
+		</extras>
+		<bowlteam name="Somerset">
+			<players>
+				<player>
+					<playerid>320</playerid>
+					<name>Alfonso Thomas</name>
+					<bowler-name>A Thomas</bowler-name>
+					<bowler-nickname>Alfonso Thomas</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>23</overs>
+					<maidens>5</maidens>
+					<runsoff>81</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7854</playerid>
+					<name>Lewis Gregory</name>
+					<bowler-name>L Gregory</bowler-name>
+					<bowler-nickname>Gregory</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>22</overs>
+					<maidens>2</maidens>
+					<runsoff>96</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2264</playerid>
+					<name>Peter Trego</name>
+					<bowler-name>P Trego</bowler-name>
+					<bowler-nickname>Trego</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>25.5</overs>
+					<maidens>5</maidens>
+					<runsoff>78</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>8512</playerid>
+					<name>Jamie Overton</name>
+					<bowler-name>Jamie Overton</bowler-name>
+					<bowler-nickname>Jamie Overton</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>1</maidens>
+					<runsoff>64</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6593</playerid>
+					<name>Jim Allenby</name>
+					<bowler-name>J Allenby</bowler-name>
+					<bowler-nickname>Allenby</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>5</maidens>
+					<runsoff>28</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>524</playerid>
+					<name>Abdur Rehman</name>
+					<bowler-name>Rehman</bowler-name>
+					<bowler-nickname>Rehman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>44</playerid>
+					<name>Marcus Trescothick</name>
+					<bowler-name>M Trescothick</bowler-name>
+					<bowler-nickname>Trescothick</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8015</playerid>
+					<name>Johann Myburgh</name>
+					<bowler-name>Johann Myburgh</bowler-name>
+					<bowler-nickname>Johann Myburgh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6708</playerid>
+					<name>Tom Cooper</name>
+					<bowler-name>T Cooper</bowler-name>
+					<bowler-nickname>T Cooper</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>408</playerid>
+					<name>James Hildreth</name>
+					<bowler-name>J Hildreth</bowler-name>
+					<bowler-nickname>Hildreth</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7941</playerid>
+					<name>Alex Barrow</name>
+					<bowler-name>Barrow</bowler-name>
+					<bowler-nickname>Barrow</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>90</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>32</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Somerset">
+			<players>
+				<player>
+					<playerid>44</playerid>
+					<name>Marcus Trescothick</name>
+					<batsman-name>M Trescothick</batsman-name>
+					<batsman-nickname>Trescothick</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8015</playerid>
+					<name>Johann Myburgh</name>
+					<batsman-name>Johann Myburgh</batsman-name>
+					<batsman-nickname>Johann Myburgh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>14</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6708</playerid>
+					<name>Tom Cooper</name>
+					<batsman-name>T Cooper</batsman-name>
+					<batsman-nickname>T Cooper</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>408</playerid>
+					<name>James Hildreth</name>
+					<batsman-name>J Hildreth</batsman-name>
+					<batsman-nickname>Hildreth</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>35</runs>
+					<balls>73</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Jack Shantry</bowler>
+					<bowlerId>6700</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6593</playerid>
+					<name>Jim Allenby</name>
+					<batsman-name>J Allenby</batsman-name>
+					<batsman-nickname>Allenby</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>J Leach</bowler>
+					<bowlerId>6696</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7941</playerid>
+					<name>Alex Barrow</name>
+					<batsman-name>Barrow</batsman-name>
+					<batsman-nickname>Barrow</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Leach</bowler>
+					<bowlerId>6696</bowlerId>
+						<fielder>Alex Gidman</fielder>
+						<fielderId>6824</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2264</playerid>
+					<name>Peter Trego</name>
+					<batsman-name>P Trego</batsman-name>
+					<batsman-nickname>Trego</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>16</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>9466</bowlerId>
+						<fielder>Sachithra Senanayake</fielder>
+						<fielderId>6729</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7854</playerid>
+					<name>Lewis Gregory</name>
+					<batsman-name>L Gregory</batsman-name>
+					<batsman-nickname>Gregory</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>33</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jack Shantry</bowler>
+					<bowlerId>6700</bowlerId>
+						<fielder>Ben Cox</fielder>
+						<fielderId>6682</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8512</playerid>
+					<name>Jamie Overton</name>
+					<batsman-name>Jamie Overton</batsman-name>
+					<batsman-nickname>Jamie Overton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>11</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Jack Shantry</bowler>
+					<bowlerId>6700</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>524</playerid>
+					<name>Abdur Rehman</name>
+					<batsman-name>Rehman</batsman-name>
+					<batsman-nickname>Rehman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>320</playerid>
+					<name>Alfonso Thomas</name>
+					<batsman-name>A Thomas</batsman-name>
+					<batsman-nickname>Alfonso Thomas</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jack Shantry</bowler>
+					<bowlerId>6700</bowlerId>
+						<fielder>Joe Leach</fielder>
+						<fielderId>6696</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>44</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>0.2</overs>
+				<batsman>Marcus Trescothick</batsman>
+				<batsman-name>M Trescothick</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8015</playerid>
+				<nbr>2</nbr>
+				<runs>13</runs>
+				<overs>4.4</overs>
+				<batsman>Johann Myburgh</batsman>
+				<batsman-name>Johann Myburgh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6708</playerid>
+				<nbr>3</nbr>
+				<runs>16</runs>
+				<overs>6.6</overs>
+				<batsman>Tom Cooper</batsman>
+				<batsman-name>T Cooper</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6593</playerid>
+				<nbr>4</nbr>
+				<runs>17</runs>
+				<overs>9.2</overs>
+				<batsman>Jim Allenby</batsman>
+				<batsman-name>J Allenby</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7941</playerid>
+				<nbr>5</nbr>
+				<runs>19</runs>
+				<overs>11.5</overs>
+				<batsman>Alex Barrow</batsman>
+				<batsman-name>Barrow</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2264</playerid>
+				<nbr>6</nbr>
+				<runs>36</runs>
+				<overs>16.4</overs>
+				<batsman>Peter Trego</batsman>
+				<batsman-name>P Trego</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7854</playerid>
+				<nbr>7</nbr>
+				<runs>74</runs>
+				<overs>27.2</overs>
+				<batsman>Lewis Gregory</batsman>
+				<batsman-name>L Gregory</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>408</playerid>
+				<nbr>8</nbr>
+				<runs>87</runs>
+				<overs>29.2</overs>
+				<batsman>James Hildreth</batsman>
+				<batsman-name>J Hildreth</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8512</playerid>
+				<nbr>9</nbr>
+				<runs>90</runs>
+				<overs>31.1</overs>
+				<batsman>Jamie Overton</batsman>
+				<batsman-name>Jamie Overton</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>320</playerid>
+				<nbr>10</nbr>
+				<runs>90</runs>
+				<overs>31.6</overs>
+				<batsman>Alfonso Thomas</batsman>
+				<batsman-name>A Thomas</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>1</total>
+		</extras>
+		<bowlteam name="Worcestershire">
+			<players>
+				<player>
+					<playerid>9466</playerid>
+					<name>Charles Morris</name>
+					<bowler-name>C Morris</bowler-name>
+					<bowler-nickname>Morris</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>3</maidens>
+					<runsoff>38</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6696</playerid>
+					<name>Joe Leach</name>
+					<bowler-name>J Leach</bowler-name>
+					<bowler-nickname>Leach</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>3</maidens>
+					<runsoff>26</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6700</playerid>
+					<name>Jack Shantry</name>
+					<bowler-name>Jack Shantry</bowler-name>
+					<bowler-nickname>Jack Shantry</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>2</maidens>
+					<runsoff>15</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7945</playerid>
+					<name>Ross Whiteley</name>
+					<bowler-name>Ross Whiteley</bowler-name>
+					<bowler-nickname>Ross Whiteley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>10</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6687</playerid>
+					<name>Daryl Mitchell</name>
+					<bowler-name>D Mitchell</bowler-name>
+					<bowler-nickname>Mitchell</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10046</playerid>
+					<name>Richard Oliver</name>
+					<bowler-name>Richard Oliver</bowler-name>
+					<bowler-nickname>Richard Oliver</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9407</playerid>
+					<name>Thomas Charles Fell</name>
+					<bowler-name>TC Fell</bowler-name>
+					<bowler-nickname>Tom Fell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6824</playerid>
+					<name>Alex Gidman</name>
+					<bowler-name>A Gidman</bowler-name>
+					<bowler-nickname>Alex Gidman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>634</playerid>
+					<name>Alexei Kervezee</name>
+					<bowler-name>Kervezee</bowler-name>
+					<bowler-nickname>Kervezee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6682</playerid>
+					<name>Ben Cox</name>
+					<bowler-name>B Cox</bowler-name>
+					<bowler-nickname>Cox</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6729</playerid>
+					<name>Sachithra Senanayake</name>
+					<bowler-name>Senanayake</bowler-name>
+					<bowler-nickname>Senanayake</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

@@ -1,0 +1,581 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14715" >
+		<type>ODI</type>
+		<gameDesc>Only ODI</gameDesc>
+		<series>England tour of Ireland, 2015</series>
+		<matchday>1</matchday>
+		<home>Ireland</home>
+		<away>England</away>
+		<teamsabbr>IRE vs ENG</teamsabbr>
+		<homeabbr>IRE</homeabbr>
+		<awayabbr>ENG</awayabbr>
+		<homeId>27</homeId>
+		<awayId>9</awayId>
+		<venue>The Village, Dublin</venue>
+		<startdate>08 05 2015</startdate>
+		<enddate>08 05 2015</enddate>
+		<toss>
+			<winner>England</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>No result</status>
+		<result type="no result">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Mark Hawthorne</Name>
+			<Country>IRE</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Ian Ramage</Name>
+			<Country>Sco</Country>
+		</Umpire2>
+		<MatchReferee>
+			<Name>David Jukes</Name>
+			<Country>Eng</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>09:45</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150508141349</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>1</currentinningsno>
+		<batteamname>IRE</batteamname>
+		<bwlteamname>Eng</bwlteamname>
+		<batteamruns>56</batteamruns>
+		<batteamwkts>4</batteamwkts>
+		<batteamovers>18</batteamovers>
+		
+		<batsman>
+			<playerid>540</playerid>
+			<name>Ed Joyce*</name>
+			<batsman-name>Ed Joyce</batsman-name>
+			<batsman-nickname>Ed Joyce</batsman-nickname>
+			<runs>23</runs>
+			<balls-faced>42</balls-faced>
+			<fours>2</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>739</playerid>
+			<name>Gary Wilson</name>
+			<batsman-name>G Wilson</batsman-name>
+			<batsman-nickname>G Wilson</batsman-nickname>
+			<runs>3</runs>
+			<balls-faced>8</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>6592</playerid>
+			<name>David Willey*</name>
+			<bowler-name>D Willey</bowler-name>
+			<bowler-nickname>Willey</bowler-nickname>
+			<overs>4</overs>
+			<maidens>1</maidens>
+			<runs>17</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6317</playerid>
+			<name>Steven Finn</name>
+			<bowler-name>Finn</bowler-name>
+			<bowler-nickname>Finn</bowler-nickname>
+			<overs>3</overs>
+			<maidens>2</maidens>
+			<runs>1</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers></maxovers>
+		<target></target>
+<lastwicket>
+<playerid>6710</playerid>
+<name>Andrew Balbirnie</name>
+<player-runs>5</player-runs>
+<player-balls>19</player-balls>
+<runs>53</runs>
+<wicket-nbr>4</wicket-nbr>
+<bowlerid>6592</bowlerid>
+<bowlername>D Willey</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>1</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<prevOvers><![CDATA[1 . . 1 . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 . . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 4 W . 3 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . . ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_IRE_ENG/IRE_ENG_MAY08/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[The match ends as a <b>no result</b>. That's a real shame for both teams. Ireland hardly get exposure against top nations while England's next generation didn't get an opportunity to show their wares. The forecast was poor for the day and the rain simply didn't abate. England now go home and prepare themselves for the upcoming Tests against New Zealand. The first Test starts on the 21st of May at Lord's. Do join us for all the action. For now, cheers and bye..]]></line><line><![CDATA[<b>15:10 Local Time, 14:10 GMT, 19:40 IST:</b> Well, this was inevitable. Cricket Ireland has tweeted that the match has been <b>called off</b>.]]></line><line><![CDATA[<b>14:55 Local Time, 13:55 GMT, 19:25 IST:</b> An inspection is scheduled in 5 minutes time but there are unconfirmed reports that the game might be <b>abandoned</b> then.]]></line><line><![CDATA[<b>14:40 Local Time, 13:40 GMT, 19:10 IST:</b> It is still raining at Malahide. The umpires have scheduled an inspection at <b>3 PM local time</b>]]></line><line><![CDATA[<b>14:15 Local Time, 13:15 GMT, 18:45 IST:</b> It is still raining heavily at Malahide. Lunch has already been taken and the cut-off time for a 20-over game is <b>5:37 PM local time</b>]]></line><line><![CDATA[<b>13:55 Local Time, 12:55 GMT, 18:25 IST:</b> I am afraid we don't have any good news. Rain is pelting down and the forecast is for more showers. We were lucky to get 18 overs in, but it doesn't look good at the moment.]]></line><line><![CDATA[<b>13:10 Local Time, 12:10 GMT, 17:40 IST:</b> Nothing more to report. It's pretty grim and wet at Malahide. We haven't had any action over the last hour, we will start losing overs from now.]]></line><line><![CDATA[<b>12:45 Local Time, 11:45 GMT, 17:15 IST:</b> The rain is coming down, it's looking pretty bleak at the moment. There are some hopefuls under the umbrella but it might just be a long wait.]]></line><line><![CDATA[<b>12:20 Local Time, 11:20 GMT, 16:50 IST:</b> The rain has picked up pace, the covers are firmly in place and we are set for a lengthy delay.]]></line><line><![CDATA[<b>12:05 Local Time, 11:05 GMT, 16:35 IST:</b> Oh Dear! The rain has got heavier and the umpires are having a chat. They are now trooping off, followed by the players. <b>Rain stops play</b><b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Finn to G Wilson, no run, fuller length delivery and just outside off, Wilson closes the face of the bat and defends it towards mid-wicket]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Finn to G Wilson, no run, once again in that channel outside off, defended towards the off-side]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Finn to G Wilson, no run, this is excellent bowling from Finn, tad fuller and in that channel outside off, draws Wilson forward before zipping past the outside edge]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Finn to G Wilson, no run, on a length and on the stumps, Wilson defends it solidly]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Finn to G Wilson, no run, this one nipped back in from a length, Wilson was caught on the move and is struck high on the thigh pad]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Finn to G Wilson, no run, on a good length and just outside off, driven straight to the fielder at mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Willey to G Wilson, 3 runs, fuller length delivery and shaping away, Wilson leans into the drive and gets it past cover, runs hard and comes back for the third run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run, on a good length and a hint of shape away, Wilson defends it twoards the off-side]]></line><line><![CDATA[<b>Gary Wilson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Willey to Balbirnie, <b>out</b> Caught by Jason Roy!! Nicely done by Willey, gets his first ODI wicket. This was pushed through wider and just outside off, Balbirnie went for the flashy drive, gets a thick edge, Roy moves across to his right and completes the catch. <b>Balbirnie c Jason Roy b Willey 5(19) [4s-1]</b>.]]></line><line><![CDATA[Willey to Balbirnie, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Willey to Balbirnie, <b>FOUR</b>, lovely shot! This was pitched up and just outside off, Balbirnie presses forward, offers the full face of the bat and drives it past mid-off for a boundary]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, 1 run, back of a length and just outside off, steered down towards third man for a single]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, on a good length and just outside off , Joyce presses forward and angles it towards point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, fuller length delivery and on the stumps, pushed towards mid-on]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, short of a length and just outside off, Balbirnie presses across and defends it towards the on-side]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, that's a cracker from Finn, shortens the length, draws Balbirnie forward before zipping past the angled bat, Balbirnie was completely squared up there]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, fuller length delivery and just outside off, driven towards mid-off]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, fuller length delivery and just outside off, defended towards point]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Finn to Ed Joyce, 1 run, Joyce opens the face of the bat and runs it towards second slip, there's a misfield from Roy and the batsmen get across for a quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, 1 run, short of a length and angling across the left-hander, steered away towards third man for a single]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, fuller length delivery and just outside off, Joyce prods forward and gets an inside edge towards mid-wicket]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Willey to Balbirnie, 1 run, dabbed away towards third man for a single]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Willey to Balbirnie, no run, on a length and just outside off, Balbirnie gets behind the line and defends it towards mid-off]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Willey to Balbirnie, no run, Willey pushes this one across the left-hander, he pokes at that without moving his feet, beaten on the outside edge]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, 1 run, on a good length and just outside off, Joyce drops it in front of cover and calls for a quick single, good running from the batsmen]]></line><end-of-over>end of over</end-of-over><line><![CDATA[It has started to rain at Malahide.. Some umbrellas are going up.]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, Finn keeps it short and just outside off, Balbirnie gets behind the line and defends it towards the on-side]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, fuller length delivery and shaping away further, another easy leave]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, tad fuller and just outside off, Balbirnie pushes it towards the off-side]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, back of a length and on the stumps, nudged away towards the on-side]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, Finn keeps it full, defended towards the off-side]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Finn to Balbirnie, no run, Finn keeps it full an djust outside off, driven straight to the fielder at mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Finn, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, fuller length delivery and well outside off, driven straight to the fielder at cover]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, short of a length and on the stmps, Joyce prods across and defends it towards the on-side]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, Willey keeps it full and just outside off, Joyce was prodding forward, hits the bat and then thuds into the pads, there were two sounds there]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, Willey gets this one to angle back into Joyce, driven towards mid-on]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, tad fuller and just outside off, punched towards mid-off]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, on a good length and just outside off, Joyce prods across and defends it towards the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Bresnan to Balbirnie, no run, fuller length delivery and angling into Balbirnie's pads, he looks to flick and misses, would have been going down leg]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Bresnan to Balbirnie, no run, full and just outside off, driven back towards the bowler]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Bresnan to Balbirnie, no run, loud shout for LBW, but it struck Balbirnie high on the pads and might have been slipping down leg as well, this one came back from a length and beat Balbirnie's push]]></line><line><![CDATA[<b>Andrew Balbirnie, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Bresnan to N O'Brien, <b>out</b> Caught by James Vince!! N O'Brien has thrown it away! This was full and wide outside off, lures O'Brien into the drive, he can't resist and has a go at that, the edge if found and it's grabbed by Vince at first slip. <b>N O'Brien c James Vince b Bresnan 10(8) [4s-2]</b>]]></line><line><![CDATA[Bresnan to N O'Brien, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, 1 run, back of a length and angling away from outside off, steered away square behind point for a single]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, Bresnan gets this one to drift across the left-hander, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, 1 run, short of a length and well outside off, steered away towards third man for a single]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, back of a length and just outside off, dabbed straight to the fielder at point]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, <b>FOUR</b>, too short from Willey, Joyce swivels across and pulls it behind square on the on-side, gets it wide of the man in the deep and into the fence]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Willey to Ed Joyce, no run, short of a length and well outside off, slapped straight to the fielder at point]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Willey to N O'Brien, 1 run, too straight from Willey, worked away in front of square on the on-side for a single]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Willey to N O'Brien, no run, full and well outside off, O'Brien is happy to let it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Willey, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, fuller length delivery and just outside off, defended towards cover]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, on a good length and shaping away from off, left alone]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, fuller length delivery and just outside off, Joyce prods across and defends it towards backward point]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, 2 runs, tad fuller and just outside off, Joyce pushes it through cover for a couple of runs]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, 2 runs, that could have been close! Joyce gets an inside edge onto the pads and calls for a quick single as the ball rolled away wide of the keeper. Bairstow has a shy at the bowler's end and misses, concedes an overthrow as well]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, fuller length delivery and just outside off, defended towards the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Mark Wood to N O'Brien, <b>FOUR</b>, cracking shot from O'Brien, fraction too short from Wood, O'Brien swivels across and pulls it in front of square on the on-side for a boundary]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Mark Wood to Ed Joyce, 1 run, Wood keeps it very full and just outside off, squeezed away towards third man]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Mark Wood to N O'Brien, 1 run, Hales has dropped one! This was short and well outside off, O'Brien shaped for the cut, hits it in the air and straight to gully, Hales somehow allows the ball to pop out]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Mark Wood to N O'Brien, no run, short of a length and just outside off, slapped straight to the fielder at cover]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Mark Wood to N O'Brien, <b>FOUR</b>, lovely shot from N O'Brien, fraction short and just outside off, O'Brien swivels across and pulls it over square leg for a boundary]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Mark Wood to N O'Brien, no run, Wood keeps it on a good length and gets it to shape away slightly, N O'Brien doesn't need to play those, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, Bresnan keeps it on a good length and gets it to angle away, another easy leave]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, fuller length delivery and shaping away from outside off, left alone]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, pushed towards the off-side]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, loud shout for a caught behind, but it came off Joyce's back pad, Bresnan shortened his length and gets it to jag away slightly, Joyce is opened up as he looked to defend and missed, there was a big noice, but it was ball hitting pad]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, tad fuller and shaping away from outside off, left alone]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, on a good length and shaping away from outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Niall O'Brien, left handed bat, comes to the crease</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, <b>out</b> Bowled!! That's the first ODI wicket for Wood. This was a back of a length delivery and just outside off, Porterfield was looking to force it away through point, is cramped for room and ends up dragging it back onto the stumps. The umpire's check for the no-ball and Wood has a bit behind the line. <b>Porterfield b Mark Wood 7(27) [4s-1]</b>]]></line><line><![CDATA[Mark Wood to Porterfield, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, tad fuller and just outside off, Porterfield prods across and defends it towards the off-side]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, width on offer from Wood, Porterfield flashes at that and is beaten]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, Wood keeps it full and in that channel outside off, another easy leave for the batsman]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, fuller length delivery and shaping away from outside off, left alone]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Mark Wood to Ed Joyce, 1 run, Wood shortens his length on the stumps, nudged behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, back of a length and on Porterfield's pads, he looks to flick and is struck on the thigh pad]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, pitched up and on the stumps, Porterfield prods across and defends it towards the on-side]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, 1 run, Bresnan shortens his length outside off, Joyce steers it down towards third man for a single]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, <b>FOUR</b>, lovely shot from Joyce, overpitched and well outside off, Joyce leans into the drive and caresses it through extra cover for a boundary]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, Joyce drops this one towards the off-side]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, edged and short! Bresnan shortens his length on off, Joyce was looking to dab it down towards third man, gets a healthy edge that drops in front of the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, back of a length and angling into Porterfield's pads, he looks to flick and misses]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Mark Wood to Ed Joyce, 1 run, on a good length and just outside off, eased square on the off-side for a single]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Mark Wood to Ed Joyce, no run, tad fuller and on the stumps, driven towards mid-on]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, 1 run, on an off-stump channel from Wood, Porterfield dabs it behind square on the off-side for a single]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, <b>wide</b>, Wood slips this one down leg-side, called as a wide]]></line><line><![CDATA[Looks like the ball has been replaced, the umpires had a look and a new set of replacements are brought out..]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, <b>FOUR</b>, that's nicely dealt with by Porterfield, tad fuller and just outside off, Porterfield clears his left leg and drills it back past the bowler, the ball races away to the fence in a hurry]]></line><line><![CDATA[<b>Free Hit</b>]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Mark Wood to Ed Joyce, <b>no ball</b>, 1 run, Wood oversteps and drifts one onto Joyce's pads, nudged away behind square on the on-side for a single]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, leg byes, 1 run, short of a length and on Porterfield's hips, tucked away behind square on the on-side off the pads, just a leg-bye]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, fuller length delivery and on the stumps, Joyce gets across and defends it towards mid-on]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, on a good length and shaping away from off, Joyce plays inside the line and lets it go]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Bresnan to Ed Joyce, no run, tad fuller and just outside off, driven straight to the fielder at mid-off]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, leg byes, 1 run, on a length and pitching just outside leg, Porterfield shuffles a long way across on the flick, misses the shot and scampers across for a leg-bye]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, fuller length delivery and on the stumps, defended towards the on-side]]></line><line><![CDATA[<b>Ed Joyce, left handed bat, comes to the crease</b>]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Bresnan to Stirling, <b>out</b> Stirling Run Out!! That's a sharp piece of fielding from Bairstow. he makes a direct hit at the bowler's end and finds Stirling short of his ground. This was a back of a length delivery and on Stirling's pads, he looked to nudge it towards the on-side and missed. The ball rolled away to the left of the keeper, Porterfield called him through for a quick single. Bairstow is quick onto the ball and hits the stumps at the bowler's end, catching Stirling well short. <b>Stirling run out (Bairstow) 2(5)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Bresnan to Stirling, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, on a good length and just outside off, driven towards mid-off]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, tad fuller and just outside off, pushed back towards the bowler]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, back of a length and on the middle stump line, nudged towards the on-side]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, <b>wide</b>, Wood sprays this one miles outside off, called as a wide]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, fraction short and just outside off, Porterfield goes hard on the pull and mistimes it towards mid-on]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, pitched up and shaping away from outside off, left alone]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, tad fuller and just outside off, blocked towards the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, 1 run, fuller length delivery and well outside off, Porterfield is lured into the drive, gets a thick outside edge and down towards third man for a single]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, on a length and just outside off, defended twoards cover]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, Bresnan pushes this one across the left-hander, he doesn't need to play at those, left alone]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, tad fuller and a hint of shape away from off, left alone]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, full and on the stumps, Porterfield presses forward and punches it towards mid-on]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Bresnan to Porterfield, no run, on a length and in that channel outside off, Porterfield covers the line, lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Bresnan, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Mark Wood to Stirling, no run, loud shout for LBW, this was full and swung back late into Stirling, he was looking to flick and missed, might have been slipping down leg-side though]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Mark Wood to Stirling, 2 runs, too straight from Wood, ends up drifting onto Stirling's pads, flicked away behind square on the on-side for a couple of runs]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Mark Wood to Stirling, no run, Stirling pushes it towards the off-side]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Mark Wood to Stirling, no run, nicely bowled by Wood, back of a length and just outside off, gets it to rear onto Stirling, he pushes forward and the ball rolls away towards cover, off the splice of the bat]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, 1 run, tad fuller and in that channel outside off, Porterfield leans forward and drives it towards mid-off, off the mark with a single]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, no run, tad fuller and shaping away from outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Mark Wood to Porterfield, <b>wide</b>, Wood's first ball in international cricket is a leg-side wide, he slipped this one well outside leg and got to swing down further]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Porterfield and Stirling are at the crease. Porterfield is on strike. Mark Wood will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>England</b> (Playing XI): Alex Hales, Jason Roy, James Vince, James Taylor(c), Jonathan Bairstow(w), Zafar Ansari, Adil Rashid, Tim Bresnan, David Willey, Mark Wood, Steven Finn]]></line><line><![CDATA[<b>Ireland</b> (Playing XI): William Porterfield(c), Paul Stirling, Ed Joyce, Niall O'Brien, Andrew Balbirnie, Gary Wilson(w), Kevin O'Brien, John Mooney, George Dockrell, Alex Cusack, Craig Young]]></line><line><![CDATA[<b>England have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Team News:</b> Zafar Ansari, Mark Wood, David Willey, James Vince and Jason Roy have been handed their England caps. So, we will have five debutants from the England side for this game.]]></line><line><![CDATA[<b>Weather Report:</b> The forecast for the day isn't flashy. It's dry for now but there are dark clouds hovering around. Rain is expected to arrive later in the afternoon and is expected to stay put for hours. Fingers crossed, we will have a full match.]]></line><line><![CDATA[Ireland had a decent 2015 World Cup and will look at this match as an opportunity to turn the tables on their more fancied opponents. With the ICC adamant about reducing the 2019 World Cup into a 10-team affair, the hosts will be keen to prove a point or two. They have beaten England previously - the famous match between the two teams during the 2011 World Cup springs to mind. Will they dent England's confidence at the start of the season? Toss and team updates in a while..]]></line><line><![CDATA[Plenty of new names in this England line-up. Only three players, Alex Hales, Steven Finn and James Taylor, played in England's last ODI, the league match against Afghanistan during the 2015 World Cup. Several big names have been rested, with the Test series against West Indies ending just a few days ago. On the other hand, regular captain, Eoin Morgan, has been permitted to miss this match, owing to his IPL duties, so does Ravi Bopara. There are as many as seven possible ODI debutants in this line-up and Taylor has the honour of leading them into the park today.]]></line><line><![CDATA[<b>09:45 Local Time, 08:45 GMT, 14:15 IST:</b> The English international summer has arrived. It's a period wherein England are scheduled to play a total of 7 Tests, 11 ODIs and a one-off T20I. They will host the world champions, Australia, in a 5-Test Ashes rubber as well as runners-up, New Zealand, in a 2-Test series. It's a huge summer coming up and if there's a teaser, it's in the form of an one-off ODI against Ireland at Malahide, Dublin.]]></line><line><![CDATA[<b>Preview:</b><br/><br/>James Taylor leads a much-changed side into what he says is a "new era" for England cricket when they face Ireland in a one-day international at Malahide, near Dublin, on Friday. After their underwhelming performance at the World Cup, when they lost their four games against Test nations and failed to reach the knockout stage, the England selectors have rung the changes with no fewer than six players in line to make their ODI debut, five of whom have never represented England in any format.<br/><br/>With regular one-day captain and former Ireland international Eoin Morgan allowed to miss this one-off game to play in the Indian Premier League, Taylor gets the chance to captain his country for the first time.<br/><br/>"It will be a real honour to lead out a young England side and although I have got the job by default because there were a few guys in the West Indies on the Test tour, it is really a special moment," said Taylor. "But there are plenty of fresh faces and young, exciting talent. It's a new era for England cricket, a chance to park the World Cup and look forward to a fresh start."<br/><br/>Surrey's Cambridge graduate Zafar Ansari, Kent wicket-keeper batsman Sam Billings, Somerset all-rounder Lewis Gregory, Hampshire batsman James Vince and Northamptonshire all-rounder David Willey are all hoping for an England debut while Surrey's Jason Roy is, so far, a T20 specialist. Meanwhile Adil Rashid and Mark Wood can expect a game after travelling back early from the West Indies, where England could only manage a 1-1 draw against opponents labelled "mediocre" by incoming England and Wales Cricket Board chairman Colin Graves.<br/><br/>It is also the start of a new era for Ireland but, in contrast to England, their stock continues to rise after victories over Zimbabwe and West Indies at a World Cup where they were only denied a quarter-final place on net run-rate alone. John Bracewell, the former New Zealand off-spinner who coached his country for five years, including at the 2007 World Cup, started work on Tuesday as Ireland coach in succession to Phil Simmons, now in charge of his native West Indies, but will have an observer role only this week.<br/><br/>Ireland's 14-man squad, selected before Bracewell's appointment, has already been reduced by one with the withdrawal of Tim Murtagh with a hamstring injury, further disappointment for the Middlesex seamer who missed the World Cup with a foot problem.<br/><br/>Victory for Ireland would strengthen their case for more international matches, a point made repeatedly by skipper William Porterfield at the World Cup. "We can play a lot more often," said Porterfield. "The public in Ireland are crying out for that as well, to see more cricket against the top-ten teams, especially in Ireland."<br/><br/>Taylor, who played at Malahide in the last game between the teams in 2013, said England faced a "massive test" on Friday. "It was an exciting game two years ago (at Malahide), but we were four down early (Taylor one of the wickets) and then Eoin Morgan and Ravi Bopara blitzed the ball to all parts and scored two unbelievable hundreds to get us over the line. It was a feisty (10,000) crowd and we expect the same atmosphere again."<br/><br/>"Ireland showed the talent they have got at the World Cup against good teams and played really well so we know it will be a massive test, but I have guys behind me who are going to give them a good run for their money," Taylor said.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>England</b> (From): Alex Hales, Jason Roy, James Taylor(c), James Vince, Jonathan Bairstow(w), Zafar Ansari, Tim Bresnan, Adil Rashid, David Willey, Steven Finn, Lewis Gregory, Mark Wood, Sam Billings]]></line><line><![CDATA[<b>Ireland</b> (From): William Porterfield(c), Paul Stirling, Ed Joyce, Andrew Balbirnie, Niall O'Brien, Gary Wilson(w), Kevin O'Brien, John Mooney, George Dockrell, Alex Cusack, Stuart Thompson, Andy McBrine, Craig Young]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>56</totalruns>
+		<totalwickets>4</totalwickets>
+		<totalovers>18</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Ireland">
+			<players>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<batsman-name>Porterfield</batsman-name>
+					<batsman-nickname>Porterfield</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>27</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Mark Wood</bowler>
+					<bowlerId>8383</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<batsman-name>Stirling</batsman-name>
+					<batsman-nickname>Stirling</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Jonathan Bairstow</fielder>
+						<fielderId>6507</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<batsman-name>Ed Joyce</batsman-name>
+					<batsman-nickname>Ed Joyce</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>23</runs>
+					<balls>42</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<batsman-name>N O'Brien</batsman-name>
+					<batsman-nickname>N O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>8</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Bresnan</bowler>
+					<bowlerId>537</bowlerId>
+						<fielder>James Vince</fielder>
+						<fielderId>6642</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6710</playerid>
+					<name>Andrew Balbirnie</name>
+					<batsman-name>Balbirnie</batsman-name>
+					<batsman-nickname>Balbirnie</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Willey</bowler>
+					<bowlerId>6592</bowlerId>
+						<fielder>Jason Roy</fielder>
+						<fielderId>6534</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<batsman-name>G Wilson</batsman-name>
+					<batsman-nickname>G Wilson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>3</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>690</playerid>
+					<name>Kevin O'Brien</name>
+					<batsman-name>K O'Brien</batsman-name>
+					<batsman-nickname>K O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>622</playerid>
+					<name>John Mooney</name>
+					<batsman-name>J Mooney</batsman-name>
+					<batsman-nickname>J Mooney</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6329</playerid>
+					<name>George Dockrell</name>
+					<batsman-name>Dockrell</batsman-name>
+					<batsman-nickname>Dockrell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>735</playerid>
+					<name>Alex Cusack</name>
+					<batsman-name>Cusack</batsman-name>
+					<batsman-nickname>Cusack</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6575</playerid>
+					<name>Craig Young</name>
+					<batsman-name>Craig Young</batsman-name>
+					<batsman-nickname>C Young</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1114</playerid>
+				<nbr>1</nbr>
+				<runs>6</runs>
+				<overs>3.1</overs>
+				<batsman>Paul Stirling</batsman>
+				<batsman-name>Stirling</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>625</playerid>
+				<nbr>2</nbr>
+				<runs>23</runs>
+				<overs>6.6</overs>
+				<batsman>William Porterfield</batsman>
+				<batsman-name>Porterfield</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>691</playerid>
+				<nbr>3</nbr>
+				<runs>44</runs>
+				<overs>11.3</overs>
+				<batsman>Niall O'Brien</batsman>
+				<batsman-name>N O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6710</playerid>
+				<nbr>4</nbr>
+				<runs>53</runs>
+				<overs>16.4</overs>
+				<batsman>Andrew Balbirnie</batsman>
+				<batsman-name>Balbirnie</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>1</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<bowlteam name="England">
+			<players>
+				<player>
+					<playerid>8383</playerid>
+					<name>Mark Wood</name>
+					<bowler-name>Mark Wood</bowler-name>
+					<bowler-nickname>Mark Wood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>3</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>537</playerid>
+					<name>Tim Bresnan</name>
+					<bowler-name>T Bresnan</bowler-name>
+					<bowler-nickname>Bresnan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>2</maidens>
+					<runsoff>11</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6592</playerid>
+					<name>David Willey</name>
+					<bowler-name>D Willey</bowler-name>
+					<bowler-nickname>Willey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>1</maidens>
+					<runsoff>17</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6317</playerid>
+					<name>Steven Finn</name>
+					<bowler-name>Finn</bowler-name>
+					<bowler-nickname>Finn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>2</maidens>
+					<runsoff>1</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<bowler-name>A Hales</bowler-name>
+					<bowler-nickname>Hales</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6534</playerid>
+					<name>Jason Roy</name>
+					<bowler-name>J Roy</bowler-name>
+					<bowler-nickname>Jason Roy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6642</playerid>
+					<name>James Vince</name>
+					<bowler-name>J Vince</bowler-name>
+					<bowler-nickname>James Vince</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<bowler-name>James Taylor</bowler-name>
+					<bowler-nickname>James Taylor</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6507</playerid>
+					<name>Jonathan Bairstow</name>
+					<bowler-name>Bairstow</bowler-name>
+					<bowler-nickname>Bairstow</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7953</playerid>
+					<name>Zafar Ansari</name>
+					<bowler-name>Zafar Ansari</bowler-name>
+					<bowler-nickname>Zafar Ansari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1742</playerid>
+					<name>Adil Rashid</name>
+					<bowler-name>Adil Rashid</bowler-name>
+					<bowler-nickname>Adil Rashid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

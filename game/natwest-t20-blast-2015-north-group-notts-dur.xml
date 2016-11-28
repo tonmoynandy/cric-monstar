@@ -1,0 +1,1068 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14375" >
+		<type>T20</type>
+		<gameDesc>North Group</gameDesc>
+		<series>NatWest t20 Blast, 2015</series>
+		<matchday>1</matchday>
+		<home>Nottinghamshire</home>
+		<away>Durham</away>
+		<teamsabbr>NOTTS vs DUR</teamsabbr>
+		<homeabbr>NOTTS</homeabbr>
+		<awayabbr>DUR</awayabbr>
+		<homeId>139</homeId>
+		<awayId>141</awayId>
+		<venue>Trent Bridge, Nottingham</venue>
+		<startdate>31 05 2015</startdate>
+		<enddate>31 05 2015</enddate>
+		<toss>
+			<winner>Durham</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Nottinghamshire won by 15 runs</status>
+		<result type="win">
+			<winningteam>Nottinghamshire</winningteam>
+			<wonbyruns>15</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Rob Bailey</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Neil Bainton</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>13:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150531162810</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Dur</batteamname>
+		<bwlteamname>Notts</bwlteamname>
+		<batteamruns>160</batteamruns>
+		<batteamwkts>6</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Nottinghamshire won by 15 runs</status>
+		<batsman>
+			<playerid>9543</playerid>
+			<name> Usman Arshad*</name>
+			<batsman-name> U Arshad</batsman-name>
+			<batsman-nickname> Usman Arshad</batsman-nickname>
+			<runs>5</runs>
+			<balls-faced>3</balls-faced>
+			<fours>1</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>6555</playerid>
+			<name>Gordon Muchall</name>
+			<batsman-name>G Muchall</batsman-name>
+			<batsman-nickname>Muchall</batsman-nickname>
+			<runs>42</runs>
+			<balls-faced>30</balls-faced>
+			<fours>4</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<bowler>
+			<playerid>6733</playerid>
+			<name>Luke Fletcher*</name>
+			<bowler-name>L Fletcher</bowler-name>
+			<bowler-nickname>Luke Fletcher</bowler-nickname>
+			<overs>3</overs>
+			<maidens>0</maidens>
+			<runs>29</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6496</playerid>
+			<name>Harry Gurney</name>
+			<bowler-name>H Gurney</bowler-name>
+			<bowler-nickname>Gurney</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>26</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>176</target>
+<lastwicket>
+<playerid>9331</playerid>
+<name>Ryan Pringle</name>
+<player-runs>25</player-runs>
+<player-balls>12</player-balls>
+<runs>148</runs>
+<wicket-nbr>6</wicket-nbr>
+<bowlerid>6733</bowlerid>
+<bowlername>L Fletcher</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>2</wides>
+			<noballs>2</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>9</total>
+		</extras>
+		<prevOvers><![CDATA[2 1 4 2 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 2 4 1 L1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 1 1 1 W 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 4 L1 1 1 L1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_NATWEST_T20/NOTTS_DUR_MAY31/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Gurney to Usman Arshad, leg byes, 1 run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Gurney to Muchall, 1 run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Gurney to Usman Arshad, 1 run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Gurney to Muchall, leg byes, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Gurney to Muchall, <b>FOUR</b>]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Gurney to Muchall, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Usman Arshad, <b>FOUR</b>]]></line><line><![CDATA[<b>Usman Arshad, right handed bat, comes to the crease</b>]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Pringle, <b>out</b> Caught by Mullaney!! <b>Pringle c Mullaney b Luke Fletcher 25(12) [4s-2 6s-1]</b>]]></line><line><![CDATA[Luke Fletcher to Pringle, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Muchall, 1 run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Pringle, 1 run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Muchall, 1 run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Muchall, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Gurney to Muchall, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Gurney to Pringle, leg byes, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Gurney to Muchall, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Gurney to Muchall, <b>FOUR</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Gurney to Muchall, 2 runs]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Gurney to Muchall, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Harry Gurney [2.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Muchall, 1 run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Pringle, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Pringle, 2 runs]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Pringle, <b>FOUR</b>]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Muchall, 1 run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Muchall, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Luke Fletcher [1.0-0-7-1] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Mullaney to Pringle, 2 runs]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Mullaney to Muchall, 1 run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Mullaney to Muchall, <b>SIX</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Mullaney to Pringle, 3 runs]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Mullaney to Pringle, <b>FOUR</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Mullaney to Pringle, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Sammy to Muchall, <b>FOUR</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Sammy to Muchall, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Sammy to Muchall, 2 runs]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Sammy to Muchall, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Sammy to Muchall, <b>wide</b>]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Sammy to Pringle, 1 run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Sammy to Muchall, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Mullaney to Muchall, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Mullaney to Muchall, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Mullaney to Muchall, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Mullaney to Pringle, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Mullaney to Muchall, 1 run]]></line><line><![CDATA[<b>Ryan Pringle, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Mullaney to Hastings, <b>out</b> Caught by Sam Wood!! <b>Hastings c Sam Wood b Mullaney 6(9)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Mullaney to Hastings, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Sammy to Hastings, 1 run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Sammy to Hastings, 2 runs]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Sammy to Hastings, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Sammy to Muchall, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Sammy to Muchall, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Sammy to Hastings, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Mullaney to Hastings, 1 run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Mullaney to Muchall, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Mullaney to Hastings, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Mullaney to Hastings, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Mullaney to Hastings, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Mullaney to Muchall, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>John Hastings, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Sammy to Collingwood, <b>out</b> Bowled!! <b>Collingwood b Sammy 30(25) [4s-3]</b>]]></line><line><![CDATA[Sammy to Collingwood, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Gordon Muchall, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Sammy to MacLeod, <b>out</b> Caught by Luke Fletcher!! <b>MacLeod c Luke Fletcher b Sammy 32(27) [4s-5]</b>]]></line><line><![CDATA[Sammy to MacLeod, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Sammy to MacLeod, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Sammy to Collingwood, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Sammy to Collingwood, <b>no ball</b>, <b>FOUR</b>]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Sammy to Collingwood, 2 runs]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Sammy to MacLeod, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Mullaney to Collingwood, 2 runs]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Mullaney to Collingwood, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Mullaney to MacLeod, 1 run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Mullaney to MacLeod, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Mullaney to Collingwood, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Mullaney to Collingwood, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Mullaney, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Sammy to Collingwood, 1 run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Sammy to Collingwood, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Sammy to MacLeod, 1 run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Sammy to Collingwood, 1 run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Sammy to Collingwood, <b>FOUR</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Sammy to Collingwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Sammy, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Sam Wood to Collingwood, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Sam Wood to Collingwood, <b>FOUR</b>]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Sam Wood to MacLeod, 1 run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Sam Wood to MacLeod, 2 runs]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Sam Wood to Collingwood, 1 run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Sam Wood to Collingwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sam Wood, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Samit Patel to MacLeod, <b>FOUR</b>]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Samit Patel to MacLeod, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Samit Patel to Collingwood, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Samit Patel to Collingwood, 2 runs]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Samit Patel to MacLeod, 1 run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Samit Patel to Collingwood, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Samit Patel, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;J Ball to MacLeod, <b>FOUR</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;J Ball to MacLeod, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;J Ball to Collingwood, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;J Ball to Collingwood, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;J Ball to Collingwood, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;J Ball to Collingwood, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Collingwood, 1 run]]></line><line><![CDATA[<b>Paul Collingwood, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Mustard, <b>out</b> Caught by Samit Patel!! <b>Mustard c Samit Patel b Luke Fletcher 11(11) [4s-2]</b>]]></line><line><![CDATA[Luke Fletcher to Mustard, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Mustard, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Mustard, <b>FOUR</b>]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Luke Fletcher to MacLeod, 1 run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Mustard, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Luke Fletcher, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;J Ball to MacLeod, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;J Ball to MacLeod, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;J Ball to MacLeod, <b>FOUR</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;J Ball to MacLeod, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;J Ball to MacLeod, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;J Ball to MacLeod, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Gurney to Mustard, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Gurney to MacLeod, 1 run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Gurney to MacLeod, 2 runs]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Gurney to MacLeod, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Gurney to MacLeod, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Gurney to MacLeod, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;J Ball to MacLeod, 1 run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;J Ball to MacLeod, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;J Ball to Mustard, 1 run]]></line><line><![CDATA[<b>Calum MacLeod, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;J Ball to Stoneman, <b>out</b> Caught by Hales!! <b>Stoneman c Hales b J Ball 0(4)</b>]]></line><line><![CDATA[J Ball to Stoneman, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;J Ball to Mustard, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;J Ball to Mustard, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jake Ball, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Gurney to Stoneman, no run]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Gurney to Stoneman, <b>wide</b>]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Gurney to Mustard, leg byes, 1 run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Gurney to Mustard, <b>FOUR</b>]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Gurney to Mustard, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Gurney to Stoneman, leg byes, 1 run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Gurney to Stoneman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stoneman and Mustard are at the crease. Stoneman is on strike. Gurney will open the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Hastings to J Ball, byes, 2 runs]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Hastings to J Ball, 2 runs]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Hastings to J Ball, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Hastings to Sam Wood, 1 run]]></line><line><![CDATA[<b>Jake Ball, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Hastings to Sammy, <b>out</b> Caught by Pringle!! <b>Sammy c Pringle b Hastings 19(13) [4s-1 6s-1]</b>]]></line><line><![CDATA[Hastings to Sammy, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Hastings to Sammy, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, 1 run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Usman Arshad to Sam Wood, 1 run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, leg byes, 1 run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Usman Arshad to Sam Wood, 1 run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, 1 run]]></line><line><![CDATA[<b>Sam Wood, left handed bat, comes to the crease</b>]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Usman Arshad to Mullaney, <b>out</b> Mullaney Run Out!! <b>Mullaney run out (Stoneman) 8(6) [6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Usman Arshad to Mullaney, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Hastings to Mullaney, leg byes, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Hastings to Mullaney, <b>SIX</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Hastings to Sammy, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Hastings to Sammy, <b>SIX</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Hastings to Mullaney, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Hastings to Mullaney, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Usman Arshad to Mullaney, 1 run]]></line><line><![CDATA[<b>Steven Mullaney, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Usman Arshad to James Taylor, <b>out</b> Caught by Mustard!! <b>James Taylor c Mustard b Usman Arshad 7(7)</b>]]></line><line><![CDATA[Usman Arshad to James Taylor, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, 1 run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, 2 runs]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, <b>wide</b>]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Usman Arshad to James Taylor, 1 run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Usman Arshad to Sammy, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Usman Arshad [2.0-0-8-1] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Hastings to Sammy, 1 run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Hastings to Sammy, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Hastings to James Taylor, 1 run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Hastings to Sammy, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Hastings to James Taylor, 1 run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Hastings to James Taylor, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Sammy, right handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>John Hastings [1.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Jennings to Wessels, <b>out</b> Caught by Hastings!! <b>Wessels c Hastings b Jennings 67(41) [4s-4 6s-5]</b>]]></line><line><![CDATA[Jennings to Wessels, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Jennings to Wessels, <b>SIX</b>]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Jennings to James Taylor, 1 run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Jennings to Wessels, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Jennings to Wessels, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Jennings to James Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Keaton Jennings [1.0-0-9-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Coughlin to Wessels, <b>SIX</b>]]></line><line><![CDATA[<b>James Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, <b>out</b> Caught by Stoneman!! <b>Samit Patel c Stoneman b Coughlin 46(39) [4s-4 6s-2]</b>]]></line><line><![CDATA[Coughlin to Samit Patel, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, <b>FOUR</b>, the partnership between Samit Patel and Wessels is now]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Coughlin to Wessels, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Coughlin to Wessels, 2 runs]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Coughlin to Wessels, <b>wide</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Coughlin to Wessels, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Paul Coughlin [3.0-0-27-1] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, <b>FOUR</b>]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Collingwood to Wessels, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 1 run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Collingwood to Wessels, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jennings to Samit Patel, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jennings to Wessels, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jennings to Samit Patel, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jennings to Wessels, 1 run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jennings to Wessels, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jennings to Wessels, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Keaton Jennings, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Collingwood to Wessels, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Collingwood to Wessels, <b>FOUR</b>]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 1 run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, <b>wide</b>]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Collingwood to Wessels, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 1 run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, 1 run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, <b>SIX</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, 2 runs]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, <b>SIX</b>]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 1 run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Collingwood to Wessels, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Collingwood to Wessels, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Collingwood to Wessels, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Collingwood to Wessels, <b>FOUR</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Collingwood to Wessels, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Pringle to Wessels, 1 run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, 1 run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, <b>FOUR</b>]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Pringle to Wessels, 1 run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Pringle to Samit Patel, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ryan Pringle, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Collingwood to Wessels, 1 run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Collingwood to Samit Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Paul Collingwood, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Coughlin to Wessels, leg byes, <b>FOUR</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Coughlin to Wessels, <b>SIX</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Coughlin to Wessels, <b>wide</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, leg byes, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Coughlin to Wessels, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Hastings to Wessels, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Hastings to Wessels, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Hastings to Samit Patel, 1 run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Hastings to Wessels, 1 run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Hastings to Samit Patel, 1 run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Hastings to Samit Patel, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>John Hastings, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Coughlin to Wessels, 1 run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Coughlin to Samit Patel, 1 run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Coughlin to Wessels, 1 run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Coughlin to Wessels, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Coughlin to Wessels, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Usman Arshad to Samit Patel, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Usman Arshad to Samit Patel, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Usman Arshad to Samit Patel, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Usman Arshad to Samit Patel, no run]]></line><line><![CDATA[<b>Samit Patel, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Usman Arshad to Brendan Taylor, <b>out</b> Caught&Bowled!! <b>Brendan Taylor c and b Usman Arshad 2(2)</b>]]></line><line><![CDATA[Usman Arshad to Brendan Taylor, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Usman Arshad to Brendan Taylor, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Coughlin to Wessels, <b>FOUR</b>]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Coughlin to Wessels, no run]]></line><line><![CDATA[<b>Brendan Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Coughlin to Hales, <b>out</b> Caught by Borthwick!! <b>Hales c Borthwick b Coughlin 7(6) [6s-1]</b>]]></line><line><![CDATA[Coughlin to Hales, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Coughlin to Hales, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Coughlin to Hales, <b>SIX</b>]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Coughlin to Hales, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Paul Coughlin, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Usman Arshad to Wessels, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Usman Arshad to Wessels, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Usman Arshad to Wessels, <b>FOUR</b>]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Usman Arshad to Hales, 1 run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Usman Arshad to Hales, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Usman Arshad to Wessels, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wessels and Hales are at the crease. Wessels is on strike. Usman Arshad will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Durham</b> (Playing XI): Phil Mustard(w), Mark Stoneman(c), Calum MacLeod, Paul Collingwood, Gordon Muchall, Ryan Pringle, Scott Borthwick, John Hastings, Usman Arshad, Keaton Jennings, Paul Coughlin]]></line><line><![CDATA[<b>Nottinghamshire</b> (Playing XI): Alex Hales, Riki Wessels, Brendan Taylor(w), Samit Patel, James Taylor(c), Darren Sammy, Steven Mullaney, Sam Wood, Jake Ball, Luke Fletcher, Harry Gurney]]></line><line><![CDATA[<b>Durham have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Durham</b> (From): Paul Collingwood, Mark Stoneman(c), Usman Arshad, Paul Coughlin, John Hastings, Phil Mustard(w), Scott Borthwick, Keaton Jennings, Gordon Muchall, Graham Clark, Calum MacLeod, Jamie Harrison, Michael Richardson, Ryan Pringle]]></line><line><![CDATA[<b>Nottinghamshire</b> (From): Jake Ball, Luke Fletcher, Will Gidman, Alex Hales, Harry Gurney, Brett Hutton, Darren Sammy, Steven Mullaney, Samit Patel, Greg Smith, James Taylor(c), Brendan Taylor(w), Riki Wessels, Sam Wood]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>175</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Nottinghamshire">
+			<players>
+				<player>
+					<playerid>7987</playerid>
+					<name>Riki Wessels</name>
+					<batsman-name>Riki Wessels</batsman-name>
+					<batsman-nickname>Wessels</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>67</runs>
+					<balls>41</balls>
+					<fours>4</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Jennings</bowler>
+					<bowlerId>9330</bowlerId>
+						<fielder>John Hastings</fielder>
+						<fielderId>1644</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<batsman-name>A Hales</batsman-name>
+					<batsman-nickname>Hales</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>P Coughlin</bowler>
+					<bowlerId>9328</bowlerId>
+						<fielder>Scott Borthwick</fielder>
+						<fielderId>6550</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>180</playerid>
+					<name>Brendan Taylor</name>
+					<batsman-name>Brendan Taylor</batsman-name>
+					<batsman-nickname>Brendan Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>2</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>U Arshad</bowler>
+					<bowlerId>9543</bowlerId>
+						<fielder>U Arshad</fielder>
+						<fielderId>9543</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1414</playerid>
+					<name>Samit Patel</name>
+					<batsman-name>Samit Patel</batsman-name>
+					<batsman-nickname>Samit Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>39</balls>
+					<fours>4</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>P Coughlin</bowler>
+					<bowlerId>9328</bowlerId>
+						<fielder>Mark Stoneman</fielder>
+						<fielderId>6547</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<batsman-name>James Taylor</batsman-name>
+					<batsman-nickname>James Taylor</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>U Arshad</bowler>
+					<bowlerId>9543</bowlerId>
+						<fielder>Phil Mustard</fielder>
+						<fielderId>813</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>253</playerid>
+					<name>Darren Sammy</name>
+					<batsman-name>Sammy</batsman-name>
+					<batsman-nickname>Sammy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>13</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Hastings</bowler>
+					<bowlerId>1644</bowlerId>
+						<fielder>Ryan Pringle</fielder>
+						<fielderId>9331</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6735</playerid>
+					<name>Steven Mullaney</name>
+					<batsman-name>S Mullaney</batsman-name>
+					<batsman-nickname>Mullaney</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Mark Stoneman</fielder>
+						<fielderId>6547</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8326</playerid>
+					<name>Sam Wood</name>
+					<batsman-name>Sam Wood</batsman-name>
+					<batsman-nickname>Sam Wood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8324</playerid>
+					<name>Jake Ball</name>
+					<batsman-name>J Ball</batsman-name>
+					<batsman-nickname>J Ball</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6733</playerid>
+					<name>Luke Fletcher</name>
+					<batsman-name>L Fletcher</batsman-name>
+					<batsman-nickname>Luke Fletcher</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6496</playerid>
+					<name>Harry Gurney</name>
+					<batsman-name>H Gurney</batsman-name>
+					<batsman-nickname>Gurney</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6734</playerid>
+				<nbr>1</nbr>
+				<runs>12</runs>
+				<overs>1.4</overs>
+				<batsman>Alex Hales</batsman>
+				<batsman-name>A Hales</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>180</playerid>
+				<nbr>2</nbr>
+				<runs>18</runs>
+				<overs>2.2</overs>
+				<batsman>Brendan Taylor</batsman>
+				<batsman-name>Brendan Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1414</playerid>
+				<nbr>3</nbr>
+				<runs>118</runs>
+				<overs>13.5</overs>
+				<batsman>Samit Patel</batsman>
+				<batsman-name>Samit Patel</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7987</playerid>
+				<nbr>4</nbr>
+				<runs>133</runs>
+				<overs>14.6</overs>
+				<batsman>Riki Wessels</batsman>
+				<batsman-name>Riki Wessels</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6500</playerid>
+				<nbr>5</nbr>
+				<runs>145</runs>
+				<overs>16.5</overs>
+				<batsman>James Taylor</batsman>
+				<batsman-name>James Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6735</playerid>
+				<nbr>6</nbr>
+				<runs>161</runs>
+				<overs>18.1</overs>
+				<batsman>Steven Mullaney</batsman>
+				<batsman-name>S Mullaney</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>253</playerid>
+				<nbr>7</nbr>
+				<runs>170</runs>
+				<overs>19.2</overs>
+				<batsman>Darren Sammy</batsman>
+				<batsman-name>Sammy</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>2</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>8</legbyes>
+			<penalty>0</penalty>
+			<total>14</total>
+		</extras>
+		<bowlteam name="Durham">
+			<players>
+				<player>
+					<playerid>9543</playerid>
+					<name> Usman Arshad</name>
+					<bowler-name> U Arshad</bowler-name>
+					<bowler-nickname> Usman Arshad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>19</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9328</playerid>
+					<name>Paul Coughlin</name>
+					<bowler-name>P Coughlin</bowler-name>
+					<bowler-nickname>Coughlin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>43</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1644</playerid>
+					<name>John Hastings</name>
+					<bowler-name>J Hastings</bowler-name>
+					<bowler-nickname>Hastings</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>66</playerid>
+					<name>Paul Collingwood</name>
+					<bowler-name>P Collingwood</bowler-name>
+					<bowler-nickname>Collingwood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9331</playerid>
+					<name>Ryan Pringle</name>
+					<bowler-name>R Pringle</bowler-name>
+					<bowler-nickname>Pringle</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9330</playerid>
+					<name>Keaton Jennings</name>
+					<bowler-name>K Jennings</bowler-name>
+					<bowler-nickname>Jennings</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>813</playerid>
+					<name>Phil Mustard</name>
+					<bowler-name>P Mustard</bowler-name>
+					<bowler-nickname>Mustard</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6547</playerid>
+					<name>Mark Stoneman</name>
+					<bowler-name>M Stoneman</bowler-name>
+					<bowler-nickname>Stoneman</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1416</playerid>
+					<name>Calum MacLeod</name>
+					<bowler-name>C MacLeod</bowler-name>
+					<bowler-nickname>MacLeod</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6555</playerid>
+					<name>Gordon Muchall</name>
+					<bowler-name>G Muchall</bowler-name>
+					<bowler-nickname>Muchall</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6550</playerid>
+					<name>Scott Borthwick</name>
+					<bowler-name>S Borthwick</bowler-name>
+					<bowler-nickname>Borthwick</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>160</totalruns>
+		<totalwickets>6</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Durham">
+			<players>
+				<player>
+					<playerid>6547</playerid>
+					<name>Mark Stoneman</name>
+					<batsman-name>M Stoneman</batsman-name>
+					<batsman-nickname>Stoneman</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Ball</bowler>
+					<bowlerId>8324</bowlerId>
+						<fielder>Alex Hales</fielder>
+						<fielderId>6734</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>813</playerid>
+					<name>Phil Mustard</name>
+					<batsman-name>P Mustard</batsman-name>
+					<batsman-nickname>Mustard</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>11</runs>
+					<balls>11</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>L Fletcher</bowler>
+					<bowlerId>6733</bowlerId>
+						<fielder>Samit Patel</fielder>
+						<fielderId>1414</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1416</playerid>
+					<name>Calum MacLeod</name>
+					<batsman-name>C MacLeod</batsman-name>
+					<batsman-nickname>MacLeod</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>32</runs>
+					<balls>27</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Sammy</bowler>
+					<bowlerId>253</bowlerId>
+						<fielder>Luke Fletcher</fielder>
+						<fielderId>6733</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>66</playerid>
+					<name>Paul Collingwood</name>
+					<batsman-name>P Collingwood</batsman-name>
+					<batsman-nickname>Collingwood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>25</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Sammy</bowler>
+					<bowlerId>253</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6555</playerid>
+					<name>Gordon Muchall</name>
+					<batsman-name>G Muchall</batsman-name>
+					<batsman-nickname>Muchall</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>30</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1644</playerid>
+					<name>John Hastings</name>
+					<batsman-name>J Hastings</batsman-name>
+					<batsman-nickname>Hastings</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Mullaney</bowler>
+					<bowlerId>6735</bowlerId>
+						<fielder>Sam Wood</fielder>
+						<fielderId>8326</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9331</playerid>
+					<name>Ryan Pringle</name>
+					<batsman-name>R Pringle</batsman-name>
+					<batsman-nickname>Pringle</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>12</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>L Fletcher</bowler>
+					<bowlerId>6733</bowlerId>
+						<fielder>Steven Mullaney</fielder>
+						<fielderId>6735</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9543</playerid>
+					<name> Usman Arshad</name>
+					<batsman-name> U Arshad</batsman-name>
+					<batsman-nickname> Usman Arshad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>3</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6550</playerid>
+					<name>Scott Borthwick</name>
+					<batsman-name>S Borthwick</batsman-name>
+					<batsman-nickname>Borthwick</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9330</playerid>
+					<name>Keaton Jennings</name>
+					<batsman-name>K Jennings</batsman-name>
+					<batsman-nickname>Jennings</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9328</playerid>
+					<name>Paul Coughlin</name>
+					<batsman-name>P Coughlin</batsman-name>
+					<batsman-nickname>Coughlin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6547</playerid>
+				<nbr>1</nbr>
+				<runs>8</runs>
+				<overs>1.3</overs>
+				<batsman>Mark Stoneman</batsman>
+				<batsman-name>M Stoneman</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>813</playerid>
+				<nbr>2</nbr>
+				<runs>31</runs>
+				<overs>4.5</overs>
+				<batsman>Phil Mustard</batsman>
+				<batsman-name>P Mustard</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1416</playerid>
+				<nbr>3</nbr>
+				<runs>78</runs>
+				<overs>10.5</overs>
+				<batsman>Calum MacLeod</batsman>
+				<batsman-name>C MacLeod</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>66</playerid>
+				<nbr>4</nbr>
+				<runs>78</runs>
+				<overs>10.6</overs>
+				<batsman>Paul Collingwood</batsman>
+				<batsman-name>P Collingwood</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1644</playerid>
+				<nbr>5</nbr>
+				<runs>87</runs>
+				<overs>13.1</overs>
+				<batsman>John Hastings</batsman>
+				<batsman-name>J Hastings</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9331</playerid>
+				<nbr>6</nbr>
+				<runs>148</runs>
+				<overs>18.5</overs>
+				<batsman>Ryan Pringle</batsman>
+				<batsman-name>R Pringle</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>2</wides>
+			<noballs>2</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>9</total>
+		</extras>
+		<bowlteam name="Nottinghamshire">
+			<players>
+				<player>
+					<playerid>6496</playerid>
+					<name>Harry Gurney</name>
+					<bowler-name>H Gurney</bowler-name>
+					<bowler-nickname>Gurney</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8324</playerid>
+					<name>Jake Ball</name>
+					<bowler-name>J Ball</bowler-name>
+					<bowler-nickname>J Ball</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6733</playerid>
+					<name>Luke Fletcher</name>
+					<bowler-name>L Fletcher</bowler-name>
+					<bowler-nickname>Luke Fletcher</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>29</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1414</playerid>
+					<name>Samit Patel</name>
+					<bowler-name>Samit Patel</bowler-name>
+					<bowler-nickname>Samit Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>9</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8326</playerid>
+					<name>Sam Wood</name>
+					<bowler-name>Sam Wood</bowler-name>
+					<bowler-nickname>Sam Wood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>9</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>253</playerid>
+					<name>Darren Sammy</name>
+					<bowler-name>Sammy</bowler-name>
+					<bowler-nickname>Sammy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6735</playerid>
+					<name>Steven Mullaney</name>
+					<bowler-name>S Mullaney</bowler-name>
+					<bowler-nickname>Mullaney</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<bowler-name>A Hales</bowler-name>
+					<bowler-nickname>Hales</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7987</playerid>
+					<name>Riki Wessels</name>
+					<bowler-name>Riki Wessels</bowler-name>
+					<bowler-nickname>Wessels</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>180</playerid>
+					<name>Brendan Taylor</name>
+					<bowler-name>Brendan Taylor</bowler-name>
+					<bowler-nickname>Brendan Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<bowler-name>James Taylor</bowler-name>
+					<bowler-nickname>James Taylor</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

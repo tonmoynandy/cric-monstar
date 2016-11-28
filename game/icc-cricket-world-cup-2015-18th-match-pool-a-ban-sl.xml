@@ -1,0 +1,991 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12872" >
+		<type>ODI</type>
+		<gameDesc>18th Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>Bangladesh</home>
+		<away>Sri Lanka</away>
+		<teamsabbr>BAN vs SL</teamsabbr>
+		<homeabbr>BAN</homeabbr>
+		<awayabbr>SL</awayabbr>
+		<homeId>6</homeId>
+		<awayId>5</awayId>
+		<venue>Melbourne Cricket Ground, Melbourne</venue>
+		<startdate>26 02 2015</startdate>
+		<enddate>26 02 2015</enddate>
+		<toss>
+			<winner>Sri Lanka</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status></status>
+		<result type="win">
+			<winningteam>Sri Lanka</winningteam>
+			<wonbyruns>92</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Aleem Dar</Name>
+			<Country>Pak</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Paul Reiffel</Name>
+			<Country>Aus</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Richard Kettleborough</Name>
+			<Country>Eng</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Jeff Crowe</Name>
+			<Country>NZ</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>03:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150226110631</actualendGMT>
+	</match>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>332</totalruns>
+		<totalwickets>1</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Sri Lanka">
+			<players>
+				<player>
+					<playerid>6243</playerid>
+					<name>Lahiru Thirimanne</name>
+					<batsman-name>Thirimanne</batsman-name>
+					<batsman-nickname>Thirimanne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>52</runs>
+					<balls>78</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rubel</bowler>
+					<bowlerId>1736</bowlerId>
+						<fielder>Taskin Ahmed</fielder>
+						<fielderId>8548</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<batsman-name>Dilshan</batsman-name>
+					<batsman-nickname>Dilshan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>161</runs>
+					<balls>146</balls>
+					<fours>22</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<batsman-name>Sangakkara</batsman-name>
+					<batsman-nickname>Sangakkara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>105</runs>
+					<balls>76</balls>
+					<fours>13</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7952</playerid>
+					<name>Dimuth Karunaratne</name>
+					<batsman-name>D Karunaratne</batsman-name>
+					<batsman-nickname>D Karunaratne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<batsman-name>M Jayawardene</batsman-name>
+					<batsman-nickname>M Jayawardene</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1629</playerid>
+					<name>Angelo Mathews</name>
+					<batsman-name>Mathews</batsman-name>
+					<batsman-nickname>Mathews</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6245</playerid>
+					<name>Dinesh Chandimal</name>
+					<batsman-name>Chandimal</batsman-name>
+					<batsman-nickname>Chandimal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>2281</playerid>
+					<name>Thisara Perera</name>
+					<batsman-name>T Perera</batsman-name>
+					<batsman-nickname>T Perera</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>277</playerid>
+					<name>Rangana Herath</name>
+					<batsman-name>Herath</batsman-name>
+					<batsman-nickname>Herath</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>111</playerid>
+					<name>Lasith Malinga</name>
+					<batsman-name>Malinga</batsman-name>
+					<batsman-nickname>Malinga</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1785</playerid>
+					<name>Suranga Lakmal</name>
+					<batsman-name>Lakmal</batsman-name>
+					<batsman-nickname>Lakmal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6243</playerid>
+				<nbr>1</nbr>
+				<runs>122</runs>
+				<overs>24.3</overs>
+				<batsman>Lahiru Thirimanne</batsman>
+				<batsman-name>Thirimanne</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>3</byes>
+			<wides>9</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>14</total>
+		</extras>
+		<bowlteam name="Bangladesh">
+			<players>
+				<player>
+					<playerid>323</playerid>
+					<name>Mashrafe Mortaza</name>
+					<bowler-name>Mortaza</bowler-name>
+					<bowler-nickname>Mortaza</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>53</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1736</playerid>
+					<name>Rubel Hossain</name>
+					<bowler-name>Rubel</bowler-name>
+					<bowler-nickname>Rubel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>62</runsoff>
+					<wickets>1</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8548</playerid>
+					<name>Taskin Ahmed</name>
+					<bowler-name>Taskin Ahmed</bowler-name>
+					<bowler-nickname>Taskin Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>82</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>544</playerid>
+					<name>Shakib Al Hasan</name>
+					<bowler-name>Shakib</bowler-name>
+					<bowler-nickname>Shakib</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>55</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1121</playerid>
+					<name>Mahmudullah</name>
+					<bowler-name>Mahmudullah</bowler-name>
+					<bowler-nickname>Mahmudullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>49</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8231</playerid>
+					<name>Sabbir Rahman</name>
+					<bowler-name>S Rahman</bowler-name>
+					<bowler-nickname>S Rahman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8237</playerid>
+					<name>Anamul Haque</name>
+					<bowler-name>Anamul</bowler-name>
+					<bowler-nickname>Anamul</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>612</playerid>
+					<name>Tamim Iqbal</name>
+					<bowler-name>Tamim</bowler-name>
+					<bowler-nickname>Tamim</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8233</playerid>
+					<name>Soumya Sarkar</name>
+					<bowler-name>Soumya Sarkar</bowler-name>
+					<bowler-nickname>Soumya Sarkar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8219</playerid>
+					<name>Mominul Haque</name>
+					<bowler-name>Mominul</bowler-name>
+					<bowler-nickname>Mominul</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>394</playerid>
+					<name>Mushfiqur Rahim</name>
+					<bowler-name>Rahim</bowler-name>
+					<bowler-nickname>Rahim</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>240</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>47</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Bangladesh">
+			<players>
+				<player>
+					<playerid>612</playerid>
+					<name>Tamim Iqbal</name>
+					<batsman-name>Tamim</batsman-name>
+					<batsman-nickname>Tamim</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8237</playerid>
+					<name>Anamul Haque</name>
+					<batsman-name>Anamul</batsman-name>
+					<batsman-nickname>Anamul</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>29</runs>
+					<balls>43</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Angelo Mathews</fielder>
+						<fielderId>1629</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8233</playerid>
+					<name>Soumya Sarkar</name>
+					<batsman-name>Soumya Sarkar</batsman-name>
+					<batsman-nickname>Soumya Sarkar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>15</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mathews</bowler>
+					<bowlerId>1629</bowlerId>
+						<fielder>Kumar Sangakkara</fielder>
+						<fielderId>104</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8219</playerid>
+					<name>Mominul Haque</name>
+					<batsman-name>Mominul</batsman-name>
+					<batsman-nickname>Mominul</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Lakmal</bowler>
+					<bowlerId>1785</bowlerId>
+						<fielder>Mahela Jayawardene</fielder>
+						<fielderId>101</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1121</playerid>
+					<name>Mahmudullah</name>
+					<batsman-name>Mahmudullah</batsman-name>
+					<batsman-nickname>Mahmudullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>28</runs>
+					<balls>46</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Perera</bowler>
+					<bowlerId>2281</bowlerId>
+						<fielder>Rangana Herath</fielder>
+						<fielderId>277</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>544</playerid>
+					<name>Shakib Al Hasan</name>
+					<batsman-name>Shakib</batsman-name>
+					<batsman-nickname>Shakib</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>59</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Dilshan</bowler>
+					<bowlerId>105</bowlerId>
+						<fielder>Lasith Malinga</fielder>
+						<fielderId>111</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>394</playerid>
+					<name>Mushfiqur Rahim</name>
+					<batsman-name>Rahim</batsman-name>
+					<batsman-nickname>Rahim</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>36</runs>
+					<balls>39</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Lakmal</bowler>
+					<bowlerId>1785</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8231</playerid>
+					<name>Sabbir Rahman</name>
+					<batsman-name>S Rahman</batsman-name>
+					<batsman-nickname>S Rahman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>53</runs>
+					<balls>62</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder>Kumar Sangakkara</fielder>
+						<fielderId>104</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>323</playerid>
+					<name>Mashrafe Mortaza</name>
+					<batsman-name>Mortaza</batsman-name>
+					<batsman-nickname>Mortaza</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>7</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>Dilshan</bowler>
+					<bowlerId>105</bowlerId>
+						<fielder>Kumar Sangakkara</fielder>
+						<fielderId>104</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1736</playerid>
+					<name>Rubel Hossain</name>
+					<batsman-name>Rubel</batsman-name>
+					<batsman-nickname>Rubel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8548</playerid>
+					<name>Taskin Ahmed</name>
+					<batsman-name>Taskin Ahmed</batsman-name>
+					<batsman-nickname>Taskin Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>612</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>0.2</overs>
+				<batsman>Tamim Iqbal</batsman>
+				<batsman-name>Tamim</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8233</playerid>
+				<nbr>2</nbr>
+				<runs>40</runs>
+				<overs>5.5</overs>
+				<batsman>Soumya Sarkar</batsman>
+				<batsman-name>Soumya Sarkar</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8219</playerid>
+				<nbr>3</nbr>
+				<runs>41</runs>
+				<overs>6.2</overs>
+				<batsman>Mominul Haque</batsman>
+				<batsman-name>Mominul</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8237</playerid>
+				<nbr>4</nbr>
+				<runs>84</runs>
+				<overs>15.1</overs>
+				<batsman>Anamul Haque</batsman>
+				<batsman-name>Anamul</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1121</playerid>
+				<nbr>5</nbr>
+				<runs>100</runs>
+				<overs>20.4</overs>
+				<batsman>Mahmudullah</batsman>
+				<batsman-name>Mahmudullah</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>544</playerid>
+				<nbr>6</nbr>
+				<runs>164</runs>
+				<overs>31.5</overs>
+				<batsman>Shakib Al Hasan</batsman>
+				<batsman-name>Shakib</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>394</playerid>
+				<nbr>7</nbr>
+				<runs>208</runs>
+				<overs>40.2</overs>
+				<batsman>Mushfiqur Rahim</batsman>
+				<batsman-name>Rahim</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>323</playerid>
+				<nbr>8</nbr>
+				<runs>228</runs>
+				<overs>43.5</overs>
+				<batsman>Mashrafe Mortaza</batsman>
+				<batsman-name>Mortaza</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8231</playerid>
+				<nbr>9</nbr>
+				<runs>240</runs>
+				<overs>46.5</overs>
+				<batsman>Sabbir Rahman</batsman>
+				<batsman-name>S Rahman</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8548</playerid>
+				<nbr>10</nbr>
+				<runs>240</runs>
+				<overs>46.6</overs>
+				<batsman>Taskin Ahmed</batsman>
+				<batsman-name>Taskin Ahmed</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>0</noballs>
+			<legbyes>9</legbyes>
+			<penalty>0</penalty>
+			<total>15</total>
+		</extras>
+		<bowlteam name="Sri Lanka">
+			<players>
+				<player>
+					<playerid>111</playerid>
+					<name>Lasith Malinga</name>
+					<bowler-name>Malinga</bowler-name>
+					<bowler-nickname>Malinga</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1785</playerid>
+					<name>Suranga Lakmal</name>
+					<bowler-name>Lakmal</bowler-name>
+					<bowler-nickname>Lakmal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>49</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1629</playerid>
+					<name>Angelo Mathews</name>
+					<bowler-name>Mathews</bowler-name>
+					<bowler-nickname>Mathews</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>5.4</overs>
+					<maidens>0</maidens>
+					<runsoff>36</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>277</playerid>
+					<name>Rangana Herath</name>
+					<bowler-name>Herath</bowler-name>
+					<bowler-nickname>Herath</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>43</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2281</playerid>
+					<name>Thisara Perera</name>
+					<bowler-name>T Perera</bowler-name>
+					<bowler-nickname>T Perera</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6.2</overs>
+					<maidens>0</maidens>
+					<runsoff>33</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<bowler-name>Dilshan</bowler-name>
+					<bowler-nickname>Dilshan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>2</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6243</playerid>
+					<name>Lahiru Thirimanne</name>
+					<bowler-name>Thirimanne</bowler-name>
+					<bowler-nickname>Thirimanne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<bowler-name>Sangakkara</bowler-name>
+					<bowler-nickname>Sangakkara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7952</playerid>
+					<name>Dimuth Karunaratne</name>
+					<bowler-name>D Karunaratne</bowler-name>
+					<bowler-nickname>D Karunaratne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<bowler-name>M Jayawardene</bowler-name>
+					<bowler-nickname>M Jayawardene</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6245</playerid>
+					<name>Dinesh Chandimal</name>
+					<bowler-name>Chandimal</bowler-name>
+					<bowler-nickname>Chandimal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

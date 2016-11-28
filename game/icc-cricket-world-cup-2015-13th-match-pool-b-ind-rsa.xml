@@ -1,0 +1,1039 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12867" >
+		<type>ODI</type>
+		<gameDesc>13th Match, Pool B</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>India</home>
+		<away>South Africa</away>
+		<teamsabbr>IND vs RSA</teamsabbr>
+		<homeabbr>IND</homeabbr>
+		<awayabbr>RSA</awayabbr>
+		<homeId>2</homeId>
+		<awayId>11</awayId>
+		<venue>Melbourne Cricket Ground, Melbourne</venue>
+		<startdate>22 02 2015</startdate>
+		<enddate>22 02 2015</enddate>
+		<toss>
+			<winner>India</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status></status>
+		<result type="win">
+			<winningteam>India</winningteam>
+			<wonbyruns>130</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Richard Kettleborough</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Aleem Dar</Name>
+			<Country>Pak</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Steve Davis</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Jeff Crowe</Name>
+			<Country>NZ</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>03:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150222105303</actualendGMT>
+	</match>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>307</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="India">
+			<players>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<batsman-name>Rohit</batsman-name>
+					<batsman-nickname>Rohit</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>AB de Villiers</fielder>
+						<fielderId>370</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<batsman-name>Dhawan</batsman-name>
+					<batsman-nickname>Dhawan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>137</runs>
+					<balls>146</balls>
+					<fours>16</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Parnell</bowler>
+					<bowlerId>1692</bowlerId>
+						<fielder>Hashim Amla</fielder>
+						<fielderId>314</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1413</playerid>
+					<name>Virat Kohli</name>
+					<batsman-name>Kohli</batsman-name>
+					<batsman-nickname>Kohli</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>60</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder>Faf du Plessis</fielder>
+						<fielderId>7825</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<batsman-name>A Rahane</batsman-name>
+					<batsman-nickname>Rahane</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>79</runs>
+					<balls>60</balls>
+					<fours>7</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Steyn</bowler>
+					<bowlerId>508</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>413</playerid>
+					<name>Suresh Raina</name>
+					<batsman-name>Raina</batsman-name>
+					<batsman-nickname>Raina</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Morkel</bowler>
+					<bowlerId>608</bowlerId>
+						<fielder>Rilee Rossouw</fielder>
+						<fielderId>2244</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>265</playerid>
+					<name>MS Dhoni</name>
+					<batsman-name>Dhoni</batsman-name>
+					<batsman-nickname>Dhoni</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>18</runs>
+					<balls>11</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Morkel</bowler>
+					<bowlerId>608</bowlerId>
+						<fielder>Quinton de Kock</fielder>
+						<fielderId>8520</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>587</playerid>
+					<name>Ravindra Jadeja</name>
+					<batsman-name>R Jadeja</batsman-name>
+					<batsman-nickname>Ravindra Jadeja</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>AB de Villiers</fielder>
+						<fielderId>370</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1593</playerid>
+					<name>Ravichandran Ashwin</name>
+					<batsman-name>Ashwin</batsman-name>
+					<batsman-nickname>Ashwin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7909</playerid>
+					<name>Mohammed Shami</name>
+					<batsman-name>Shami</batsman-name>
+					<batsman-nickname>Shami</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<batsman-name>Umesh</batsman-name>
+					<batsman-nickname>U Yadav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8181</playerid>
+					<name>Mohit Sharma</name>
+					<batsman-name>Mohit Sharma</batsman-name>
+					<batsman-nickname>Mohit Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>576</playerid>
+				<nbr>1</nbr>
+				<runs>9</runs>
+				<overs>2.5</overs>
+				<batsman>Rohit Sharma</batsman>
+				<batsman-name>Rohit</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1413</playerid>
+				<nbr>2</nbr>
+				<runs>136</runs>
+				<overs>27.1</overs>
+				<batsman>Virat Kohli</batsman>
+				<batsman-name>Kohli</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1446</playerid>
+				<nbr>3</nbr>
+				<runs>261</runs>
+				<overs>43.4</overs>
+				<batsman>Shikhar Dhawan</batsman>
+				<batsman-name>Dhawan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>413</playerid>
+				<nbr>4</nbr>
+				<runs>269</runs>
+				<overs>44.5</overs>
+				<batsman>Suresh Raina</batsman>
+				<batsman-name>Raina</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1447</playerid>
+				<nbr>5</nbr>
+				<runs>278</runs>
+				<overs>45.6</overs>
+				<batsman>Ajinkya Rahane</batsman>
+				<batsman-name>A Rahane</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>587</playerid>
+				<nbr>6</nbr>
+				<runs>284</runs>
+				<overs>47.2</overs>
+				<batsman>Ravindra Jadeja</batsman>
+				<batsman-name>R Jadeja</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>265</playerid>
+				<nbr>7</nbr>
+				<runs>302</runs>
+				<overs>48.5</overs>
+				<batsman>MS Dhoni</batsman>
+				<batsman-name>Dhoni</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>2</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>10</total>
+		</extras>
+		<bowlteam name="South Africa">
+			<players>
+				<player>
+					<playerid>508</playerid>
+					<name>Dale Steyn</name>
+					<bowler-name>Steyn</bowler-name>
+					<bowler-nickname>Steyn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>55</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>731</playerid>
+					<name>Vernon Philander</name>
+					<bowler-name>Philander</bowler-name>
+					<bowler-nickname>Philander</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>1</maidens>
+					<runsoff>19</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>211</playerid>
+					<name>Jean-Paul Duminy</name>
+					<bowler-name>Duminy</bowler-name>
+					<bowler-nickname>Duminy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>39</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>608</playerid>
+					<name>Morne Morkel</name>
+					<bowler-name>M Morkel</bowler-name>
+					<bowler-nickname>M Morkel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>59</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6667</playerid>
+					<name>Imran Tahir</name>
+					<bowler-name>Tahir</bowler-name>
+					<bowler-nickname>Tahir</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>48</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1692</playerid>
+					<name>Wayne Parnell</name>
+					<bowler-name>Parnell</bowler-name>
+					<bowler-nickname>Parnell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>85</runsoff>
+					<wickets>1</wickets>
+					<wides>4</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>8520</playerid>
+					<name>Quinton de Kock</name>
+					<bowler-name>de Kock</bowler-name>
+					<bowler-nickname>de Kock</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>314</playerid>
+					<name>Hashim Amla</name>
+					<bowler-name>Amla</bowler-name>
+					<bowler-nickname>Amla</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7825</playerid>
+					<name>Faf du Plessis</name>
+					<bowler-name>du Plessis</bowler-name>
+					<bowler-nickname>du Plessis</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>370</playerid>
+					<name>AB de Villiers</name>
+					<bowler-name>de Villiers</bowler-name>
+					<bowler-nickname>de Villiers</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6349</playerid>
+					<name>David Miller</name>
+					<bowler-name>D Miller</bowler-name>
+					<bowler-nickname>D Miller</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>177</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>40.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="South Africa">
+			<players>
+				<player>
+					<playerid>314</playerid>
+					<name>Hashim Amla</name>
+					<batsman-name>Amla</batsman-name>
+					<batsman-nickname>Amla</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>28</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mohit Sharma</bowler>
+					<bowlerId>8181</bowlerId>
+						<fielder>Mohammed Shami</fielder>
+						<fielderId>7909</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8520</playerid>
+					<name>Quinton de Kock</name>
+					<batsman-name>de Kock</batsman-name>
+					<batsman-nickname>de Kock</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>7</runs>
+					<balls>15</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shami</bowler>
+					<bowlerId>7909</bowlerId>
+						<fielder>Virat Kohli</fielder>
+						<fielderId>1413</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7825</playerid>
+					<name>Faf du Plessis</name>
+					<batsman-name>du Plessis</batsman-name>
+					<batsman-nickname>du Plessis</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>55</runs>
+					<balls>71</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mohit Sharma</bowler>
+					<bowlerId>8181</bowlerId>
+						<fielder>Shikhar Dhawan</fielder>
+						<fielderId>1446</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>370</playerid>
+					<name>AB de Villiers</name>
+					<batsman-name>de Villiers</batsman-name>
+					<batsman-nickname>de Villiers</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>38</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Mohit Sharma</fielder>
+						<fielderId>8181</fielderId>
+						<fielder2>MS Dhoni</fielder2>
+						<fielderId2>265</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6349</playerid>
+					<name>David Miller</name>
+					<batsman-name>D Miller</batsman-name>
+					<batsman-nickname>D Miller</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>23</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Umesh Yadav</fielder>
+						<fielderId>1858</fielderId>
+						<fielder2>MS Dhoni</fielder2>
+						<fielderId2>265</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>211</playerid>
+					<name>Jean-Paul Duminy</name>
+					<batsman-name>Duminy</batsman-name>
+					<batsman-nickname>Duminy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder>Suresh Raina</fielder>
+						<fielderId>413</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1692</playerid>
+					<name>Wayne Parnell</name>
+					<batsman-name>Parnell</batsman-name>
+					<batsman-nickname>Parnell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>28</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>731</playerid>
+					<name>Vernon Philander</name>
+					<batsman-name>Philander</batsman-name>
+					<batsman-nickname>Philander</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>508</playerid>
+					<name>Dale Steyn</name>
+					<batsman-name>Steyn</batsman-name>
+					<batsman-nickname>Steyn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shami</bowler>
+					<bowlerId>7909</bowlerId>
+						<fielder>Shikhar Dhawan</fielder>
+						<fielderId>1446</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>608</playerid>
+					<name>Morne Morkel</name>
+					<batsman-name>M Morkel</batsman-name>
+					<batsman-nickname>M Morkel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6667</playerid>
+					<name>Imran Tahir</name>
+					<batsman-name>Tahir</batsman-name>
+					<batsman-nickname>Tahir</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>R Jadeja</bowler>
+					<bowlerId>587</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>8520</playerid>
+				<nbr>1</nbr>
+				<runs>12</runs>
+				<overs>3.3</overs>
+				<batsman>Quinton de Kock</batsman>
+				<batsman-name>de Kock</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>314</playerid>
+				<nbr>2</nbr>
+				<runs>40</runs>
+				<overs>10.2</overs>
+				<batsman>Hashim Amla</batsman>
+				<batsman-name>Amla</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>370</playerid>
+				<nbr>3</nbr>
+				<runs>108</runs>
+				<overs>22.5</overs>
+				<batsman>AB de Villiers</batsman>
+				<batsman-name>de Villiers</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7825</playerid>
+				<nbr>4</nbr>
+				<runs>133</runs>
+				<overs>28.1</overs>
+				<batsman>Faf du Plessis</batsman>
+				<batsman-name>du Plessis</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>211</playerid>
+				<nbr>5</nbr>
+				<runs>147</runs>
+				<overs>31.3</overs>
+				<batsman>Jean-Paul Duminy</batsman>
+				<batsman-name>Duminy</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6349</playerid>
+				<nbr>6</nbr>
+				<runs>153</runs>
+				<overs>33.4</overs>
+				<batsman>David Miller</batsman>
+				<batsman-name>D Miller</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>731</playerid>
+				<nbr>7</nbr>
+				<runs>153</runs>
+				<overs>33.6</overs>
+				<batsman>Vernon Philander</batsman>
+				<batsman-name>Philander</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>508</playerid>
+				<nbr>8</nbr>
+				<runs>158</runs>
+				<overs>36.2</overs>
+				<batsman>Dale Steyn</batsman>
+				<batsman-name>Steyn</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>608</playerid>
+				<nbr>9</nbr>
+				<runs>161</runs>
+				<overs>37.2</overs>
+				<batsman>Morne Morkel</batsman>
+				<batsman-name>M Morkel</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6667</playerid>
+				<nbr>10</nbr>
+				<runs>177</runs>
+				<overs>40.2</overs>
+				<batsman>Imran Tahir</batsman>
+				<batsman-name>Tahir</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<bowlteam name="India">
+			<players>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<bowler-name>Umesh</bowler-name>
+					<bowler-nickname>U Yadav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7909</playerid>
+					<name>Mohammed Shami</name>
+					<bowler-name>Shami</bowler-name>
+					<bowler-nickname>Shami</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8181</playerid>
+					<name>Mohit Sharma</name>
+					<bowler-name>Mohit Sharma</bowler-name>
+					<bowler-nickname>Mohit Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>587</playerid>
+					<name>Ravindra Jadeja</name>
+					<bowler-name>R Jadeja</bowler-name>
+					<bowler-nickname>Ravindra Jadeja</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8.2</overs>
+					<maidens>0</maidens>
+					<runsoff>37</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1593</playerid>
+					<name>Ravichandran Ashwin</name>
+					<bowler-name>Ashwin</bowler-name>
+					<bowler-nickname>Ashwin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>41</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>413</playerid>
+					<name>Suresh Raina</name>
+					<bowler-name>Raina</bowler-name>
+					<bowler-nickname>Raina</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>3</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<bowler-name>Rohit</bowler-name>
+					<bowler-nickname>Rohit</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<bowler-name>Dhawan</bowler-name>
+					<bowler-nickname>Dhawan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1413</playerid>
+					<name>Virat Kohli</name>
+					<bowler-name>Kohli</bowler-name>
+					<bowler-nickname>Kohli</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<bowler-name>A Rahane</bowler-name>
+					<bowler-nickname>Rahane</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>265</playerid>
+					<name>MS Dhoni</name>
+					<bowler-name>Dhoni</bowler-name>
+					<bowler-nickname>Dhoni</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

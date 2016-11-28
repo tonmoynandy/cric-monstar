@@ -1,0 +1,130 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>United Arab Emirates</name>
+	<graph>
+		<id>wag_1365</id>
+		<name>Amjad Ali</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_1365_Amjad_Ali.png</url>
+	</graph>
+	<graph>
+		<id>wag_10124</id>
+		<name>Andri Berenger</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_10124_Andri_Berenger.png</url>
+	</graph>
+	<graph>
+		<id>wag_81</id>
+		<name>Khurram Khan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_81_K_Khan.png</url>
+	</graph>
+	<graph>
+		<id>wag_9837</id>
+		<name>Shaiman Anwar</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_9837_Shaiman_Anwar.png</url>
+	</graph>
+	<graph>
+		<id>wag_9834</id>
+		<name>Swapnil Patil</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_9834_Swapnil_Patil.png</url>
+	</graph>
+	<graph>
+		<id>wag_10123</id>
+		<name>Saqlain Haider</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_10123_Saqlain_Haider.png</url>
+	</graph>
+	<graph>
+		<id>wag_1366</id>
+		<name>Amjad Javed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_1366_A_Javed.png</url>
+	</graph>
+	<graph>
+		<id>wag_9832</id>
+		<name>Mohammad Naveed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_9832_Naveed.png</url>
+	</graph>
+	<graph>
+		<id>wag_87</id>
+		<name>Mohammad Tauqir</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_87_M_Tauqir.png</url>
+	</graph>
+	<graph>
+		<id>wag_10040</id>
+		<name>Kamran Shazad</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_10040_Kamran_Shazad.png</url>
+	</graph>
+	<graph>
+		<id>wag_1362</id>
+		<name>Fahad Alhashmi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_7_1362_F_Alhashmi.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>South Africa</name>
+	<graph>
+		<id>wag_314</id>
+		<name>Hashim Amla</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_314_Amla.png</url>
+	</graph>
+	<graph>
+		<id>wag_8520</id>
+		<name>Quinton de Kock</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_8520_de_Kock.png</url>
+	</graph>
+	<graph>
+		<id>wag_2244</id>
+		<name>Rilee Rossouw</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_2244_R_Rossouw.png</url>
+	</graph>
+	<graph>
+		<id>wag_370</id>
+		<name>AB de Villiers</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_370_de_Villiers.png</url>
+	</graph>
+	<graph>
+		<id>wag_6349</id>
+		<name>David Miller</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_6349_D_Miller.png</url>
+	</graph>
+	<graph>
+		<id>wag_211</id>
+		<name>Jean-Paul Duminy</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_211_Duminy.png</url>
+	</graph>
+	<graph>
+		<id>wag_8283</id>
+		<name>Farhaan Behardien</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_8283_F_Behardien.png</url>
+	</graph>
+	<graph>
+		<id>wag_731</id>
+		<name>Vernon Philander</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/RSA_UAE_MAR12/gph_wag_12890_11_731_Philander.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

@@ -1,0 +1,145 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Afghanistan</name>
+	<graph>
+		<id>wag_7614</id>
+		<name>Javed Ahmadi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_7614_Ahmadi.png</url>
+	</graph>
+	<graph>
+		<id>wag_8278</id>
+		<name>Afsar Zazai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_8278_Zazai.png</url>
+	</graph>
+	<graph>
+		<id>wag_3008</id>
+		<name>Nawroz Mangal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3008_Nawroz.png</url>
+	</graph>
+	<graph>
+		<id>wag_3004</id>
+		<name>Asghar Stanikzai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3004_Stanikzai.png</url>
+	</graph>
+	<graph>
+		<id>wag_3011</id>
+		<name>Samiullah Shenwari</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3011_Shenwari.png</url>
+	</graph>
+	<graph>
+		<id>wag_3007</id>
+		<name>Mohammad Nabi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3007_Nabi.png</url>
+	</graph>
+	<graph>
+		<id>wag_8375</id>
+		<name>Najibullah Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_8375_Najibullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_3013</id>
+		<name>Mirwais Ashraf</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3013_Mirwais.png</url>
+	</graph>
+	<graph>
+		<id>wag_6476</id>
+		<name>Aftab Alam</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_6476_Aftab_Alam.png</url>
+	</graph>
+	<graph>
+		<id>wag_3001</id>
+		<name>Hamid Hassan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3001_Hamid.png</url>
+	</graph>
+	<graph>
+		<id>wag_3015</id>
+		<name>Shapoor Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_96_3015_Shapoor.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Bangladesh</name>
+	<graph>
+		<id>wag_8237</id>
+		<name>Anamul Haque</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_8237_Anamul.png</url>
+	</graph>
+	<graph>
+		<id>wag_612</id>
+		<name>Tamim Iqbal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_612_Tamim.png</url>
+	</graph>
+	<graph>
+		<id>wag_8233</id>
+		<name>Soumya Sarkar</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_8233_Soumya_Sarkar.png</url>
+	</graph>
+	<graph>
+		<id>wag_1121</id>
+		<name>Mahmudullah</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_1121_Mahmudullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_544</id>
+		<name>Shakib Al Hasan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_544_Shakib.png</url>
+	</graph>
+	<graph>
+		<id>wag_394</id>
+		<name>Mushfiqur Rahim</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_394_Rahim.png</url>
+	</graph>
+	<graph>
+		<id>wag_8231</id>
+		<name>Sabbir Rahman</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_8231_S_Rahman.png</url>
+	</graph>
+	<graph>
+		<id>wag_323</id>
+		<name>Mashrafe Mortaza</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_323_Mortaza.png</url>
+	</graph>
+	<graph>
+		<id>wag_8219</id>
+		<name>Mominul Haque</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_8219_Mominul.png</url>
+	</graph>
+	<graph>
+		<id>wag_1736</id>
+		<name>Rubel Hossain</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_1736_Rubel.png</url>
+	</graph>
+	<graph>
+		<id>wag_8548</id>
+		<name>Taskin Ahmed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/BAN_AFG_FEB18/gph_wag_12861_6_8548_Taskin_Ahmed.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

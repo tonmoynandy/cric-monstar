@@ -1,0 +1,2088 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14208" >
+		<type>TEST</type>
+		<gameDesc>County Div 1</gameDesc>
+		<series>County Championship Division One 2015</series>
+		<matchday>4</matchday>
+		<home>Warwickshire</home>
+		<away>Hampshire</away>
+		<teamsabbr>WARKS vs HAM</teamsabbr>
+		<homeabbr>WARKS</homeabbr>
+		<awayabbr>HAM</awayabbr>
+		<homeId>140</homeId>
+		<awayId>153</awayId>
+		<venue>Edgbaston, Birmingham</venue>
+		<startdate>19 04 2015</startdate>
+		<enddate>22 04 2015</enddate>
+		<toss>
+			<winner>Warwickshire</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Match drawn</status>
+		<result type="draw">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Graham Lloyd</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Tim Robinson</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150422164441</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>4</currentinningsno>
+		<batteamname>Warks</batteamname>
+		<bwlteamname>Ham</bwlteamname>
+		<batteamruns>244</batteamruns>
+		<batteamwkts>5</batteamwkts>
+		<batteamovers>105.4</batteamovers>
+		<status>Match drawn</status>
+		<batsman>
+			<playerid>6666</playerid>
+			<name>Varun Chopra*</name>
+			<batsman-name>V Chopra</batsman-name>
+			<batsman-nickname>Varun Chopra</batsman-nickname>
+			<runs>119</runs>
+			<balls-faced>309</balls-faced>
+			<fours>14</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>555</playerid>
+			<name>Rikki Clarke</name>
+			<batsman-name>R Clarke</batsman-name>
+			<batsman-nickname>Rikki Clarke</batsman-nickname>
+			<runs>4</runs>
+			<balls-faced>26</balls-faced>
+			<fours>1</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>6244</playerid>
+			<name>Michael Carberry*</name>
+			<bowler-name>Carberry</bowler-name>
+			<bowler-nickname>Carberry</bowler-nickname>
+			<overs>2.4</overs>
+			<maidens>2</maidens>
+			<runs>12</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6639</playerid>
+			<name>Liam Dawson</name>
+			<bowler-name>L Dawson</bowler-name>
+			<bowler-nickname>Liam Dawson</bowler-nickname>
+			<overs>17</overs>
+			<maidens>9</maidens>
+			<runs>28</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>379</target>
+<lastwicket>
+<playerid>1060</playerid>
+<name>Tim Ambrose</name>
+<player-runs>29</player-runs>
+<player-balls>117</player-balls>
+<runs>227</runs>
+<wicket-nbr>5</wicket-nbr>
+<bowlerid>6546</bowlerid>
+<bowlername>Will Smith</bowlername>
+</lastwicket>
+		<extras>
+			<byes>1</byes>
+			<wides>5</wides>
+			<noballs>2</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>8</total>
+		</extras>
+		<prevOvers><![CDATA[4 . . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 4 4 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV1/WARKS_HAM_APR19_APR22/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>319</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>89.3</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Hampshire">
+			<players>
+				<player>
+					<playerid>4211</playerid>
+					<name>Jimmy Adams</name>
+					<batsman-name>J Adams</batsman-name>
+					<batsman-nickname>Jimmy Adams</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>53</runs>
+					<balls>130</balls>
+					<fours>9</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder>Rikki Clarke</fielder>
+						<fielderId>555</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6639</playerid>
+					<name>Liam Dawson</name>
+					<batsman-name>L Dawson</batsman-name>
+					<batsman-nickname>Liam Dawson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>38</runs>
+					<balls>95</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6244</playerid>
+					<name>Michael Carberry</name>
+					<batsman-name>Carberry</batsman-name>
+					<batsman-nickname>Carberry</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>82</balls>
+					<fours>8</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6642</playerid>
+					<name>James Vince</name>
+					<batsman-name>J Vince</batsman-name>
+					<batsman-nickname>James Vince</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>7</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6546</playerid>
+					<name>Will Smith</name>
+					<batsman-name>Will Smith</batsman-name>
+					<batsman-nickname>Will Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>32</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6523</playerid>
+					<name>Adam Wheater</name>
+					<batsman-name>A Wheater</batsman-name>
+					<batsman-nickname>Wheater</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>74</runs>
+					<balls>91</balls>
+					<fours>7</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Barker</bowler>
+					<bowlerId>6672</bowlerId>
+						<fielder>Varun Chopra</fielder>
+						<fielderId>6666</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3453</playerid>
+					<name>Sean Ervine</name>
+					<batsman-name>S Ervine</batsman-name>
+					<batsman-nickname>S Ervine</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder>Rikki Clarke</fielder>
+						<fielderId>555</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6656</playerid>
+					<name>Gareth Berg</name>
+					<batsman-name>G Berg</batsman-name>
+					<batsman-nickname>Berg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>12</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder>Rikki Clarke</fielder>
+						<fielderId>555</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6644</playerid>
+					<name>Danny Briggs</name>
+					<batsman-name>D Briggs</batsman-name>
+					<batsman-nickname>Briggs</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>48</runs>
+					<balls>76</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>322</playerid>
+					<name>Andre Adams</name>
+					<batsman-name>A Adams</batsman-name>
+					<batsman-nickname>Andre Adams</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder>Varun Chopra</fielder>
+						<fielderId>6666</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6646</playerid>
+					<name>James Tomlinson</name>
+					<batsman-name>J Tomlinson</batsman-name>
+					<batsman-nickname>Tomlinson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6639</playerid>
+				<nbr>1</nbr>
+				<runs>94</runs>
+				<overs>33.3</overs>
+				<batsman>Liam Dawson</batsman>
+				<batsman-name>L Dawson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>4211</playerid>
+				<nbr>2</nbr>
+				<runs>121</runs>
+				<overs>45.5</overs>
+				<batsman>Jimmy Adams</batsman>
+				<batsman-name>J Adams</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6642</playerid>
+				<nbr>3</nbr>
+				<runs>137</runs>
+				<overs>47.6</overs>
+				<batsman>James Vince</batsman>
+				<batsman-name>J Vince</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6244</playerid>
+				<nbr>4</nbr>
+				<runs>169</runs>
+				<overs>56.2</overs>
+				<batsman>Michael Carberry</batsman>
+				<batsman-name>Carberry</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6546</playerid>
+				<nbr>5</nbr>
+				<runs>178</runs>
+				<overs>58.6</overs>
+				<batsman>Will Smith</batsman>
+				<batsman-name>Will Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3453</playerid>
+				<nbr>6</nbr>
+				<runs>194</runs>
+				<overs>62.2</overs>
+				<batsman>Sean Ervine</batsman>
+				<batsman-name>S Ervine</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6656</playerid>
+				<nbr>7</nbr>
+				<runs>206</runs>
+				<overs>64.5</overs>
+				<batsman>Gareth Berg</batsman>
+				<batsman-name>G Berg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6523</playerid>
+				<nbr>8</nbr>
+				<runs>309</runs>
+				<overs>86.6</overs>
+				<batsman>Adam Wheater</batsman>
+				<batsman-name>A Wheater</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>322</playerid>
+				<nbr>9</nbr>
+				<runs>317</runs>
+				<overs>88.2</overs>
+				<batsman>Andre Adams</batsman>
+				<batsman-name>A Adams</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6644</playerid>
+				<nbr>10</nbr>
+				<runs>319</runs>
+				<overs>89.3</overs>
+				<batsman>Danny Briggs</batsman>
+				<batsman-name>D Briggs</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>9</byes>
+			<wides>2</wides>
+			<noballs>6</noballs>
+			<legbyes>11</legbyes>
+			<penalty>0</penalty>
+			<total>28</total>
+		</extras>
+		<bowlteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<bowler-name>K Barker</bowler-name>
+					<bowler-nickname>Barker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>22</overs>
+					<maidens>5</maidens>
+					<runsoff>51</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<bowler-name>C Wright</bowler-name>
+					<bowler-nickname>Chris Wright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19</overs>
+					<maidens>3</maidens>
+					<runsoff>75</runsoff>
+					<wickets>3</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<bowler-name>R Clarke</bowler-name>
+					<bowler-nickname>Rikki Clarke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>18</overs>
+					<maidens>3</maidens>
+					<runsoff>59</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<bowler-name>J Patel</bowler-name>
+					<bowler-nickname>Jeetan Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>2</maidens>
+					<runsoff>39</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<bowler-name>Rankin</bowler-name>
+					<bowler-nickname>Rankin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16.3</overs>
+					<maidens>1</maidens>
+					<runsoff>75</runsoff>
+					<wickets>6</wickets>
+					<wides>0</wides>
+					<noballs>3</noballs>
+				</player>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<bowler-name>V Chopra</bowler-name>
+					<bowler-nickname>Varun Chopra</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<bowler-name>I Westwood</bowler-name>
+					<bowler-nickname>Westwood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<bowler-name>Porterfield</bowler-name>
+					<bowler-nickname>Porterfield</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<bowler-name>Laurie Evans</bowler-name>
+					<bowler-nickname>Laurie Evans</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8495</playerid>
+					<name>Sam Hain</name>
+					<bowler-name>Sam Hain</bowler-name>
+					<bowler-nickname>Sam Hain</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<bowler-name>T Ambrose</bowler-name>
+					<bowler-nickname>Ambrose</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>280</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>85.3</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<batsman-name>V Chopra</batsman-name>
+					<batsman-nickname>Varun Chopra</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>46</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Berg</bowler>
+					<bowlerId>6656</bowlerId>
+						<fielder>Adam Wheater</fielder>
+						<fielderId>6523</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<batsman-name>I Westwood</batsman-name>
+					<batsman-nickname>Westwood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>37</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Tomlinson</bowler>
+					<bowlerId>6646</bowlerId>
+						<fielder>James Vince</fielder>
+						<fielderId>6642</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<batsman-name>Porterfield</batsman-name>
+					<batsman-nickname>Porterfield</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>13</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Tomlinson</bowler>
+					<bowlerId>6646</bowlerId>
+						<fielder>Will Smith</fielder>
+						<fielderId>6546</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<batsman-name>Laurie Evans</batsman-name>
+					<batsman-nickname>Laurie Evans</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>33</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>S Ervine</bowler>
+					<bowlerId>3453</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8495</playerid>
+					<name>Sam Hain</name>
+					<batsman-name>Sam Hain</batsman-name>
+					<batsman-nickname>Sam Hain</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>58</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Adams</bowler>
+					<bowlerId>322</bowlerId>
+						<fielder>Will Smith</fielder>
+						<fielderId>6546</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<batsman-name>T Ambrose</batsman-name>
+					<batsman-nickname>Ambrose</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>113</runs>
+					<balls>159</balls>
+					<fours>17</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Tomlinson</bowler>
+					<bowlerId>6646</bowlerId>
+						<fielder>Jimmy Adams</fielder>
+						<fielderId>4211</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<batsman-name>R Clarke</batsman-name>
+					<batsman-nickname>Rikki Clarke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>24</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>A Adams</bowler>
+					<bowlerId>322</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<batsman-name>K Barker</batsman-name>
+					<batsman-nickname>Barker</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>56</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Ervine</bowler>
+					<bowlerId>3453</bowlerId>
+						<fielder>Andre Adams</fielder>
+						<fielderId>322</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<batsman-name>J Patel</batsman-name>
+					<batsman-nickname>Jeetan Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>42</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>D Briggs</bowler>
+					<bowlerId>6644</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<batsman-name>C Wright</batsman-name>
+					<batsman-nickname>Chris Wright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>34</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<batsman-name>Rankin</batsman-name>
+					<batsman-nickname>Rankin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>12</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Berg</bowler>
+					<bowlerId>6656</bowlerId>
+						<fielder>James Vince</fielder>
+						<fielderId>6642</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6666</playerid>
+				<nbr>1</nbr>
+				<runs>39</runs>
+				<overs>13.3</overs>
+				<batsman>Varun Chopra</batsman>
+				<batsman-name>V Chopra</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6664</playerid>
+				<nbr>2</nbr>
+				<runs>39</runs>
+				<overs>14.2</overs>
+				<batsman>Ian Westwood</batsman>
+				<batsman-name>I Westwood</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>625</playerid>
+				<nbr>3</nbr>
+				<runs>42</runs>
+				<overs>16.4</overs>
+				<batsman>William Porterfield</batsman>
+				<batsman-name>Porterfield</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6531</playerid>
+				<nbr>4</nbr>
+				<runs>72</runs>
+				<overs>25.4</overs>
+				<batsman>Laurie Evans</batsman>
+				<batsman-name>Laurie Evans</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8495</playerid>
+				<nbr>5</nbr>
+				<runs>92</runs>
+				<overs>34.4</overs>
+				<batsman>Sam Hain</batsman>
+				<batsman-name>Sam Hain</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>555</playerid>
+				<nbr>6</nbr>
+				<runs>120</runs>
+				<overs>42.5</overs>
+				<batsman>Rikki Clarke</batsman>
+				<batsman-name>R Clarke</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6672</playerid>
+				<nbr>7</nbr>
+				<runs>185</runs>
+				<overs>59.5</overs>
+				<batsman>Keith Barker</batsman>
+				<batsman-name>K Barker</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>435</playerid>
+				<nbr>8</nbr>
+				<runs>250</runs>
+				<overs>72.6</overs>
+				<batsman>Jeetan Patel</batsman>
+				<batsman-name>J Patel</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1060</playerid>
+				<nbr>9</nbr>
+				<runs>271</runs>
+				<overs>80.4</overs>
+				<batsman>Tim Ambrose</batsman>
+				<batsman-name>T Ambrose</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>626</playerid>
+				<nbr>10</nbr>
+				<runs>280</runs>
+				<overs>85.3</overs>
+				<batsman>Boyd Rankin</batsman>
+				<batsman-name>Rankin</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>0</wides>
+			<noballs>2</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>11</total>
+		</extras>
+		<bowlteam name="Hampshire">
+			<players>
+				<player>
+					<playerid>6646</playerid>
+					<name>James Tomlinson</name>
+					<bowler-name>J Tomlinson</bowler-name>
+					<bowler-nickname>Tomlinson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17</overs>
+					<maidens>3</maidens>
+					<runsoff>53</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6644</playerid>
+					<name>Danny Briggs</name>
+					<bowler-name>D Briggs</bowler-name>
+					<bowler-nickname>Briggs</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>18</overs>
+					<maidens>4</maidens>
+					<runsoff>57</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6656</playerid>
+					<name>Gareth Berg</name>
+					<bowler-name>G Berg</bowler-name>
+					<bowler-nickname>Berg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19.3</overs>
+					<maidens>3</maidens>
+					<runsoff>58</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3453</playerid>
+					<name>Sean Ervine</name>
+					<bowler-name>S Ervine</bowler-name>
+					<bowler-nickname>S Ervine</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>3</maidens>
+					<runsoff>43</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>322</playerid>
+					<name>Andre Adams</name>
+					<bowler-name>A Adams</bowler-name>
+					<bowler-nickname>Andre Adams</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>4</maidens>
+					<runsoff>54</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6639</playerid>
+					<name>Liam Dawson</name>
+					<bowler-name>L Dawson</bowler-name>
+					<bowler-nickname>Liam Dawson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>1</maidens>
+					<runsoff>6</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6244</playerid>
+					<name>Michael Carberry</name>
+					<bowler-name>Carberry</bowler-name>
+					<bowler-nickname>Carberry</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>4211</playerid>
+					<name>Jimmy Adams</name>
+					<bowler-name>J Adams</bowler-name>
+					<bowler-nickname>Jimmy Adams</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6546</playerid>
+					<name>Will Smith</name>
+					<bowler-name>Will Smith</bowler-name>
+					<bowler-nickname>Will Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6642</playerid>
+					<name>James Vince</name>
+					<bowler-name>J Vince</bowler-name>
+					<bowler-nickname>James Vince</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6523</playerid>
+					<name>Adam Wheater</name>
+					<bowler-name>A Wheater</bowler-name>
+					<bowler-nickname>Wheater</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>339</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>94.2</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Hampshire">
+			<players>
+				<player>
+					<playerid>4211</playerid>
+					<name>Jimmy Adams</name>
+					<batsman-name>J Adams</batsman-name>
+					<batsman-nickname>Jimmy Adams</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Barker</bowler>
+					<bowlerId>6672</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6639</playerid>
+					<name>Liam Dawson</name>
+					<batsman-name>L Dawson</batsman-name>
+					<batsman-nickname>Liam Dawson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>54</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder>Sam Hain</fielder>
+						<fielderId>8495</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6244</playerid>
+					<name>Michael Carberry</name>
+					<batsman-name>Carberry</batsman-name>
+					<batsman-nickname>Carberry</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>81</runs>
+					<balls>193</balls>
+					<fours>10</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6642</playerid>
+					<name>James Vince</name>
+					<batsman-name>J Vince</batsman-name>
+					<batsman-nickname>James Vince</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>R Clarke</bowler>
+					<bowlerId>555</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6546</playerid>
+					<name>Will Smith</name>
+					<batsman-name>Will Smith</batsman-name>
+					<batsman-nickname>Will Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>34</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6523</playerid>
+					<name>Adam Wheater</name>
+					<batsman-name>A Wheater</batsman-name>
+					<batsman-nickname>Wheater</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>11</runs>
+					<balls>24</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Patel</bowler>
+					<bowlerId>435</bowlerId>
+						<fielder>Rikki Clarke</fielder>
+						<fielderId>555</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3453</playerid>
+					<name>Sean Ervine</name>
+					<batsman-name>S Ervine</batsman-name>
+					<batsman-nickname>S Ervine</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>102</runs>
+					<balls>144</balls>
+					<fours>14</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder>Tim Ambrose</fielder>
+						<fielderId>1060</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6656</playerid>
+					<name>Gareth Berg</name>
+					<batsman-name>G Berg</batsman-name>
+					<batsman-nickname>Berg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>36</runs>
+					<balls>49</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>K Barker</bowler>
+					<bowlerId>6672</bowlerId>
+						<fielder>William Porterfield</fielder>
+						<fielderId>625</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6644</playerid>
+					<name>Danny Briggs</name>
+					<batsman-name>D Briggs</batsman-name>
+					<batsman-nickname>Briggs</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>33</runs>
+					<balls>40</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Wright</bowler>
+					<bowlerId>6529</bowlerId>
+						<fielder>Jeetan Patel</fielder>
+						<fielderId>435</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>322</playerid>
+					<name>Andre Adams</name>
+					<batsman-name>A Adams</batsman-name>
+					<batsman-nickname>Andre Adams</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>13</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6646</playerid>
+					<name>James Tomlinson</name>
+					<batsman-name>J Tomlinson</batsman-name>
+					<batsman-nickname>Tomlinson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>16</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rankin</bowler>
+					<bowlerId>626</bowlerId>
+						<fielder>Jeetan Patel</fielder>
+						<fielderId>435</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>4211</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>0.1</overs>
+				<batsman>Jimmy Adams</batsman>
+				<batsman-name>J Adams</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6639</playerid>
+				<nbr>2</nbr>
+				<runs>58</runs>
+				<overs>19.5</overs>
+				<batsman>Liam Dawson</batsman>
+				<batsman-name>L Dawson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6642</playerid>
+				<nbr>3</nbr>
+				<runs>58</runs>
+				<overs>19.6</overs>
+				<batsman>James Vince</batsman>
+				<batsman-name>J Vince</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6546</playerid>
+				<nbr>4</nbr>
+				<runs>86</runs>
+				<overs>29.4</overs>
+				<batsman>Will Smith</batsman>
+				<batsman-name>Will Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6523</playerid>
+				<nbr>5</nbr>
+				<runs>108</runs>
+				<overs>35.6</overs>
+				<batsman>Adam Wheater</batsman>
+				<batsman-name>A Wheater</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6244</playerid>
+				<nbr>6</nbr>
+				<runs>194</runs>
+				<overs>64.4</overs>
+				<batsman>Michael Carberry</batsman>
+				<batsman-name>Carberry</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6656</playerid>
+				<nbr>7</nbr>
+				<runs>254</runs>
+				<overs>78.2</overs>
+				<batsman>Gareth Berg</batsman>
+				<batsman-name>G Berg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6644</playerid>
+				<nbr>8</nbr>
+				<runs>315</runs>
+				<overs>89.2</overs>
+				<batsman>Danny Briggs</batsman>
+				<batsman-name>D Briggs</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3453</playerid>
+				<nbr>9</nbr>
+				<runs>315</runs>
+				<overs>89.3</overs>
+				<batsman>Sean Ervine</batsman>
+				<batsman-name>S Ervine</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6646</playerid>
+				<nbr>10</nbr>
+				<runs>339</runs>
+				<overs>94.2</overs>
+				<batsman>James Tomlinson</batsman>
+				<batsman-name>J Tomlinson</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>8</byes>
+			<wides>0</wides>
+			<noballs>6</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>17</total>
+		</extras>
+		<bowlteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<bowler-name>K Barker</bowler-name>
+					<bowler-nickname>Barker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>23</overs>
+					<maidens>4</maidens>
+					<runsoff>68</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<bowler-name>C Wright</bowler-name>
+					<bowler-nickname>Chris Wright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>2</maidens>
+					<runsoff>59</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<bowler-name>R Clarke</bowler-name>
+					<bowler-nickname>Rikki Clarke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>0</maidens>
+					<runsoff>63</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<bowler-name>Rankin</bowler-name>
+					<bowler-nickname>Rankin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>12.2</overs>
+					<maidens>1</maidens>
+					<runsoff>40</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<bowler-name>J Patel</bowler-name>
+					<bowler-nickname>Jeetan Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>28</overs>
+					<maidens>5</maidens>
+					<runsoff>96</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<bowler-name>Laurie Evans</bowler-name>
+					<bowler-nickname>Laurie Evans</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>2</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<bowler-name>V Chopra</bowler-name>
+					<bowler-nickname>Varun Chopra</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<bowler-name>I Westwood</bowler-name>
+					<bowler-nickname>Westwood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<bowler-name>Porterfield</bowler-name>
+					<bowler-nickname>Porterfield</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8495</playerid>
+					<name>Sam Hain</name>
+					<bowler-name>Sam Hain</bowler-name>
+					<bowler-nickname>Sam Hain</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<bowler-name>T Ambrose</bowler-name>
+					<bowler-nickname>Ambrose</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="4">
+		<totalruns>244</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>105.4</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Warwickshire">
+			<players>
+				<player>
+					<playerid>6666</playerid>
+					<name>Varun Chopra</name>
+					<batsman-name>V Chopra</batsman-name>
+					<batsman-nickname>Varun Chopra</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>119</runs>
+					<balls>309</balls>
+					<fours>14</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6664</playerid>
+					<name>Ian Westwood</name>
+					<batsman-name>I Westwood</batsman-name>
+					<batsman-nickname>Westwood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>40</runs>
+					<balls>46</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>A Adams</bowler>
+					<bowlerId>322</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<batsman-name>Porterfield</batsman-name>
+					<batsman-nickname>Porterfield</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>29</runs>
+					<balls>98</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Tomlinson</bowler>
+					<bowlerId>6646</bowlerId>
+						<fielder>Adam Wheater</fielder>
+						<fielderId>6523</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6531</playerid>
+					<name>Laurie Evans</name>
+					<batsman-name>Laurie Evans</batsman-name>
+					<batsman-nickname>Laurie Evans</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>23</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Tomlinson</bowler>
+					<bowlerId>6646</bowlerId>
+						<fielder>Andre Adams</fielder>
+						<fielderId>322</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8495</playerid>
+					<name>Sam Hain</name>
+					<batsman-name>Sam Hain</batsman-name>
+					<batsman-nickname>Sam Hain</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>16</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>L Dawson</bowler>
+					<bowlerId>6639</bowlerId>
+						<fielder>Will Smith</fielder>
+						<fielderId>6546</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1060</playerid>
+					<name>Tim Ambrose</name>
+					<batsman-name>T Ambrose</batsman-name>
+					<batsman-nickname>Ambrose</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>29</runs>
+					<balls>117</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Will Smith</bowler>
+					<bowlerId>6546</bowlerId>
+						<fielder>Gareth Berg</fielder>
+						<fielderId>6656</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>555</playerid>
+					<name>Rikki Clarke</name>
+					<batsman-name>R Clarke</batsman-name>
+					<batsman-nickname>Rikki Clarke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>26</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6672</playerid>
+					<name>Keith Barker</name>
+					<batsman-name>K Barker</batsman-name>
+					<batsman-nickname>Barker</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>435</playerid>
+					<name>Jeetan Patel</name>
+					<batsman-name>J Patel</batsman-name>
+					<batsman-nickname>Jeetan Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6529</playerid>
+					<name>Chris Wright</name>
+					<batsman-name>C Wright</batsman-name>
+					<batsman-nickname>Chris Wright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>626</playerid>
+					<name>Boyd Rankin</name>
+					<batsman-name>Rankin</batsman-name>
+					<batsman-nickname>Rankin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6664</playerid>
+				<nbr>1</nbr>
+				<runs>52</runs>
+				<overs>13.5</overs>
+				<batsman>Ian Westwood</batsman>
+				<batsman-name>I Westwood</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>625</playerid>
+				<nbr>2</nbr>
+				<runs>120</runs>
+				<overs>47.4</overs>
+				<batsman>William Porterfield</batsman>
+				<batsman-name>Porterfield</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6531</playerid>
+				<nbr>3</nbr>
+				<runs>134</runs>
+				<overs>53.6</overs>
+				<batsman>Laurie Evans</batsman>
+				<batsman-name>Laurie Evans</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8495</playerid>
+				<nbr>4</nbr>
+				<runs>145</runs>
+				<overs>58.5</overs>
+				<batsman>Sam Hain</batsman>
+				<batsman-name>Sam Hain</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1060</playerid>
+				<nbr>5</nbr>
+				<runs>227</runs>
+				<overs>95.6</overs>
+				<batsman>Tim Ambrose</batsman>
+				<batsman-name>T Ambrose</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>5</wides>
+			<noballs>2</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>8</total>
+		</extras>
+		<bowlteam name="Hampshire">
+			<players>
+				<player>
+					<playerid>6646</playerid>
+					<name>James Tomlinson</name>
+					<bowler-name>J Tomlinson</bowler-name>
+					<bowler-nickname>Tomlinson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>21</overs>
+					<maidens>5</maidens>
+					<runsoff>56</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6656</playerid>
+					<name>Gareth Berg</name>
+					<bowler-name>G Berg</bowler-name>
+					<bowler-nickname>Berg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>322</playerid>
+					<name>Andre Adams</name>
+					<bowler-name>A Adams</bowler-name>
+					<bowler-nickname>Andre Adams</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>21</overs>
+					<maidens>5</maidens>
+					<runsoff>59</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6644</playerid>
+					<name>Danny Briggs</name>
+					<bowler-name>D Briggs</bowler-name>
+					<bowler-nickname>Briggs</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>3</maidens>
+					<runsoff>33</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3453</playerid>
+					<name>Sean Ervine</name>
+					<bowler-name>S Ervine</bowler-name>
+					<bowler-nickname>S Ervine</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>9</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6546</playerid>
+					<name>Will Smith</name>
+					<bowler-name>Will Smith</bowler-name>
+					<bowler-nickname>Will Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>8</maidens>
+					<runsoff>16</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6639</playerid>
+					<name>Liam Dawson</name>
+					<bowler-name>L Dawson</bowler-name>
+					<bowler-nickname>Liam Dawson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17</overs>
+					<maidens>9</maidens>
+					<runsoff>28</runsoff>
+					<wickets>1</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6244</playerid>
+					<name>Michael Carberry</name>
+					<bowler-name>Carberry</bowler-name>
+					<bowler-nickname>Carberry</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2.4</overs>
+					<maidens>2</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>4211</playerid>
+					<name>Jimmy Adams</name>
+					<bowler-name>J Adams</bowler-name>
+					<bowler-nickname>Jimmy Adams</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6642</playerid>
+					<name>James Vince</name>
+					<bowler-name>J Vince</bowler-name>
+					<bowler-nickname>James Vince</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6523</playerid>
+					<name>Adam Wheater</name>
+					<bowler-name>A Wheater</bowler-name>
+					<bowler-nickname>Wheater</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

@@ -1,0 +1,1038 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14602" >
+		<type>T20</type>
+		<gameDesc>9th Match</gameDesc>
+		<series>Indian T20 League 2015</series>
+		<matchday>1</matchday>
+		<home>Rajasthan</home>
+		<away>Mumbai</away>
+		<teamsabbr>JAI vs MUM</teamsabbr>
+		<homeabbr>JAI</homeabbr>
+		<awayabbr>MUM</awayabbr>
+		<homeId>64</homeId>
+		<awayId>62</awayId>
+		<venue>Sardar Patel Stadium, Ahmedabad</venue>
+		<startdate>14 04 2015</startdate>
+		<enddate>14 04 2015</enddate>
+		<toss>
+			<winner>Mumbai</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Rajasthan won by 7 wkts</status>
+		<result type="win">
+			<winningteam>Rajasthan</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>7</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Simon Fry</Name>
+			<Country>Aus</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Anil Chaudhary</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Krishnamachari Srinivasan</Name>
+			<Country>Ind</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Chinmay Sharma</Name>
+			<Country>Ind</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>14:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150414180454</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>JAI</batteamname>
+		<bwlteamname>MUM</bwlteamname>
+		<batteamruns>165</batteamruns>
+		<batteamwkts>3</batteamwkts>
+		<batteamovers>19.1</batteamovers>
+		<status>Rajasthan won by 7 wkts</status>
+		<batsman>
+			<playerid>2250</playerid>
+			<name>Steven Smith</name>
+			<batsman-name>S Smith</batsman-name>
+			<batsman-nickname>S Smith</batsman-nickname>
+			<runs>79</runs>
+			<balls-faced>53</balls-faced>
+			<fours>8</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<batsman>
+			<playerid>7789</playerid>
+			<name>James Faulkner</name>
+			<batsman-name>Faulkner</batsman-name>
+			<batsman-nickname>Faulkner</batsman-nickname>
+			<runs>6</runs>
+			<balls-faced>6</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>111</playerid>
+			<name>Lasith Malinga</name>
+			<bowler-name>Malinga</bowler-name>
+			<bowler-nickname>Malinga</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>41</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>9746</playerid>
+			<name>Shreyas Gopal</name>
+			<bowler-name>Shreyas Gopal</bowler-name>
+			<bowler-nickname>Shreyas Gopal</bowler-nickname>
+			<overs>2.1</overs>
+			<maidens>0</maidens>
+			<runs>23</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>165</target>
+<lastwicket>
+<playerid>9427</playerid>
+<name>Deepak Hooda</name>
+<player-runs>13</player-runs>
+<player-balls>4</player-balls>
+<runs>113</runs>
+<wicket-nbr>3</wicket-nbr>
+<bowlerid>111</bowlerid>
+<bowlername>Malinga</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>3</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>4</total>
+		</extras>
+		<prevOvers><![CDATA[4 4 2 4 . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 2 1 . 2 6 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 4 2 . . 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_T20_LEAGUE/JAI_MUM_APR14/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[So, that brings us to the end of our coverage of this game. Tomorrow, <b>Punjab</b> will face <b>Delhi</b> in Pune. Join us tomorrow to catch all the action from that game. Until then, this is <b>Sidhant Maheshwari</b> saying goodbye, on behalf of <b>Krishna, Raju, Bharath, Sriram</b> and my co-commentators, <b>Ramakrishnan</b> and <b>Pradeep</b>. Take care!]]></line><line><![CDATA[Let's take a look at some of the <b>tweets</b>:]]></line><line><![CDATA[<b>@abdullah_0mar:</b> Steve Smith is Tendulkar of 90s. #RAJvsMUM]]></line><line><![CDATA[<b>@sidvee:</b> Steve Smith has his maiden IPL fifty. Phew, I was little concerned he was only fit for international cricket and not the real deal]]></line><line><![CDATA[<b>@sanjaymanjrekar:</b> Incredible innings from Steve Smith. Even well directed yorkers can't stop this guy. One of the best innings this IPL. #RAJ #IPL2015]]></line><line><![CDATA[<b>@fwildecricket:</b> #MUM are the opposite of #RAJ - spend too much, spend badly, and get it tactically so wrong, time & time again. #IPL #RAJvMUM]]></line><line><![CDATA[<b>@cricketaakash:</b> Steve Smith and his love affair with Indians continues...what a player. Almost impossible to bowl to him in current form. #RAJ rocking.]]></line><line><![CDATA[<b>@bhogleharsha:</b> Mountain to climb for #MUM. Has been done before but form of Malinga & batting in 1st half worrisome. #PepsiIPL]]></line><line><![CDATA[<b>Smith:</b> 'I never get tired. It's my job to score runs and it was nice to contribute to the win tonight. I guess I am doing it pretty consistently (on shuffling across the crease). I have done it for a little while now and it's been successful. So, there's no need to change. It's nice to be in good form and score some runs. We were just trying to keep it around 10 or under 10 an over. We have got plenty of power-hitters in the end, so we knew that we could chase it. I didn't know about that, it's nice (when asked about whether he knew that it was his first fifty in the IPL). I hope it continues and Rajasthan have won 3 now and hopefully, we can continue with this form throughout the tournament.']]></line><line><![CDATA[<b>Steven Smith</b> is the <b>Man of the Match</b> for his <b>unbeaten 79</b>]]></line><line><![CDATA[<b>Rohit:</b> 'Talking about this game, we didn't start well with the bat. It was a poor performance with the bat. You have to bat well, if you want to win a game. Thanks to Corey (Anderson) and Pollard for getting us back into the game. We are missing a lot of things and that's why we lost today. It was a decent score, but we had something to bowl to. Rajasthan batted really well, but we got some work to do. We have to take responsibility with the bat and bowl better balls. Finch doesn't look good right now, he will go for a scan tomorrow and only then we will get to know.']]></line><line><![CDATA[Earlier, Rajasthan's bowlers bowled with unrelenting control to stifle the batsmen and put them in a position of strength. However, Kieron Pollard and Corey Anderson plundered the opposition at will to power the visitors to a competitive total. In fact, Pollard even smacked Tim Southee for 20 runs in the 19th over. In the end though, Mumbai suffered their third loss in a row.]]></line><line><![CDATA[Steven Smith and Ajinkya Rahane played fluent hands as Rajasthan registered their third successive win. Both the batsmen laid the foundation by finding gaps with a precise metre of timing. Even after Rahane was dismissed, Smith played with a calm head on his shoulders to score a fifty and steer them home. In the 17th over, he took on the gauntlet of facing up to Lasith Malinga and collected three boundaries. For Mumbai, Vinay Kumar bowled with good control with the new ball. <br/>]]></line><line><![CDATA[The players walk off the field, shaking hands with each other. Smith was all smiles after the decision was displayed on the big screen. Rohit looked disappointed, but his team have been outplayed here]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Shreyas Gopal to Faulkner, 1 run, flatter delivery from Gopal, Faulkner cracks it towards cover and sets off, the fielder dives to his right, picks the ball and fires the throw at the non-striker's end. Faulkner was struggling to make his ground, but probably just makes it in when Shreyas Gopal disturbed the stumps. A direct-hit would have surely been out. The bat was on the line when the bowler hit the stumps, but it was inconclusive whether the bails were completely off the groove and Faulkner got the benefit of the doubt]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Is that a run-out? The third umpire has been pressed into service but looks like Faulkner has made his ground. Have the bails been dislodged before Faulkner got his bat in? Looks touch and go, but the umpire deems it to be 'Not Out'. <b>Rajasthan win the match, 3 out of 3 wins for them</b>. Mumbai, on the other hand, have lost 3 in 3.]]></line><line><![CDATA[<b>Shreyas Gopal [2.0-0-22-1] is back into the attack</b>]]></line><line><![CDATA[<b>Just 1 run needed off 6 balls now</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>FOUR</b>, <b>cracking drive!</b> It was full and on the stumps, Smith backs away slightly and drives it inside-out wide of mid-off and the ball crashes into the fence, brings <b>50 of the partnership</b>]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Malinga to S Smith, no run, yorker on the stumps, Smith squeezes it out back to the bowler, who fires in the throw at the striker's end, but it was way off target there]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Malinga to S Smith, no run, slower ball once again, this time Smith drives and picks out mid-off]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Malinga to S Smith, 2 runs, slower ball outside off, Smith goes across and helps it behind square on the on-side, he comes back for the second and now, <b>he becomes the Orange cap holder as well</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>FOUR</b>, that's a super shot from Smith. It was full and on the stumps, Smith comes down the track to this slower ball and he drives it wide of mid-off, that was just too pleasing for the eyes]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Malinga to Faulkner, 1 run, slower ball on the stumps, Faulkner gently turns it towards square leg and hands the strike over to Smith]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>12 runs needed off 12 balls</b>. Rajasthan have <b>scored 40 in the last 3 overs</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Suyal to S Smith, <b>SIX</b>, <b>huge six from Smith and surely, it is their game now.</b> It was a full delivery on off and middle, Smith goes across, gets under it and tonks it over the deep mid-wicket fence, Smith is playing a brilliant innings here, <b>12 runs came off the over</b>]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Suyal to S Smith, 2 runs, another low full toss just outside off, Smith waits inside the crease and heaves it wide of long-on, the batsmen take two before Pollard can stop that]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Suyal to S Smith, no run, Smith has missed out on a full toss outside off, it should have been put away, but Smith fails to lay bat on that as he looks to drive]]></line><line><![CDATA[<b>20 needed off 15 balls</b>]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Suyal to Faulkner, 1 run, low full toss angling away outside off, Faulkner bunts it down to long-off for a run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Suyal to Faulkner, 2 runs, fuller and on middle stump line, Faulkner clips it through mid-wicket and the batsmen take two before the ball is hunted down in the deep, good running that from these two]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Suyal to S Smith, 1 run, Smith makes slight room and Suyal bowls this one on the stumps, Smith pushes it down to long-off and gets off strike]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Malinga to S Smith, 1 run, angles this in on middle stump line, Smith works it to deep mid-wicket and he will keep the strike, <b>15 runs came off the over</b>. It was the slower ball from Malinga and Smith was expecting that]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Malinga to S Smith, no run, good change of pace from Malinga, it was bowled outside off too, Smith went for the drive a little too early, the ball goes past his bat and bounces well short of the keeper]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>FOUR</b>, <b>edged and four!</b> That's the third boundary of the over. It was full and slightly wide outside off, Smith goes for the expansive drive through the off-side and gets an outside edge that runs away to the fence, third man was squarer this time as well]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Malinga to S Smith, 2 runs, Malinga bowls another one fuller in length and outside off, Smith drives it through the covers and gets two before sweeper runs to his right to cut it off]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>FOUR</b>, <b>Smith reaches his fifty with another four</b>, it was very full and slightly wide outside off, Smith waits for it and carves it to the left of backward point, the ball hurries through the turf and crashes into the fence]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>FOUR</b>, Smith <b>reaches his highest score in IPL with the boundary</b>, it was full and angled across off, Smith goes across slightly, gets under the ball and with his brilliant wrists, he flicks it to the cow corner fence for a four]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Suyal to S Smith, 1 run, bowls this full and outside off, Smith was backing away a little and drives it straight to extra cover, the fielder fires in the throw at the non-striker's end and Smith was struggling to make his ground. A <b>direct-hit would have been curtains for Smith</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Suyal to S Smith, <b>no ball</b>, woahh! That's a beamer outside off, another no-ball from Suyal and this time it is for height. He will have to bowl the free-hit ball once again]]></line><line><![CDATA[Free-hit coming up]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Suyal to S Smith, <b>no ball</b>, 2 runs, Smith walks across his stumps and lofts this full delivery over the bowler, the batsmen take two before long-on runs to his left and stops the ball. Wait a mintue, it has been called as a no-ball, a harsh call from the umpire perhaps, but Rajasthan get the free-hit]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Suyal to S Smith, no run, yorker wide outside off this time, Smith was backing away a touch and in the end reaches out for it, but fails to connect with the ball once again. It was inside the tramline as well]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Suyal to S Smith, no run, good comeback from Suyal, it was another very full delivery angling away outside off, Smith looks to run it down to third man, but the ball goes past his blade]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Suyal to S Smith, no run, good comeback from Suyal, it was another very full delivery angling away outside off, Smith looks to run it down to third man, but the ball goes past his blade]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Suyal to S Smith, <b>FOUR</b>, <b>edged and four!</b> It was full and angled across off, Smith goes for the drive and gets an outside edge that runs away to the third man fence. The fielder at third man was a little squarer on that occasion]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Suyal to Faulkner, 1 run, short of length delivery on the pads, Faulkner picks it off his pads and nudges it to fine leg, only a single available this time]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Suyal to S Smith, 3 runs, back of a length delivery on the off stump, Smith goes across slightly and helps it behind square on the on-side, Suchith from deep square leg runs to his right, dives and saves a run for his team]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pawan Suyal [2.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Malinga to Faulkner, no run, tries to bowl the yorker and ends up bowling a low full toss, Faulkner clips it to mid-wicket]]></line><line><![CDATA[<b>James Faulkner, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Malinga to Deepak Hooda, <b>out</b> Bowled!! Hooda's bright little stay at the crease comes to an end. It's a similar dismissal to how he got out in the first game. Is it a no-ball? The umpires check for the front foot and it looks pretty close. The umpire is taking his time here and deems it legal. Hooda has to go and Pollard also raises his finger right next to the umpire. Coming to the ball, Hooda walked across a little too much as Malinga fired in a yorker on the leg-stump, he failed to connect with it and the leg stump gets uprooted. <b>Deepak Hooda b Malinga 13(4) [6s-2]</b>]]></line><line><![CDATA[Malinga to Deepak Hooda, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Malinga to S Smith, 1 run, full again and outside off, Smith drives it square of the wicket after opening the face of the bat, only a single on that occasion]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Malinga to S Smith, 2 runs, full and just outside off, Smith drives it through the covers, it was timed very well and the batsmen take a couple before sweeper runs to his right and stops it]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>wide</b>, down the leg-side, Smith fails to connect with the glance, the umpire calls it a wide]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Malinga to S Smith, no run, that's a good ball from Malinga, it was fuller and just outside off, Smith went for the drive off the front foot and completely missed it, the ball went past the inside edge there]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Malinga to S Smith, 2 runs, yorker outside off, Smith squeezes it out with an open face and gets it towards squarish third man region, the batsmen take two before the fielder at third man runs to his right and collects it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lasith Malinga [1.0-0-9-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Shreyas Gopal to Deepak Hooda, <b>SIX</b>, <b>back-to-back sixes!</b> Hooda is making a mockery of the bowling here. He was on the charge again here and he lofts this ball from Gopal handsomely over the long-off fence. This lad surely has got some talent and has no fear at all. He has hit 2 sixes off his first three balls. Just brilliant]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Shreyas Gopal to Deepak Hooda, <b>SIX</b>, what a shot and that too just off his second ball of the innings, he came down the track and once again and tonks this delivery on his pads over the deep mid-wicket fence]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Shreyas Gopal to S Smith, 1 run, googly from Gopal, Smith pulls it to deep mid-wicket]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Shreyas Gopal to Deepak Hooda, 1 run, almost a catch for the bowler! It was tossed up, Hooda comes down the track and lofts it to the right of the bowler, who dives to his right, but can't get a hand on it. The batsmen take a single as the ball rolls away to long-on]]></line><line><![CDATA[A slip in place for Hooda]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Shreyas Gopal to S Smith, 1 run, Smith comes down the track and converts this fullish delivery into a low full toss, he clips it through mid-wicket, Pollard in the deep moves to his left and keeps the batsmen down to a single]]></line><line><![CDATA[<b>Deepak Hooda, right handed bat, comes to the crease</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Shreyas Gopal to Rahane, <b>out</b> Caught by Corey Anderson!! Rahane goes against the run of play here. A much needed breakthrough for MUM. First wicket for Shreyas this season. It was floated up on the stumps, Rahane came charging down the track and went for the inside-out loft, he couldn't get it off the middle of the bat and ends up hitting it with the toe-end. Anderson moves to his right at long-off and reverse cups it with ease. Rahane goes after a good knock, he scored 47 in the last game and gets out on 46 today. <b>Rahane c Corey Anderson b Shreyas Gopal 46(39) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Shreyas Gopal to Rahane, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, <b>FOUR</b>, gets the boundary this time, he comes charging down the track once again and drills the drive past the bowler, the ball runs away to the fence and long-off had no chance of stopping that]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, Rahane gives the charge and wasn't upto the pitch of the ball there, but he manages to drive it down to long-on]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 1 run, pulls this flatter delivery to deep mid-wicket]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, no run, bowled quicker and just outside off, Smith almost yorks himself there as he came down the track, he failed to connect with the ball and it was not far away from the off stump there, Patel takes the bails off in a flash after collecting the ball]]></line><line><![CDATA[The third umpire has been asked to check a stumping chance. Steven Smith is the man in question. Looks like some part of his foot is just behind the line and he survives]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, quicker and on off and middle, it was fuller as well, Rahane drives it to long-on and gets to the other end]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, no run, goes down on one knee and sweeps this flighted delivery on the stumps to short fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Shreyas Gopal to Rahane, 1 run, another one on the leg stump line, it was quicker as well, Rahane hangs back and picks it off his pads to deep backward square leg on the bounce]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Shreyas Gopal to S Smith, 1 run, comes down the track and pushes it down to long-off for a single]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Shreyas Gopal to Rahane, 1 run, flatter and quicker on the stumps, Rahane was still back in his crease and pulls it behind square on the on-side]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Shreyas Gopal to Rahane, 2 runs, shorter and drifting down leg, Rahane waits and helps it behind square on the on-side, the batsmen take two before the ball is hunted down]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Shreyas Gopal to Rahane, 2 runs, slower through the air and turning in on middle, Rahane hangs back and pulls it towards deep mid-wicket, Unmukt Chand there runs in and gets his hands on it, but <b>can't hold onto the catch</b> as the ball popped out when he hit the ground]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Shreyas Gopal to Rahane, no run, touch flatter and just outside off, Rahane goes back and punches it straight back at the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shreyas Gopal, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 2 runs, Smith comes down the track and almost yorks himself there, he does well to squeeze it out with an open face of the bat and gets it square of the wicket, the batsmen take a couple as the sweeper fumbles in the deep after running to his right, <b>50 of the partnership</b> also comes up]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, quicker and around off, Rahane stays back and bunts it down to long-on for a single]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 2 runs, Rahane advances this time and lofts this flighted delivery outside off inside-out over cover, the batsmen take a couple before the sweeper runs to his right, dives and stops the ball]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 2 runs, slower through the air and outside off, Rahane waits on it and opens the face of the bat, gets it fine and the batsmen take a single before short third man chases it down]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 1 run, Smith comes down the track and as he gets to the ball, the bat turns in his hands and the ball rolls away to long-on for a single]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, short and slightly wide outside off, Rahane goes deep in the crease and cuts it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, no run, Anderson slips in the slower ball, Smith reaches out on the slice and is beaten once again]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, no run, full and way outside off, Smith looks to steer it away towards third man and misses. That was well outside the tram line, not given as a wide. Smith looks at the umpire in a puzzled manner. Anderson gets away with one]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, no run, Smith took a step across his stumps even before the bowler bowled, the length was full and outside off, eased straight to the fielder at point]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, 2 runs, short of a length and coming back with the angle, cramped Smith for room, he plays an awkward looking pull, the ball rolls away towards mid-wicket. Smith runs hard and gets back for the second run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Corey Anderson to Rahane, 1 run, Anderson is being way too short and well outside off, flat-batted drive towards long-off for a single]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, 1 run, short and wide from Anderson, that sat up to be smacked, drilled straight to sweeper cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 1 run, Smith shimmies down the track, gets to the pitch of a well flighted delivery, whips it against the spin and gets a single to deep mid-wicket]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, Suchith drifts one onto Rahane's pads, nudged behind square on the on-side for a single]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, <b>FOUR</b>, poor ball from Suchith, dropped this one way too short and just outside off, pulled away wide of long-on, no chance for Pollard this time around]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, no run, this one is given more air, Rahane prods forward and blocks]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 2 runs, fraction short and just outside off, Rahane rocks back and pulls it wide of long-on. Pollard gets across and keeps them down to a brace]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, no run, tossed up and just outside off, Rahane lunges forward in defence, Smith wants a single and is sent back]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Corey Anderson to Rahane, 1 run, length ball and on Rahane's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Corey Anderson to Rahane, <b>FOUR</b>, that's well played by Rahane, width on offer from Anderson, Rahane goes through with the lofted back foot cover drive, clears Malinga at wide mid-off and races away to the fence]]></line><line><![CDATA[Back over the wicket]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, 1 run, short and wide from Anderson, Smith cuts it to the left of backward point, the fielder dives and makes a half-stop, saves a run for his team]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, 2 runs, width on offer from Anderson, Smith carves it in front of square on the off-side for a brace]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, no run, short of a length and well outside off, doesn't come as much as Smith expected, mistimed cut towards cover]]></line><line><![CDATA[Looks like the ball is stopping onto the batsman. Smith reckons the same and passes on the message to his partner]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Corey Anderson to S Smith, no run, Anderson comes from round the wicket and angles one across Smith, driven straight to Rohit at cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Corey Anderson, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 1 run, flighted delivery and on the stumps, Smith makes room and works it towards deep cover for a single]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 2 runs, Smith comes down the track, takes the ball on the full and whips it behind square on the on-side for a brace]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, tossed up and on Rahane's pads, nudged behind square on the on-side for a single]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 1 run, Suchith drops one short and wide outside off, Smith backs away and cuts it square on the off-side for a run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Rahane, 1 run, fraction short from Suchith, Rahane makes room and cuts it past cover for a single]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to S Smith, 1 run, Smith comes down the track to a well flighted delivery and eases it down towards long-off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jagadeesha Suchith, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Malinga to Rahane, 2 runs, controlled pull from Rahane, he wasn't on top of the bounce as he looked to lap it round the corner, gets it in the gap behind square on the on-side, back for the second run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Malinga to S Smith, 1 run, back of a length and just outside off, Smith stylishly works it to the right of mid-on for a single]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Malinga to S Smith, <b>FOUR</b>, much better from Smith, too short from Malinga, he swivels across and pulls it through mid-wicket, no need to run for those]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Malinga to S Smith, no run, that's a loose waft from Smith, short of a length and angling away from outside off, Smith moved across on the shuffle, looks to play a half flick/half pull, ends up doing nothing and is beaten by a long way]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Malinga to Rahane, 1 run, back of a length and just outside off, dabbed away towards third man for a single]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Malinga to S Smith, 1 run, Malinga shortens his length and drifts onto Smith's pads, nudged away in front of square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lasith Malinga, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Vinay to Rahane, no run, on a good length and just outside off, defended back towards the bowler]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Vinay to Rahane, <b>FOUR</b>, that's nicely played by Rahane, nothing wrong with the ball, perhaps, a fraction too straight, Rahane waits on it and helps it past the keeper for a boundary]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Vinay to S Smith, 1 run, short of a length and just outside off, pulled away in front of square on the on-side for a single]]></line><line><![CDATA[<b>Steven Smith, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Vinay to Samson, <b>out</b> Caught by Rohit!! Tame dismissal for Samson! Much deserved wicket for Vinay. This was full and on Samson's pads, he was early into the flick, closes the face of the bat a bit too early, gets a leading edge towards mid-off. Rohit doesn't drop those, takes the dolly and throws the ball in the air. MUM celebrate, RAJ have lost an early wicket again. <b>Samson c Rohit b Vinay 17(16) [4s-3]</b>]]></line><line><![CDATA[Vinay to Samson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Vinay to Samson, <b>FOUR</b>, that breaks the shackles! Fraction short in length from Vinay, Samson gets half-forward, whips it through the line and clears mid-on for a boundary]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Vinay to Samson, no run, Vinay continues to be impressive! This was full and just outside off, Samson poked at that tentatively and with an angled bat, gets an inside edge onto the pads]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Suyal to Rahane, 2 runs, tad fuller and just outside off, Rahane leans forward, presents the full face of the bat and merely pushes it past the non-striker. Rohit gives chase and keeps them down to a brace]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Suyal to Rahane, <b>FOUR</b>, Rahane has nailed the pull this time around! Comes down the track, shortens the length and pulls it wide of mid-on for a boundary, much needed for RAJ]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Suyal to Samson, 1 run, back of a length and on Samson's hips, tucked away in front of square on the on-side, there's a fumble by the fielder in the deep, but the batsmen decide against a second run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Suyal to Rahane, 1 run, short of a length and just outside off, Rahane goes for an ugly cross-batted heave and gets an inside edge to the right of mid-on]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Suyal to Rahane, no run, very full and just outside off, Rahane plays with an open face and guides it straight to the fielder at backward point]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Suyal to Samson, 1 run, short of a length and just outside off, punched straight to cover-point. Rahane was backing up, the fielder shies and misses. There's a fumble by the man backing up and a single is taken]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Vinay to Rahane, no run, tad fuller and just outside off, some extra bounce for Vinay, Rahane was looking to defend and the ball hit him high on the bat]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Vinay to Samson, 1 run, edged! Samson came down the track, doesn't get to the pitch of the ball, closed the face of the bat and gets a thick outside edge, down towards third man for a single]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Vinay to Rahane, 1 run, tad too straight from Vinay, nudged away behind square on the on-side for a single]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Vinay to Samson, 1 run, Samson comes down the track to a good length delivery, negates the swing and works it past mid-wicket for a single]]></line><line><![CDATA[The slip moved across to short mid-wicket, but he's being called back into his original position]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Vinay to Samson, no run, that's a nice shape from Vinay, pitched up and nipping away from outside off, draws Samson forward. He belatedly withdraws his bat and allows the ball to go through]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Vinay to Samson, no run, on a good length and just outside off, Samson leans forward and pushes it towards point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Suyal to Rahane, no run, appeal for LBW, but it looked like it pitched outside leg. Rahane was struck pretty high on the pads as well. He was looking to work one towards the on-side and missed]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Suyal to Samson, 1 run, length ball and on Samson's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Suyal to Samson, no run, on a good length and just outside off, Samson prods forward and drives it towards mid-on]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Suyal to Samson, <b>FOUR</b>, Samson makes the most of the free-hit, gets underneath a length delivery and carves it over extra cover for a boundary]]></line><line><![CDATA[<b>Free Hit </b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Suyal to Samson, <b>no ball</b>, fuller length delivery and on the stumps, Samson presents the full face of the bat and punches it towards mid-on. But Suyal has overstepped]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Suyal to Samson, <b>FOUR</b>, that's a handsome strike from Samson, width on offer from Suyal, Samson leans into the shot and caresses it past point for a boundary]]></line><line><![CDATA[One slip for Suyal]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Suyal to Rahane, 1 run, short and on the stumps, Rahane swivels across and helps it behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pawan Suyal, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Vinay to Samson, no run, on a length and just outside off, dabbed away towards point, good start from Vinay, just one single off it]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Vinay to Samson, no run, tad fuller and shaping away from outside off, Samson covers the line, lifts his bat and lets it go]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Vinay to Rahane, 1 run, back of a length and just outside off, tucked away behind square on the on-side for a single]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Vinay to Rahane, no run, short of a length and just outside off, mistimed cut towards cover]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Vinay to Rahane, no run, fuller length delivery and in that channel outside off, left alone]]></line><line><![CDATA[Vinay loses his run-up and aborts mid-way]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Vinay to Rahane, no run, on a good length and a hint of shape away from outside off, Rahane presses forward in defence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rahane and Samson are at the crease. Rahane is on strike. Vinay will open the attack</b>]]></line><line><![CDATA[Welcome back.. Vinay Kumar has the new ball for MUM. Just one slip in place..]]></line><line><![CDATA[However, Anderson and Pollard checked in a series of shots to lift their sagging spirits. If Pollard mainly looked to play across the line, then Anderson played a few sumptuous shots through the off-side. Pollard even clobbered Tim Southee for 20 runs in a single over. James Faulkner and Southee came in for some severe punishment as Mumbai collected 81 runs in the last five overs.]]></line><line><![CDATA[Corey Anderson and Kieron Pollard landed mighty blows in the end overs to take Mumbai to a good score. Earlier, the Rajasthan camp had a lot to cheer about as the pacers were relentless up front and Mumbai's batsmen were tied in knots. It was Dhawal Kulkarni, who prised out Parthiv Patel. Stuart Binny then generated swing to land a crucial blow by snaffling the wicket of Rohit Sharma.<br/>]]></line><line><![CDATA[Strong finish for Mumbai. They've scored 81 runs off the last five overs. Is there quite a bit of dew on the outfield? The bowlers struggled to grip the ball towards the end.]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;C Morris to Jagadeesha Suchith, byes, 2 runs, sloppy from the Rajasthan. Suchith backs away and swings hard at this full ball, misses, Shreyas Gopal tries to steal a bye, Suchith was late to take off, Samson throws it to the bowler, who then has a shy at the bowler's end, he misses and they get an extra run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;C Morris to Shreyas Gopal, 1 run, fine yorker from Morris, following Gopal as well as he made room, dug out to mid-on]]></line><line><![CDATA[<b>Shreyas Gopal, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, <b>out</b> Bowled!! Knocked him over. Full in length, Anderson looks to slog it hard over mid-wicket, he misses, the ball hits the thigh pad on the back leg and crashes into the stumps. That's a lucky wicket for Morris you would have to say as it was in the slot to be put away. <b>Corey Anderson b C Morris 50(38) [4s-5 6s-3]</b>]]></line><line><![CDATA[C Morris to Corey Anderson, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, <b>SIX</b>, no! That's not the place to bowl. Low full toss, Anderson muscles it over long-on and brings up his <b>fifty</b> in style]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, <b>FOUR</b>, full and outside off stump, Anderson reaches out and slices it over backward point and third man is inside the ring]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, 2 runs, low full toss, Anderson lofts it over the bowler's head and Jagadeesha Suchith races back for the second to get Anderson back on strike]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Morris [3.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[<b>Jagadeesha Suchith, left handed bat, comes to the crease</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Southee to Pollard, <b>out</b> Caught by Nair!! End of a terrific knock from the all-rounder. Full and on the leg stump, Pollard could not get under it, he flicked it uppishly and hit it straight to deep mid-wicket, who took a good low catch. Some respite for Southee. <b>Pollard c Nair b Southee 70(34) [4s-7 6s-5]</b>]]></line><line><![CDATA[Southee to Pollard, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Southee to Pollard, no run, fine yorker, just missed the leg stump, Pollard swung and missed]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Southee to Pollard, <b>SIX</b>, twenty runs off the over already and still two balls to go. Short ball on the stumps, Pollard pulls and clears the deep square leg boundary. <b>100 partnership</b> comes up as well]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Southee to Pollard, <b>FOUR</b>, this is brilliant batting. He was actually backing away initially, on seeing Southee fire a full toss outside off stump, he reached out and smashed it very hard, mid-off had no chance as it rocketed to his right]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Southee to Pollard, <b>FOUR</b>, four more! Back of a length delivery from Southee, Pollard pulls and gets it behind square on the on-side through backward square leg]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Southee to Pollard, <b>SIX</b>, whoa! Has that hit the rope on the full? Yes it has! Full from round the wicket, Southee misses the yorker by a yard, Pollard goes deep in the crease and flicks it flat and hard to the deep mid-wicket boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [3.0-0-26-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Tambe to Pollard, 1 run, low full toss outside off stump, driven to deep extra-cover and that's <b>fifty</b> off just 28 balls for Pollard]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Tambe to Pollard, 2 runs, Tambe bowls this from way behind the wicket, Pollard steps out and pulls, Rahane tidies up at deep mid-wicket, bit of hesitation between the batsmen as they attempt the second run, the throw isn't good enough as Tambe had to move a long way to his left to collect the ball, Tambe tries to under-arm it onto the stumps but misses]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Tambe to Corey Anderson, 1 run, googly angled across, Anderson goes hard at it, gets the toe-end of the bat and it rolls to cover-point]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Tambe to Pollard, 1 run, quicker ball on the leg stump, Pollard slogs with one hand as he loses the bottom hand grip, the ball rolls to deep mid-wicket]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Tambe to Pollard, 2 runs, full toss, Pollard hits it over the bowler's head, the connection wasn't great again]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Tambe to Pollard, <b>SIX</b>, that's a mistimed hit from Pollard, but it's cleared long-on. Flighted delivery on the stumps, Pollard slogs and gets it on the inside half of the bat, yet it goes for six]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pravin Tambe [2.0-0-12-1] is back into the attack</b>]]></line><line><![CDATA[MUM have scored 33 runs in the last two overs.]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, 2 runs, the back-of-the-hand slower ball goes full, Anderson slogs it wide of long-on, Pollard rushes back and makes his ground just in time before Faulkner took the bails off after collectiing the throw]]></line><line><![CDATA[Round the wicket to Corey Anderson]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Faulkner to Pollard, leg byes, 1 run, slower ball on the leg stump, Pollard misses the flick, the ball rolls off the thigh pad to backward point. The impact was too high for an LBW shout]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Faulkner to Pollard, <b>FOUR</b>, friendly full toss, dreadful ball from Faulkner. Pollard backs away and muscles it hard over mid-off and long-off had no chance]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Faulkner to Pollard, no run, bumper from Faulkner, Pollard backs away, drops his wrists and lets it go]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Faulkner to Pollard, <b>SIX</b>, even better! Full and outside off stump, Pollard lofts it over extra-cover and the connection is good enough to clear the boundary. What a start to the over]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Faulkner to Pollard, <b>FOUR</b>, can't bowl short at pace to these two. It's not high enough either, Pollard waits and pulls it very hard to the deep mid-wicket fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Faulkner [2.0-1-13-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Southee to Corey Anderson, no run, bangs it short, Anderson goes for the pull but the ball beats the bottom edge en route to the keeper]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Southee to Pollard, 1 run, full and outside off stump, driven to sweeper cover]]></line><line><![CDATA[Round the wicket]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Southee to Pollard, <b>FOUR</b>, low full toss on the off stump, Pollard is a strong man and his flick is powerful enough and it races away to the deep mid-wicket fence. <b>Fifty of the partnership</b> comes up as well]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Southee to Corey Anderson, 1 run, this time Anderson drills it to long-off]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Southee to Corey Anderson, <b>FOUR</b>, oh no! Southee is not hitting the right areas. Tries the slower ball but bowls it too full, Anderson slogs hard, long-on is a little square and he had no chance]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Southee to Corey Anderson, <b>SIX</b>, he knows Southee very well. Good length delivery right in the slot, that's a gift to his New Zealand team-mate from Southee, Anderson clears his front leg out of the way and goes bangggg over long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for a <b>strategic timeout</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;D Kulkarni to Corey Anderson, 1 run, Anderson misses out on the <b>free-hit</b>. Low full toss outside off stump, Anderson drills it to deep cover]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;D Kulkarni to Corey Anderson, <b>no ball</b>, oh no! He's the picked the fielder out to perfection. The <b>umpire checks for the no-ball</b> and oh dear. Has he overstepped? It's very tight. The line belongs to the umpire. The third umpire is taking a long time to make up his mind. The angle from the stump camera shows that there's nothing behind the line. <b>It's a no-ball</b> and that's a lucky escape for Anderson and MUM. Full and outside off stump, Anderson mistimes the loft straight to long-off and gets away with it]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;D Kulkarni to Pollard, 1 run, short of length delivery on the leg stump, Pollard gets an inside edge onto thigh pad and it rolls to square leg]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;D Kulkarni to Pollard, <b>FOUR</b>, one slower ball too many, again on the shorter side, Pollard had a glimpse of it the previous ball, this time he waited, backed away and muscled it with a pull shot to the deep mid-wicket boundary]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;D Kulkarni to Pollard, no run, the slower ball bumper from Kulkarni, Pollard delays the pull and hits it straight to mid-wicket]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;D Kulkarni to Corey Anderson, 1 run, off-cutting slower ball, dabbed to third man]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;D Kulkarni to Pollard, 1 run, glanced away to fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dhawal Kulkarni [2.0-0-6-1] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, <b>SIX</b>, he's picked the slower ball and deposited it in the stands. It was full and in the slot, Anderson waits and lofts it easily over long-off]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, no run, slower ball from Faulkner, Anderson defends]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Faulkner to Pollard, 1 run, Faulkner bangs it short on seeing Pollard advance, the batsman tries to defend and gets a leading edge, luckily the ball doesn't go to hand at cover]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Faulkner to Pollard, no run, beaten! Good length delivery outside off stump, Pollard is struggling with the angle away from him and the ball almost shaves the outside edge]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Faulkner to Pollard, no run, good comeback from Faulkner, short of length angling away from the right-hander, Pollard lets it go. After the ball passed him, Pollard swung his bat in an angry manner for not picking up the ball early]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Faulkner to Pollard, <b>SIX</b>, wowwww! What a shot that was from Pollard! What power! Just a flick of the wrists as someone would say and away she went. Tell you what, had the fielder at deep mid-wicket been right on the end, he'd have had a chance. Length ball on the leg stump, whipped away nicely, it went flat and all the way]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Faulkner [1.0-1-0-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, no run, back to back of a length, Anderson can only defend off the back foot]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, no run, that was in the slot again but Morris gets away with it as Anderson fails to connect with the attempted big hit. That should have been in the stands]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, <b>FOUR</b>, wonder why he tried the slower ball, he was bowling so well in that back of a length region. This one goes full and in the slot, Anderson waits and muscles it down the ground over mid-off for a one-bounce four]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;C Morris to Pollard, 1 run, Samson gets a hand on it and saves three for his side. Looks like Pollard is going to go for his shots. length ball way outside off stump, Pollard looks to go leg-side with a slog, luckily for him the inside edge doesn't go back onto the stumps]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;C Morris to Pollard, <b>FOUR</b>, good shot from Pollard, a controlled shot from him. Full and angling into the right-hander, Pollard just flicks it over the infield, beats the fielder's jump at wide mid-on and picks up four]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;C Morris to Pollard, no run, steeply rising short of length delivery on the off stump, Pollard hops to defend, the ball hits him high on the bat]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Wow! One slip and there is a man who is deep at short leg with the helmet on.]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Tambe to Corey Anderson, <b>FOUR</b>, poor ball and Tambe is livid with himself. He says "come on" to himself and takes the cap off from the umpire. Googly down the leg-side, Anderson sweeps it fine and it runs away to the fine leg boundary]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Tambe to Corey Anderson, no run, googly well outside off stump, driven straight to cover]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Tambe to Pollard, 1 run, steps out and swings hard, but gets an inside edge that rolls to deep mid-wicket]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Tambe to Pollard, no run, spinning away outside off stump, Pollard slashes and misses]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Tambe to Pollard, no run, Pollard advances, but doesn't get to the pitch of the ball and pads it. Tambe appeals for LBW, but realises that Pollard was a long way down the track and pulled out midway]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Tambe to Corey Anderson, 1 run, googly on the leg stump, Anderson flicks it to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;C Morris to Pollard, no run, inswinger on a fuller length, Pollard falls over on the flick, gets hit on the pad but it was swinging too much and missing leg. Top over from Morris, just a single in it]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, 1 run, goes hard at the drive again, full and outside off stump, smashed to deep cover]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, no run, driven very hard as Morris bowls this fuller, but straight to mid-off]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, no run, and again! Almost hit the glove again. Pollard at the other end too is surprised by the movement off the deck. Back of a length on the stumps, ball jags back in, Anderson just about manages to fend it though]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, no run, oh this one has jagged back in and hit Anderson on the left hand. The ball hit the glove and he's in pain. He takes the gear off and grimaces in pain. Anderson was trying to cut/guide this short of length delivery, but it nipped back in, bounced extra and foxed him]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;C Morris to Corey Anderson, no run, short of length delivery on the off stump, Anderson goes early into the pull, the ball rolls to slip off the thigh pad]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Morris [1.0-0-11-0] is back into the attack</b>]]></line><line><![CDATA[Good to see a slip in place even in the 11th over]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Tambe to Pollard, no run, appeal for LBW, but Pollard was lunging forward and the ball might have been slipping down leg anyway. This was pushed through by Tambe, Pollard got a big stride forward and is rapped on the pads]]></line><line><![CDATA[A slip is in place as Pollard walks in]]></line><line><![CDATA[<b>Kieron Pollard, right handed bat, comes to the crease</b>]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Tambe to Chand, <b>out</b> Bowled!! Chand has yorked himself! This was tossed up generously and on the middle stump line, Chand came down the track, made room as he did so, ends up playing on top of the ball and the middle pole is knocked out. Mumbai's unheralded leg-spinner has struck against the IPL side from his city. MUM are in serious trouble now. <b>Chand b Tambe 12(17) [4s-1]</b>]]></line><line><![CDATA[Tambe to Chand, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Tambe to Chand, 2 runs, the wrong 'un from Tambe, Chand was lunging forward and gets an inside edge past square leg, runs hard and gets back for the second run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Tambe to Corey Anderson, 1 run, pushed through and just outside off, Anderson goes back and punches it down towards long-off for a single]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Tambe to Chand, 1 run, Chand shimmies down the track to a well flighted delivery and drills it down towards long-off for a single]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Tambe to Chand, 2 runs, flighted delivery and on Chand's pads, nudged away behind square on the on-side for a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[A slip is in place]]></line><line><![CDATA[<b>Pravin Tambe, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, no run, <b>maiden over from Faulkner</b>, another back of the hand slower ball, came back with the angle, Anderson was looking to pull and missed, close to getting the inside edge]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, no run, the back of the hand slower ball from Faulkner, a bit of width on that, Anderson throws his bat at that and misses]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, no run, Faulkner keeps it full and just outside off, driven back towards the bowler]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, no run, on a good length and in that channel just outside off, Anderson covers the line, lifts his bat and lets it go]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Faulkner to Corey Anderson, no run, fuller length delivery and shaping away from outside off, left alone]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Faulkner to Chand, leg byes, 1 run, short of a length and on Chand's pads, he looks to flick and misses, sneaks in a leg-bye as the ball rolled in front of mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Faulkner, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Deepak Hooda to Corey Anderson, no run, fraction shorter and just outside off, Anderson goes back and pushes it back towards the bowler]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Deepak Hooda to Chand, 1 run, Hooda drifts one outside off, driven down towards long-off for a single]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Deepak Hooda to Corey Anderson, 1 run, tossed up and just outside off, driven down towards long off for a single]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Deepak Hooda to Corey Anderson, no run, flighted delivery and just outside off, Anderson prods forward in defence]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Deepak Hooda to Chand, 1 run, that was close! Chand slipped as he went down on his knees for the sweep, gets a bit of glove, else, he was a dead duck]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Deepak Hooda to Chand, no run, the arm-ball from Hooda, goes straight through after pitching, Chand was pushing forward and is beaten]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Deepak Hooda, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Binny to Corey Anderson, no run, on a good length and just outside off, Anderson presses forward and blocks]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Binny to Corey Anderson, <b>FOUR</b>, <b>cracking shot</b>, width on offer from Binny, it was overpitched as well, Anderson leans forward, presents the full face of the bat and drives it through extra cover for a boundary]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Binny to Corey Anderson, no run, short of a length and angling across Anderson, left alone]]></line><line><![CDATA[<b>Corey Anderson, left handed bat, comes to the crease</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Binny to Rohit, <b>out</b> Caught by S Smith!! Edged and caught! Huge wicket for RAJ. This was perfectly bowled by Binny, tad fuller and gets it to shape away from outside off, lures Rohit into the drive, gets the outside edge and it's a simple catch to Smith at first slip. Second consecutive duck for Rohit. MUM are on the ropes at the Motera. <b>Rohit c S Smith b Binny 0(5)</b>]]></line><line><![CDATA[Binny to Rohit, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Binny to Rohit, no run, on a good length and on off, Rohit stays behind the line and defends it]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Binny to Rohit, no run, short of a length and on the stumps, Rohit shuffles across and nudges it towards mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Binny [1.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Southee to Chand, no run, fuller length delivery and a hint of shape away from off, Chand was looking to work it towards the on-side, gets a soft edge back towards the bowler]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Southee to Chand, <b>FOUR</b>, width on offer from Southee, Chand goes hard on the cut, gets a thick edge and the ball flies to the third man boundary, one bounce and over the ropes]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Southee to Chand, no run, full and shaping back into Chand, driven firmly but straight to the fielder at mid-on]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Southee to Chand, no run, fuller length delivery and shaping away from outside off, Chand goes for another expansive drive and is beaten]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Southee to Chand, no run, tad fuller and just outside off, Chand shuffles across and defends it towards the off-side]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Southee to Chand, no run, short of a length and shaping away from outside off, Chand throws the kitchen sink at that and misses]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [1.0-0-6-0] is back into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;D Kulkarni to Rohit, no run, on a good length and shaping away from outside off, left alone]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;D Kulkarni to Rohit, no run, on a good length and just outside off, Rohit defends it towards mid-on, Chand wants a single but is sent back]]></line><line><![CDATA[<b>Rohit Sharma, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;D Kulkarni to Parthiv Patel, <b>out</b> Caught by C Morris!! That's a soft dismissal for Parthiv! This was pitched up and held its line outside off, he rolled his fingers around it, the slower ball from Kulkarni. Parthiv was making room as he looked to go over mid-off, checked his shot at the last moment and presents a simple catch to Morris - running to his right from mid-off. <b>Parthiv Patel c C Morris b D Kulkarni 16(11) [4s-2]</b>]]></line><line><![CDATA[D Kulkarni to Parthiv Patel, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;D Kulkarni to Chand, 1 run, almost dragged back on! This was short and just outside off, perhaps didn't come onto the bat, Chand was looking to force it away off the back foot, gets an inside edge past leg stump]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;D Kulkarni to Chand, no run, on a good length and well outside off, driven straight to the fielder at cover]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;D Kulkarni to Chand, no run, fuller length delivery and shaping away from outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Binny to Parthiv Patel, no run, <b>loud shout for LBW</b>, but it looked like it pitched outside leg, the angle was also taking it away from outside off, Parthiv went for the flick and missed, gets struck on his pads]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Binny to Parthiv Patel, 2 runs, too straight from Binny, Patel gets inside the line and tucks it behind square on the on-side for a single]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Binny to Parthiv Patel, no run, short of a length and just outside off, Parthiv looks to force it away and mistimes it towards extra cover]]></line><line><![CDATA[This doesn't look all too promising for Finch. He is down and is being treated by the physio. He looks to be in severe pain. He is being carried off the field, big blow for the Mumbai. Will this keep him out for a while? <b>Unmukt Chand replaces Finch</b> in the middle]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Binny to Finch, 1 run, back of a length and just outside off, punched in front of mid-off for a quick single. Oh ho! Looks like <b>Finch has done his hamstring</b>, he grabbed it after completing the single]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Binny to Finch, no run, full and a hint of shape away from off, Finch comes down the track and drives it back at the bowler. Binny bends down and stops the ball]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Binny to Parthiv Patel, 1 run, short of a length and just outside off, pulled away past square leg for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Binny, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;D Kulkarni to Finch, no run, on a good length and shaping away from outside off, left alone]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;D Kulkarni to Finch, no run, back of a length and just outside off, Finch pushes at that and gets an inside edge towards the on-side]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;D Kulkarni to Finch, no run, short of a length and well outside off, punched off the back foot, gets a toe edge towards short extra cover]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;D Kulkarni to Finch, no run, nicely bowled by Kulkarni, shortens his length and gets this one to shape across Finch, he was pushing forward and is beaten on the outside edge]]></line><line><![CDATA[A slip and a short extra cover in place]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;D Kulkarni to Parthiv Patel, 1 run, length ball and on Parthiv's pads, clipped away in front of square on the on-side for a single]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;D Kulkarni to Parthiv Patel, <b>FOUR</b>, <b>inside edge and four</b>, Parthiv gets lucky, this was short and wide outside off, Patel went hard on the cut, is done in by the lack of bounce, gets an inside edge past the off-stump, beats the keeper and races away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dhawal Kulkarni, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;C Morris to Finch, <b>FOUR</b>, too straight from Morris, ends up drifting onto Finch's pads, clipped away behind square on the on-side for a boundary]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;C Morris to Finch, no run, that's nicely bowled by Morris, this is the big inswinger, comes into Finch pretty late, he was looking to work it towards the on-side, closes the face of the bat and gets an inside edge onto the pads]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;C Morris to Finch, no run, on a good length and shaping away from outside off, left alone]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;C Morris to Parthiv Patel, 3 runs, nicely bowled by Morris but equally well played by Patel, gets across, covers for the inswing and flicks it past mid-wicket, runs hard and gets back for the third run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;C Morris to Parthiv Patel, no run, on a good length and just outside off, Patel presses across with an angled bat, defended back towards the bowler]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;C Morris to Parthiv Patel, <b>FOUR</b>, poor ball from Morris, full and slips onto Patel's pads, he gets inside the line and flicks it fine, fine leg was inside the ring, the ball races away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Morris, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Southee to Finch, no run, short of a length and holding its line outside off, left alone]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Southee to Finch, no run, tad fuller and in that channel outside off, Finch covers the line, lifts his bat and lets it go]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Southee to Finch, <b>FOUR</b>, <b>lovely shot</b>, Southee hasn't got his line right, this was full and wide outside off, Finch leans forward and drives it uppishly, hits the gap between cover and point, the ball races away to the fence]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Southee to Parthiv Patel, 1 run, on a good length and a hint of shape back into Patel, dropped in front of cover for a quick single]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Southee to Finch, 1 run, full and wide outside off, Finch went hard on the drive, gets a thick edge, goes to Dhawal Kulkarni at third man, on the bounce]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Southee to Finch, no run, on a good length and shaping away from outside off, Finch covers the line, lifts his bat and lets it go. The ball just about carried through to the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Finch and Parthiv Patel are at the crease. Finch is on strike. Southee will open the attack</b>]]></line><line><![CDATA[The players are out in the middle. It's not yet a crunch situation for Mumbai but they need to get back to winning ways. Change in opening combination as well for MUM. Finch is opening with Parthiv Patel. Southee has the new ball in his hand. Two slips in place..]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Mumbai</b> (Playing XI): Rohit Sharma(c), Aaron Finch, Parthiv Patel(w), Unmukt Chand, Corey Anderson, Kieron Pollard, Jagadeesha Suchith, Vinay Kumar, Shreyas Gopal, Lasith Malinga, Pawan Suyal]]></line><line><![CDATA[<b>Rajasthan</b> (Playing XI): Ajinkya Rahane, Sanju Samson(w), Steven Smith(c), Karun Nair, Stuart Binny, Deepak Hooda, James Faulkner, Chris Morris, Tim Southee, Dhawal Kulkarni, Pravin Tambe]]></line><line><![CDATA[Rohit did not say who is replacing Harbhajan Singh. Maybe Pragyan Ojha gets a game. In fact, it's Shreyas Gopal who is playing today.]]></line><line><![CDATA[<b>Mumbai have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>Rohit</b>: "We've done quite a bit of homework, hopefully things will work for us tonight. There were quite a few positives (in the last game). Today is another big day for us. The wicket looks good overall. We'll try and put up a good show. We will <b>bat first</b>. It looks a good track, wanted to exploit the conditions, post a good total and defend it later on. It's very important to get the combination right. We never give up, that's always been our motive. Three changes. <b>Harbhajan</b> misses out due to a sore neck. <b>Tare</b> and <b>Rayudu</b> also miss out, <b>Parthiv</b> and <b>Unmukt Chand</b> are in."]]></line><line><![CDATA[Watson is not playing today. <b>Smith</b>: "Plenty of people out here already tonight. The atmosphere is fantastic. I was going to bat, hopefully we'll start well with the ball. We've got the <b>same XI</b> here. He (Watson) is getting ready slowly. Hopefully he will be ready for the next game or the one after that."]]></line><line><![CDATA[<b>Toss time folks</b>!]]></line><line><![CDATA[<b>Head-to-head</b>: Both teams have played each other 15 times before, with Mumbai winning 9 and Rajasthan winning 5. One game in 2009 was abandoned due to rain.]]></line><line><![CDATA[On the other hand, Mumbai haven't looked good as a unit so far. The Kolkata thrashed them at the Eden Gardens in the season opener and then they moved to Mumbai looking for some momentum. However, things did not go their way at the Wankhede as well as Punjab almost registered a crushing win, only for Harbhajan Singh to reduce to margin of defeat. The top-order could not handle some fine swing bowling and were reduced to 6/59. Harbhajan then came in and smashed the bowlers to all corners to entertain the crowd. In the bowling department, apart from Harbhajan and Pawan Suyal, none of the bowlers were economical.]]></line><line><![CDATA[We move to Ahmedabad for game 9 of the 2015 Indian Premier League. It's the first home game of the season for Rajasthan and they are up against the mighty Mumbai. The hosts have had a great start to the season, having won their first two games. If their win against Punjab was convincing, they stole a thriller at the Feroz Shah Kotla to stun the Delhi. Young Deepak Hooda grabbed eyeballs with his sensational all-round display against DEL, while Ajinkya Rahane looked very good at the top. The fact that James Faulkner, Tim Southee and Dhawal Kulkarni went for runs will concern them a bit, but overall the side looks well balanced and they will be keen to get off to a winning start at home.]]></line><line><![CDATA[<b>Preview</b><br/><br/>Two teams at opposite ends of the spectrum in IPL 2015 so far. Rajasthan have demonstrated admirable skill in batting, bowling and fielding and they have topped it up with their never-say-die attitude. The result: two good wins against Punjab, the finalists of IPL 7 on a helpful wicket in Pune, and Delhi at the Feroz Shah Kotla.<br/><br/>On the other hand, Mumbai have failed to sparkle in the first two matches in this edition. In the previous edition, they failed to win their first five games played in the UAE and they have started off in similar fashion with losses against the defending IPL champions Kolkata and PUN.<br/><br/>However, Mumbai will be slightly confident heading into their clash against RAJ at the Sardar Patal Stadium on Tuesday. They hold a 9-5 head-to-head record against them and in the previous IPL, they dumped the Rajasthan out of the tournament in spectacular fashion when they chased down 191 in 14.3 overs. The loss at the Wankhede in 2014 will haunt RAJ but they will be aware that MUM are low on confidence after two losses and they will aim to keep them down.<br/><br/>Venue: Sardar Patel Stadium, Motera<br/><br/>Date: April 14, 2015<br/><br/>Time: 20:00 IST<br/><br/>Weather: Low of 26 degrees with clear skies<br/><br/><b>Team news:</b><br/><br/>Mumbai<br/><br/>Barring Rohit Sharma, the other top order batsmen have failed and this is a major worry. Lendl Simmons, who was one of the shining stars for MUM in the previous IPL, is warming the bench while Aaron Finch has flopped in the first two matches. MUM might be tempted to rest Finch and get Simmons to open with Rohit. The team's bowling unit has plenty of options but they will be hoping that Lasith Malinga, their leading wicket-taker with 121 wickets, shows some form.<br/><br/>Probable XI: 1 Rohit Sharma (capt), 2 Lendl Simmons/Aaron Finch, 3 Aditya Tare (wk), 4 Ambati Rayudu, 5 Corey Anderson, 6 Kieron Pollard, 7 Jagadeesha Suchith, 8 Harbhajan Singh, 9 R Vinay Kumar, 10 Lasith Malinga, 11 Pawan Suyal<br/><br/>Rajasthan<br/><br/>Teamwork, determination and youthful energy. All these three factors have been evident in the first two victories for Rajasthan. In the game against PUN in Pune, a wonderful all-round show from James Faulkner (46 and 3 for 26), combined with some wonderful fielding gave them victory by 26 runs. Against Delhi, 19-year-old Deepak Hooda's 25-ball 54, combined with some calm batting from the lower order, gave them a thrilling three-wicket win while chasing 184 at Kotla. If Rajasthan continue playing this brand of cricket, they will be the team to beat in this tournament. With Shane Watson still doubtful due to a hip injury, RAJ may not make any changes.<br/><br/>Probable XI:1 Ajinkya Rahane 2 Sanju Samson (wk), 3 Steven Smith (capt), 4 Karun Nair, 5 Stuart Binny, 6 Deepak Hooda, 7 James Faulkner, 8 Chris Morris, 9 Tim Southee, 10 Dhawal Kulkarni, 11 Pravin Tambe<br/><br/><b>Quotes:</b><br/><br/>It just shows that in this game, you are not getting buried:Steven Smith, the RAJ skipper, praising his team's effort after they chased down 184 against Delhi.<br/><br/>We played some really stupid shots. There is some work to be done:Rohit Sharma, Mumbai' skipper, does not mince his words while describing his team's performance against PUN.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Mumbai</b> (From): Rohit Sharma(c), Aaron Finch, Aditya Tare(w), Ambati Rayudu, Corey Anderson, Kieron Pollard, Jagadeesha Suchith, Harbhajan Singh, Vinay Kumar, Lasith Malinga, Pawan Suyal, Jasprit Bumrah, Marchant de Lange, Shreyas Gopal, Lendl Simmons, Pragyan Ojha, Mitchell McClenaghan, Abhimanyu Mithun, Aiden Blizzard, Akshay Wakhare, Nitish Rana, Siddhesh Lad, Hardik Pandya, Unmukt Chand, Parthiv Patel]]></line><line><![CDATA[<b>Rajasthan</b> (From): Ajinkya Rahane, Sanju Samson(w), Steven Smith(c), Karun Nair, Stuart Binny, Deepak Hooda, James Faulkner, Chris Morris, Tim Southee, Dhawal Kulkarni, Pravin Tambe, Shane Watson, Rajat Bhatia, Abhishek Nayar, Ben Cutting, Dishant Yagnik, Vikramjeet Malik, Ankit Sharma, Rahul Tewatia, Dinesh Salunkhe, RustyTheron, Pardeep Sahu, Brainder Sran, Sagar Trivedi]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>164</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Mumbai">
+			<players>
+				<player>
+					<playerid>1643</playerid>
+					<name>Aaron Finch</name>
+					<batsman-name>Finch</batsman-name>
+					<batsman-nickname>Finch</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>14</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[retired hurt]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>74</playerid>
+					<name>Parthiv Patel</name>
+					<batsman-name>Parthiv Patel</batsman-name>
+					<batsman-nickname>Parthiv Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>16</runs>
+					<balls>11</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Kulkarni</bowler>
+					<bowlerId>1451</bowlerId>
+						<fielder>Chris Morris</fielder>
+						<fielderId>8333</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7904</playerid>
+					<name>Unmukt Chand</name>
+					<batsman-name>Chand</batsman-name>
+					<batsman-nickname>Chand</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>17</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Tambe</bowler>
+					<bowlerId>9237</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<batsman-name>Rohit</batsman-name>
+					<batsman-nickname>Rohit</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Binny</bowler>
+					<bowlerId>1530</bowlerId>
+						<fielder>Steven Smith</fielder>
+						<fielderId>2250</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<batsman-name>CJ Anderson</batsman-name>
+					<batsman-nickname>Corey Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>50</runs>
+					<balls>38</balls>
+					<fours>5</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Morris</bowler>
+					<bowlerId>8333</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>657</playerid>
+					<name>Kieron Pollard</name>
+					<batsman-name>K Pollard</batsman-name>
+					<batsman-nickname>Pollard</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>70</runs>
+					<balls>34</balls>
+					<fours>7</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Karun Nair</fielder>
+						<fielderId>8257</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10357</playerid>
+					<name>Jagadeesha Suchith</name>
+					<batsman-name>Jagadeesha Suchith</batsman-name>
+					<batsman-nickname>Jagadeesha Suchith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9746</playerid>
+					<name>Shreyas Gopal</name>
+					<batsman-name>Shreyas Gopal</batsman-name>
+					<batsman-nickname>Shreyas Gopal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1449</playerid>
+					<name>Vinay Kumar</name>
+					<batsman-name>Vinay</batsman-name>
+					<batsman-nickname>Vinay</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>111</playerid>
+					<name>Lasith Malinga</name>
+					<batsman-name>Malinga</batsman-name>
+					<batsman-nickname>Malinga</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7913</playerid>
+					<name>Pawan Suyal</name>
+					<batsman-name>Suyal</batsman-name>
+					<batsman-nickname>Suyal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>74</playerid>
+				<nbr>1</nbr>
+				<runs>27</runs>
+				<overs>4.4</overs>
+				<batsman>Parthiv Patel</batsman>
+				<batsman-name>Parthiv Patel</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>576</playerid>
+				<nbr>2</nbr>
+				<runs>31</runs>
+				<overs>6.3</overs>
+				<batsman>Rohit Sharma</batsman>
+				<batsman-name>Rohit</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7904</playerid>
+				<nbr>3</nbr>
+				<runs>45</runs>
+				<overs>9.5</overs>
+				<batsman>Unmukt Chand</batsman>
+				<batsman-name>Chand</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>657</playerid>
+				<nbr>4</nbr>
+				<runs>149</runs>
+				<overs>18.6</overs>
+				<batsman>Kieron Pollard</batsman>
+				<batsman-name>K Pollard</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8982</playerid>
+				<nbr>5</nbr>
+				<runs>161</runs>
+				<overs>19.4</overs>
+				<batsman>Corey Anderson</batsman>
+				<batsman-name>CJ Anderson</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>2</byes>
+			<wides>0</wides>
+			<noballs>1</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Rajasthan">
+			<players>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<bowler-name>Southee</bowler-name>
+					<bowler-nickname>Southee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>46</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8333</playerid>
+					<name>Chris Morris</name>
+					<bowler-name>C Morris</bowler-name>
+					<bowler-nickname>C Morris</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1451</playerid>
+					<name>Dhawal Kulkarni</name>
+					<bowler-name>D Kulkarni</bowler-name>
+					<bowler-nickname>D Kulkarni</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>15</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>1530</playerid>
+					<name>Stuart Binny</name>
+					<bowler-name>Binny</bowler-name>
+					<bowler-nickname>Binny</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>8</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9427</playerid>
+					<name>Deepak Hooda</name>
+					<bowler-name>Deepak Hooda</bowler-name>
+					<bowler-nickname>Deepak Hooda</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>3</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7789</playerid>
+					<name>James Faulkner</name>
+					<bowler-name>Faulkner</bowler-name>
+					<bowler-nickname>Faulkner</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>1</maidens>
+					<runsoff>29</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9237</playerid>
+					<name>Pravin Tambe</name>
+					<bowler-name>Tambe</bowler-name>
+					<bowler-nickname>Tambe</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<bowler-name>A Rahane</bowler-name>
+					<bowler-nickname>Rahane</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8271</playerid>
+					<name>Sanju Samson</name>
+					<bowler-name>Samson</bowler-name>
+					<bowler-nickname>Samson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2250</playerid>
+					<name>Steven Smith</name>
+					<bowler-name>S Smith</bowler-name>
+					<bowler-nickname>S Smith</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8257</playerid>
+					<name>Karun Nair</name>
+					<bowler-name>Nair</bowler-name>
+					<bowler-nickname>Nair</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>165</totalruns>
+		<totalwickets>3</totalwickets>
+		<totalovers>19.1</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Rajasthan">
+			<players>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<batsman-name>A Rahane</batsman-name>
+					<batsman-nickname>Rahane</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>39</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shreyas Gopal</bowler>
+					<bowlerId>9746</bowlerId>
+						<fielder>Corey Anderson</fielder>
+						<fielderId>8982</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8271</playerid>
+					<name>Sanju Samson</name>
+					<batsman-name>Samson</batsman-name>
+					<batsman-nickname>Samson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>17</runs>
+					<balls>16</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Vinay</bowler>
+					<bowlerId>1449</bowlerId>
+						<fielder>Rohit Sharma</fielder>
+						<fielderId>576</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2250</playerid>
+					<name>Steven Smith</name>
+					<batsman-name>S Smith</batsman-name>
+					<batsman-nickname>S Smith</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>79</runs>
+					<balls>53</balls>
+					<fours>8</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9427</playerid>
+					<name>Deepak Hooda</name>
+					<batsman-name>Deepak Hooda</batsman-name>
+					<batsman-nickname>Deepak Hooda</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7789</playerid>
+					<name>James Faulkner</name>
+					<batsman-name>Faulkner</batsman-name>
+					<batsman-nickname>Faulkner</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8257</playerid>
+					<name>Karun Nair</name>
+					<batsman-name>Nair</batsman-name>
+					<batsman-nickname>Nair</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1530</playerid>
+					<name>Stuart Binny</name>
+					<batsman-name>Binny</batsman-name>
+					<batsman-nickname>Binny</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8333</playerid>
+					<name>Chris Morris</name>
+					<batsman-name>C Morris</batsman-name>
+					<batsman-nickname>C Morris</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<batsman-name>Southee</batsman-name>
+					<batsman-nickname>Southee</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1451</playerid>
+					<name>Dhawal Kulkarni</name>
+					<batsman-name>D Kulkarni</batsman-name>
+					<batsman-nickname>D Kulkarni</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9237</playerid>
+					<name>Pravin Tambe</name>
+					<batsman-name>Tambe</batsman-name>
+					<batsman-nickname>Tambe</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>8271</playerid>
+				<nbr>1</nbr>
+				<runs>28</runs>
+				<overs>4.3</overs>
+				<batsman>Sanju Samson</batsman>
+				<batsman-name>Samson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1447</playerid>
+				<nbr>2</nbr>
+				<runs>92</runs>
+				<overs>13.1</overs>
+				<batsman>Ajinkya Rahane</batsman>
+				<batsman-name>A Rahane</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9427</playerid>
+				<nbr>3</nbr>
+				<runs>113</runs>
+				<overs>14.5</overs>
+				<batsman>Deepak Hooda</batsman>
+				<batsman-name>Deepak Hooda</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>3</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>4</total>
+		</extras>
+		<bowlteam name="Mumbai">
+			<players>
+				<player>
+					<playerid>1449</playerid>
+					<name>Vinay Kumar</name>
+					<bowler-name>Vinay</bowler-name>
+					<bowler-nickname>Vinay</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7913</playerid>
+					<name>Pawan Suyal</name>
+					<bowler-name>Suyal</bowler-name>
+					<bowler-nickname>Suyal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>3</noballs>
+				</player>
+				<player>
+					<playerid>111</playerid>
+					<name>Lasith Malinga</name>
+					<bowler-name>Malinga</bowler-name>
+					<bowler-nickname>Malinga</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>41</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10357</playerid>
+					<name>Jagadeesha Suchith</name>
+					<bowler-name>Jagadeesha Suchith</bowler-name>
+					<bowler-nickname>Jagadeesha Suchith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<bowler-name>CJ Anderson</bowler-name>
+					<bowler-nickname>Corey Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9746</playerid>
+					<name>Shreyas Gopal</name>
+					<bowler-name>Shreyas Gopal</bowler-name>
+					<bowler-nickname>Shreyas Gopal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2.1</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<bowler-name>Rohit</bowler-name>
+					<bowler-nickname>Rohit</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1643</playerid>
+					<name>Aaron Finch</name>
+					<bowler-name>Finch</bowler-name>
+					<bowler-nickname>Finch</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>74</playerid>
+					<name>Parthiv Patel</name>
+					<bowler-name>Parthiv Patel</bowler-name>
+					<bowler-nickname>Parthiv Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7904</playerid>
+					<name>Unmukt Chand</name>
+					<bowler-name>Chand</bowler-name>
+					<bowler-nickname>Chand</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>657</playerid>
+					<name>Kieron Pollard</name>
+					<bowler-name>K Pollard</bowler-name>
+					<bowler-nickname>Pollard</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

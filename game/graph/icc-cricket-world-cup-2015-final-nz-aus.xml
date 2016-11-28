@@ -1,0 +1,115 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>New Zealand</name>
+	<graph>
+		<id>wag_1457</id>
+		<name>Martin Guptill</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_1457_M_Guptill.png</url>
+	</graph>
+	<graph>
+		<id>wag_201</id>
+		<name>Brendon McCullum</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_201_B_McCullum.png</url>
+	</graph>
+	<graph>
+		<id>wag_6326</id>
+		<name>Kane Williamson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_6326_Williamson.png</url>
+	</graph>
+	<graph>
+		<id>wag_521</id>
+		<name>Ross Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_521_Ross_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_1064</id>
+		<name>Grant Elliott</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_1064_Elliott.png</url>
+	</graph>
+	<graph>
+		<id>wag_8982</id>
+		<name>Corey Anderson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_8982_CJ_Anderson.png</url>
+	</graph>
+	<graph>
+		<id>wag_1396</id>
+		<name>Luke Ronchi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_1396_Ronchi.png</url>
+	</graph>
+	<graph>
+		<id>wag_205</id>
+		<name>Daniel Vettori</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_205_Vettori.png</url>
+	</graph>
+	<graph>
+		<id>wag_1057</id>
+		<name>Tim Southee</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_1057_Southee.png</url>
+	</graph>
+	<graph>
+		<id>wag_9067</id>
+		<name>Matt Henry</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_9067_M_Henry.png</url>
+	</graph>
+	<graph>
+		<id>wag_8117</id>
+		<name>Trent Boult</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_13_8117_T_Boult.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Australia</name>
+	<graph>
+		<id>wag_1739</id>
+		<name>David Warner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_4_1739_Warner.png</url>
+	</graph>
+	<graph>
+		<id>wag_1643</id>
+		<name>Aaron Finch</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_4_1643_Finch.png</url>
+	</graph>
+	<graph>
+		<id>wag_2250</id>
+		<name>Steven Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_4_2250_S_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_138</id>
+		<name>Michael Clarke</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_4_138_Clarke.png</url>
+	</graph>
+	<graph>
+		<id>wag_158</id>
+		<name>Shane Watson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_AUS_MAR29/gph_wag_12903_4_158_Watson.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

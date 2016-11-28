@@ -1,0 +1,1038 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14613" >
+		<type>T20</type>
+		<gameDesc>19th Match</gameDesc>
+		<series>Indian T20 League 2015</series>
+		<matchday>1</matchday>
+		<home>Hyderabad</home>
+		<away>Kolkata</away>
+		<teamsabbr>HYD vs KOL</teamsabbr>
+		<homeabbr>HYD</homeabbr>
+		<awayabbr>KOL</awayabbr>
+		<homeId>255</homeId>
+		<awayId>63</awayId>
+		<venue>Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam</venue>
+		<startdate>22 04 2015</startdate>
+		<enddate>22 04 2015</enddate>
+		<toss>
+			<winner>Kolkata</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Hyderabad won by 16 runs (D/L method)</status>
+		<result type="win">
+			<winningteam>Hyderabad</winningteam>
+			<wonbyruns>16</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Richard Illingworth</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Vineet Kulkarni</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Rajesh Deshpande</Name>
+			<Country>Ind</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Manu Nayyar</Name>
+			<Country>Ind</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>10:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150422145938</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>KOL</batteamname>
+		<bwlteamname>HYD</bwlteamname>
+		<batteamruns>101</batteamruns>
+		<batteamwkts>4</batteamwkts>
+		<batteamovers>12</batteamovers>
+		<status>Hyderabad won by 16 runs (D/L method)</status>
+		<batsman>
+			<playerid>1836</playerid>
+			<name>Manish Pandey</name>
+			<batsman-name>M Pandey</batsman-name>
+			<batsman-nickname>M Pandey</batsman-nickname>
+			<runs>33</runs>
+			<balls-faced>24</balls-faced>
+			<fours>3</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<batsman>
+			<playerid>7915</playerid>
+			<name>Suryakumar Yadav</name>
+			<batsman-name>Suryakumar Yadav</batsman-name>
+			<batsman-nickname>Suryakumar Yadav</batsman-nickname>
+			<runs>2</runs>
+			<balls-faced>2</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>592</playerid>
+			<name>Praveen Kumar</name>
+			<bowler-name>P Kumar</bowler-name>
+			<bowler-nickname>P Kumar</bowler-nickname>
+			<overs>2</overs>
+			<maidens>0</maidens>
+			<runs>18</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>1726</playerid>
+			<name>Bhuvneshwar Kumar</name>
+			<bowler-name>Bhuvneshwar</bowler-name>
+			<bowler-nickname>Bhuvneshwar</bowler-nickname>
+			<overs>3</overs>
+			<maidens>0</maidens>
+			<runs>24</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>12</maxovers>
+		<target>118</target>
+<lastwicket>
+<playerid>790</playerid>
+<name>Yusuf Pathan</name>
+<player-runs>6</player-runs>
+<player-balls>7</player-balls>
+<runs>94</runs>
+<wicket-nbr>4</wicket-nbr>
+<bowlerid>1726</bowlerid>
+<bowlername>Bhuvneshwar</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>3</total>
+		</extras>
+		<prevOvers><![CDATA[1 1 . 4 W 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 . 1 1 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>2 . 1 2 . 2 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 W 1 4 1 1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_T20_LEAGUE/HYD_KOL_APR22/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[<b>Warner:</b> 'Very pleased with the effort. I asked the batters to play fearless cricket out there. No wickets for 100 is a great effort. The bowlers did well there. With little bit of rain around, we only had 12 overs but the bowlers performed their task well. In the past, we have lost both of us (talking about Dhawan and himself) in the space of 6-7 balls . We went up front and took them on. I thought the par score was about 160-165. Given that they had to chase it in 12 overs, it was all going to be hard. We talked about how we didn't start well. We dropped two chances earlier, but the bowlers picked it up for us. We need to keep moving forward from here.']]></line><line><![CDATA[<b>David Warner</b> is the <b>Man of the Match</b> for his <b>55-ball 91</b>]]></line><line><![CDATA[There are no comments from the captains or the Man of the Match for now. We will put them up for you if we get to hear from them. Switch tabs to follow all the action from the game between BLR and CHN. This is <b>Sidhant Maheshwari</b>, signing off from here.]]></line><line><![CDATA[Earlier, David Warner played a rousing knock to take HYD to a sizeable total. Shikhar Dhawan too played his part with a fluent hand. In fact, the openers strung together  a century stand. However, they lost their way in the slog overs by losing wickets at regular intervals. Johan Botha and Morne Morkel were the two bowlers, who made an impact for the visitors. ]]></line><line><![CDATA[HYD held their nerve to overcome their formidable foes. After a lengthy delay, KOL had to chase down a  D/L adjusted target. Robin Uthappa took advantage of a drop catch to give them a fine start. Just in the nick of time though, Moises Henriques and  Praveen Kumar dismissed the openers. Andre Russell and Manish Pandey landed a few meaty blows. But Russell losing his wicket to Ravi Bopara turned the game in hosts' favour. <br/>]]></line><line><![CDATA[So, HYD win their second game of the competition. On the other hand, KOL suffer their second loss. After the rain delay, KOL probably had the advantage, chasing 118 in 12 overs. However, a brilliant second spell from Bhuvi, sealed the game in HYD's favour towards the end. The players walk off the field after exchanging handshakes. Not to forget, Praveen was also superb in his last over.]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to Suryakumar Yadav, 1 run, That's it! <b>HYD win by 16 runs, a comprehensive victory in the end.</b> Coming back to the ball, it was a low full toss from Bhuvi, he goes for another hoick and deep mid-wicket runs to his right and palms the ball back in, the batsmen only take a single]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to M Pandey, 1 run, mistimes the slog off another low full toss to deep mid-wicket]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to M Pandey, <b>FOUR</b>, a full toss outside off, Pandey leans forward and slices it past a leaping backward point, who put his right hand out to try and stop it. The ball though escapes past him and runs away to the deep backward point fence]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to Suryakumar Yadav, 1 run, low full toss outside off, Suryakumar swings hard at it, but mistimes the heave completely. The ball goes on the bounce to long-on]]></line><line><![CDATA[<b>Suryakumar Yadav, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to Y Pathan, <b>out</b> Caught by Karn Sharma!! Pathan perishes trying to go big over the off-side and that is surely the game for HYD. It was a low full toss outside off, Pathan went for the inside-out loft over cover, but ends up hitting it straight to Karn standing at extra cover. He takes an easy catch to send Pathan on his way back. <b>Y Pathan c Karn Sharma b Bhuvneshwar 6(7)</b>]]></line><line><![CDATA[Bhuvneshwar to Y Pathan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to M Pandey, 1 run, low full toss from Bhuvi, Pandey mistimes the heave to deep mid-wicket, only a single available]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>25 runs needed from 6 balls</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;P Kumar to Y Pathan, 2 runs, Praveen bowls a low full toss on the stumps while trying to bowl the yorker. Pathan flicks it off his pads to deep mid-wicket, Dhawan charges in and as he was trying to throw the ball, loses control of it and it drops behind him. The batsmen take a second run on account of that fielding error and make it easily]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;P Kumar to Y Pathan, no run, good slower ball from Praveen and it completely outfoxes Pathan, Pathan went for the big slog over the leg-side, but misses it completely. A good change of pace from Praveen]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;P Kumar to Y Pathan, 2 runs, full delivery angling in on the pads, Pathan whips it to deep square leg, where Dhawan makes a slight fumble. The batsmen come back for the second as the throw was also not good from Dhawan]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;P Kumar to M Pandey, 1 run, another brilliant yorker from Praveen, Pandey digs it out towards cover and it will only be a single]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;P Kumar to M Pandey, no run, <b>what was that Pandey?</b> It was another very full delivery around the blockhole. Pandey almost yorks himself after giving the charge, he gets his leg out of the way in the end and allows the ball to go through to the keeper. Don't know what he was trying to do there]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;P Kumar to M Pandey, 2 runs, low full toss on the stumps, Pandey comes down the track and drives it wide of long-on, Steyn misfields after running to his right, but Henriques was backing up behind him near the rope, the batsmen take two]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Praveen Kumar [1.0-0-11-1] is back into the attack</b>]]></line><line><![CDATA[<b>32 needed from 12 balls</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to M Pandey, 1 run, <b>what an over from Bhuvi, only 5 runs off it!</b> It was another yorker outside off, Pandey squeezes it out off the inside half of the bat and the ball rolls away to the left of the keeper, the batsmen pinch a quick run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to Y Pathan, 1 run, low full toss on the stumps, Pathan helps it down with a chip towards long-on, he couldn't really get under the ball there, this has been a brilliant over from Bhuvi. Can he finish it off on a high?]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to M Pandey, 1 run, Bhuvi bowls another full toss on middle and leg, Pandey goes for a big heave, but mistimes it past square leg, singles won't do it for KOL, they need boundaries]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to Y Pathan, 1 run, almost a yorker just outside off, Pathan takes it on the full and drives it down to long-off, only a single on this occasion as well]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to Y Pathan, no run, yorker outside off, Pathan tries to squeeze it out, but the ball goes past his blade, another dot for HYD]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to M Pandey, 1 run, Bhuvi bowls a low full toss trying to bowl the yorker, Pandey steps out and helps it down to long-on for another single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bhuvneshwar Kumar [1.0-0-11-0] is back into the attack</b>]]></line><line><![CDATA[<b>37 needed from 18 balls</b>. Could we have another Super Over finish here? The possibility is there]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Bopara to M Pandey, 1 run, goes down on one knee and slogs this over mid-wicket, he will keep the strike as the batsmen take another single]]></line><line><![CDATA[<b>Yusuf Pathan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Bopara to A Russell, <b>out</b> Caught by Steyn!! Russell departs after a good little cameo. It was full and on the stumps, Russell goes for the big loft over long-on but fails to clear the fielder there. Steyn takes it calmly near the rope. Russell looks at the toe-end of the bat after playing that shot. It was the back-of-the-hand slower ball from Bopara and that's what fooled Russell there. <b>A Russell c Steyn b Bopara 19(10) [4s-1 6s-2]</b>]]></line><line><![CDATA[Bopara to A Russell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Bopara to A Russell, <b>FOUR</b>, Bopara drops this one slightly short and Russell heaves it to the right of the fielder at deep mid-wicket, another boundary for the Jamaican]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Bopara to A Russell, no run, yorker from Bopara, Russell can only squeeze it out towards the bowler]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Bopara to M Pandey, 1 run, Pandey was going for a big shot there, but decides to just steer it down towards third man, where Bhuvi misfields and the batsmen cross over for a single, Russell was looking for the second there but is sent back, he had to put in the dive to get back in time]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Bopara to A Russell, 1 run, waits for this length delivery on off to arrive, opens the face of the bat and guides it towards short third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravi Bopara, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Bipul Sharma to A Russell, 1 run, clips this delivery on middle and leg to deep square leg, he will keep the strike]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Bipul Sharma to A Russell, <b>SIX</b>, comes charging down the track and Bipul bowls it quicker and on his pads, Russell picks it up from there and deposits it over the deep mid-wicket fence, brilliant adjustment from him there]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Bipul Sharma to A Russell, <b>SIX</b>, <b>pure power</b> from Russell. He goes down on one knee and slog sweeps it over the deep mid-wicket fence, the ball went miles and hits the giant screen. It was a mishit nevertheless but it still carried over the rope, such it the power of this man]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Bipul Sharma to A Russell, no run, quicker one on the stumps, Russell defends from inside the crease]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Bipul Sharma to M Pandey, 1 run, Pandey gives the charge and Bipul drags his length back, nudged away towards mid-wicket for a single]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Bipul Sharma to M Pandey, no run, floated up outside off, Pandey opens the face of the bat and pushes it towards point, Russell was well out of his crease in search for the single and has to rush back in as the throw comes in at the non-striker's end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bipul Sharma, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Steyn to M Pandey, 1 run, Pandey knocks this length delivery towards backward point and sets off, the fielder fires in the throw at the non-striker's end, but Pandey made his ground easily]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Steyn to M Pandey, <b>FOUR</b>, what a great shot! Steyn tries to bowl the yorker but offers a widish full toss outside off, Pandey just opens the face of the bat and guides it to the squarish third man fence. That was very well played]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Steyn to M Pandey, <b>FOUR</b>, Steyn bangs this one short as well, Pandey gets on top of the bounce and pulls it wide of long-on, the fielder in the deep runs across to his right but he had no chance of stopping that]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Steyn to M Pandey, no run, just short of a good length and outside off, Pandey makes room to make his own width, looks to cut but fails to lay bat on that]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Steyn to A Russell, 1 run, low full toss on the stumps, Steyn was probably going for the yorker there, Russell backs away and clips it wide of mid-on for a single]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Steyn to M Pandey, 1 run, length delivery outside off, Pandey leans forward and pushes it past the dive of the point fielder, who had ran across to his right. The batsmen can only get a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dale Steyn [2.0-0-13-0] is back into the attack</b>]]></line><line><![CDATA[Steyn will bowl out his quota here]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Henriques to A Russell, no run, full delivery that shapes away ever so slightly outside off, Russell looks to drive, but he ball goes past the outside edge]]></line><line><![CDATA[<b>Andre Russell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[Russell has been given a promotion here]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Henriques to Uthappa, <b>out</b> Caught by P Kumar!! Lucky break for HYD as Uthappa holes out to Praveen. This is a big wicket for the Hyderabad. It was full and angling in on off and middle, Uthappa goes across and looks to flick it past short fine leg, but he ends up giving a simple catch to Praveen there. Either side of the fielder and it would have been a boundary, but it was not meant to be. Praveen throws the ball up in delight. <b>Uthappa c P Kumar b Henriques 34(21) [4s-2 6s-2]</b>]]></line><line><![CDATA[Henriques to Uthappa, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Henriques to M Pandey, 1 run, drives this fuller delivery square of the wicket, point fielder dives across to his right but can't stop it, only a single available though]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Henriques to M Pandey, <b>SIX</b>, <b>what a strike from Pandey!</b> It was a short delivery from Henriques and Pandey took full toll of it, he muscles the pull over the deep mid-wicket fence and it went way into the crowd]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Henriques to M Pandey, no run, Pandey was looking to back away there, but Henriques bowls it on a length and on off, Pandey pushes it towards cover]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Henriques to Uthappa, 1 run, banged in short this time around, Uthappa pulls it on the bounce to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Henriques to Uthappa, <b>wide</b>, Henriques starts off with a wide, it was short and wide outside off, Uthappa went for the cut there but can't connect, the umpire calls it a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moises Henriques, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Karn Sharma to Uthappa, 1 run, drags his length back slightly and bowls it on the stumps, Uthappa goes back in the crease and makes a little room, he cuts it straight to sweeper cover]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Karn Sharma to Uthappa, no run, hangs back, opens the face of the bat and guides it towards point, Uthappa was looking for the single there but it's not available]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Karn Sharma to Uthappa, no run, Uthappa backs away and goes for the loft, but Pandey who was jumping up to get out of the way of the ball there, can't do so in time and falls over after the ball hits him. Uthappa was a tad bit disappointed there]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Karn Sharma to M Pandey, 1 run, touch flatter and on the stumps, Pandey goes deep in the crease and works it towards mid-wicket to get off the mark]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Karn Sharma to Uthappa, 1 run, flighted delivery on the stumps, Uthappa chips it gently towards long-on, gets to the other end with a single]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Karn Sharma to Uthappa, 2 runs, tossed up on middle and leg, Uthappa clips it through mid-wicket and good running ensures that they come back for the second]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Karn Sharma, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;P Kumar to M Pandey, no run, another yorker tailing in on off and middle, Pandey again jams it out onto his pad and the ball rolls away to his right, can't get the single away this time as well]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;P Kumar to M Pandey, no run, yorker angling in on middle, Pandey squeezes it out onto his pad]]></line><line><![CDATA[<b>Manish Pandey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;P Kumar to Gambhir, <b>out</b> Bowled!! Gambhir is gone! Praveen strikes and KOL lose their captain. He makes up for his dropped chance of Gambhir with this wicket. It was a low full toss on the stumps, Gambhir went for the slog, but gets an inside edge that crashes into the leg stump. HYD needed this breakthrough and after those two dropped chances, it will bring them some relief. <b>Gambhir b P Kumar 4(8)</b>]]></line><line><![CDATA[P Kumar to Gambhir, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;P Kumar to Uthappa, 1 run, low full toss just outside off, Uthappa leans forward and drives it dead straight, hits the stumps at the other end and the batsmen take a single as the ball dribbles away towards mid-on]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;P Kumar to Uthappa, <b>FOUR</b>, full delivery tailing in on the stumps, Uthappa leans forward and takes it on the full, he wristily works it behind square on the on-side and the ball runs away to the fence in no time]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;P Kumar to Uthappa, <b>SIX</b>, brilliant wristwork from Uthappa, he goes across to this length delivery on off, he just wristily flicks it over the deep mid-wicket fence. The timing on that shot was simply superb]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Praveen Kumar, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Steyn to Gambhir, no run, angles this one away outside off, Gambhir goes for a big slog over the on-side but only connects with thin air, the keeper collects]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Steyn to Gambhir, no run, bumper on Gambhir's left shoulder, Gambhir ducks underneath, Gambhir thought it would be called a wide as it was marginally down leg, but the umpire disagrees]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Steyn to Uthappa, 1 run, Uthappa goes across and glances this delivery angling in on the stumps, short fine leg dives to his right and keeps them down to a single]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Steyn to Uthappa, no run, full on the stumps, Uthappa pushes it uppishly towards mid-on]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Steyn to Uthappa, <b>SIX</b>, <b>what a shot!</b> Uthappa uses the pace of Steyn and what timing from him! It was angling in on middle stump line, Uthappa goes across and gets inside the line of the ball, he flicks it over the deep square leg fielder and the ball carries the distance. Steyn was unhappy with the fielder as he was well inside the rope there]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Steyn to Gambhir, 1 run, <b>ohh dear! What is wrong with HYD?</b> Another dropped chance and this time Praveen is the culprit. It was short and slightly wide outside off, Gambhir slashes hard and gets an outside edge that was going straight into the hands of Praveen at third man, but the ball pops out as he was bending forward, Steyn is not a happy man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Bhuvneshwar to Gambhir, 1 run, bowls it on the pads, Gambhir flicks it over square leg, but there was protection in the deep. Only a single available and he will keep the strike]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to Uthappa, 1 run, just short of a good length and around off, Uthappa punches it back towards the bowler, who puts his right hand out and parries it towards mid-on, the batsmen pinch a quick run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Bhuvneshwar to Gambhir, <b>2 wides</b>, bowls it down the leg-side, Gambhir fails to tickle it fine and the keeper also doesn't make a clean stop after diving to his right, the batsmen sneak in a bye as well]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Bhuvneshwar to Uthappa, 1 run, gets this one to shape away outside off, Uthappa drives it to the right of short extra cover, the cover-point fielder runs to his right and stops the ball, the batsmen take a single in the meantime]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Bhuvneshwar to Uthappa, <b>FOUR</b>, good use of the wrists there from Uthappa and it is the first boundary for KOL, it was angling in on off, Uthappa goes across and clips it wide of mid-on, who had no chance of stopping that]]></line><line><![CDATA[Just a slip in place for Uthappa]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Bhuvneshwar to Gambhir, 1 run, Gambhir comes charging down the track and Bhuvi cramps him for room as he bowls it closer to his pads, Gambhir can only nudge it past square leg and gets to the other end]]></line><line><![CDATA[A slip and a gully in place for the left-hander]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Bhuvneshwar to Uthappa, 1 run, fuller and on off, Uthappa comes across and bunts it past the bowler, who dives to his right but can't stop the ball. The batsmen take a single as the ball rolls away to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bhuvneshwar Kumar, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Steyn to Gambhir, no run, half an appeal for a caught behind chance but that was just optimistic from the keeper there. It was full and shaping away outside off, Gambhir goes for the drive and the ball goes past the outside edge. Ump Illingworth affords a smile and says 'Not Out']]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Steyn to Uthappa, 1 run, just short of a good length and outside off, Uthappa opens the face of the bat and guides it a little uppishly towards second slip, who dives to his right as the ball bounces in front of him. The fielder couldn't make a clean stop and the batsmen take a single]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Steyn to Gambhir, 1 run, full and angling away outside off, Gambhir drives hard and gets an outside edge that flies through the gap between slip and gully, runs away towards third man]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Steyn to Uthappa, 1 run, <b>dropped!</b> How much is this drop going to cost HYD? It was a back of a length delivery outside off, Uthappa pokes at it away from his body and gets an outside edge. The ball was travelling to Dhawan at first slip, but Rahul from second slip tries to get across and shells it down, Dhawan tries taking it as the ball lobbed up off Rahul's hands, but he can't get there even though he puts in the dive, Uthappa survives and the batsmen take a single]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Steyn to Uthappa, 2 runs, leading edge for Uthappa and it's a couple for Uthappa, it was bowled on off and middle, Uthappa looks to clip it through the on-side and closes the bat face a little too early, the leading edge flies to the left of backward point, third man gets around and keeps them down to a couple]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Steyn to Uthappa, no run, full delivery shaping away outside off, Uthappa leans forward and drives it towards backward point, can't get the single away]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Uthappa and Gambhir are at the crease. Uthappa is on strike. Steyn will open the attack</b>]]></line><line><![CDATA[The HYD players break out of the huddle. The KOL openers are also there in the middle. No change in the batting order for now as Uthappa and Gambhir come out as the openers. Steyn will open the bowling. Uthappa is on strike. Two slips in place for Steyn]]></line><line><![CDATA[<b>Revised playing conditions:</b> The <b>powerplay will be for 4 overs</b>. 2 bowlers can bowl a maximum of 3 overs. Also, there will be no strategic timeouts during these 12 overs.]]></line><line><![CDATA[<b>19:23 Local Time, 13:53 GMT, 19:23 IST:</b> Good news folks! We should be starting in another 5 minutes or so. The news coming is that the <b>revised target for KOL will be 118 in 12 overs.</b>]]></line><line><![CDATA[<b>19:19 Local Time, 13:49 GMT, 19:19 IST:</b> The umpires are out there talking to the groundstaff regarding the progress. There's just one cover left on the outfield and by the looks of it, it will be taken off very soon.]]></line><line><![CDATA[<b>19:10 Local Time, 13:40 GMT, 19:10 IST:</b> The umpires had an inspection a little while back and they still feel that some more work needs to be done on the outfield. They will have another inspection at <b>19:20 local time</b>]]></line><line><![CDATA[<b>18:53 Local Time, 13:23 GMT, 18:53 IST:</b> The umpires will have an inspection at <b>19:00 local time</b>. We will get a clear picture regarding the target and the number of overs then.]]></line><line><![CDATA[<b>Mohandas Menon</b> has tweeted: <b>KOL target</b> in 5 overs: 58 runs, 10 overs: 102 runs, 15 overs: 141 runs]]></line><line><![CDATA[<b>18:43 Local Time, 13:13 GMT, 18:43 IST:</b> There's news coming in that the covers are coming off. Hopefully, we will soon get some action from Vizag. However, the groundstaff will take some time to get the outfield ready. The umpires are out in the middle and inspecting the playing conditions.]]></line><line><![CDATA[<b>18:36 Local Time, 13:06 GMT, 18:36 IST:</b> The rain seems to have eased somewhat. Let's hope that it stops soon.]]></line><line><![CDATA[<b>18:25 Local Time, 12:55 GMT, 18:25 IST:</b> We have started losing overs now. The rain though hasn't stopped.]]></line><line><![CDATA[<b>18:21 Local Time, 12:51 GMT, 18:21 IST:</b> The super sopper is out and is working on the covers for now. It is still pouring out there and can't say whether we will at least get 5 overs in. Remember, 5 overs is all we need to get a result from this game. Hopefully, the rain will go away very soon.]]></line><line><![CDATA[<b>SCORE UPDATE:</b> <b>The target for KOL will be 177</b> and not 178. KL Rahul was caught in the final over but it was an above the waist full toss and it was called a no-ball. The batsmen crossed over for a single, but it won't be considered as a run because the catch was taken. So, only the no-ball gets counted.]]></line><line><![CDATA[<b>17:58 Local Time, 12:28 GMT, 17:58 IST:</b> The rain has gotten heavier and the players have also gone inside the dressing rooms.]]></line><line><![CDATA[<b>17:50 Local Time, 12:20 GMT, 17:50 IST:</b> There's bad news coming in from Vizag as the <b>covers are currently being placed on the pitch and the square</b>. It has started drizzling, but let's hope that it is not a long delay.]]></line><line><![CDATA[<b>Botha:</b> "I hope so (when asked if his side can chase down the target). David Warner batted really well and got them off to a great start along with Dhawan. There is a bit of assistance for the spinners. Interesting to see the way they bowl, but our batsmen are good against spinners. It was my first game this season and I was a bit nervous."]]></line><line><![CDATA[Shikhar Dhawan too played a fluent hand and helped Warner stitch a century stand. They became the first opening pair in the history of the IPL to notch up three century stands. However, it has to be said that the hosts lost their way a bit in the slog overs. For the visitors, Botha and Morkel kept the lid on the scoring rate, while rest of the bowlers put up a disappointing show.]]></line><line><![CDATA[David Warner's buccaneering knock took HYD to a sizeable total. It was a typical innings from Warner as he explored every nook and cranny of the ground with his wide array of shots. In the second over itself he collected a boundary off Morne Morkel through on-side. He also used the switch-hit to cart Johan Botha for a four in the sixth over. Warner then touched fabulous peaks by landing mighty blows off Umesh Yadav, Yusuf Pathan and Sunil Narine. He was eventually dismissed by Morkel, just nine runs short of what would have been a well-deserved hundred. Warner's knock of 91 is the highest score registered by a HYD batsman in the IPL.]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;U Yadav to Rahul, no run, what was Rahul doing there? It was on a length just outside off, Rahul backed away and let it go through to the keeper. He thought that was a wide, but it was well inside the guideline]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;U Yadav to Henriques, 1 run, full and speared into the stumps, Henriques squeezes it to square leg, for a single]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;U Yadav to Henriques, <b>FOUR</b>, full delivery outside off, Henriques throws his bat at that, the outside edge flies to the right of Robin, who dived in vain. A much needed boundary for HYD]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;U Yadav to Rahul, <b>no ball</b>, poor bowling from Yadav. This was the attempted yorker, goes wrong and ends up being a high full toss, Rahul goes for the heave, gets it high on the bat and holes out to long-on. The umpires check for the no-ball and it was just above the waist]]></line><line><![CDATA[The third umpire called in to check for a no-ball. It was a full toss from Yadav and Rahul has been caught at long-on. He was asked to wait by the onfield umpires. It looks very close to being called a no-ball. Will Yadav get away once again? No, he doesn't. He has been penalized]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;U Yadav to Rahul, no run, on a length just outside off, Rahul backs away and hammers it to extra cover, the ball just falls short of Chawla, who was diving forward. There was a lot of confusion between the two batsmen for the run, both started and stopped, then Rahul was sent back. In the end, they don't go for it]]></line><line><![CDATA[<b>Lokesh Rahul, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;U Yadav to N Ojha, <b>out</b> Bowled!! Cleaned up! Yadav has his man after being hit for a six. The umpires check for a no-ball. Is there something behind the line? It is touch-and-go. The third umpire thinks it is fine and gives the marching orders for Ojha. A well directed yorker, Ojha makes room and fails to squeeze it out, the off-stump gets uprooted. That was bowled at 143.1kph. <b>N Ojha b U Yadav 18(8) [4s-1 6s-2]</b>]]></line><line><![CDATA[U Yadav to N Ojha, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;U Yadav to N Ojha, <b>SIX</b>, monster hit! Length ball right in the arc for Ojha, he clears his front leg and sends it sailing over long-on for a maximum. That went a long distance]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;A Russell to Henriques, 2 runs, full and on the stumps, Henriques can't get under that, mistimes the heave to deep mid-wicket and collects only a couple]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;A Russell to Henriques, no run, bumper now from Russell, Henriques is hurried on the pull, the ball takes the shoulder on the way to Uthappa, who appeals but umpire Illingworth says Not Out]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;A Russell to Henriques, no run, back of a length around off, Henriques goes for the pull and misses. The ball didn't bounce as much as he expected]]></line><line><![CDATA[<b>Moises Henriques, right handed bat, comes to the crease</b>]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;A Russell to Dhawan, <b>out</b> Caught by J Botha!! KOL just pulling things back. Dhawan goes after a well paced innings. It was full and in the slot, Dhawan does not go through with the shot, he just punches it in the air straight down the throat of long-off, Botha takes it comfortably. <b>Dhawan c J Botha b A Russell 54(46) [4s-4 6s-1]</b>]]></line><line><![CDATA[A Russell to Dhawan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;A Russell to Dhawan, no run, banged in halfway down the wicket, angle taking it away from Dhawan, who pulls and misses]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;A Russell to Dhawan, <b>FOUR</b>, Dhawan starts the over with a boundary. It was a pre-meditated shot and luckily he got it where he wanted it, walked across the stumps and scoops it to the left of short fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andre Russell, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;U Yadav to Dhawan, 1 run, Dhawan brings up his <b>20th IPL fifty</b>. It has been an unusual innings from Dhawan. Again, the length is slightly short, Dhawan goes back and mistimes the pull to deep square leg]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;U Yadav to N Ojha, 1 run, short of length around off, Ojha knocks it to backward point and takes a comfortable single]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;U Yadav to N Ojha, <b>SIX</b>, fabulous shot! Ojha didn't try to overhit, he used the pace of Yadav and helped himself for a maximum. It was a 143.2kph length delivery on the pads, Ojha gets inside the line and whips it behind square for a maximum]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;U Yadav to N Ojha, no run, off-cutter from Yadav, Ojha was completely outfoxed by that, he was way too early into the flick, misses and the ball goes past leg-stump]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;U Yadav to N Ojha, no run, Uthappa goes for a <b>caught behind</b> appeal, but umpire Kulkarni shakes his head. Sprays it down leg, Ojha can't connect with the glance, the ball brushes the pad on the way to the keeper]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;U Yadav to Dhawan, 1 run, shortish and angled outside off, Dhawan chops the cut to the left of point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umesh Yadav [2.0-0-19-0] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;M Morkel to N Ojha, <b>FOUR</b>, lovely shot! A much needed boundary to end the over. On a length just outside off, Ojha stands up and hammers it on the up through extra cover, Russell at sweeper cover had no chance of stopping that]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, 1 run, Dhawan was walking around in his crease, he tried to scoop this ball, but Morkel fired it outside off, Dhawan does well to steer it to third man]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, no run, another slower delivery, back of a length around off, Dhawan was early into the pull, the ball misses the off-pole by a few inches]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, no run, slower ball bouncer, Dhawan makes room and looks to ramp it away, fails to make contact. It was a bit too high and Morkel got away with that]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;M Morkel to N Ojha, 1 run, short of length just outside off, Ojha glides it with an open bat face to third man]]></line><line><![CDATA[<b>Naman Ojha, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;M Morkel to Bopara, <b>out</b> Caught by J Botha!! Soft dismissal! The ploy to promote Bopara up the order hasn't worked for HYD. It was a harmless full delivery just outside off, Bopara doesn't bother to keep the drive along the ground, hits it straight to cover and Botha takes an easy catch. <b>Bopara c J Botha b M Morkel 2(4)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[M Morkel to Bopara, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[Some dark clouds being formed right over the ground. Rain was not predicted, hopefully, it won't come down.]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Narine to Dhawan, <b>FOUR</b>, cheeky! Dhawan has taken over the mantle from Warner. It was a floated ball around off, Dhawan kneels down and reverse paddles it past the diving Morkel at short third. The South African fast bowler dived over the ball]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Narine to Dhawan, 2 runs, Dhawan gave the charge well before Narine delivered the ball, the bowler drags the length back, Dhawan adjusts and works it with soft hands in front of deep mid-wicket for a brace]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Narine to Bopara, 1 run, another knuckle ball, Bopara guides it to short third man and Dhawan calls for a quick single]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Narine to Dhawan, 3 runs, too straight from Narine, Dhawan goes down on one knee and sweeps it behind square leg, Botha runs to his left in the deep, slides and hauls the ball in, saves a run for the team]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Narine to Dhawan, no run, flighted on the stumps, blocked down the wicket]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Narine to Dhawan, no run, knuckle ball on middle, Dhawan is cramped for room, he pushes it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, 1 run, back of a length just outside off, Dhawan shuffles across and dabs it to third man]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;M Morkel to Bopara, 1 run, short of length on off, Bopara goes on his toes and steers it in front of third man]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;M Morkel to Bopara, no run, takes the pace off the ball, Bopara presses forward and defends it to point]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, 1 run, shortish and outside off, Dhawan cuts it to sweeper cover, for a single]]></line><line><![CDATA[<b>Ravi Bopara, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;M Morkel to Warner, <b>out</b> Caught by Uthappa!! A fantastic innings comes to an end. He misses out on a hundred. Nevertheless, he has done his job. The platform has been set for the final assault. It was a short of length delivery angled across off, Warner went for the pull, didn't get it anywhere close to the middle, the ball skies towards short fine, Robin calls for it and takes it calmly. <b>Warner c Uthappa b M Morkel 91(55) [4s-9 6s-4]</b>]]></line><line><![CDATA[M Morkel to Warner, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;M Morkel to Warner, <b>FOUR</b>, Warner is into the 90s. He backs away to the leg-side, Morkel fires it well wide of off, Warner manages to reach it and slice it over backward point for a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Morne Morkel [2.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Narine to Warner, 1 run, half tracker outside off, Warner was shaping to play the pull, but flat-bats it to cover, the fielder was on the edge of the circle]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Narine to Dhawan, 1 run, quicker and on the stumps, Dhawan pulls it to deep mid-wicket]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Narine to Warner, 1 run, knuckle ball on leg-stump, Warner comes down the track and whips it to long-on]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Narine to Warner, no run, shortish and on the stumps, Warner misses the pull, the ball gets stuck in his pad]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Narine to Warner, <b>SIX</b>, the conventional sweep! It was flighted on middle, Warner goes down on one knee and dispatches the slog sweep over wide long-on. It is his 4th six of the innings and he looks set for a ton]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Narine to Warner, no run, attempted switch-hit from Warner and he almost perished. The ball turns away hits the pad, then the stomach and lobs back towards the stumps, it misses it by a whisker]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sunil Narine [2.0-0-19-0] is back into the attack</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;J Botha to Dhawan, no run, flatter and on the leg-stump, Dhawan misses the flick, wears it on the pad]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;J Botha to Warner, byes, 1 run, Warner once more was making room, Botha pushes it through outside off, Warner can't reach it and Robin can't glove the ball, the batsmen pinch a bye]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;J Botha to Warner, <b>FOUR</b>, Warner backs away towards the leg-side, Botha darts in a low full toss, Warner manages to get under it and smack it to long-on, Morkel misjudged it and ran forward, the ball sails over him. He should have done better. The umpires check if it carried the distance, the ball landed just before the rope. Botha not happy with Morkel's effort]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;J Botha to Warner, 2 runs, fired onto the leg-stump, Warner whips it to deep square leg, scampers back for the second]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, Botha drags the length back as Dhawan gives the charge, the batsman nudges it to mid-wicket]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;J Botha to Dhawan, no run, comes down the track and push-drives it to cover, straight to the fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Johan Botha [3.0-0-19-0] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Chawla to Dhawan, 1 run, slower through the air, Dhawan pushes it along the ground to long-off]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Chawla to Dhawan, 2 runs, Dhawan taking a leaf out of Warner's book, he reverse paddles it fine and picks up an easy two. Narine and Morkel give chase and keep it down to a brace. In fact, it hit the glove and that's why it didn't reach the fence. It took a deflection off Uthappa's pad as well and that took some pace off the ball]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Chawla to Dhawan, <b>SIX</b>, massive! Dhawan who was biding his time decides to take on Chawla, he kneels down and slog sweeps over deep mid-wicket for his first maximum. That went a long way into the crowd]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Chawla to Warner, 1 run, shortish and outside off, Warner flat-batted it to long-off]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Chawla to Warner, <b>FOUR</b>, this is just unbelievable batting from Warner. Flighted just outside off, Warner switches the grip and smacks it over backward point and short third man, almost went the distance]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Chawla to Dhawan, 1 run, tossed up around off, Dhawan wrists it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Piyush Chawla, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Narine to Warner, 2 runs, for the 5th time in the over, Narine drops it short, Warner has ample time to go back and cut it square on the off-side, Morne is put under pressure and he can't prevent the second run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Narine to Warner, 2 runs, Narine still not pitching the ball up, short and outside off, Warner cuts it square of the wicket, takes on the fielder and comes back for the second]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Narine to Warner, no run, driven back to the bowler, Narine stretches his right hand and stops the ball]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Narine to Warner, <b>SIX</b>, for a moment Warner would have thought that he picked out the fielder, but he cleared him with ease. It was a short delivery around off, Warner pulls but doesn't middle it, but the ball has enough to clear the long-on fielder]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Narine to Warner, 2 runs, again, the length is short and just outside off, Warner cracks it off the back foot to long-off, Suryakumar doesn't pick the ball cleanly and the batsmen steal an extra run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Narine to Warner, 2 runs, Warner was thinking about the switch-hit, but saw that the ball was outside off and slapped it past the diving cover fielder for a brace]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sunil Narine [1.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;U Yadav to Dhawan, <b>FOUR</b>, that's well played by Dhawan, length ball and on his pads, flicked away over square leg for a boundary]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;U Yadav to Dhawan, no run, short of a length and just outside off, Dhawan pushes forward and gets an inside edge onto the pads. Warner wanted a single and is sent back]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;U Yadav to Warner, 1 run, full and just outside off, driven down towards long-off for a single]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;U Yadav to Warner, <b>SIX</b>, this is poor bowling from Yadav, he's bowling to Warner's strengths, bangs one short and wide outside off, Warner gets on top of the bounce and upper-cuts it high and over third man, brings up his <b>fifty</b> as well]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;U Yadav to Warner, 2 runs, Yadav bangs one short and on the stumps, Warner swivels across and pulls it to the left of deep mid-wicket. Manish gets across quickly, puts in the dive and saves a couple of runs]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;U Yadav to Warner, no run, Yadav goes full and wide as Warner came down the track, he has to reach out for the drive and is beaten]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Y Pathan to Warner, 1 run, flighted delivery and on the stumps, eased down towards long-on for a single]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Y Pathan to Dhawan, 1 run, Pathan shortened the length as Dhawan threatened to come down the track, punched away towards long-off for a single]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Y Pathan to Warner, 1 run, tossed up and just outside off, driven down towards long-off for a single]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Y Pathan to Dhawan, 1 run, Pathan drifts one onto Dhawan's pads, tucked away behind square on the on-side]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Y Pathan to Warner, 1 run, pushed through and on Warner's pads, nudged away in front of square on the on-side for a single]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Y Pathan to Warner, <b>SIX</b>, <b>massive</b>, length ball from Pathan, Warner gets underneath the length and hoists it high and over the sightscreen, first six of the day]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;U Yadav to Warner, 1 run, Yadav shortens his length and on Warner's pads, tucked away in front of square on the on-side, just a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;U Yadav to Warner, 2 runs, too straight from Yadav, ends up drifting onto Warner's pads, tucked away in front of long-on for a couple of runs]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;U Yadav to Dhawan, 1 run, on a good length and just outside off, eased past cover for a single]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;U Yadav to Warner, 1 run, too straight from Yadav, clipped away in front of square on the on-side for a single]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;U Yadav to Warner, no run, short of a length and well outside off, Warner stays behind the line and pushes it towards extra cover]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;U Yadav to Dhawan, 1 run, on a length and around off, dabbed square on the off-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umesh Yadav, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[Change of gloves for Warner, it's hot and humid here in Vizag]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Y Pathan to Dhawan, 1 run, Pathan drifts one across Dhawan, he presses forward and eases it past cover for a single]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Y Pathan to Dhawan, no run, slower and wider outside off, Dhawan prods forward and defends it]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Y Pathan to Warner, 1 run, pushed through and just outside off, Warner backs away and cracks it square on the off-side for a single]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Y Pathan to Warner, <b>FOUR</b>, that's another long-hop and it's duly punished. A misfield from the fielder at extra cover, Warner was quick to rock back and smeared it through cover's hands, no chance for the man in the deep]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Y Pathan to Warner, no run, flighted delivery and just outside off, Warner was lunging forward and cuts it straight to the fielder at point]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Y Pathan to Dhawan, 1 run, long-hop from Pathan, Dhawan rocks back and pulls it straight to deep mid-wicket, goes to Russell on the bounce]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Yusuf Pathan, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, flighted delivery and on the stumps, Dhawan goes back and nudges it in front of mid-on, easy single to end the over]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;J Botha to Warner, 1 run, pushed through flatter and quicker, hurried Warner onto the pull, he mistimes it towards mid-on and hurries for a quick single]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;J Botha to Warner, <b>FOUR</b>, <b>the switch-hit from Warner</b>, Botha dropped this one short and on the stumps, Warner changes his stance and pulls it up and over point for a boundary]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;J Botha to Warner, no run, Warner shimmies down the track to a well flighted delivery, gets too close to the pitch of the ball and ends up driving it straight to mid-on]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;J Botha to Warner, no run, the slider from Botha, comes back into Warner from an angle, Warner is hurried onto the flick and is hit on the pads]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, tossed up and just outside off, Dhawan drops it in front of short cover and calls Warner through for a quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Johan Botha [2.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Narine to Warner, no run, Narine gets this one to drift into Warner from middle, Warner shuffles across and blocks it]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Narine to Warner, no run, pushed through and just outside leg, Warner goes back and turns it towards the on-side]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Narine to Warner, <b>FOUR</b>, too short from Narine, Warner is quick to rock back and pulls it wide of long-on, that's a real gift from Narine]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Narine to Dhawan, 1 run, fraction short and just outside off, Dhawan goes back and punches it down towards long-off for a single]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Narine to Warner, leg byes, 1 run, Narine drifts one onto Warner's pads, he looks to tuck it towards the on-side and misses, the ball rolls away to the left of short fine leg off the pad]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Narine to Warner, no run, massive turn for Narine, flighted just outside off, draws Warner half forward before spinning past the outside edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sunil Narine, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;M Morkel to Warner, 1 run, back of a length and just outside off, Warner dabs it to the right of backward point and sets off for a quick single, the throw is at the striker's end but Dhawan is safe]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;M Morkel to Warner, <b>FOUR</b>, aggression from Warner! That's a flat hit, Morkel dropped one short and just outside off, Warner makes room and slaps it over extra cover, almost went all the way, bounces just in front of the ad cushions, another boundary for Warner]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, 1 run, tad fuller and just outside off, Dhawan drops it in front of cover-point for a quick single]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, no run, on a good length and just outside off, Dhawan punches it in front of mid-off]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, no run, short of a length and just outside off, Dhawan stays besides the line and defends it towards point]]></line><line><![CDATA[There are two men in the point region now]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, <b>FOUR</b>, <b>cracking shot</b>, hint of width from Morkel, the length was a little short as well, Dhawan opens the face of the bat and steers it square behind point, no chance for third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, Botha gives this one plenty of air, punched down towards long-off for a single]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;J Botha to Warner, 1 run, Botha drifts one on the middle stump line, Warner works it in front of square on the on-side for a single]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, pushed through by Botha, nudged away behind square on the on-side for a single]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;J Botha to Warner, 1 run, pushed through by Botha, Warner goes back and nudges it behind square on the on-side for a single]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;J Botha to Warner, <b>FOUR</b>, that's an excellent shot, good use of the feet from Warner, comes down the track, makes room outside leg and goes inside out over extra cover, just one bounce and over the rope for a boundary]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, flighted delivery and just outside off, Dhawan plays with an open face and dabs it in front of point. Pathan's throw is awful and the ball runs away in front of square, gifts a single to Dhawan]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, 1 run, back of a length and slanting across the left-hander, he stays back and punches it in front of mid-off for a quick single]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;M Morkel to Warner, 1 run, back of a length and in that channel outside off, dabbed away in front of cover-point for a quick single]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;M Morkel to Warner, no run, tad fuller and on the leg-stump line, Warner backs away slightly and drives it to mid-on]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;M Morkel to Warner, <b>FOUR</b>, nicely played and that's the first boundary of the HYD innings, too short and on Warner's hips, he rolls his wrists, uses the bottom hand and whips it behind square on the on-side for a boundary]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;M Morkel to Dhawan, 1 run, back of a length and in that channel outside off, Dhawan pushes at that and gets an inside edge behind square on the on-side for a single]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;M Morkel to Warner, 1 run, back of a length and on Warner's hips, he nudges it in front of square leg, Dhawan calls him through for a quick single. Warner is late to start off but the throw goes to the striker's end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Morne Morkel, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[Morne Morkel will share the new ball. He has a slip in place]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;J Botha to Warner, 1 run, pushed through by Botha, Warner works it to the left of mid-on for a single, he's off the mark as well]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;J Botha to Warner, no run, slower and just outside off, Warner lunges forward and blocks]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;J Botha to Warner, no run, that's an excellent stop from Manish at extra cover! This was dropped short and just outside off, Warner makes room and cuts it to the left of the fielder, there's a diving stop by Manish, saves some runs]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;J Botha to Warner, no run, flighted and just outside off, Warner prods forward and defends it]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;J Botha to Dhawan, 1 run, fraction shorter and on Dhawan's pads, nudged away in front of square on the on-side for a single]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;J Botha to Dhawan, <b>wide</b>, Botha strays one well down leg-side, Dhawan looks to pull and misses, given as a wide]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;J Botha to Dhawan, no run, Botha drifts one onto Dhawan's pads, he looks to flick and misses, the ball rolls away towards the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dhawan and Warner are at the crease. Dhawan is on strike. J Botha will open the attack</b>]]></line><line><![CDATA[Botha has the ball in his hands. A slip is in place]]></line><line><![CDATA[It's time for action. The umpires are out in the middle and the KOL players follow them. Can they complete a hat-trick of wins? Or will HYD finish their Vizag leg with a show of confidence? The floodlights have already been switched on.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Hyderabad</b> (Playing XI): David Warner(c), Shikhar Dhawan, Lokesh Rahul, Naman Ojha(w), Ravi Bopara, Moises Henriques, Karn Sharma, Bipul Sharma, Praveen Kumar, Bhuvneshwar Kumar, Dale Steyn]]></line><line><![CDATA[<b>Kolkata</b> (Playing XI): Robin Uthappa(w), Gautam Gambhir(c), Manish Pandey, Suryakumar Yadav, Yusuf Pathan, Andre Russell, Johan Botha, Piyush Chawla, Sunil Narine, Morne Morkel, Umesh Yadav]]></line><line><![CDATA[<b>Warner:</b> 'Not the best of starts, but we will need to win today. Fantastic crowd, the pitch looks better today. We should not lose wickets in crumps, like we did the other day. Our thoughts with Pervez Rasool, his uncle passed away. <b>Moises Henriques</b> comes in place of <b>Eoin Morgan</b>. <b>Bipul Sharma</b> also gets a game.']]></line><line><![CDATA[<b>Gambhir:</b> 'We have got a very good mix of players in our side. I am happy with my form, but registering points is important. It's important to stay in the present and not worry about things beyond our control. Not worried about the form of Robin and Manish, they will come into the groove very soon. We are going to bowl. We are very comfortable chasing and that's what we want to do. We lost a young boy back home, we will try and make people happy by playing well. Just one change, <b>Johan Botha</b> replaces <b>Ryan ten Doeschate</b>.]]></line><line><![CDATA[<b>Kolkata have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Head-to-Head:</b> Both teams have played each other on four occasions previously. KOL have won three, while HYD have ended up on the winning side only once.]]></line><line><![CDATA[KOL's batting form has been a mixed bag of sorts. Uthappa's form is nowhere close to his performance in the last IPL and he keeps getting out at the wrong time. Pandey too has misfired on a number of occasions. Gambhir though has been batting extremely well and has found good support from a number of batsmen lower down the order. Suryakumar Yadav has been impressive, Yusuf Pathan has played both the supporting role as well as the role of the aggressor well. In addition to that, Russell too has done well with the bat for them.]]></line><line><![CDATA[Their batting has been the one that has disappointed the fans. Their batsmen keep getting starts, but fail to convert those into something meaningful. The only time their batting really fired was in the game against BLR, a game they won by 8 wickets, with 16 balls to spare. For KOL too, their bowling is their strength. The likes of Umesh Yadav, Morne Morkel and Sunil Narine have done extremely well to keep oppositions at bay.]]></line><line><![CDATA[HYD have a number of good bowlers in their ranks. With the likes of Boult, Steyn, Bhuvneshwar, Praveen and Ishant in their squad, they look like a formidable bowling unit. Apart from the disastrous start to the campaign for Ishant, all the other bowlers have regularly done well. Steyn, who was left out of the first few games, has been drafted back into the team at the expense of Boult. Steyn bowled 4 overs in the last game, picking up a wicket for 27 runs.]]></line><line><![CDATA[Hello and welcome to the first game of the double-header Wednesday. After losing their game against BLR which also ended their 10-match winning streak in IPL, KOL have won back-to-back matches and are currently sitting in the third position. A win here would strengthen their hold on a top four spot and on current form, they are the favourites to take two points from this game.]]></line><line><![CDATA[<b>14:45 Local Time, 09:15 GMT, 14:45 IST:</b> Having won just 1 out of 4 games, HYD are currently languishing in sixth position in the points table. Today, they host last year's winner, KOL. It is not a do-or-die game for the Hyderabad, but a loss here would make things even more difficult for them. However, a win against the mighty Kolkata will put their campaign back on track.]]></line><line><![CDATA[<b>Preview:</b><br/><br/>It hasn't been a happy homecoming for Hyderabad as the side has lost both its matches at Visakhapatnam, and would be looking to turn things around when they take on Kolkata in Wednesday's first game. Another let-up at home could see them sliding further down in the points table and with majority of the teams having settled in on their combinations already, David Warner's outfit is yet to figure out its best eleven with some overseas players not firing.<br/><br/>Hyderabad and Kolkata have had distinctly contrasting outings in the 2015 IPL so far. Both teams have played four games each with Hyderabad winning one and losing three, while following back-to-back victories, Kolkata have jumped to the third spot in the standings with three wins and a defeat.<br/><br/>Searing conditions in Visakhapatnam have meant sparsely filled stands and a pitch that has offered inconsistent turn and bounce, and after two defeats, Hyderabad would be hoping to break their duck in their home territory. For Kolkata though, things have begun falling in place after Andre Russell saw them home in a tense contest in Pune followed by a comfortable victory in Delhi.<br/><br/><b>Venue:</b> Dr YS Rajasekhara Reddy ACA-VHYDA Cricket Stadium<br/><b>Date:</b> April 22, 2015<br/><b>Time:</b> 1600 Hrs IST<br/><b>Weather:</b> A high of 35 degrees Celcius with almost 70 percent humidity<br/><br/><b>Team news</b><br/><br/><b>Hyderabad</b><br/><br/>The team has benefited in the bowling department upon the arrival of Dale Steyn, who was overlooked for the first two games for new arrival Trent Boult, and the form of Bhuvneshwar Kumar and Praveen Kumar has been encouraging, although they would want their premier spin bowler, Karn Sharma, to tidy up. Karn's less-than-impressive displays thus far should have prompted a change, but his lower-order hitting against Delhi got his team to within five runs of their target.<br/><br/>The other worrying point has been Hyderabad' fourth overseas player, with Eoin Morgan not being able to shrug off his poor form with the bat, and he had replaced Kane Williamson after the New Zealander's twin failures. The management may opt for a swap yet again on Wednesday.<br/><br/><b>Probable XI:</b> 1. David Warner (capt), 2. Shikhar Dhawan, 3. KL Rahul, 4. Naman Ojha (wk), 5. Kane Williamson/Eoin Morgan, 6. Ravi Bopara, 7. Ashish Reddy, 8. Karn Sharma, 9. Praveen Kumar, 10. Bhuvneshwar Kumar, 11. Dale Steyn<br/><br/><b>Kolkata</b><br/><br/>After registering a comfortable win in the 2015 IPL opener, Kolkata were sluggish against Bangalore but returned to winning ways after Andre Russell's heroics saved them from defeat against Punjab. The defending champions reeled off another victory in Delhi on Monday thanks to a clinical performance with the ball and there is no real reason for a change when they play Hyderabad.<br/><br/><b>Probable XI:</b> 1. Robin Uthappa (wk), 2. Gautam Gambhir (capt), 3. Manish Pandey, 4. Suryakumar Yadav, 5. Yusuf Pathan, 6. Ryan ten Doeschate, 7. Andre Russell, 8. Piyush Chawla, 9. Sunil Narine, 10. Morne Morkel, 11. Umesh Yadav<br/><br/><b>Stats</b><br/><br/>After enduring a horror start to last year's IPL campaign where he scored 0, 0, 0 and 1 in his first four innings, Kolkata captain Gautam Gambhir has scored 57, 58, 11 and 60 in his first four innings this year.<br/><br/>Dale Steyn, Sunil Narine and Morne Morkel have the best economy rates in the tournament so far.<br/><br/><b>Quotes</b><br/><br/>"It's very easy to get complacent but I assure you that till I am there (at the crease), I will not let them (his team) become complacent." - KOL captain <b>Gautam Gambhir</b> chooses to lead by example.<br/><br/>"We both look to go out in the middle with an attacking mindset. We are naturally aggressive and enjoy playing our shots. We complement each other and that has worked well for our team so far." - Hyderabad batsman <b>Shikhar Dhawan</b> and his opening partner David Warner are not going to back off from any challenge.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Kolkata</b> (From): Gautam Gambhir(c), Robin Uthappa(w), Manish Pandey, Suryakumar Yadav, Yusuf Pathan, Ryan ten Doeschate, Andre Russell, Piyush Chawla, Sunil Narine, Umesh Yadav, Morne Morkel, Pat Cummins, Veer Pratap Singh, Kuldeep Yadav, Azhar Mahmood, Brad Hogg, Sumit Narwal, Sheldon Jackson, Aditya Garhwal, Kishan Cariappa, Vaibhav Rawal, Johan Botha]]></line><line><![CDATA[<b>Hyderabad</b> (From): Shikhar Dhawan, David Warner(c), Kane Williamson, Lokesh Rahul, Naman Ojha(w), Ravi Bopara, Ashish Reddy, Karn Sharma, Bhuvneshwar Kumar, Praveen Kumar, Dale Steyn, Eoin Morgan, Ishant Sharma, Moises Henriques, Parvez Rasool, Ricky Bhui, Chama Milind, Kevin Pietersen, Bipul Sharma, Trent Boult, Hanuma Vihari, Prasanth Padmanabhan, Siddarth Kaul]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>176</totalruns>
+		<totalwickets>4</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Hyderabad">
+			<players>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<batsman-name>Dhawan</batsman-name>
+					<batsman-nickname>Dhawan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>54</runs>
+					<balls>46</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Russell</bowler>
+					<bowlerId>7736</bowlerId>
+						<fielder>Johan Botha</fielder>
+						<fielderId>487</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1739</playerid>
+					<name>David Warner</name>
+					<batsman-name>Warner</batsman-name>
+					<batsman-nickname>Warner</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>91</runs>
+					<balls>55</balls>
+					<fours>9</fours>
+					<sixes>4</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Morkel</bowler>
+					<bowlerId>608</bowlerId>
+						<fielder>Robin Uthappa</fielder>
+						<fielderId>527</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>571</playerid>
+					<name>Ravi Bopara</name>
+					<batsman-name>R Bopara</batsman-name>
+					<batsman-nickname>Bopara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Morkel</bowler>
+					<bowlerId>608</bowlerId>
+						<fielder>Johan Botha</fielder>
+						<fielderId>487</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1599</playerid>
+					<name>Naman Ojha</name>
+					<batsman-name>N Ojha</batsman-name>
+					<batsman-nickname>N Ojha</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>18</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Umesh</bowler>
+					<bowlerId>1858</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1437</playerid>
+					<name>Moises Henriques</name>
+					<batsman-name>Henriques</batsman-name>
+					<batsman-nickname>Henriques</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8733</playerid>
+					<name>Lokesh Rahul</name>
+					<batsman-name>Rahul</batsman-name>
+					<batsman-nickname>Rahul</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1844</playerid>
+					<name>Karn Sharma</name>
+					<batsman-name>Karn Sharma</batsman-name>
+					<batsman-nickname>Karn Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6296</playerid>
+					<name>Bipul Sharma</name>
+					<batsman-name>Bipul Sharma</batsman-name>
+					<batsman-nickname>Bipul Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>592</playerid>
+					<name>Praveen Kumar</name>
+					<batsman-name>P Kumar</batsman-name>
+					<batsman-nickname>P Kumar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1726</playerid>
+					<name>Bhuvneshwar Kumar</name>
+					<batsman-name>Bhuvneshwar</batsman-name>
+					<batsman-nickname>Bhuvneshwar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>508</playerid>
+					<name>Dale Steyn</name>
+					<batsman-name>Steyn</batsman-name>
+					<batsman-nickname>Steyn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1739</playerid>
+				<nbr>1</nbr>
+				<runs>130</runs>
+				<overs>14.2</overs>
+				<batsman>David Warner</batsman>
+				<batsman-name>Warner</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>571</playerid>
+				<nbr>2</nbr>
+				<runs>143</runs>
+				<overs>16.1</overs>
+				<batsman>Ravi Bopara</batsman>
+				<batsman-name>R Bopara</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1446</playerid>
+				<nbr>3</nbr>
+				<runs>162</runs>
+				<overs>18.3</overs>
+				<batsman>Shikhar Dhawan</batsman>
+				<batsman-name>Dhawan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1599</playerid>
+				<nbr>4</nbr>
+				<runs>170</runs>
+				<overs>19.2</overs>
+				<batsman>Naman Ojha</batsman>
+				<batsman-name>N Ojha</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>1</wides>
+			<noballs>1</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>4</total>
+		</extras>
+		<bowlteam name="Kolkata">
+			<players>
+				<player>
+					<playerid>487</playerid>
+					<name>Johan Botha</name>
+					<bowler-name>J Botha</bowler-name>
+					<bowler-nickname>J Botha</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>608</playerid>
+					<name>Morne Morkel</name>
+					<bowler-name>M Morkel</bowler-name>
+					<bowler-nickname>M Morkel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2276</playerid>
+					<name>Sunil Narine</name>
+					<bowler-name>Narine</bowler-name>
+					<bowler-nickname>Narine</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>790</playerid>
+					<name>Yusuf Pathan</name>
+					<bowler-name>Y Pathan</bowler-name>
+					<bowler-nickname>Y Pathan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<bowler-name>Umesh</bowler-name>
+					<bowler-nickname>U Yadav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>40</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>466</playerid>
+					<name>Piyush Chawla</name>
+					<bowler-name>Chawla</bowler-name>
+					<bowler-nickname>Chawla</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>15</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<bowler-name>A Russell</bowler-name>
+					<bowler-nickname>A Russell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>6</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>527</playerid>
+					<name>Robin Uthappa</name>
+					<bowler-name>Uthappa</bowler-name>
+					<bowler-nickname>Uthappa</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>308</playerid>
+					<name>Gautam Gambhir</name>
+					<bowler-name>Gambhir</bowler-name>
+					<bowler-nickname>Gambhir</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1836</playerid>
+					<name>Manish Pandey</name>
+					<bowler-name>M Pandey</bowler-name>
+					<bowler-nickname>M Pandey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7915</playerid>
+					<name>Suryakumar Yadav</name>
+					<bowler-name>Suryakumar Yadav</bowler-name>
+					<bowler-nickname>Suryakumar Yadav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>101</totalruns>
+		<totalwickets>4</totalwickets>
+		<totalovers>12</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Kolkata">
+			<players>
+				<player>
+					<playerid>527</playerid>
+					<name>Robin Uthappa</name>
+					<batsman-name>Uthappa</batsman-name>
+					<batsman-nickname>Uthappa</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>34</runs>
+					<balls>21</balls>
+					<fours>2</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Henriques</bowler>
+					<bowlerId>1437</bowlerId>
+						<fielder>Praveen Kumar</fielder>
+						<fielderId>592</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>308</playerid>
+					<name>Gautam Gambhir</name>
+					<batsman-name>Gambhir</batsman-name>
+					<batsman-nickname>Gambhir</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>P Kumar</bowler>
+					<bowlerId>592</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1836</playerid>
+					<name>Manish Pandey</name>
+					<batsman-name>M Pandey</batsman-name>
+					<batsman-nickname>M Pandey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>33</runs>
+					<balls>24</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<batsman-name>A Russell</batsman-name>
+					<batsman-nickname>A Russell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Bopara</bowler>
+					<bowlerId>571</bowlerId>
+						<fielder>Dale Steyn</fielder>
+						<fielderId>508</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>790</playerid>
+					<name>Yusuf Pathan</name>
+					<batsman-name>Y Pathan</batsman-name>
+					<batsman-nickname>Y Pathan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Bhuvneshwar</bowler>
+					<bowlerId>1726</bowlerId>
+						<fielder>Karn Sharma</fielder>
+						<fielderId>1844</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7915</playerid>
+					<name>Suryakumar Yadav</name>
+					<batsman-name>Suryakumar Yadav</batsman-name>
+					<batsman-nickname>Suryakumar Yadav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>487</playerid>
+					<name>Johan Botha</name>
+					<batsman-name>J Botha</batsman-name>
+					<batsman-nickname>J Botha</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>466</playerid>
+					<name>Piyush Chawla</name>
+					<batsman-name>Chawla</batsman-name>
+					<batsman-nickname>Chawla</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>2276</playerid>
+					<name>Sunil Narine</name>
+					<batsman-name>Narine</batsman-name>
+					<batsman-nickname>Narine</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>608</playerid>
+					<name>Morne Morkel</name>
+					<batsman-name>M Morkel</batsman-name>
+					<batsman-nickname>M Morkel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<batsman-name>Umesh</batsman-name>
+					<batsman-nickname>U Yadav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>308</playerid>
+				<nbr>1</nbr>
+				<runs>35</runs>
+				<overs>3.4</overs>
+				<batsman>Gautam Gambhir</batsman>
+				<batsman-name>Gambhir</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>527</playerid>
+				<nbr>2</nbr>
+				<runs>49</runs>
+				<overs>5.5</overs>
+				<batsman>Robin Uthappa</batsman>
+				<batsman-name>Uthappa</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7736</playerid>
+				<nbr>3</nbr>
+				<runs>80</runs>
+				<overs>8.5</overs>
+				<batsman>Andre Russell</batsman>
+				<batsman-name>A Russell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>790</playerid>
+				<nbr>4</nbr>
+				<runs>94</runs>
+				<overs>11.2</overs>
+				<batsman>Yusuf Pathan</batsman>
+				<batsman-name>Y Pathan</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>3</total>
+		</extras>
+		<bowlteam name="Hyderabad">
+			<players>
+				<player>
+					<playerid>508</playerid>
+					<name>Dale Steyn</name>
+					<bowler-name>Steyn</bowler-name>
+					<bowler-nickname>Steyn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1726</playerid>
+					<name>Bhuvneshwar Kumar</name>
+					<bowler-name>Bhuvneshwar</bowler-name>
+					<bowler-nickname>Bhuvneshwar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>592</playerid>
+					<name>Praveen Kumar</name>
+					<bowler-name>P Kumar</bowler-name>
+					<bowler-nickname>P Kumar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1844</playerid>
+					<name>Karn Sharma</name>
+					<bowler-name>Karn Sharma</bowler-name>
+					<bowler-nickname>Karn Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>5</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1437</playerid>
+					<name>Moises Henriques</name>
+					<bowler-name>Henriques</bowler-name>
+					<bowler-nickname>Henriques</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>9</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6296</playerid>
+					<name>Bipul Sharma</name>
+					<bowler-name>Bipul Sharma</bowler-name>
+					<bowler-nickname>Bipul Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>571</playerid>
+					<name>Ravi Bopara</name>
+					<bowler-name>R Bopara</bowler-name>
+					<bowler-nickname>Bopara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>7</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1739</playerid>
+					<name>David Warner</name>
+					<bowler-name>Warner</bowler-name>
+					<bowler-nickname>Warner</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<bowler-name>Dhawan</bowler-name>
+					<bowler-nickname>Dhawan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8733</playerid>
+					<name>Lokesh Rahul</name>
+					<bowler-name>Rahul</bowler-name>
+					<bowler-nickname>Rahul</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1599</playerid>
+					<name>Naman Ojha</name>
+					<bowler-name>N Ojha</bowler-name>
+					<bowler-nickname>N Ojha</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

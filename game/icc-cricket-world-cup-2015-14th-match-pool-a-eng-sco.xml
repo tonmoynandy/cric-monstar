@@ -1,0 +1,1115 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12868" >
+		<type>ODI</type>
+		<gameDesc>14th Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>England</home>
+		<away>Scotland</away>
+		<teamsabbr>ENG vs SCO</teamsabbr>
+		<homeabbr>ENG</homeabbr>
+		<awayabbr>SCO</awayabbr>
+		<homeId>9</homeId>
+		<awayId>23</awayId>
+		<venue>Hagley Oval, Christchurch</venue>
+		<startdate>23 02 2015</startdate>
+		<enddate>23 02 2015</enddate>
+		<toss>
+			<winner>Scotland</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>England won by 119 runs</status>
+		<result type="win">
+			<winningteam>England</winningteam>
+			<wonbyruns>119</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>S Ravi</Name>
+			<Country>Ind</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Rod Tucker</Name>
+			<Country>Aus</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Marais Erasmus</Name>
+			<Country>RSA</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>David Boon</Name>
+			<Country>Aus</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>22:00</starttimeGMT>
+		<prevDayPerGMT>true</prevDayPerGMT>
+		<actualendGMT>20150223051254</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Sco</batteamname>
+		<bwlteamname>Eng</bwlteamname>
+		<batteamruns>184</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>42.2</batteamovers>
+		<status>England won by 119 runs</status>
+		<batsman>
+			<playerid>8423</playerid>
+			<name>Iain Wardlaw</name>
+			<batsman-name>Iain Wardlaw</batsman-name>
+			<batsman-nickname>Iain Wardlaw</batsman-nickname>
+			<runs>0</runs>
+			<balls-faced>0</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>6670</playerid>
+			<name>Chris Woakes*</name>
+			<bowler-name>C Woakes</bowler-name>
+			<bowler-nickname>Woakes</bowler-nickname>
+			<overs>5.2</overs>
+			<maidens>0</maidens>
+			<runs>25</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<bowler>
+			<playerid>65</playerid>
+			<name>James Anderson</name>
+			<bowler-name>J Anderson</bowler-name>
+			<bowler-nickname>J Anderson</bowler-nickname>
+			<overs>6</overs>
+			<maidens>0</maidens>
+			<runs>30</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>304</target>
+<lastwicket>
+<playerid>646</playerid>
+<name>Majid Haq</name>
+<player-runs>15</player-runs>
+<player-balls>24</player-balls>
+<runs>184</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>6670</bowlerid>
+<bowlername>C Woakes</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>2</wides>
+			<noballs>0</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<prevOvers><![CDATA[4 . . 4 . 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 4 . . 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 1 . . W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/ENG_SCO_FEB23/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[Well, that brings an end to the 14th game of the 2015 World Cup. England, have finally kick-started their campaign after losing the first two games. Meanwhile, Scotland have been good in patches and the lack of international exposure clearly shows. And the carnival goes on and next up is West Indies versus Zimbabwe, tomorrow at Canberra. Do join us for that game. Hope you enjoyed our coverage today as much as we did. Until tomorrow, goodbye and take care!]]></line><line><![CDATA[<b>Andrew Samson:</b> This is England's biggest World Cup win by runs since they beat East Africa by 196 runs in 1975.]]></line><line><![CDATA[<b>Simon Wilde:</b> England beat Scotland by 119 runs and raise their net run-rate from -3.952 to -1.415. Stand fifth in table behind Sri Lanka (-0.861) on NRAJ]]></line><line><![CDATA[<b>Russell Jackson:</b> Not a single associate nation has been blown away yet and often they've been in positions to win. NZ took 45 Tests to win, remember. #CWC15]]></line><line><![CDATA[<b>Andy Zaltzman:</b> Scotland fall short. England are UK champions. Book the open-top bus. Moeen was brilliant. Bowling was decent.]]></line><line><![CDATA[<b>Michael Vaughan:</b> A Win is a Win and that's all that was required today... #ICCWorldCup2015]]></line><line><![CDATA[<b>Aakash Chopra:</b> So, another upset in the cricket World Cup...Scotland lost to England]]></line><line><![CDATA[Let us have a look at some of the <b>interesting tweets</b> pertaining to this match]]></line><line><![CDATA[<b>Morgan</b>: "Delighted with today's performance. After a couple of bad games, it was important for us to focus on what we do and today we come out and played probably not within ourselves but expressed ourselves a little bit which was good to see. Well, its about playing the ball in front of you, especially after losing the toss and batting first in conditions that nipped around a little bit. I thought the two openers were exceptional upfront and set a great platform. Ideally we would have liked to kicked on without stuttering, losing two in batsmen set us back by probably 3-4 overs. But again we recovered really well and got a good score. No, we are really flexible going forward, today was all about a win. But as we get closer to the powerplay, 35-36 overs in we tend to be more flexible. Nice to get some runs, would have liked some more as usual but nice to get some runs in the middle. I thought we were really good. Standout performance from Steve Finn, just came in and smashed a length and got the ball to talk a little bit. I thought Broady (Broad) went unrewarded and again was quite ruthless in what he did. Moeen Ali chipping in with his 10 overs, I thought was brilliant. At the moment it is great to have them back at full strength. I think the combination of both (Anderson and Broad) works, works a lot in Test match cricket. They manage to build pressure and do two different things with the ball, that's a massive plus. And they are our two most experienced bowlers. They are bowlers you turn to, if you are in need and upfront have been the best for a while now. It is down to Jimmy (Anderson) and whoever has been partnering him. Everybody still believes in what we can do and what we have done in the past. We didn't sit there and sulk about past performances, we were looking forward to today's game. It's nice to get started and on the board and more so than anything put in a performance. We feel that we have under performed the last couple of games and that's been disappointing. But today to come out and some of the guys to be outstanding, Moeen Ali was exceptional and Ian Bell hard work upfront and obviously Steve Finn, guys put in performances and guys to be around and support those performances, I thought was brilliant."]]></line><line><![CDATA[<b>Mommsen</b>: "Not quite. I think we won the toss, obviously we would have liked a few more early wickets. Unfortunately that wasn't to be, we pulled things back nicely towards the back end of the innings. And then, unfortunately with the bat we just couldn't get going. Not sure what we can put that down to, but we didn't quite hit our areas. They are quality players and capitalised. Took their time early on and made it count towards the end. But I think credit to our bowling attack, the way they bounced back in the second half and bowled at the death, I thought they were very good. I still thought we were in with a shout, good wicket and we knew we needed a partnership upfront and we slowly started to get that and unfortunately it couldn't quite be that big one that we needed. Joshy (Davey) and great work at the death. I thought Kyle (Coetzer) batted beautifully there. Unfortunately, he couldn't go onto a big one. He timed beautifully today. I was in the wars there, but I am still walking (referring to the blows he took on the body). That New Zealand game was a tough first one for us. First WC match for us, for a lot of these boys. It was brilliant to get that experience, put that in the bank and take it away with us. Today again some learning curves for us and hopefully we will be better for that when we come up against Afghanistan. A huge step up from County cricket to international cricket. There is lot more pressure riding on everything, bigger crowds, ball is coming quicker, little one percenters make a huge difference. But at the same time we are standing up to it and we are not shying away."]]></line><line><![CDATA[<b>Moeen Ali</b>: "It was nice just to spend a bit of time. Just get through the first 10 overs, play a bit of positive and stuff like that. As normal as I could and still be aggressive. It was not an easy pitch to start on, takes a bit of more time, obviously these guys didn't get a lot of time when they came in, to play some shots, but we did well to get 300. There was a time when I thought 330-340, but like I said it was quite difficult, it wasn't easy to hit with a bit of wind and stuff. It is nice that we at least got 300. Obviously 340 is a bit long. It's nice to get a bit of form going into the next game. Hopefully, I can keep going, its nice to get a winning hundred. We just have to thank God for winning the game and hopefully, we can get on a run and win the next three. I didn't feel like I bowled that well today, it was ok. I have not bowled for a couple of weeks now, in terms of games, so it was nice to get some wickets and bowl 10 overs."]]></line><line><![CDATA[<b>Moeen Ali</b> is the <b>Man of the Match</b> for his all-round show.]]></line><line><![CDATA[There were a few positive signs for the England unit. Moeen played fearless cricket and yet again was among the wickets. Eoin Morgan played an enterprising innings of 46. Among the bowlers, Steven Finn bowled with a decent burst of pace and generated a bit of bounce. Chris Woakes bowled with zest and vigour as well. After being crushed in Wellington by New Zealand, England would be happy to win their first game. But England still have to lift their game by a few notches when they take on Sri Lanka in their next match in Wellington. On the other hand, Scotland will face Afghanistan in their next game in Dunedin. ]]></line><line><![CDATA[For Scotland, Iain Wardlaw, the former Yorkshire seamer, bowled with decent control, with the new ball. Alasdair Evans, known for his accuracy, too bowled with purpose. Davey, after struggling for consistency with the new ball, came back strongly to take key wickets. While chasing down England's total, Scotland made a brisk start. It was Coetzer, who proved his worth with a wide array of strokes to put England's spearhead, James Anderson, under pressure. But with wickets falling at the other end, he found it tough to maintain the scoring rate. For a brief period, Preston Mommsen and Coetzer gave Scotland a glimmer of hope of chasing down the target. But with both Mommsen and Coetzer getting out in quick succession, Scotland sloped towards a heavy defeat.<br/>]]></line><line><![CDATA[Moeen also shared a fine opening stand of 172 with Ian Bell. It turned out to the best partnership for England for the first wicket in World Cups. Bell struggled for timing, but played with composure to compile a fifty. Scotland though, made a spirited comeback with Josh Davey taking four wickets. In fact, it was Eoin Morgan and Jos Buttler, who landed a few hefty blows, and twinned it with quick running and improvisation to take England to a very good total. On the other hand, Scotland would rue the fact that Freddie Coleman gave Moeen a reprieve by dropping a tough chance in the fourth over of the innings. ]]></line><line><![CDATA[Moeen Ali's sparkling century and a fine all-round performance from the bowlers helped England to register their first win in the mega event. To make it a great day for Moeen, he also took the crucial wicket of Kyle Coetzer. Moeen was in prime form with the bat in hand. He cut, drove, flicked, lofted and pulled his way to a magnificent century. ]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Woakes to Haq, <b>out</b> Caught by Ballance!! That's it! <b>England open their account in the World Cup.</b> It has been a comprehensive win for them. They shake hands and congratulate each other. Coming to the wicket, it was a short delivery, Haq takes it on, top-edges the pull towards fine leg, Ballance has his eyes on the ball till the last second. <b>Haq c Ballance b Woakes 15(24) [4s-3]</b>]]></line><line><![CDATA[Woakes to Haq, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Woakes to Haq, no run, short and on off, Haq pulls and picks out mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Iain Wardlaw, right handed bat, comes to the crease</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;J Anderson to Alasdair Evans, <b>out</b> Caught by Buttler!! Well, he has his man this time. A typical Anderson dismissal. Full and in the corridor of uncertainty, Evans has to play at that, he stays in the crease and tries to defend, the ball grazes the outside edge and Buttler takes a good low catch. <b>Alasdair Evans c Buttler b J Anderson 9(15) [4s-2]</b>]]></line><line><![CDATA[J Anderson to Alasdair Evans, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;J Anderson to Alasdair Evans, no run, too full and just outside off, Evans drives and misses, on the stumps and that would have been the end of Evans]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;J Anderson to Alasdair Evans, no run, well wide of off, left alone]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;J Anderson to Haq, 1 run, back of a length just outside off, Haq punches it wide of mid-off and takes a quick single, the fielder shies at the bowlers end, but Haq had made his ground]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;J Anderson to Haq, no run, shortens the length, Haq stands up and pats it to the off-side]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;J Anderson to Haq, no run, on a length close to off, Haq presses forward and taps it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Anderson [5.0-0-29-1] is back into the attack</b>]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Woakes to Alasdair Evans, <b>FOUR</b>, back of a length just outside off, Evans swings at it wildly, was looking to put it towards cow corner, the ball takes the top-edge and flies over the slip cordon for a boundary]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Woakes to Alasdair Evans, no run, again, the length is short, Evans is happy to sit back and knock it to cover]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Woakes to Alasdair Evans, no run, short delivery outside off, Evans does not offer a shot]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Woakes to Alasdair Evans, <b>FOUR</b>, short delivery right at the batsman, who was backing away towards the leg-side, Evans fends it awkwardly and the ball runs away after hitting the gloves to the fine leg fence]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Woakes to Alasdair Evans, no run, fuller and just outside off, Evans drives and gets an inside edge to short mid-wicket]]></line><line><![CDATA[Two slips in place..]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Woakes to Alasdair Evans, no run, short of length on off, Evans bunts it to the left of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes [4.0-0-17-1] is back into the attack</b>]]></line><line><![CDATA[The batting powerplay yielded 19 runs and the wicket of Cross.]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Finn to Haq, <b>FOUR</b>, poor delivery from Finn, short and plenty of width on offer, Haq says thank you very much and cuts it over backward point to pick up his third boundary of the over]]></line><line><![CDATA[Goes back over the wicket]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Finn to Haq, no run, back of a length just outside off, Haq lifts his bat and lets it go]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Finn to Haq, <b>FOUR</b>, shot! It was full and right in the arc for Haq to swing across the line, he clears his front leg and hammers it straight back over the bowler's head for a boundary]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Finn to Haq, no run, shortens the length and slants it in, Haq misses the nurdle through the on-side, wears it on the thigh pad]]></line><line><![CDATA[Goes round the wicket!]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Finn to Haq, no run, back of a length on off, Haq stands up and knocks it down the wicket]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Finn to Haq, <b>FOUR</b>, <b>almost gets his fourth!</b> Angled across off, Haq comes forward and pushes at it, the ball squirts off the inside edge, it goes over the stumps and beats a wrong-footed Buttler to his right]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Broad to Haq, 1 run, banged in halfway down the wicket, Haq swivels across and pulls it to fine leg]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Broad to Alasdair Evans, 1 run, fuller and close to off, Evans pushes at it and the ball runs down to third man off the outside edge]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Broad to Haq, leg byes, 1 run, a needless review from Broad, the angle was always going to take it down leg. This one slants back, Haq is not fully forward and misses the forward defensive, is rapped on the pads and umpire Tucker gave it not-out. But Broad went for the review and it was confirmed that the ball was just kissing the leg-stump]]></line><line><![CDATA[Switches to round the sticks! Broad has convinced his skipper to review an lbw appeal. No issues with the front foot. Snicko shows no spike when the ball passes the bat. Hawk-Eye shows the ball clipping the leg-stump, umpire's call remains.]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Broad to Haq, no run, good length ball on off, Haq prods forward and presses it to mid-off]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Broad to Haq, no run, another short delivery, Haq goes for the pull and fails to make contact]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Broad to Haq, no run, lifter on leg-stump, Haq half-ducks and allows it to sail over him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Finn to Alasdair Evans, no run, beauty! That would have troubled any top-order batsman. Back of a length and shapes away late, Evans plays down the wrong angle and is beaten comprehensively. Not much he could have done]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Finn to Alasdair Evans, no run, fullish and on off, Evans stays rooted to the crease and knocks it to cover]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Finn to Alasdair Evans, no run, much more convincing leave, lifts his bat and lets it go through to Buttler]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Finn to Alasdair Evans, no run, this time manages to bring his bat inside the line and lets it go]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Finn to Alasdair Evans, no run, Buttler goes up for a caught behind appeal, Finn never seemed interested. It was on a length just outside off, Evans was late in bringing his bat inside the line, the ball missed the outside edge by a long way]]></line><line><![CDATA[<b>Alasdair Evans, right handed bat, comes to the crease</b>]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Finn to Matthew Cross, <b>out</b> Caught by J Root!! Another one for Finn! And the stump mic picks up Cross saying "oh no". It was short of length around off, Cross was in a dilemma whether to play or leave, in the end hangs his bat up, the ball goes off the face of the bat to the lone slip fielder. <b>Matthew Cross c J Root b Finn 23(32) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Finn to Matthew Cross, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, 1 run, digs it in short, Cross pulls it with one leg in the air to deep backward square, thinks about two but doesn't risk it with Finn's arm]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, no run, bumper outside off, Cross sways away from the line of the delivery]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, no run, pitched up just outside off, Cross drills it straight back down the wicket, Broad sticks out his left boot and fields the ball]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, no run, good length ball on off, Cross presses it to cover after coming forward]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, <b>wide</b>, bouncer which is too high, wided by the square leg umpire. Broad doesn't agree as the stump mic catches him saying "no way"]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, no run, slower one from Broad, Cross watches it carefully and shoulders arms to it]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Broad to Matthew Cross, 2 runs, back of a length just outside off, Cross stands tall and punches it through cover, Taylor tracks back and keeps it down to a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [5.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Finn to Haq, no run, fuller and on off, Haq pushes it to cover, calls for "wait"]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Finn to Haq, no run, on a length just outside off, Haq punches it towards cover, Moeen gets across and keeps the batsmen at their respective ends]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Finn to Haq, no run, shortens the length around off, Haq hoists his bat up and lets it pass]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Finn to Haq, no run, fuller and close to off, Haq drives it to cover, finds Moeen]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Finn to Haq, no run, angling in on off, Haq bunts it off the front foot to mid-off]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Finn to Haq, no run, back of a length outside off, Haq lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The <b>batting powerplay</b> has been enforced! Finn continues, Morgan has given him a couple of slips now..]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, quicker and on off, Cross presses forward and clips it again to short mid-wicket]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, goes back and flat-bats the pull to mid-wicket, picks out Morgan]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, leans forward and blocks it to the leg-side]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, <b>FOUR</b>, poor delivery and has been dealt with. Short and turning down leg, Cross shuffles across his stumps, plays half sweep/pull wide of the leg slip fielder]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Moeen Ali to Haq, 1 run, goes straight on, Haq comes forward to defend, gets it off the inside half to backward square leg]]></line><line><![CDATA[Changes to round the wicket!]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, 1 run, moves across his stumps and works it to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Finn to Haq, no run, goes round the wicket for the left-hander, pitches it up outside off, Haq drives and picks out mid-off]]></line><line><![CDATA[<b>Majid Haq, left handed bat, comes to the crease</b>]]></line><line><![CDATA[For a brief period, Scotland gained a bit of momentum and on this flat deck, they still seemed to have an outside chance of upsetting the apple-cart and defeating England. Unfortunately, Mommsen, Scotland's captain, was dismissed by Joe Root and to make it worse for them, Moeen Ali landed the decisive blow by snaffling Coetzer's wicket. For England, Steven Finn bowled with brisk pace and extracted bounce, and Moeen yet again made crucial breakthroughs.]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the last 17 overs: Kyle Coetzer and Preston Mommsen gave a good account of themselves by cracking a flurry of boundaries during the middle part of the innings. If Coetzer used the crease against the English bowlers to keep the scorecard moving then, Mommsen, with nimble footwork, played a few excellent shots down the ground while facing up to the spinners. Mommsen also used the sweep shot to keep the spinners guessing. <br/>]]></line><line><![CDATA[Time for a <b>drinks</b> break!]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Finn to Davey, <b>out</b> Caught by Buttler!! Finn has certainly put the horrors of the previous game behind him. He picks up his second wicket. It was back of a length outside off, Davey looks to force it off the back foot, can only manage an edge to the keeper. England are three wickets away from sealing the game. <b>Davey c Buttler b Finn 9(15)</b>]]></line><line><![CDATA[Finn to Davey, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Finn to Davey, no run, stifled appeal for lbw, umpire Ravi is not interested. This one nips back in, Davey ekes out an inside edge onto the pad, that saved him there. Although height also might have been an issue]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Finn to Matthew Cross, 1 run, Finn goes down on his followthrough and Bell fumbles, shortens the length and around off, Cross punches it to point, Bell lets the ball go past him]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Finn to Davey, 1 run, back of a length on off and middle, Davey shuffles across and clips it to the right of mid-wicket]]></line><line><![CDATA[There is a streaker running around on the field. The security guards hunt him down. A slight delay in play because of that. He seems to have eluded the guards and disappeared into thin air]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Finn to Davey, no run, short of length around off, Davey gets behind the line and bunts it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Finn [5.0-1-12-1] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, prods forward and knocks it to the right of Moeen]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, straight on middle, Cross leans forward and tucks it to short mid-wicket]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, 2 runs, 93.9kph quicker delivery, Cross drives it to deep extra cover, the fielder from sweeper tidies up]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Moeen Ali to Davey, 1 run, this time the nudge it in front of square]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, 1 run, shuffles across and milks it away behind square on the leg-side]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, pushes it to the right of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, 3 runs, nice floaty delivery outside off, Cross gets a good stride forward and drives it wide of long-off, Anderson runs to his left, dives full length and stops the ball. The umpire checks and confirms it is a good stop]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, no run, straight roller around off, Cross turns it to short mid-wicket]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;J Root to Davey, 1 run, punched down to long-on for a single]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;J Root to Davey, <b>wide</b>, spins down leg, wided by the umpire]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, 1 run, tad too full and just outside off, Cross opens the bat face and drives it through cover, Moeen does well to keep them down to one]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;J Root to Davey, 1 run, plenty of air given, Davey comes down the track and drives it towards mid-off]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, 1 run, nice loopy delivery, Cross whips it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, 1 run, eased off the front foot to long-on]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, tucks the batsman for room, Cross manages to jam it to short mid-wicket]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Moeen Ali to Davey, 1 run, goes straight on, Davey goes hard at that and the ball takes the inside edge and rolls to deep backward square leg]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, 1 run, turning into the pads, Cross works it with the angle to deep mid-wicket]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, glances it fine and picks out the leg slip fielder]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Moeen Ali to Davey, 1 run, bit of drift for Moeen, Davey goes for the drive and the ball rolls off the inner part to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;J Root to Davey, 1 run, quicker and on the stumps, Davey flicks it to deep mid-wicket and retains strike]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, 1 run, too straight, on middle, Cross presses forward and works it behind square]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, no run, leans forward and taps it gently to short mid-wicket]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;J Root to Davey, 1 run, this time gets bat on the nudge, sends it down to deep backward square]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;J Root to Davey, no run, advances and misses the nurdle, the ball dribbles off the pads to backward square]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;J Root to Davey, no run, slower and close to off, Davey inches forward and wrists it to Morgan at short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, no run, stays in the crease, turns it with the spin to short mid-wicket]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Moeen Ali to Davey, 1 run, comes down the track, takes it on the full and eases it to long-on]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Moeen Ali to Davey, no run, tossed up around off, defended down the wicket]]></line><line><![CDATA[<b>Josh Davey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Moeen Ali to Berrington, <b>out</b> Caught by Eoin Morgan!! Soft dismissal! Scotland are falling apart. Moeen Ali's fine day keeps getting better, he has his second. Berrington takes couple of steps out of the crease and whips it in the air, picks out Morgan at short mid-wicket to perfection. <b>Berrington c Eoin Morgan b Moeen Ali 8(13)</b>]]></line><line><![CDATA[Moeen Ali to Berrington, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Moeen Ali to Berrington, no run, tossed up close to off, Berrington presses it to cover after coming forward]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Moeen Ali to Matthew Cross, 1 run, hangs on the back foot and nurdles it to deep backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, 1 run, "catch" shouted Buttler but the ball lands safely. Throws it up and gets it to spin back in, Cross shuffles across and spoons it off a leading edge right of mid-wicket]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;J Root to Berrington, 1 run, flighted on off, Berrington leans forward and nudges it to mid-wicket]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;J Root to Berrington, no run, wrists it to short mid-wicket]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;J Root to Berrington, no run, comes on the front foot and drives it back to the bowler, Root fires a throw to the keeper, he almost took out Berrington, who has a stare at him. That was unnecessary from Root]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;J Root to Matthew Cross, 1 run, moves forward and works it to long-on]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;J Root to Berrington, 1 run, slower and just outside off, Berrington whips it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Moeen Ali to Berrington, 1 run, goes down on one knee and sweeps it behind square for a single]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Moeen Ali to Berrington, no run, shuffles across and misses the nudge through the on-side, is rapped on the pads but the ball was turning down leg]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Moeen Ali to Berrington, no run, pushed through around off, Berrington stays back and blocks it down the wicket]]></line><line><![CDATA[<b>Matthew Cross, right handed bat, comes to the crease</b>]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, <b>out</b> Caught by Woakes!! Big wicket! That might just be the match for England. For the second time in the game, Scotland lose two in two overs. Chips down the wicket and looks to lift it over mid-wicket, the ball balloons off the leading edge to long-on, Woakes runs forward, settles under it and takes it with his fingers pointing upwards. <b>Coetzer c Woakes b Moeen Ali 71(84) [4s-11]</b>]]></line><line><![CDATA[Moeen Ali to Coetzer, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Moeen Ali to Berrington, 3 runs, slider outside off, Berrington waits for it and uses the pace on the ball to steer through short third, Taylor gives chase, puts in the dive and flicks the ball back in. The third umpire has a look and deems it as a clean save]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, flatter and on the stumps, Coetzer nurdles it to deep backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;J Root to Coetzer, 1 run, taps it with soft hands to the right of mid-wicket and sets off for a quick single]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;J Root to Berrington, 1 run, pushed through, Berrington moves across and eases it to long-on]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;J Root to Coetzer, 1 run, quicker and on off, Coetzer gets inside the line and nudges it wide of mid-wicket]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;J Root to Berrington, 1 run, floated up on middle, Berrington drives it to long-on]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;J Root to Berrington, no run, flighted on off, Berrington defends it to the right of Root]]></line><line><![CDATA[<b>Richie Berrington, right handed bat, comes to the crease</b>]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;J Root to Mommsen, <b>out</b> Caught by Broad!! Timely wicket for England! The part-timer, Joe Root strikes and does a Brett Lee kind of celebration. Tossed up delivery, Mommsen kneels down and fetches it from outside off, gets a top-edge that flies towards backward square, Broad comes forward and takes a low catch. This partnership had just got some momentum and Mommsen throws it away. <b>Mommsen c Broad b J Root 26(42) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[J Root to Mommsen, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, no run, stays back and clips it to short mid-wicket, straight to the fielder]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, gets forward and gently taps it towards long-on]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, shuffles across a touch and clips it to deep mid-wicket]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, no run, turns it towards short mid-wicket]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, gets down on one knee and drags the sweep from outside off to deep backward square leg]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, full around off, Mommsen defends it into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Those few boundaries has got the crowd going says <b>Jamie</b>, "Some top class batting from Coetzer, the former Scotland captain. Crowd appreciating the quality of his shots."]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;J Root to Mommsen, 1 run, goes on the back foot and pulls it along the ground to deep square leg]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;J Root to Mommsen, no run, moves deep inside the crease and punches it towards cover]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;J Root to Coetzer, 1 run, leans forward and clips it to deep mid-wicket]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;J Root to Mommsen, 1 run, moves across and works it to long-on]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;J Root to Mommsen, <b>FOUR</b>, nicely done by Mommsen! He gets far across to his off stump and drags the sweep to the fine leg fence. Scotland are going at a nice rate now]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;J Root to Coetzer, 1 run, on the pads, Coetzer leans forward and turns it to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Root, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Root comes into the attack.]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, gets forward and turns it towards short mid-wicket]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, <b>FOUR</b>, beautiful shot! It was a flighted one from Ali on middle and off, Mommsen clears the front leg and clubs it over the bowler's head straight down the ground for a boundary]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, shuffles across and looks to work it into the on-side, the ball goes off the pad and rolls towards the keeper]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, shuffles across and works it to deep mid-wicket]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, no run, stays back and punches it to cover]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, 'catch it' is the call as Mommsen hits this one uppishly. Mommsen drives it to the right of the bowler, Ali dives but is not able to get his hand to the ball as it races towards long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, back of a length on middle and off, Coetzer defends it back to the bowler off the back foot]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Woakes to Coetzer, <b>FOUR</b>, powerful shot from Coetzer! He rocks on the back foot and muscles the pull to the deep mid-wicket fence]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, touch short of length and angling down the leg-side, the ball goes off the thigh pad and goes through to the keeper]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Woakes to Coetzer, leg byes, <b>FOUR</b>, back of a length and around leg, Coetzer hops in the crease and looks to tuck, the ball goes off the thigh pad and races to the fine leg fence]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Woakes to Coetzer, <b>FOUR</b>, excellent shot by Coetzer! It was a fuller length delivery around off, Coetzer gets forward and hammers it over mid-off for a boundary]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, fuller around off, Coetzer drives it towards mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes [3.0-0-9-1] is back into the attack</b>]]></line><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, <b>FOUR</b>, good use of the feet by Mommsen! He skips out, gets to the pitch of the ball and drills it straight down the ground for the second boundary of the over]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, shuffles across and clips it through backward square leg]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, uses his feet and turns it towards long-on]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, pushes it back to the bowler]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, leans forward and works it to deep mid-wicket]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, <b>FOUR</b>, shortish one from Ali, Coetzer rocks back and pulls it, Anderson runs to his left and dives near the deep mid-wicket rope, looks to drag the ball back in but it goes under his body towards the rope again, he attempts to haul back it in but ends up being in contact with the ad-hoardings as he lands on the ball. The umpire checks the replays and gives that a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, length delivery outside off, Mommsen pushes it back to the bowler off the inside half of the bat. A <b>maiden</b> over from Finn]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, good length ball outside off, Mommsen presses forward and drives it towards cover]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, length delivery outside off, Mommsen shuffles across and defends it back to the bowler]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, gets forward this time and pushes it towards cover-point]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, short of length and outside off, Mommsen punches it off the back foot to backward point]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, shortish around off, Mommsen gets back and pulls, gets an inside edge onto the thigh and the ball rolls into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, comes down the track but is not able to get to the pitch of the ball, lofts it towards long-on, the ball falls well short of the fielder there]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, punches it off the back foot to long-on to bring his <b>6th ODI fifty</b>]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, no run, shuffles across and turns it to short mid-wicket]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, no run, Coetzer gets back and punches it back towards Ali]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, sweeps it to deep mid-wicket for a comfortable single]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, drifts it in, Mommsen gets forward to defend and misses. Loud appeal for lbw but the umpire was not interested. The impact was outside off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Finn to Coetzer, 2 runs, length delivery on middle, Coetzer leans forward a touch and clips it through backward square leg]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Finn to Mommsen, 1 run, another short one from Finn, Mommsen jumps inside the line and looks to defend, gets an outside edge towards third man]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, extra bounce for Finn there, Mommsen is surprised by it as he looks to dab this shortish delivery, the ball takes the glove and rolls behind point]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Finn to Coetzer, 1 run, turns it off the pads past the diving short mid-wicket fielder for a single]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Finn to Coetzer, no run, fuller on middle and leg, Coetzer punches it towards mid-on]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Finn to Mommsen, 1 run, fullish and on the pads, Mommsen flicks it to square leg for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now.]]></line><line><![CDATA[In fact, Anderson swung the new ball for a few overs and should have taken the wicket of Coetzer too, but Ian Bell couldn't hold onto a chance at second slip. Chris Woakes, then followed up by snaffling the wicket of Freddie Coleman, with Steven Finn sending Scotland's main batsman Matt Machan back to the pavilion. It has to be said that Woakes has been England's best bowler on show as he has bowled with good disciplines. The track is flat and that can be encapsulated by the way Coetzer thwacked Anderson through the line and over the mid-wicket region to collect four runs in the fifth over of the innings. ]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the first 17 overs: Kyle Coetzer showed his ability to play well off the back foot by essaying crunching shots. England though, took wickets at regular intervals to gain the upper-hand. Coetzer took a heavy toll on James Anderson's bowling by smashing him for a flurry of boundaries. For England, Anderson took the first wicket by dismissing Calum MacLeod. MacLeod looked to take on Anderson by using his feet, but the England spearhead followed him to produce the edge and snare his wicket. <br/>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, no run, presses forward and turns it into the leg-side, fails to beat short mid-wicket]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, shuffles across and wrists it to mid-wicket for a quick single]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, flighted around off, Mommsen defends it back to the bowler off the front foot]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Moeen Ali to Coetzer, 1 run, on the pads, Coetzer shuffles across a touch and clips it to fine leg]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, 1 run, touch shortish, Mommsen gets back and punches it to sweeper cover]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mommsen, no run, flighted delivery on off, Mommsen defends it into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moeen Ali, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Time for spin as Moeen Ali comes into the attack. He scored a hundred today, can he do some magic with the ball now?]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Finn to Coetzer, no run, gets inside the line and works this back of a length delivery towards mid-on]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Finn to Coetzer, no run, play and a miss by Coetzer! It was a back of a length delivery wide of off, Coetzer pokes at it with laden feet and is beaten]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Finn to Mommsen, 1 run, length delivery outside off, Mommsen comes on the front foot and pushes at it, gets a thick outside edge that runs away to third man]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, gets forward to defend, gets an inside edge onto the pad and the ball rolls towards point]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Finn to Coetzer, 1 run, loud appeal for lbw by Finn. But there was a thick inside edge this time. Coetzer stays on the back foot and looks to tuck this back of a length delivery coming back in, gets an inside edge onto the pads and the ball rolls behind square on the off-side]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Finn to Coetzer, no run, length delivery on middle and off, Coetzer defends it with an angled bat towards short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Woakes to Mommsen, no run, fuller and in the channel outside off, comfortably left alone by Mommsen]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Woakes to Mommsen, no run, length delivery around off, Mommsen pushes it to short cover]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Woakes to Coetzer, 1 run, shuffles across and turns it to deep square leg]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, loud appeal for lbw but the umpire does not seem interested. They think about the review but do not go for it. It was a back of a length delivery coming back into the batsman, Coetzer looks to work it into the leg-side but misses. Was that sliding down? The umpire seems to think so. Hawk-Eye shows that the ball was just clipping the leg-stump]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, touch fuller on off, Coetzer pushes it back towards the bowler, who leaps up and stops it]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, back of a length on off, Coetzer defends it off the back foot back to Woakes]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, on middle, Mommsen blocks it with a straight bat down the track]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Finn to Coetzer, 1 run, short of length and outside off, Coetzer slaps it to point, Bell dives in an attempt to save the ball and parries it to his right. Meanwhile, the batsmen run for a quick single]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Finn to Mommsen, 1 run, opens the face of the bat to this short of length delivery and runs it down to third man]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, this is the second time Mommsen rocks on the back foot for that shot, but he mistimes the pull once again, gets an inside edge onto the body and it drops to the right of the bowler, who fields it]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, in the channel outside off, Mommsen shoulders arms to it]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, short of length and outside off, Mommsen cuts it to point, finds the fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Woakes to Coetzer, <b>FOUR</b>, Finn dives full length to his right at fine leg, great effort but he is not able to catch it and the ball races away to the fence. It was a short one from Woakes on the pads, Coetzer pulls it behind square, Finn runs across to his right and dives, but the ball bounces in front of him and crosses the rope]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, short of length on middle, Coetzer mistimes the pull towards mid-on]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, back of a length and outside off, Coetzer punches it towards cover-point]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, short of length on middle, Coetzer blocks it off the back foot and drops it into the leg-side]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, covers the sticks and defends it off the back foot towards cover]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Woakes to Coetzer, no run, back of a length and shaping away, Coetzer gets back and looks to cut but is beaten]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, back of a length on middle, Mommsen stays back and turns it into the leg-side, Finn runs forward and moves across to field it]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Finn to Mommsen, no run, shortish one, Mommsen gets back and pulls, gets an inside edge onto the body]]></line><line><![CDATA[<b>Preston Mommsen, right handed bat, comes to the crease</b>]]></line><line><![CDATA[The skipper Preston Mommsen is at the crease now. He will have to churn out a good innings to bail Scotland out.]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Finn to Machan, <b>out</b> Caught by Buttler!! Another bowling change and Scotland lose another wicket! Big wicket as Machan had batted superbly in the previous game. It was a back of a length delivery from Finn that was just outside off, Machan hangs his bat away from his body and ends up feathering an edge to the keeper. Scotland in deep trouble. <b>Machan c Buttler b Finn 5(7) [4s-1]</b>]]></line><line><![CDATA[Finn to Machan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Finn to Coetzer, 1 run, Coetzer hangs back and knocks it to cover-point for another single]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Finn to Machan, 1 run, stays back and works it to mid-wicket for a quick run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Finn to Coetzer, 1 run, fuller and outside off, Coetzer drives it towards short cover, where Morgan dives to his left and makes a fine stop, Broad came in from mid-off and has a shy at the non-striker's end but misses. Meanwhile, the batsmen scamper through for a brisk single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Finn, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[Double bowling change as Steve Finn steams in now.]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Woakes to Machan, no run, stays on the back foot and defends it towards mid-off]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Woakes to Machan, <b>FOUR</b>, lovely batting from Machan, he had all the time in the world to rock back on this shortish delivery, muscles the pull to the deep backward square leg fence]]></line><line><![CDATA[The Barmy Army guys are singing and having fun in the crowd]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Woakes to Machan, no run, back of a length on middle, Machan defends it off the back foot towards cover]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Woakes to Machan, no run, goes on the back foot this time and defends it back to the bowler]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Woakes to Machan, no run, back of a length and moving away from the batsman, he wafts at it and is beaten comprehensively]]></line><line><![CDATA[<b>Matt Machan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[Matt Machan walks in. He had hit a gritty fifty in the last game to help Scotland recover from 12 for four.]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Woakes to Coleman, <b>out</b> Caught by Eoin Morgan!! First ball from Woakes and he gets a wicket straightaway! It was a fullish one from the bowler outside off, Coleman gets forward and drives it uppishly, ends up hitting it straight into the hands of Morgan at short cover. He is very disappointed with himself. <b>Coleman c Eoin Morgan b Woakes 7(16)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Woakes to Coleman, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Chris Woakes, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[Change in bowling as Woakes replaces Anderson.]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, back of a length and just outside off, Coetzer knocks it towards cover-point]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Broad to Coleman, 1 run, shortish and outside off, Coleman runs it down to third man with an open bat face]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Broad to Coetzer, 1 run, strays it onto the pads, Coetzer clips it through backward square leg]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, short and on the stumps, Coetzer goes back and pulls, but he is beaten and the ball goes through to the keeper. The umpire signals one for the over]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, length delivery outside off, Coetzer hangs back and bunts it to backward point]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Broad to Coleman, 1 run, length delivery on middle and off, Coleman stays on the back foot and pushes at it, gets a thick outside edge to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, comes on the front foot and drives once again, finds the fielder at mid-off]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, fuller and wide of off, Coetzer reaches out and looks to drive, misses and the ball goes through to the keeper]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, fullish around off, Coetzer gets forward and drives it straight to cover]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;J Anderson to Coleman, 1 run, shortish and outside off, Coleman rocks back and drags the pull to deep backward square leg]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;J Anderson to Coleman, no run, length delivery just outside off, Coleman knocks it behind point, finds the fielder]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;J Anderson to Coleman, 2 runs, fullish and onto the pads, Coetzer flicks it to deep mid-wicket for a comfortable brace]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, back of a length and coming back in, Coetzer hops inside the crease and defends]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, short of length and outside off, Coetzer pulls, gets a thickish edge and the ball goes on the bounce to the keeper]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, fuller around off, Coetzer drives it towards mid-off, the fielder moves across to his left and fields it]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, length ball around off, Coetzer pushes it to mid-off]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, stays back and defends it towards cover]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Broad to Coetzer, <b>FOUR</b>, edged and the ball races past the slip fielder to the third man fence. There was width on offer this time, Coetzer gets forward to cut and gets a thick outside edge that flies past the lone slip fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jamie</b> on how to get the bagpipes playing again, "Crowd lazing post lunch. A good number of people. Some Scotland support, but not as vocal now after MacLeod's wicket. More such boundaries will perk them up."]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, 1 run, moves across and tucks this back of a length delivery to deep square leg]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, <b>FOUR</b>, fuller this time from Anderson but the result is the same! Coetzer gets forward and drills it hard to the extra cover fence]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, <b>FOUR</b>, beautifully done by Coetzer! It was a shortish one from Anderson, Coetzer gets on top of the bounce and punches it powerfully between extra cover and mid-off]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;J Anderson to Coleman, 1 run, Coleman shuffles across to this shortish delivery outside off and pulls it awkwardly to deep mid-wicket]]></line><line><![CDATA[Moeen Ali is signing autographs near the fence]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;J Anderson to Coleman, no run, back of a length and coming back in, Coleman defends it back to the bowler]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;J Anderson to Coleman, no run, short of length and outside off, Coleman knocks it to backward point, straight to the fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, stays on the back foot and knocks it behind point, Morgan dived to his left and made a fine save]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Broad to Coetzer, <b>FOUR</b>, short, wide and punished! Coetzer eyes lit up as soon as he saw the width on that one, has plenty of time to make room and cuts it powerfully to the deep backward point fence]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, short of length on off, Coetzer stays back and defends it towards silly mid-on]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Broad to Coleman, 1 run, shortish and wide, Coleman makes room and punches it to third man]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Broad to Coleman, no run, bouncer on off, Coleman ducks and lets it go through]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Broad to Coleman, no run, an absolute beauty from Broad! It was a back of a length delivery that straightens a touch, just about beats the outside edge of Coleman's bat as he looks to defend on the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, <b>FOUR</b>, beautifully picked up by Coetzer! It was a fuller one from Anderson on middle, Coetzer just leans forward a touch and flicks it over mid-wicket for his third boundary]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, stays back and punches this back of a length towards cover-point]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, length delivery angling on middle and leg, Coetzer turns it into the leg-side]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, touch back of a length and shaping back in, Coetzer defends it to the left of the bowler]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, fuller around off, Coetzer gets forward and drives, the ball goes off the inside half towards mid-on]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, fullish and on the stumps, Coetzer defends it with a straight bat towards mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Broad to Coleman, no run, back of a length and outside off, Coleman covers the sticks and lets it go through, good over from Broad, only one run came off it]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Broad to Coleman, no run, short of a good length around off, Coleman knocks it behind point]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Broad to Coleman, no run, back of a length on off, Coleman shuffles across and tucks it towards square leg]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Broad to Coetzer, 1 run, length ball coming back in, Coetzer shuffles across a touch and clips it to mid-on, good stop by the fielder diving to his right]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, stays and back and defends it off the inside half of the bat towards short mid-wicket]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, back of a length on middle and leg, Coetzer defends it to the right of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;J Anderson to Coleman, no run, another one shaping back into the batsman, Coleman stays back and defends it towards cover]]></line><line><![CDATA[Three slips in place now...]]></line><line><![CDATA[<b>Freddie Coleman, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;J Anderson to MacLeod, <b>out</b> Caught by Buttler!! Wicket for England in the third over! MacLeod seems livid with himself, walks away shaking his head. He comes down the track to this back of a length delivery that was wide as well, looks to flay it into the off-side, gets a thick outside edge and ends up offering a simple catch to the keeper. <b>MacLeod c Buttler b J Anderson 4(6) [4s-1]</b>]]></line><line><![CDATA[J Anderson to MacLeod, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;J Anderson to MacLeod, no run, length delivery coming back into the batsman, MacLeod brings his bat down and manages to turn it towards mid-on]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;J Anderson to MacLeod, no run, looks to cut a widish delivery, gets a bottom edge instead and the ball rolls towards the slips]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;J Anderson to MacLeod, no run, MacLeod is pushed on the back foot on this full toss and defends it back towards the bowler]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, 3 runs, lovely shot from Coetzer! It was a length delivery from Anderson wide of off, Coetzer comes on the front foot and punch-drives it between extra cover and mid-off, Moeen Ali gives the ball a chase as it slows down near the rope and saves one run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Broad to Coetzer, 1 run, stays behind the line and turns it towards mid-on]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, loud appeal by the keeper for a caught behind but the rest of the fielders are not interested. It was a short of length delivery outside off, Coetzer looks to cut and misses, the ball goes through to the keeper. Buttler was quite animated there in his appeal but replays confirm that there was no wood involved]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, length delivery outside off, Coetzer dabs it behind point, goes on the bounce to Morgan]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, back of a length around off, Coetzer defends it towards cover]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Broad to Coetzer, no run, poor shot from Coetzer, a swing and a miss! He wafts at this widish delivery and is beaten as the ball goes through to the keeper, good comeback from Broad]]></line><line><![CDATA[Two slips for Broad as well...]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Broad to Coetzer, <b>FOUR</b>, full on off and punished! A loosner from Broad to start off, Coetzer presents the full face of the bat and drives it to the long-on fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;J Anderson to MacLeod, <b>FOUR</b>, nicely done by MacLeod! He is drawn on the front foot with this length ball outside off, drives it handsomely to the sweeper cover fence]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;J Anderson to MacLeod, no run, in the channel outside off, left alone by MacLeod]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, 1 run, <b>edged and dropped at 2nd slip</b>, Coetzer gets forward and pushes at a length delivery shaping away, gets a thick outside edge towards second slip, where Bell dives to his right and gets his hand to it but is not able to hold on]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, <b>FOUR</b>, good length delivery on the pads, Coetzer just leans forward a touch and flicks it to the deep mid-wicket fence to get off the mark]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, bowls this one onto the pads, Coetzer tucks it to the right of the bowler]]></line><line><![CDATA[Two slips in place]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;J Anderson to Coetzer, no run, length delivery to start off with a touch of shape away, Coetzer bunts it into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Coetzer and MacLeod are at the crease. Coetzer is on strike. J Anderson will open the attack</b>]]></line><line><![CDATA[England's last two 300-plus scores in the World Cup were against India and Ireland. They tied the first one and lost the one against Ireland.]]></line><line><![CDATA[Welcome back...The England players are in a huddle. They have got the runs on the board and now need to bowl well to secure their first win in the tournament.]]></line><line><![CDATA[For Scotland to give England a run for their money, they need Kyle Coetzer, Richie Berrington, Preston Mommsen and Sussex's middle-order batsman, Matt Machan to fire. On the other hand, the likes of James Anderson and Stuart Broad would be keen to take wickets upfront.]]></line><line><![CDATA[For Scotland, Iain Wardlaw, the former Yorkshire seamer and arguably their best pacer since the retirement of John Blain, bowled with good disciplines upfront. Former Derbyshire seamer, Alasdair Evans, known for his nagging accuracy in Scotland's cricketing circles, too bowled with decent control. Davey, the swing bowler, snared four wickets. Haq produced a fine performance and snared the vital scalp of Moeen. In fact, Scotland would rue the fact that Moeen was dropped in the fourth over of the innings by Freddie Coleman off Davey's bowling.<br/>]]></line><line><![CDATA[Moeen's opening partner, Ian Bell, wasn't at his fluent best. But he and Moeen stitched a fine 172-run opening stand before Bell was dismissed for 54. It was also England's best opening stand in the history of the World Cup. Once Moeen was dismissed, England lost a slew of wickets. But Eoin Morgan and James Taylor helped them to recover. After the fall of Taylor's wicket, Jos Buttler, with his pyrotechnics took over and played crunching shots. In particular, England's coaching staff would be happy with Morgan doing well as he has struggled for runs in recent times. ]]></line><line><![CDATA[Moeen Ali was the star performer for England as he composed a stroke-filled century to take them to a sizeable score on the board. Moeen essayed a fluent ton, full of booming drives, wristy flicks, eye-catching pulls and sparkling lofted shots. Moeen made his intentions clear by thumping Josh Davey for a couple of boundaries and a six in the fourth over of the innings. He then, took a heavy toll on all the bowlers. He eventually, completed a quickfire hundred by launching Majid Haq, the experienced off-spinner, for a six over the mid-wicket region. Haq though, had the last laugh as he dismissed Moeen for 128. It turned out to be Moeen's highest score in ODIs.]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Davey to Broad, byes, 1 run, another slower ball from Davey, another swing and a miss from Broad, he scampers across for a bye. Cross shies at the striker's end and misses, Finn was a long way short of making his ground. <b>England end up with 303 on the board</b>]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Davey to Broad, no run, another excellent slower ball from Davey, Broad was way too early on the slog and missed]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Davey to Finn, 1 run, very full and on the stumps, worked away towards deep mid-wicket for a single]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Davey to Broad, leg byes, 1 run, the slower ball from Davey, Broad was looking to flick and misses, he calls Finn across for a leg-bye, the bowler picks the ball, shies towards the stumps and misses, would have been close had he hit]]></line><line><![CDATA[<b>Steven Finn, right handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Hat-trick ball</b>]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Davey to Woakes, <b>out</b> Caught by Mommsen!! Mommsen takes another excellent skier! This was full and on just outside off, Woakes went for the big swing, doesn't get hold of the shot, it goes straight up and towards mid-off, Mommsen runs across to his right from extra cover, settles underneath it and takes the catch, before falling backwards. <b>Woakes c Mommsen b Davey 1(2)</b>]]></line><line><![CDATA[Davey to Woakes, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Stuart Broad, left handed bat, comes to the crease</b>]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, <b>out</b> Caught by Mommsen!! Morgan falls! Excellent catch at mid-wicket by Mommsen. This was pitched up and was going away with the angle, Morgan went for the big swipe, doesn't get hold of the shot, it came more off the top-half of the bat. The ball swivelled across in the air, Mommsen ran back from mid-wicket, settled himself underneath the skier and takes the catch even as he tumbled backwards. <b>Eoin Morgan c Mommsen b Davey 46(42) [4s-4 6s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Davey to Eoin Morgan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, <b>wide</b>, Davey goes for the wide yorker and ends up spraying it miles outside off, wide called, brings up England's 300]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, 1 run, fuller length delivery and on Morgan's pads, flicked away towards deep mid-wicket for a single]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Woakes, 1 run, full toss on Woakes' pads, he will feel he missed out there, flicked straight to short fine for a single]]></line><line><![CDATA[<b>Chris Woakes, right handed bat, comes to the crease</b>]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Buttler, <b>out</b> Caught by Davey!! Buttler falls after a handy cameo. This was full and wide from Wardlaw, Buttler was looking to go over extra cover, hits it a lot straighter and flatter, straight to Davey at long-off, ends an impressive little stand with Eoin Morgan. <b>Buttler c Davey b Iain Wardlaw 24(14) [4s-4]</b>]]></line><line><![CDATA[Iain Wardlaw to Buttler, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, 1 run, Wardlaw gets his yorker right, Morgan digs it out past square leg for a single]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, <b>FOUR</b>, fuller length delivery and on the stumps, Morgan swings hard and drags it past short fine leg for a boundary]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, <b>SIX</b>, that's massive, Morgan gets underneath a length ball and lofts it high and over the long-on fence, a spectator slides across onto the sightscreen and attempts a one handed stunner, ends up falling on his back]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, 1 run, Davey keeps it full and well outside off, Morgan was looking to go over cover, ends up slicing it square on the off-side for a single]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Davey to Buttler, 1 run, full and well outside off, driven towards deep cover for a single]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Davey to Buttler, <b>FOUR</b>, full toss from Davey, missed his length by a margin, Buttler changes stance and reverse laps it behind square on the off-side for a boundary]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Davey to Buttler, <b>wide</b>, Davey pushes one wider outside off as Buttler came down the track, it's a tad too wide though and called by the umpire]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Davey to Buttler, 2 runs, Buttler backs away, makes room and drives one back past the bowler, the fielder at long-off gets across, puts in the slide and prevents the boundary]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Davey to Buttler, no run, Davey keeps it full and gets it to shape away, beats Buttler's attempted drive]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, 1 run, fuller length delivery and just outside off, Morgan drives it back past the bowler and gets a single towards long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Josh Davey [8.0-0-56-2] is back into the attack</b>]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Buttler, <b>FOUR</b>, that's not the length to be bowling, full and wide from Wardlaw, almost half-volley length, Buttler frees his arms and drills it over extra cover for a boundary]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Buttler, 2 runs, that's an excellent yorker from Wardlaw, tailed back late into Buttler, he does well to dig it out towards third man and gets back for the second run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, leg byes, 1 run, full and following Morgan as he backed away, he looks to flick and misses]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Buttler, leg byes, 1 run, full toss and on Buttler's pads as he backed away, he swings and misses, sneaks in a leg-bye]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Buttler, no run, <b>another chance goes in waste</b>, Wardlaw can't hold on to a tough return chance, Buttler blasted one back towards the bowler, he was on his followthrough, goes with both hands as he grabbed at the ball and shells it, he ended up getting just one hand on the ball]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, 1 run, low full toss from Wardlaw, punched down towards long-off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Iain Wardlaw [8.0-1-40-0] is back into the attack</b>]]></line><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Berrington to Buttler, 2 runs, short and well outside off, Buttler was attempting the pull, mishits it badly but gets it in the vacant gap past mid-wicket, comes back for the second run]]></line><line><![CDATA[Mid-off comes inside the ring, deep square leg goes back]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Berrington to Eoin Morgan, 1 run, fuller length delivery and well outside off, driven hard and straight to long-off for a single]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Berrington to Buttler, 1 run, the reverse pull now, Buttler doesn't get hold of the shot, short third man moves across to his left and keeps it down to a single]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Berrington to Buttler, <b>FOUR</b>, that's the problem when the fine leg is in the ring, Buttler walks across his stumps, uses the pace on the ball and helps it past short fine for a boundary]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Berrington to Buttler, no run, <b>is it a chance? Yes, it is</b>, but it was a tough one for the keeper, Buttler made room by backing away, Berrington kept it short and on the stumps, gets a thick edge on the cut, Cross can't hold on]]></line><line><![CDATA[Third man and fine leg are inside the ring, there's a man going across to deep mid-wicket]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Berrington to Eoin Morgan, 1 run, fuller length delivery and well outside off, punched down towards long-off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Berrington to Eoin Morgan, <b>wide</b>, another one well down leg-side, called as a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Berrington to Eoin Morgan, <b>wide</b>, Berrington drifts his first ball well down leg-side, wide called]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Richie Berrington [4.0-0-32-1] is back into the attack</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Davey to Buttler, <b>FOUR</b>, that's a confident start from Buttler, long half-volley from Davey, ends up drifting onto his pads, Buttler takes a step down the track and whips it away past mid-wicket for a boundary]]></line><line><![CDATA[<b>Jos Buttler, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Davey to James Taylor, <b>out</b> Stumped!! Terrific work from Cross. Davey saw Taylor coming down the track and fired it full and wide outside off, Taylor had to reach out to connect, he misses. Cross is quick to gather the ball and whips the bails with Taylor struggling to make his ground. Scotland are chipping away at the wickets. <b>James Taylor st Matthew Cross b Davey 17(26)</b>]]></line><line><![CDATA[Davey to James Taylor, <b>THATS OUT!!</b> Stumped!!]]></line><line><![CDATA[That's smart from Matthew Cross. Is Taylor <b>stumped</b>? He's well short, another wicket for Scotland, but this one's for the keeper]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, 1 run, Davey slips in the slower ball, nudged towards mid-wicket for a single]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, <b>FOUR</b>, that's much better from Morgan, this was full and just outside off, Morgan shuffles across and slogs it wide of mid-wicket, one bounce and over the ropes for a boundary]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Davey to James Taylor, 1 run, back of a length and just outside off, Taylor waits on it and chops it down towards third man for a single]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Davey to James Taylor, no run, fuller length delivery and just outside off, Taylor shuffles across, gets down on his knees and misses the swipe, gets rapped on the pads. The impact was well outside off and looks like it has hit Taylor's wrists. Scotland want a <b>review</b>. The third umpire has a look but there's no problems for Taylor. Umpire Ravi said no and replays vindicate him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The keeper is up for Davey]]></line><line><![CDATA[<b>Josh Davey [7.0-0-46-1] is back into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Haq to Eoin Morgan, no run, the reverse sweep from Morgan, but he had no pace to work with, doesn't get the gap and hits it straight to short third man]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Haq to James Taylor, 1 run, flatter and wider from Haq, Taylor makes room and cuts it square on the off-side for a single]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Haq to James Taylor, 2 runs, flighted and just outside off, Taylor comes down the track and shovels it wide of long-on for a couple of runs]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Haq to James Taylor, no run, Taylor comes down the track to one that was pushed through, turns it towards the on-side]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Haq to Eoin Morgan, 1 run, slower and wider from Haq, nudged square past point for a single]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Haq to James Taylor, 1 run, tossed up and on Taylor's pads, worked past square leg for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, no run, fuller length delivery and well outside off, Morgan went hard on the drive and mistimes it back towards the bowler]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, 2 runs, short and wide from Wardlaw, Morgan cuts it to the left of point. The fielder at deep cover runs across to his right and keeps them down to two runs]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, no run, Wardlaw keeps it full and well outside off, Morgan drives it crisply but straight to the fielder at cover]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, no run, on a length and on the stumps, Morgan presses across and defends it]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, <b>FOUR</b>, much better from Morgan, this was full and wide outside off, Morgan gets well forward and drills it through extra cover for a boundary]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, <b>SIX</b>, just over <b>deep square leg's head</b>, he wasn't on the ropes there, Coleman, he back-pedalled and the ball just went over his head, this was short and on the stumps, Morgan rocked back on the pull, doesn't bother to keep it on the ground, the ball eludes the fielder's outstretched fingers and hits the ad hoardings on the full]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Haq to Eoin Morgan, 1 run, this was tossed up and on the off-stump channel, driven firmly towards long-off for a single]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Haq to Eoin Morgan, no run, pushed back towards the bowler]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Haq to James Taylor, 1 run, Haq drops one short and on the stumps, pulled away without any timing behind square on the on-side]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Haq to James Taylor, no run, was it a chance<b>? </b> This was flighted and drifted across Taylor, he went for the reverse sweep and missed, overbalanced as he completed the shot, but the keeper can't gather it cleanly]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Haq to James Taylor, no run, tossed up and just outside off, Taylor prods across and pushes it towards the off-side]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Haq to Eoin Morgan, 1 run, loopy delivery from Haq, Morgan was looking to go over cover, ends up playing a lot straighter, drops well in front of long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Majid Haq [8.0-0-43-1] is back into the attack</b>]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to James Taylor, no run, Wardlaw keeps it very full and just outside off, turns out to be a low full-toss, Taylor jams it out towards short mid-wicket]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to James Taylor, no run, back of a length and just outside off, dabbed with an open face towards backward point]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to James Taylor, no run, tad fuller and on the stumps, Taylor presses across and defends it towards mid-on]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, 1 run, short and on Morgan's thigh pad, he swivels across on the pull, doesn't get hold of the shot, just a single to long leg]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, no run, Wardlaw bangs one short as Morgan came down the track, he drops his wrists and lets it go]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Eoin Morgan, no run, on a good length and just outside off, defended with a straight bat]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Iain Wardlaw [6.0-1-27-0] is back into the attack</b>]]></line><line><![CDATA[<b>22/2</b> in the batting PP for England. Not what they would have hoped for]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, 1 run, back of a length and on Morgan's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Alasdair Evans to James Taylor, 3 runs, fuller length delivery and well outside off, Taylor gets a good stride forward and punches it square past cover, the ball slows down near the ropes, Taylor wants a fourth run but is sent back]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Alasdair Evans to James Taylor, no run, Evans shortens his length and on the off-stump line, defended towards the on-side]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, 1 run, fuller length delivery and on the stumps, worked past square leg for a single]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Alasdair Evans to James Taylor, 1 run, on a length and just outside off, Taylor drops it in front of cover and calls for a quick single, Eoin Morgan was a bit slow to react but hares through for the run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Alasdair Evans to James Taylor, 2 runs, nice work at long-leg by Haq, this was full and on Taylor's pads, whipped away very fine for a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, no run, Davey shortens his length outside off, Morgan stays back and defends it with a straight bat towards mid-off]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, <b>FOUR</b>, that's much better from Morgan, this was pitched up and in the zone for the drive, Morgan gets a good stride forward and chips it over mid-off, almost went all the way, bounces just in front of the ropes]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, <b>wide</b>, Davey once again slips this one down leg-side, called as a wide]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, <b>wide</b>, short and angling down leg-side, called as a wide]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Davey to James Taylor, 1 run, full and on the stumps, Taylor shuffles across and drives it wide of mid-on for a single]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Davey to James Taylor, no run, Davey slips in the slower bouncer as Taylor was shimmying down the track, goes down leg-side but not called as a wide]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, 1 run, full and on Morgan's pads, worked away past mid-wicket for a single]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Davey to James Taylor, 1 run, back of a length and just outside off, dabbed away towards third man for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Alasdair Evans to James Taylor, 1 run, fuller length delivery and on Taylor's pads, whipped away to deep mid-wicket]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, 1 run, Morgan is off the mark, short and on Morgan's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, tad fuller and just outside off, Morgan drives and gets an inside edge towards mid-on]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, on a good length and shaping away from outside off, left alone]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, <b>wide</b>, Evans drifts one well down leg-side, wide called]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, loud shout for LBW, but looked like there was an inside edge on that, Morgan was caught in his crease to one that nipped back in, the inside edge just about saved him]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Alasdair Evans to James Taylor, 1 run, too straight from Evans, ends up slipping onto Taylor's pads, nudged away behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The Hagley Oval has a few empty seats according <b>Jamie</b>, "Scotland using the batting powerplay well so far. No real mood here, ground not filled up to capacity, pretty dull."]]></line><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Davey to Eoin Morgan, no run, on a good length and just outside off, Morgan punches it uppishly and it nearly goes all the way to mid-off]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Davey to James Taylor, 1 run, fuller length delivery and well outside off, draws Taylor into the drive, the edge is found but there's no one at the 3rd slip region]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Davey to James Taylor, no run, short of a length and just outside off, Taylor prods across and defends it]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Davey to James Taylor, no run, full and angling into Taylor's pads, he shuffles across and drives it towards mid-on]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Davey to James Taylor, no run, on a good length and nipping away slightly, Taylor shuffles across and defends it]]></line><line><![CDATA[<b>James Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Davey to J Root, <b>out</b> Caught by Matthew Cross!! England are stuttering here! Exceptional bowling from Davey, this was pitched up and nibbled away fractionally, draws Root forward before leaving him, the nick is found and it's a simple catch to Matthew Cross. England have lost their fourth wicket, Scotland's comeback continues. <b>J Root c Matthew Cross b Davey 1(3)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Davey to J Root, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[Root is <b>OUT</b>]]></line><line><![CDATA[<b>Josh Davey [5.0-0-36-0] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, <b>wicket-maiden</b> from Evans, he shortens his length outside off, Morgan prods across and defends it back towards the bowler]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, back of a length and just outside off, Morgan gets behind the line and defends it towards the off-side]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, fuller length delivery and shaping away from outside off, Morgan drives fluently but straight to the fielder at cover]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, on a good length and just outside off, Morgan prods forward and defends it towards mid-off]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Eoin Morgan, no run, back of a length and just outside off, Morgan gets behind the line and defends it towards cover]]></line><line><![CDATA[<b>Eoin Morgan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[A slip and a short cover in place]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Ballance, <b>out</b> Bowled!! Chopped on! Ballance's misery is over. This was a cross seam delivery, no pace for Ballance to work with, he ended up playing away from his body, gets a thick inside edge and the off-stump is rattled. He was really struggling to push on, on hindsight, might not have been the worst possible news for England. <b>Ballance b Alasdair Evans 10(18)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Alasdair Evans to Ballance, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[Time for the <b>batting PP</b>, but England have lost their set batsmen]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Haq to Ballance, 1 run, Haq tosses one slower and wider outside off, Ballance lunges forward and works it wide of cover for a single]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Haq to J Root, 1 run, Root shimmies down the track to a well flighted delivery and eases it to long-on for a single]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Haq to J Root, no run, flighted and on the stumps, Root goes back and works it towards mid-wicket]]></line><line><![CDATA[<b>Joe Root, right handed bat, comes to the crease</b>]]></line><line><![CDATA[A leg-slip is in place as Haq comes from round the wicket]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, <b>out</b> Caught by Coleman!! Moeen falls after a wonderful knock! This was tossed up ever so slowly and on the off-stump line, Moeen was down on his knees as he went for the slog-sweep, doesn't get hold of the shot and ends up finding Coleman at deep mid-wicket. He takes the catch reverse cusp, and Scotland have taken their second wicket. <b>Moeen Ali c Coleman b Haq 128(107) [4s-12 6s-5]</b>]]></line><line><![CDATA[Haq to Moeen Ali, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[Moeen is OUT]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Haq to Ballance, 1 run, flighted and on Ballance's pads, nudged away behind square on the on-side for a single]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Haq to Ballance, no run, tossed up and on off, Ballance prods forward in defence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Majid Haq [7.0-0-40-0] is back into the attack</b>]]></line><line><![CDATA[<b>Drinks</b> are on the field now. England are firmly on the move now. Moeen got past his hundred and has looked to be positive ever since then. Ballance is taking his time to settle then. England look good to post a score of 350 or more.]]></line><line><![CDATA[Scotland have tried to test the left-handed batsman with short deliveries, but they just aren't quick enough to trouble Moeen. On the other hand, Moeen's opening partner, Bell, struggled for timing and wasn't at his fluent best. However, he too amassed a fifty before he was dismissed for 54. Scotland desperately need to snare the wicket of Moeen as he is the one, who has taken the chances and has played aggressively.]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the last 17 overs: Scotland's bowlers bowled a touch better during the middle part of the innings. It was Richie Berrington, who finally broke the opening stand by snaring the wicket of Ian Bell. For England, Moeen Ali continued to play eye-catching shots and completed his second hundred in ODIs. He reached his century by launching Majid Haq for a six over the mid-wicket region. <br/>]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, <b>FOUR</b>, that's easy pickings for Moeen, too full and drifti8ng onto his pads, Moeen uses the angle and whips it behind square on the on-side, no one's there and that's another boundary for Moeen]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, this is very full and just outside off, Moeen jams his bat underneath and defends towards the off-side]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, Evans slips in the slower ball, he rolled his fingers around the ball, Moeen was way too early on the pull and missed]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Ballance, 1 run, short and wide from Evans, cracked square on the off-side for a single]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Ballance, no run, on a length and just outside off, he rolled his fingers around it, defended towards the off-side]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Ballance, no run, fuller length delivery and a hint of shape back into Ballance, he pushes forward and gets an inside edge towards mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alasdair Evans [6.0-0-29-0] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, <b>FOUR</b>, this is even better, half-volley and wide outside off, drilled through extra cover for a boundary, he's started to fly now]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, <b>FOUR</b>, that's smashed by Moeen, pitched up and just outside off, Moeen has room to free his arms and lofts it back over the bowler's head for a boundary]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Berrington to Ballance, 1 run, on a length and just outside off, Ballance plays with an open face and past point for a single]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, 1 run, Berrington keeps it full and on the stumps, slugged away towards long-on for a single]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Berrington to Ballance, 1 run, tad fuller and just outside off, driven towards deep cover for a run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Berrington to Ballance, no run, fuller length delivery and just outside off, Ballance gets forward and drives it straight to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Coetzer to Ballance, 1 run, on a good length and just outside off, pushed square on the off-side for a single]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Coetzer to Ballance, no run, fuller length delivery and on Ballance's pads, he looks to flick and misses, the ball rolls away towards the on-side]]></line><line><![CDATA[Back over the wicket]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, 1 run, Coetzer keeps it full and on the stumps, driven down towards long-on for a single]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, <b>SIX</b>, that's massive and it has been dropped by the crowd at the deep mid-wicket boundary, fraction short and just outside off, Moeen rocks back and pulls it high and over wide mid-wicket for a maximum]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, no run, this is full and on Moeen's pads, he gets down on his knees and sweeps it straight to short fine]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Coetzer to Ballance, 1 run, on a good length and just outside off, driven down towards long-off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Berrington to Ballance, 1 run, slower delivery outside off, Ballance glides it down to third man, retains the strike with that run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Berrington to Ballance, no run, nudges it to short mid-wicket]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Berrington to Ballance, no run, clipped to the left of short mid-wicket]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Berrington to Ballance, 2 runs, very full outside off, Ballance squeezes it wide of the diving cover for a couple]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Berrington to Ballance, no run, on a good length and on the stumps, Ballance gets forward and pushes it to mid-on]]></line><line><![CDATA[<b>Gary Ballance, left handed bat, comes to the crease</b>]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Berrington to Bell, <b>out</b> Caught by Coetzer!! First wicket finally for Scotland. Sharp catch at cover. The cutter from Berrington, Bell went hard and didn't keep the drive down, hit it straight to the fielder and Coetzer took a good catch to his left. Bell shakes his head as he walks back. <b>Bell c Coetzer b Berrington 54(85) [4s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Berrington to Bell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Richie Berrington [2.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, no run, Moeen Ali checks his push and finds Coetzer]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Coetzer to Bell, 1 run, now Bell gets lucky, with a push over cover, just went over the man, one hand came off the bat handle as Bell played that]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, 1 run, pitched up outside off, driven hard and straight to long-off]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Coetzer to Bell, 1 run, length delivery on off, Bell bunts it to long-on]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, 1 run, slower delivery outside off, Moeen Ali goes hard and slices it to sweeper cover]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, no run, almost lobbed back to Coetzer, Moeen Ali early into the push and the ball falls wide and to the left of Coetzer]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Haq to Bell, no run, Bell shuffles across and then finds short mid-wicket with a tuck]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Haq to Bell, 2 runs, Bell goes aerial and doesn't connect at all, the ball plugs in the outfield, in front and to the right of long-on]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 3 runs, skidded on a tad, Moeen Ali was late in getting his bat down, but angled it down to third man, they hustle and come back for the third]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, short and wide outside off, Moeen Ali hits it straight to the fielder at cover, missed out there]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, <b>SIX</b>, <b>that's 100 for Moeen Ali</b>. Gets there with a slog sweep over deep mid-wicket, connected well and knew as soon as he hit it. Off comes the helmet and gets a pat from Bell. Morgan and Root are all smiles as they clap]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, Moeen Ali gets forward and defends to short cover, sends Bell back]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, 1 run, cutter on off, punched down to long-off]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, no run, width was there on that, but Moeen Ali slaps it straight to the fielder at short cover]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Coetzer to Bell, 1 run, short of length outside off, punched to sweeper cover, for a single. <b>Fifty</b> for Bell]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, 1 run, defended to the right of the diving Coetzer, short mid-wicket gets across after the bowler fails to stop, hits direct at the bowler's end but Moeen Ali was well in]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Coetzer to Moeen Ali, 2 runs, full and wide outside off, Moeen Ali plays a flowing drive to deep extra cover, for a couple of runs]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Coetzer to Bell, 1 run, short and wide outside off, Bell thumps it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kyle Coetzer, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, Haq bowls it so slowly that Moeen Ali has all the time to watch and then come forward to dead bat towards point]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, Bell kneels down and sweeps along the ground, to deep square leg]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Haq to Bell, no run, four dots in a row as Bell nudges and finds backward square leg]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Haq to Bell, no run, Bell plays that late and dabs straight to the fielder at short third]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Haq to Bell, no run, worked to the right of short mid-wicket, who dives and stops]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Haq to Bell, no run, tossed up on the stumps, Bell defends to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 1 run, short on the stumps, Bell swivels on the pull and gets it down to fine leg]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, 1 run, full and on the pads, clipped to short mid-wicket]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, no run, back of a length on off, Moeen Ali defends to point]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, <b>wide</b>, down leg, Moeen Ali misses the flick]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 1 run, back of a length outside off, steered away down to third man]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 2 runs, short and wide outside off, Bell slaps it to deep extra cover, the fielder runs and then dives to his left to keep that to a couple]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, on a good length and on the stumps, Bell gets forward to defend and one hand comes off the bat handle, the ball rolls down the track]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, this delivery, Moeen Ali reads it off the pitch and defends off the back foot]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 2 runs, hit inside out over cover and long-off running to his right, puts in the dive to save two runs]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, tossed up on the stumps, very slow, Bell gets forward and clips it to deep mid-wicket]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 1 run, Moeen Ali eases one to sweeper cover]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 2 runs, very full on the stumps, Moeen Ali slog-sweeps and finds deep mid-wicket, for a couple]]></line><line><![CDATA[A slip in place for Haq]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, tossed up outside off, Moeen Ali gets forward and defends to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Majid Haq [4.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, short outside off, Bell mistimes the pull and a diving stop by short mid-wicket saves some runs]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, on a good length and on the stumps, Bell defends back to the bowler]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, 1 run, Moeen Ali gets forward and punches on-the-up to sweeper cover]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, <b>FOUR</b>, Moeen Ali has been very good on the pull today. Short, but doesn't rise at all, Moeen Ali plays a one-legged pull to deep backward square, put away emphatically]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 1 run, shortish outside off, Bell late cuts to square third man]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, pitched up outside off, bit of shape away, Bell guides it off the front foot to point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Iain Wardlaw [4.0-1-15-0] is back into the attack</b>]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, 1 run, back of a length outside off, Bell plays it close to his body and steers it down to third man]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, back of a length on the stumps, Bell plays a firm defence back down the track]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, pitched up on off, Bell drives straight to the fielder to mid-off]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, 1 run, drop and run to short cover, Bell has to dive and make it, beats the direct hit from short cover]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, on a good length and on the stumps, driven back to Alasdair Evans]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, <b>FOUR</b>, looked like the slower short delivery, Moeen Ali helps the pull over square leg, beating deep square. He waited for the ball to come on and then put it away]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, 1 run, flatter and on the stumps, punched past the diving left-hand of Machan]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Machan to Bell, 1 run, tossed up on middle, Bell flicks through square leg]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, 1 run, shortish outside off, cut to deep cover]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, 2 runs, Moeen Ali comes down the track and doesn't get hold of the pull, but gets it over mid-wicket]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, no run, down leg, Moeen Ali can't connect with the glance. The ball rolls off the pads behind the keeper]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Machan to Bell, 1 run, flatter on leg, clipped away to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, Alasdair Evans hits the pitch hard and Moeen Ali is forced to defend off the back foot]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, short of length outside off, punched to point]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, short and down leg, Moeen Ali went for a half-hearted pull and missed, there was a polite appeal from Alasdair Evans for a caught behind, but S Ravi signals two short balls for the over]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, 1 run, back of a length outside off, dabbed away to the left of backward point]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, 2 runs, pitched up outside off, Bell creams the drive past the diving cover, the call was for two and two they get]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, on a good length and outside off, Bell gets forward to defend to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Machan to Bell, 1 run, on the pads once again, clipped to deep mid-wicket]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, 1 run, skidding on, Moeen Ali went for a big pull, but mistimed it, gets it wide of the diving short mid-wicket]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Machan to Bell, 1 run, on the leg stump, whipped away to deep backward square leg]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, 1 run, shortish outside off, punched wide of point]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Machan to Moeen Ali, no run, pushed to the left of Machan]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Machan to Bell, 1 run, round-armish, flatter and on the stumps, worked off the back foot to mid-wicket, the batsmen wanted two, but they settle for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Machan, comes into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, hits a good length on off, Moeen Ali defends to short cover]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, angling in, worked straight to the fielder at short mid-wicket]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, back of a length on the stumps, Moeen Ali defends to the left of Alasdair Evans]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, 1 run, short on the stumps, Bell swivels and pulls to fine leg]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, back of a length outside off, Bell defends to the right of point]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, 1 run, pitched up outside off, from round the wicket, Moeen Ali pushes it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alasdair Evans [3.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 1 run, tossed up on the stumps, Moeen Ali gets forward and drives to mid-on]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 2 runs, floated up outside off, Moeen Ali aims a flashy drive and gets a thick outside edge, through the vacant slip, a couple]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, short and wide outside off, Bell cuts square of the wicket]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, <b>no ball</b>, 1 run, Haq has knocked the bails off with his foot and that will be a no-ball. <b>That's Finn's law</b> in place. Moeen Ali gets forward and drives to long-on]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, Moeen Ali watches it off the pitch and defends]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, gets forward and drives to the right of Haq, who dives, but can't stop the ball]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 1 run, very full outside off, Moeen Ali gets forward and drives to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks time.</b> England utterly dominant. Scotland look very ordinary with the ball. A huge score is on the cards]]></line><line><![CDATA[Among the Scotland seamers, Wardlaw, arguably their best pacer since John Blain retired from international cricket, bowled with decent control. However, Davey was inconsistent. The white new Kookaburra ball swung, but Scotland's pacers struggled to bowl line and length. To make it worse for them, Freddie Coleman dropped a tough chance off Davey's bowling to give Moeen a reprieve. ]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the first 17 overs: After Scotland won the toss and opted to bowl, England got off to a fine start. It was Moeen Ali, known for playing well-timed shots, who opened up his shoulders to essay booming drives. Moeen also lofted Josh Davey over mid-off for a six and followed it up by pulling the former Yorkshire seamer, Iain Wardlaw, in front of square for a boundary. Ian Bell, Moeen's opening partner, began his innings on a cautious note before pulling Alasdair Evans for a four. When the experienced off-spinner, Majid Haq, was introduced into the attack, Moeen thwacked a long hop over wide long-on for a six. Moeen, then reached his fifty in a mere 39 deliveries.]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, 1 run, driven wide of mid-off, Majid Haq does a good job as he dives to his right and saves a few runs. That was hit well and it needed a dive]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, no run, pushed softly to mid-off, straight to the fielder]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, <b>FOUR</b>, Berrington is under pressure and it shows. Dug in short and that's easy for Moeen Ali, who swivels and pulls over square leg, easy boundary]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Berrington to Bell, 1 run, back of a length on off, worked wide of short mid-wicket, for a single]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Berrington to Bell, <b>FOUR</b>, 'catch it' was the cry, but Bell has lofted that well over mid-off, got forward and played it over the man]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, 1 run, short of length outside off, Moeen Ali chops and gets a bottom edge, but the batsmen take a quick single to backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Haq to Bell, no run, on middle stump, worked straight to the fielder at short mid-wicket]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 1 run, shortish outside off, cut away to sweeper cover]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, just short of the forward diving short cover, Moeen Ali driving a tad uppishly and got lucky]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, slightly short, Moeen Ali rocks back and punches it to short cover]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, flighted delivery outside off, Moeen Ali taps it in front of point]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, tossed up outside off, Bell slogged that flat to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, <b>SIX</b>, Moeen Ali when he plays like this is a treat to watch. He played a shot similar to this one earlier on and now he has bettered it. Just a clean followthrough of the bat and it came off the middle, only one result - and that will be a delightful six over long-off. So effortlessly done]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, no run, Berrington is keeping it tight, defended with an open face to point]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, no run, on a good length and on the stumps, Moeen Ali shows the full face of the bat and drives to mid-off]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Berrington to Moeen Ali, no run, on the stumps, pushed back to the bowler]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Berrington to Bell, 1 run, short of length outside off, dabbed down to third man]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Berrington to Bell, no run, length delivery on the stumps, Bell turns it to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Richie Berrington, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, Bell gets back and nudges it through square leg, just the two off the over]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Haq to Bell, no run, now short mid-wicket dives to his left to make a diving stop. Four dots in a row]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Haq to Bell, no run, spinning back in, Bell goes on the back foot and nudges it to backward square leg]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Haq to Bell, no run, tossed up outside off, Bell gets forward and turns it to square leg]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Haq to Bell, no run, Bell goes on the back foot and wrists it to short mid-wicket]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 1 run, short and wide outside off, cut to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, 1 run, shortish outside off, slapped away to sweeper cover]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>FOUR</b>, <b>fifty</b> for Moeen Ali and Bell pats him on the back. Fourth fifty for Ali. Picks up the full delivery and then swings through the line, the bat face closes, but he manages to get it over mid-on's head. That is the kind of innings that should give the batters in the dressing room a lot of confidence]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, on a good length and on the stumps, Moeen Ali pushes it to backward point]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, slower delivery, off-cutter on the stumps, Moeen Ali defends to short cover]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Davey to Bell, 1 run, full and on the pads, clipped to deep mid-wicket]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Davey to Bell, 2 runs, attempted yorker down leg, Bell glances it down to fine leg, for an easy couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Coming back to <b>8.6</b>, replays are in and Davey has dropped Bell. That was hit uppishly and it carried to the bowler. Got a finger on it, but couldn't cling on. So that will go down as a <b>dropped</b> chance]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Haq to Bell, 1 run, Bell goes on the back foot and works that middle stump delivery to square leg]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Haq to Bell, no run, nearly chipped to short mid-wicket, Bell getting forward and almost finding the fielder, it lands on the bounce in front of the diving fielder]]></line><line><![CDATA[A leg slip in place for Bell now]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 1 run, much better, full and floaty outside off, driven to deep extra cover]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, <b>SIX</b>, Moeen Ali had an age and a half to hit that long hop. It hung in the air and came so slowly off the pitch, Moeen Ali could've hit it anywhere he liked, he rocked back and pulled it over wide long-on. That was a gift from Haq]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, no run, slower and on the stumps, Moeen Ali reads it off the pitch and defends off the back foot]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Haq to Moeen Ali, 2 runs, very slow and short outside off, Moeen Ali bottom-edges the cut, right through the keeper's legs, they take a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Majid Haq, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, 1 run, tucked wide of mid-on for a single]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Davey to Bell, 1 run, pitched up outside off, driven well to sweeper cover, for a single]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Davey to Bell, no run, on a good length and outside off, Bell gets forward and defends to short cover]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Davey to Bell, <b>wide</b>, full and down leg, wide called]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Davey to Bell, no run, and again! Bell took a step out to counter the movement, but this delivery was similar to the last one, it nipped away a tad to miss the outside edge, two peaches from Davey in a row. Very unlucky not to get a wicket]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Davey to Bell, no run, cracker of a ball that one. Angled in and straightens, Bell was pushing inside the line and the extra bounce takes it over the blade, didn't miss off by much. Bell has a puzzled look after getting beaten]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, 1 run, on a back of a length and outside off, Moeen Ali gets forward and times the drive to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, 1 run, angled in, on the hips, nudged to fine leg]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, presses forward and solidly defends to mid-off]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, <b>FOUR</b>, Moeen Ali is severe on anything short today, hip-height short ball, no real pace too and Moeen pulls over mid-wicket. So easy]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, nudged to mid-wicket]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, <b>FOUR</b>, <b>edged</b> and wide of the diving short gully fielder. Alasdair Evans produced the edge as Moeen Ali went for a drive, third man dived to his right but it was a poor effort and he allowed the ball to miss his grasp]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, nips back in and Moeen Ali is forward to push, but it runs off a thick inside half to the left of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Davey to Bell, no run, did that carry back to Davey? Bell punched a drive in the air, Davey was in his followthrough and the ball went through his hands, need a replay to know whether carried or not]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Davey to Bell, no run, much more solid. Gets forward and defends solidly to cover]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Davey to Bell, no run, iffy stroke from Bell and he is beaten, pitched up outside off, Bell went for a cross-batted drive and the ball went under the bat]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, 1 run, Machan at mid-off does well to keep that well-timed punch to just a single, the ball was going wide of him and he sprinted and dived full length to his right to stop]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Davey to Bell, 3 runs, floating half-volley on the pads, flicked wide of mid-on, the fielder from deep mid-wicket gets across and prevents the boundary. They run three, good aggressive running]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Davey to Bell, no run, yorker length on off, dug out by Bell]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Josh Davey [2.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, nips back in appreciably and moves past the flick of Moeen Ali, strikes him on the thigh pad, no real appeal from the Scots as it would've missed leg by a distance]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, 1 run, Bell was late in leaving that and the ball takes the face of the bat while Bell was shaping to let it go, down to third man]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, pitched up outside off, Bell defends to point]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, 1 run, angling in from round the wicket, into the pads, clipped away to fine leg]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, no run, from round the wicket and back of a length outside off, Moeen Ali strokes it straight to the fielder at cover]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, 1 run, 'push, push' was the call from Bell as he nudged it towards deep backward square, but the fielder charged in and kept it to a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 1 run, back of a length outside off, Bell opens the face of the bat and dabs it to the left of the diving backward point. The call was for 'wait on' initially, but once the ball went past the fielder, they take a single]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, pitched up outside off, swings away, Bell lets it go]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, 1 run, back of a length on the stumps, nudged in front of short mid-wicket, which is vacant]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, <b>FOUR</b>, that is a cracking pull shot. Iain Wardlaw going short and Moeen Ali rocking back to hammer a pull in front of square, no chance for the fielder running to his right at deep mid-wicket]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 3 runs, too short and outside off, Bell doesn't time the pull, but hits the gap, good enough for three as a bit of tag-team work from Scotland ensues]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, 1 run, short of length outside off, Moeen Ali punches past the gully to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, another nip-backer and Alasdair Evans has Bell in trouble. This one cuts back in and misses the inside edge, strikes Bell on the thigh pad, would've gone over. Nippy delivery from Evans]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, 1 run, nips back in a tad, Moeen Ali turns it gently into the gap at mid-wicket for a single]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Alasdair Evans to Moeen Ali, <b>wide</b>, from round the wicket to Moeen Ali, full and wide outside off, very wide in fact and called a wide]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, leg byes, 1 run, down leg, catches a bit of thigh pad as Bell misses the glance and it's a leg bye to fine leg]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, short and wide outside off, Bell cuts, but stopped at backward point with a dive]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, no run, that was close! Nips back in and keeps low, Bell is rapped on the pads, but that would've missed leg. So a good call from Rod Tucker. Snicko shows no inside edge onto the pads, but the angle would've taken it down. Hawk-Eye shows it was umpire's call. Good job that Scotland didn't review]]></line><line><![CDATA[Are Scotland going to review this? No they aren't!]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Alasdair Evans to Bell, <b>FOUR</b>, a loosener from Alasdair Evans and that has been pulled away to deep backward square leg, Bell swivelling on the shot and timing it well, the ball raced away to the fence in a jiffy]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alasdair Evans, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, no run, short of length on the stumps, Moeen Ali hops a little and defends to backward point]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, no run, pitched up on the stumps, Moeen Ali drives and finds mid-off]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, no run, on the middle and leg stump line, Moeen Ali nudges it to mid-wicket]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, <b>wide</b>, wide down leg, Moeen Ali pulls and misses]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 1 run, it wasn't short enough to be pulled, but Bell fetched it from outside off and got it to the right of mid-on, easy single]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, short of length and shaping away from outside off, Bell sees it and shoulders arms]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, back of a length outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>SIX</b>, that's a shot and a half. Davey has been guilty of pitching it up far too often in the over and Moeen Ali just is timing the drives superbly. This one is just nonchalantly lifted over mid-off. The timing was so great that it carried all the way. The bat swing from Moeen Ali was a sight to behold. Such grace and poise in the stroke]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, pitched up outside off, Moeen Ali plays a square drive and it's intercepted by a diving point to his left]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, well-hit drive, but straight to the fielder at mid-off, Moeen Ali timing these drives well at the moment]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>FOUR</b>, deliberately hit over point. Moeen Ali saw the fuller length delivery outside off and sliced it up and over point]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, <b>is that dropped?</b> Looks like it. Moeen Ali went hard on the drive and it went to cover, was dropping on Freddie Coleman, who couldn't gather the low chance, the ball went under his hands and went to ground. Should've taken that, even though it wasn't an easy chance]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>FOUR</b>, nice shot by Moeen Ali. Davey pitches it up outside off, Moeen Ali opens the face of the bat and plays a nice square drive into the gap at cover, the fielder makes a spirited chase and dives head-first into the ad-hoardings, but the ball wins the race]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, pitched up outside off, Bell gets forward and drives straight to the fielder at mid-off. That's a maiden over by Iain Wardlaw]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, on a good length and outside off, Bell defends with an open face to backward point]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, short of length on the stumps, Bell gets right behind the line to defend to the left of the bowler]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, on a good length and on middle, Bell shuffles across and defends to mid-on. The call is for 'wait on' to Moeen Ali]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, nudged in front of mid-on]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, Bell looks to pull and completely mistimes the shot, the short ball got big on him, he rolled his wrists to keep it down and it went off the splice straight to the fielder at mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, that was the delivery he was looking for all over and has found it off the last ball. Pitched up outside off, the angle away from Moeen Ali lured him into the cover drive, the ball landed a foot short of the shot and missed the outside edge. Nice ball to finish off a pretty poor over]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>wide</b>, further outside off, swings away even more, wide called]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, pitched up outside off and Moeen Ali for an instant wanted to go for the cover drive, decided against it in the end]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, nicely timed, but straight to the fielder at mid-off, Moeen Ali playing the front foot punchy drive]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>wide</b>, poor over from Davey so far. Drifts it down leg and Moeen Ali lets it go]]></line><line><![CDATA[<b>Nothing on Snicko</b> for that caught behind appeal]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, on a length and outside off, angling away, left alone]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>wide</b>, down leg and Moeen Ali flicks and misses. Davey and the keeper thought there was a tiny feather, they go up but Rod Tucker isn't fooled, he stretches his arms out wide to signal a wide]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, <b>wide</b>, way outside off and that's an easy call for wide]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, 2 runs, flicked off the pads and the call was for 'two', the fumble from the deep mid-wicket fielder makes the batsmen's job easy]]></line><line><![CDATA[Two slips in place for Davey too]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Davey to Moeen Ali, no run, on a good length and on the stumps, Moeen Ali defends to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Josh Davey, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, 2 runs, pitched up outside off, Bell gets a good stride forward and drives into the gap at cover, the ball is stopped by the chasing fielder and Bell will get off the mark with that couple]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, pitched up outside off, swinging away, Bell isn't tempted just yet]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, shaping away from outside off, Bell wants another sighter, leaves this one as well]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, back of a length and angling away from outside off, Bell shoulders arms, that carried nicely to the keeper]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Iain Wardlaw to Bell, no run, short of length outside off, defended to point, Bell came down late on it]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Iain Wardlaw to Moeen Ali, 1 run, nice punchy drive from Moeen Ali, wide of mid-off, who goes to his right and makes a half-stop, is off the mark with that shot. Gentle swing for Iain Wardlaw, nothing more]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moeen Ali and Bell are at the crease. Moeen Ali is on strike. Iain Wardlaw will open the attack</b>]]></line><line><![CDATA[The countdown begins and Finn says 'let's go'. Time for the first ball of the day. Moeen Ali will be on strike. Wardlaw will be the bowler. Two slips in place. Here we go then]]></line><line><![CDATA[The national anthems are the stage for the players to show their passion. The cherubic Joe Root sings the anthem with a smile and gusto. Surprisingly, Eoin Morgan doesn't sing. He keeps quiet. After the anthems are done, the Scotland team are in a huddle. They break out of it and are followed into the ground by the England openers.]]></line><line><![CDATA[<b>Pitch report</b> by Sir Ian Botham: The pitch looks good. It has been used for one game, on Saturday. Tennis ball bounce. You need to pitch it up. Don't bowl too short. Little bit of movement available. Look at what happened to Pakistan, they were 1/4]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Scotland</b> (Playing XI): Kyle Coetzer, Calum MacLeod, Freddie Coleman, Matt Machan, Preston Mommsen(c), Richie Berrington, Matthew Cross(w), Josh Davey, Majid Haq, Alasdair Evans, Iain Wardlaw]]></line><line><![CDATA[<b>England</b> (Playing XI): Ian Bell, Moeen Ali, Gary Ballance, Joe Root, Eoin Morgan(c), James Taylor, Jos Buttler(w), Chris Woakes, Stuart Broad, Steven Finn, James Anderson]]></line><line><![CDATA[<b>Scotland have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Morgan:</b> 'Obviously not an ideal start to our campaign but today is another opportunity for us to turn it around and get things started. I would've had a bowl first. Little bit of overhead conditions suggest it might swing a bit. The wicket looks really good and all reports says it's nice bounce and carry, so we don't mind batting here first. <b>Same team</b> as the first game and the second game. I think the balance of the side and another opportunity for guys to put a performance under their belt is more important than anything. We feel we haven't performed anywhere near our best and to try and sort of rejig the team with guys who haven't performed is very difficult to do, so again, it's a strong side we have put out and a chance to put a performance under their belt. As I said, we have had a slow start and hopefully we would look to turn it around today']]></line><line><![CDATA[<b>Mommsen:</b> 'Yeah this is where we qualified for the World Cup last year in a pressurised game, so very happy to be here. He (Paul Collingwood) has been hugely influential and obviously knows a lot of the England players, so he has given us quite a bit of insight and that's been hugely valuable. We will have a bowl first. Just overhead conditions, I think the wicket shouldn't play too badly. It should be a good one-day wicket, but hopefully get a bit of swing early on. Ally Evans and Freddie Coleman come in for Rob Taylor and Hamish Gardiner. It's always nice to be playing against the neighbours, obviously not a perfect start for them, hopefully we can put them under pressure early on']]></line><line><![CDATA[The news coming in is that England are unchanged. We'll confirm that to you at the toss]]></line><line><![CDATA[<b>England Cricket</b> have tweeted: Overcast conditions here as our batsmen hit in the nets at back of ground.]]></line><line><![CDATA[<b>Weather conditions:</b> Early morning drizzle was on the horizon but it is expected to clear in time for the match. It should be a gloriously sunny afternoon with a nice Northeasterly breeze blowing across the Hagley Oval.]]></line><line><![CDATA[On the other hand, Scotland's coach, <b>Grant Bradburn</b>, reckons that the Scots' familiarity with the Christchurch surface will hold them in good stead. "I think that's been a theme for us right the way through. We've had a fantastic buildup right from February last year when the guys played so well here in Christchurch and ended up winning seven in a row to qualify for the World Cup," he said.]]></line><line><![CDATA[England's opener, <b>Ian Bell</b>, is under no illusion and says that a positive result might kick-start England's World Cup campaign. "We haven't done that in these two games. We've been well off the pace, so it would be nice to turn up tomorrow and put together the kind of game that we know we can. That's what we've got to do", Bell noted.]]></line><line><![CDATA[<b>Scotland:</b> Scotland have never defeated a full member nation in World Cups but they came close to rewriting history when they put up an inspired performance against New Zealand in their first match. After being put in to bat, the Scots were reeling at 4 for 12 at one point. They recovered well from that stage to finish on 142 on the back of Matt Machan and Richie Berrington's gritty half-centuries. While New Zealand were expected to run through the chase, Scotland took a slew of wickets to give the Kiwi side a bit of a scare. Although the Scots eventually ended up on the losing side, their fightback was greatly appreciated.]]></line><line><![CDATA[<b>England:</b> England were thrashed both in Melbourne and Welllington by huge margins by Australia and New Zealand, respectively. In the first game, they collapsed in a massive run chase of 343. Despite James Taylor's fighting 98 not out, the English side had nothing to account for. They slipped further in the second match against New Zealand as the Kiwi side bowled them out for a paltry 123. If that was not enough, Brendon McCullum annihilated the English bowling attack, scoring the fastest fifty in World Cup history, eventually smashing 77 off just 25 deliveries. With no points to their name yet and the worst net run rate in the pool, England are currently reeling at the bottom of the table.]]></line><line><![CDATA[Let us have a look how these teams have fared in their earlier games in this tournament.]]></line><line><![CDATA[However, the Scots aren't any pushovers themselves. The biggest incentive for teams like Scotland and Ireland in a World Cup is a victory against old nemesis, England. Having acquitted creditably against New Zealand, Scotland will hope for a bigger casualty, and on the basis of current form, England seem ripe for the picking.]]></line><line><![CDATA[<b>09:45 Local Time, 08:45 GMT, 02:15 IST:</b> It's the clash of the Europeans. England take on Scotland as they seek to restore their World Cup credentials. It has been a bumpy ride for Eoin Morgan and his men. While they weren't expected to beat Australia and New Zealand, the margin of losses in both the games has left England right at the bottom of the table. It has left them with plenty to do. England can't get any worse and if there's a time for redemption, it starts right now.]]></line><line><![CDATA[<b>Preview by Jamie Alter</b><br/><br/>In football, the very mention of England versus Scotland is sufficient to stir the passion in hardcore fans. It is, after all, the oldest international football rivalry, renewed for pride, passion and an infamous pitch invasion at Wembley Stadium in 1977.<br/><br/>Not so in cricket, but when Eoin Morgan's England team meets Preston Mommsen's Scotland at Hagley Oval on Monday morning, there will be plenty of interest in the match. For starters, there is the fact that England, having lost to Australia and New Zealand in the World Cup, need to win to put their campaign on track. Second, there is the determination of Mommsen and his team-mates to show that they are not at the tournament as minnows, having earned the right to be at the World Cup early last year. Third, there is the history of political tensions between the two nations.<br/><br/>While that last aspect is unlikely to act as motivation for either team, there is definitely determination on either side to take the other out. "Yeah, of course, there's always a huge rivalry between Scotland and England in any sporting event," said Mommsen on the eve of the match. "I've been to Murrayfield for a ScotlandEngland clash, and the passion that's on display there is pretty awesome, and hopefully that'll come out again tomorrow. We're up for this game. We've got a very passionate 15 players there who will fight tooth and nail for every run and try and save every run in the field, as well. We'll be fighting for it tomorrow. There's no doubt about that. We want to win this game and hopefully we can put in a huge performance.<br/><br/>Ian Bell, the England opener, spoke of the positivity in the camp and the need to get points on the board. "We've got to put on a good performance. Obviously the result is obviously the most important thing, but it would be nice to put it on with real clinical cricket," he said. "We haven't done that in these two games. We've been well off the pace, so it would be nice to turn up tomorrow and put together the kind of game that we know we can. That's what we've got to do. I think even though what's happened has been so bad, it's irrelevant for what happens tomorrow."<br/><br/>England face Scotland at scenic Hagley Oval, a ground at which Mommsen's team won the ICC World Cup Qualifiers last year. They can claim to have experience over England at this venue, for it was here that they defeated the UAE in the final of the qualifying event to seal the third qualification spot for the World Cup, and in the process of that successful run they recorded four of the ten highest team totals as well as four of the highest individual knocks.<br/><br/>"I think it's definitely an advantage for us," said Mommsen. "I'm not sure whether England have actually played on this ground since it's kind of reopened, and we've played here a number of times in the last 12 months. That is something that we will try and use to our advantage. Generally when we've played here, it's played very well. It's a good oneday wicket. If you get in, it has potential to get big scores, and something we'll be looking for tomorrow is a big partnership up front to lay a steady platform for our innings. It is definitely an advantage for us, and hopefully we can use that tomorrow."<br/><br/>Scotland are likely to stick with the same team that tested New Zealand in the field in Dunedin this week, while England could drop Steven Finn, who conceded 49 runs in two overs in the Wellington loss to New Zealand, for Chris Jordan. Jordan had a good hit in the nets, more so than Finn on the adjacent strip. England coach Peter Moores was seen having a long discussion with Ravi Bopara both while bowling and batting, so there is a chance that the allrounder gets a game. Gary Ballance is under the spotlight after a lean run. Alex Hales could be considered.<br/><br/>Mommsen could not comment much on the nature of the pitch, but was aware that it would be the same strip used on Saturday, on which West Indies made 310 against Pakistan and then reduced them to 25 for 5 with the ball, with Jerome Taylor and Jason Holder bowling on a tight channel outside off stump. A look at the stats for Hagley Oval shows that in five ODIs played here, three times teams have crossed 300 in the first innings. With a sunny day forecast, getting first use of the pitch would be the way to go.<br/><br/>Scotland's coach, the former New Zealand international and Northern Districts coach Grant Bradburn, was also aware of the Scotland v England rival and spoke of how it was important for him to keep some of the Scottish players calm, not letting them get too far ahead of themselves.<br/><br/>"I think that's been a theme for us right the way through. We've had a fantastic buildup from right from February last year when the guys played so well here in Christchurch and ended up winning seven in a row to qualify for the World Cup," he said. "We've been fortunate to have been handed a very good opportunity to prepare well. A big part of that preparation has been the discovery, really, for us of the formula that works for us. It's having fun and enjoying our environment and enjoying our cricket, sticking to the basics. Definitely two themes that we value highly in everything we do. It's a huge privilege for us to be here."<br/><br/>Probable XIs<br/><br/>Scotland: 1 Kyle Coetzer, 2 Calum MacLeod, 3 Hamish Gardiner, 4 Matt Machan, 5 Preston Mommsen (capt), 6 Richie Berrington, 7 Matthew Cross (wk), 8 Josh Davey, 9 Rob Taylor, 10 Majid Haq, 11 Iain Wardlaw<br/><br/>England (possible): 1 Ian Bell, 2 Moeen Ali, 3 Alex Hales, 4 Joe Root, 5 Eoin Morgan (capt), 6 James Taylor, 7 Jos Buttler (wk), 8 Chris Woakes, 9 Chris Jordan, 10 Stuart Broad, 11 James Anderson]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Scotland</b> (From): Kyle Coetzer, Calum MacLeod, Hamish Gardiner, Matt Machan, Preston Mommsen(c), Richie Berrington, Matthew Cross(w), Josh Davey, Rob Taylor, Majid Haq, Iain Wardlaw, Freddie Coleman, Alasdair Evans, Michael Leask, Safyaan Sharif]]></line><line><![CDATA[<b>England</b> (From): Ian Bell, Moeen Ali, Gary Ballance, Joe Root, Eoin Morgan(c), James Taylor, Jos Buttler(w), Chris Woakes, Stuart Broad, Steven Finn, James Anderson, Ravi Bopara, Alex Hales, Chris Jordan, James Tredwell]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>303</totalruns>
+		<totalwickets>8</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="England">
+			<players>
+				<player>
+					<playerid>6692</playerid>
+					<name>Moeen Ali</name>
+					<batsman-name>M Ali</batsman-name>
+					<batsman-nickname>Moeen Ali</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>128</runs>
+					<balls>107</balls>
+					<fours>12</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Haq</bowler>
+					<bowlerId>646</bowlerId>
+						<fielder>Freddie Coleman</fielder>
+						<fielderId>9318</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<batsman-name>Bell</batsman-name>
+					<batsman-nickname>Bell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>54</runs>
+					<balls>85</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Berrington</bowler>
+					<bowlerId>1398</bowlerId>
+						<fielder>Kyle Coetzer</fielder>
+						<fielderId>1415</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6679</playerid>
+					<name>Gary Ballance</name>
+					<batsman-name>Ballance</batsman-name>
+					<batsman-nickname>Ballance</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>18</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>A Evans</bowler>
+					<bowlerId>3053</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<batsman-name>J Root</batsman-name>
+					<batsman-nickname>J Root</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Davey</bowler>
+					<bowlerId>6657</bowlerId>
+						<fielder>Matthew Cross</fielder>
+						<fielderId>9365</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<batsman-name>E Morgan</batsman-name>
+					<batsman-nickname>Eoin Morgan</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>42</balls>
+					<fours>4</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Davey</bowler>
+					<bowlerId>6657</bowlerId>
+						<fielder>Preston Mommsen</fielder>
+						<fielderId>6744</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<batsman-name>James Taylor</batsman-name>
+					<batsman-nickname>James Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>26</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>J Davey</bowler>
+					<bowlerId>6657</bowlerId>
+						<fielder>Matthew Cross</fielder>
+						<fielderId>9365</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<batsman-name>J Buttler</batsman-name>
+					<batsman-nickname>Buttler</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>24</runs>
+					<balls>14</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Iain Wardlaw</bowler>
+					<bowlerId>8423</bowlerId>
+						<fielder>Josh Davey</fielder>
+						<fielderId>6657</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6670</playerid>
+					<name>Chris Woakes</name>
+					<batsman-name>C Woakes</batsman-name>
+					<batsman-nickname>Woakes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Davey</bowler>
+					<bowlerId>6657</bowlerId>
+						<fielder>Preston Mommsen</fielder>
+						<fielderId>6744</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<batsman-name>Broad</batsman-name>
+					<batsman-nickname>Broad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6317</playerid>
+					<name>Steven Finn</name>
+					<batsman-name>Finn</batsman-name>
+					<batsman-nickname>Finn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<batsman-name>J Anderson</batsman-name>
+					<batsman-nickname>J Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>385</playerid>
+				<nbr>1</nbr>
+				<runs>172</runs>
+				<overs>30.1</overs>
+				<batsman>Ian Bell</batsman>
+				<batsman-name>Bell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6692</playerid>
+				<nbr>2</nbr>
+				<runs>201</runs>
+				<overs>34.3</overs>
+				<batsman>Moeen Ali</batsman>
+				<batsman-name>M Ali</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6679</playerid>
+				<nbr>3</nbr>
+				<runs>203</runs>
+				<overs>35.1</overs>
+				<batsman>Gary Ballance</batsman>
+				<batsman-name>Ballance</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8019</playerid>
+				<nbr>4</nbr>
+				<runs>203</runs>
+				<overs>36.1</overs>
+				<batsman>Joe Root</batsman>
+				<batsman-name>J Root</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6500</playerid>
+				<nbr>5</nbr>
+				<runs>252</runs>
+				<overs>44.5</overs>
+				<batsman>James Taylor</batsman>
+				<batsman-name>James Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2258</playerid>
+				<nbr>6</nbr>
+				<runs>297</runs>
+				<overs>48.4</overs>
+				<batsman>Jos Buttler</batsman>
+				<batsman-name>J Buttler</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>624</playerid>
+				<nbr>7</nbr>
+				<runs>300</runs>
+				<overs>49.1</overs>
+				<batsman>Eoin Morgan</batsman>
+				<batsman-name>E Morgan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6670</playerid>
+				<nbr>8</nbr>
+				<runs>300</runs>
+				<overs>49.2</overs>
+				<batsman>Chris Woakes</batsman>
+				<batsman-name>C Woakes</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>15</wides>
+			<noballs>1</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>21</total>
+		</extras>
+		<bowlteam name="Scotland">
+			<players>
+				<player>
+					<playerid>8423</playerid>
+					<name>Iain Wardlaw</name>
+					<bowler-name>Iain Wardlaw</bowler-name>
+					<bowler-nickname>Iain Wardlaw</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>60</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6657</playerid>
+					<name>Josh Davey</name>
+					<bowler-name>J Davey</bowler-name>
+					<bowler-nickname>Davey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>68</runsoff>
+					<wickets>4</wickets>
+					<wides>9</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3053</playerid>
+					<name>Alasdair Evans</name>
+					<bowler-name>A Evans</bowler-name>
+					<bowler-nickname>Alasdair Evans</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>46</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>646</playerid>
+					<name>Majid Haq</name>
+					<bowler-name>M Haq</bowler-name>
+					<bowler-nickname>Haq</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>51</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>1398</playerid>
+					<name>Richie Berrington</name>
+					<bowler-name>R Berrington</bowler-name>
+					<bowler-nickname>Berrington</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>43</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6565</playerid>
+					<name>Matt Machan</name>
+					<bowler-name>M Machan</bowler-name>
+					<bowler-nickname>Machan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>11</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1415</playerid>
+					<name>Kyle Coetzer</name>
+					<bowler-name>K Coetzer</bowler-name>
+					<bowler-nickname>Coetzer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>19</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1416</playerid>
+					<name>Calum MacLeod</name>
+					<bowler-name>C MacLeod</bowler-name>
+					<bowler-nickname>MacLeod</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9318</playerid>
+					<name>Freddie Coleman</name>
+					<bowler-name>F Coleman</bowler-name>
+					<bowler-nickname>Coleman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6744</playerid>
+					<name>Preston Mommsen</name>
+					<bowler-name>P Mommsen</bowler-name>
+					<bowler-nickname>Mommsen</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9365</playerid>
+					<name>Matthew Cross</name>
+					<bowler-name>M Cross</bowler-name>
+					<bowler-nickname>Matthew Cross</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>184</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>42.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Scotland">
+			<players>
+				<player>
+					<playerid>1415</playerid>
+					<name>Kyle Coetzer</name>
+					<batsman-name>K Coetzer</batsman-name>
+					<batsman-nickname>Coetzer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>71</runs>
+					<balls>84</balls>
+					<fours>11</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Ali</bowler>
+					<bowlerId>6692</bowlerId>
+						<fielder>Chris Woakes</fielder>
+						<fielderId>6670</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1416</playerid>
+					<name>Calum MacLeod</name>
+					<batsman-name>C MacLeod</batsman-name>
+					<batsman-nickname>MacLeod</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>6</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Anderson</bowler>
+					<bowlerId>65</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9318</playerid>
+					<name>Freddie Coleman</name>
+					<batsman-name>F Coleman</batsman-name>
+					<batsman-nickname>Coleman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>16</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Woakes</bowler>
+					<bowlerId>6670</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6565</playerid>
+					<name>Matt Machan</name>
+					<batsman-name>M Machan</batsman-name>
+					<batsman-nickname>Machan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>7</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Finn</bowler>
+					<bowlerId>6317</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6744</playerid>
+					<name>Preston Mommsen</name>
+					<batsman-name>P Mommsen</batsman-name>
+					<batsman-nickname>Mommsen</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>26</runs>
+					<balls>42</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Root</bowler>
+					<bowlerId>8019</bowlerId>
+						<fielder>Stuart Broad</fielder>
+						<fielderId>554</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1398</playerid>
+					<name>Richie Berrington</name>
+					<batsman-name>R Berrington</batsman-name>
+					<batsman-nickname>Berrington</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>13</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Ali</bowler>
+					<bowlerId>6692</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9365</playerid>
+					<name>Matthew Cross</name>
+					<batsman-name>M Cross</batsman-name>
+					<batsman-nickname>Matthew Cross</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>23</runs>
+					<balls>32</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Finn</bowler>
+					<bowlerId>6317</bowlerId>
+						<fielder>Joe Root</fielder>
+						<fielderId>8019</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6657</playerid>
+					<name>Josh Davey</name>
+					<batsman-name>J Davey</batsman-name>
+					<batsman-nickname>Davey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Finn</bowler>
+					<bowlerId>6317</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>646</playerid>
+					<name>Majid Haq</name>
+					<batsman-name>M Haq</batsman-name>
+					<batsman-nickname>Haq</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>24</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Woakes</bowler>
+					<bowlerId>6670</bowlerId>
+						<fielder>Gary Ballance</fielder>
+						<fielderId>6679</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3053</playerid>
+					<name>Alasdair Evans</name>
+					<batsman-name>A Evans</batsman-name>
+					<batsman-nickname>Alasdair Evans</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>15</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Anderson</bowler>
+					<bowlerId>65</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8423</playerid>
+					<name>Iain Wardlaw</name>
+					<batsman-name>Iain Wardlaw</batsman-name>
+					<batsman-nickname>Iain Wardlaw</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1416</playerid>
+				<nbr>1</nbr>
+				<runs>17</runs>
+				<overs>2.5</overs>
+				<batsman>Calum MacLeod</batsman>
+				<batsman-name>C MacLeod</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9318</playerid>
+				<nbr>2</nbr>
+				<runs>47</runs>
+				<overs>10.1</overs>
+				<batsman>Freddie Coleman</batsman>
+				<batsman-name>F Coleman</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6565</playerid>
+				<nbr>3</nbr>
+				<runs>54</runs>
+				<overs>11.4</overs>
+				<batsman>Matt Machan</batsman>
+				<batsman-name>M Machan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6744</playerid>
+				<nbr>4</nbr>
+				<runs>114</runs>
+				<overs>25.1</overs>
+				<batsman>Preston Mommsen</batsman>
+				<batsman-name>P Mommsen</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1415</playerid>
+				<nbr>5</nbr>
+				<runs>122</runs>
+				<overs>26.3</overs>
+				<batsman>Kyle Coetzer</batsman>
+				<batsman-name>K Coetzer</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1398</playerid>
+				<nbr>6</nbr>
+				<runs>128</runs>
+				<overs>28.3</overs>
+				<batsman>Richie Berrington</batsman>
+				<batsman-name>R Berrington</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6657</playerid>
+				<nbr>7</nbr>
+				<runs>150</runs>
+				<overs>33.5</overs>
+				<batsman>Josh Davey</batsman>
+				<batsman-name>J Davey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9365</playerid>
+				<nbr>8</nbr>
+				<runs>160</runs>
+				<overs>37.1</overs>
+				<batsman>Matthew Cross</batsman>
+				<batsman-name>M Cross</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3053</playerid>
+				<nbr>9</nbr>
+				<runs>184</runs>
+				<overs>41.6</overs>
+				<batsman>Alasdair Evans</batsman>
+				<batsman-name>A Evans</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>646</playerid>
+				<nbr>10</nbr>
+				<runs>184</runs>
+				<overs>42.2</overs>
+				<batsman>Majid Haq</batsman>
+				<batsman-name>M Haq</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>2</wides>
+			<noballs>0</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<bowlteam name="England">
+			<players>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<bowler-name>J Anderson</bowler-name>
+					<bowler-nickname>J Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<bowler-name>Broad</bowler-name>
+					<bowler-nickname>Broad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6670</playerid>
+					<name>Chris Woakes</name>
+					<bowler-name>C Woakes</bowler-name>
+					<bowler-nickname>Woakes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5.2</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6317</playerid>
+					<name>Steven Finn</name>
+					<bowler-name>Finn</bowler-name>
+					<bowler-nickname>Finn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>3</maidens>
+					<runsoff>26</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6692</playerid>
+					<name>Moeen Ali</name>
+					<bowler-name>M Ali</bowler-name>
+					<bowler-nickname>Moeen Ali</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>47</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<bowler-name>J Root</bowler-name>
+					<bowler-nickname>J Root</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<bowler-name>Bell</bowler-name>
+					<bowler-nickname>Bell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6679</playerid>
+					<name>Gary Ballance</name>
+					<bowler-name>Ballance</bowler-name>
+					<bowler-nickname>Ballance</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<bowler-name>E Morgan</bowler-name>
+					<bowler-nickname>Eoin Morgan</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<bowler-name>James Taylor</bowler-name>
+					<bowler-nickname>James Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<bowler-name>J Buttler</bowler-name>
+					<bowler-nickname>Buttler</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

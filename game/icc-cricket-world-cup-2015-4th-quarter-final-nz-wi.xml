@@ -1,0 +1,1099 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12900" >
+		<type>ODI</type>
+		<gameDesc>4th Quarter-Final</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>New Zealand</home>
+		<away>West Indies</away>
+		<teamsabbr>NZ vs WI</teamsabbr>
+		<homeabbr>NZ</homeabbr>
+		<awayabbr>WI</awayabbr>
+		<homeId>13</homeId>
+		<awayId>10</awayId>
+		<venue>Westpac Stadium, Wellington</venue>
+		<startdate>21 03 2015</startdate>
+		<enddate>21 03 2015</enddate>
+		<toss>
+			<winner>New Zealand</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>New Zealand won by 143 runs</status>
+		<result type="win">
+			<winningteam>New Zealand</winningteam>
+			<wonbyruns>143</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Richard Kettleborough</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Bruce Oxenford</Name>
+			<Country>Aus</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Rod Tucker</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Chris Broad</Name>
+			<Country>Eng</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>01:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150321073517</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>WI</batteamname>
+		<bwlteamname>NZ</bwlteamname>
+		<batteamruns>250</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>30.3</batteamovers>
+		<status>New Zealand won by 143 runs</status>
+		<batsman>
+			<playerid>1117</playerid>
+			<name>Sulieman Benn</name>
+			<batsman-name>S Benn</batsman-name>
+			<batsman-nickname>Benn</batsman-nickname>
+			<runs>9</runs>
+			<balls-faced>4</balls-faced>
+			<fours>2</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>205</playerid>
+			<name>Daniel Vettori</name>
+			<bowler-name>Vettori</bowler-name>
+			<bowler-nickname>Vettori</bowler-nickname>
+			<overs>6.3</overs>
+			<maidens>0</maidens>
+			<runs>58</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<bowler>
+			<playerid>1057</playerid>
+			<name>Tim Southee</name>
+			<bowler-name>Southee</bowler-name>
+			<bowler-nickname>Southee</bowler-nickname>
+			<overs>8</overs>
+			<maidens>1</maidens>
+			<runs>82</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>394</target>
+<lastwicket>
+<playerid>8313</playerid>
+<name>Jason Holder</name>
+<player-runs>42</player-runs>
+<player-balls>26</player-balls>
+<runs>250</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>205</bowlerid>
+<bowlername>Vettori</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<prevOvers><![CDATA[. . . . . W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 Wd 1 4 4 4 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 . 1 . 4 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/NZ_WI_MAR21/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>393</totalruns>
+		<totalwickets>6</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="New Zealand">
+			<players>
+				<player>
+					<playerid>1457</playerid>
+					<name>Martin Guptill</name>
+					<batsman-name>M Guptill</batsman-name>
+					<batsman-nickname>Guptill</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>237</runs>
+					<balls>163</balls>
+					<fours>24</fours>
+					<sixes>11</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<batsman-name>B McCullum</batsman-name>
+					<batsman-nickname>Brendon McCullum</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jerome Taylor</bowler>
+					<bowlerId>379</bowlerId>
+						<fielder>Jason Holder</fielder>
+						<fielderId>8313</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6326</playerid>
+					<name>Kane Williamson</name>
+					<batsman-name>Williamson</batsman-name>
+					<batsman-nickname>Williamson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>33</runs>
+					<balls>35</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Russell</bowler>
+					<bowlerId>7736</bowlerId>
+						<fielder>Chris Gayle</fielder>
+						<fielderId>247</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>521</playerid>
+					<name>Ross Taylor</name>
+					<batsman-name>Ross Taylor</batsman-name>
+					<batsman-nickname>Ross Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>61</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Denesh Ramdin</fielder>
+						<fielderId>399</fielderId>
+						<fielder2>Sulieman Benn</fielder2>
+						<fielderId2>1117</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<batsman-name>CJ Anderson</batsman-name>
+					<batsman-nickname>Corey Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>16</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Russell</bowler>
+					<bowlerId>7736</bowlerId>
+						<fielder>Chris Gayle</fielder>
+						<fielderId>247</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1064</playerid>
+					<name>Grant Elliott</name>
+					<batsman-name>Elliott</batsman-name>
+					<batsman-nickname>Elliott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>11</balls>
+					<fours>2</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Jerome Taylor</bowler>
+					<bowlerId>379</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1396</playerid>
+					<name>Luke Ronchi</name>
+					<batsman-name>Ronchi</batsman-name>
+					<batsman-nickname>Ronchi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>9</runs>
+					<balls>5</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jerome Taylor</bowler>
+					<bowlerId>379</bowlerId>
+						<fielder>Sulieman Benn</fielder>
+						<fielderId>1117</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>205</playerid>
+					<name>Daniel Vettori</name>
+					<batsman-name>Vettori</batsman-name>
+					<batsman-nickname>Vettori</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>2</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7625</playerid>
+					<name>Adam Milne</name>
+					<batsman-name>Milne</batsman-name>
+					<batsman-nickname>Milne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<batsman-name>Southee</batsman-name>
+					<batsman-nickname>Southee</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<batsman-name>T Boult</batsman-name>
+					<batsman-nickname>Boult</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>201</playerid>
+				<nbr>1</nbr>
+				<runs>27</runs>
+				<overs>4.2</overs>
+				<batsman>Brendon McCullum</batsman>
+				<batsman-name>B McCullum</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6326</playerid>
+				<nbr>2</nbr>
+				<runs>89</runs>
+				<overs>15.6</overs>
+				<batsman>Kane Williamson</batsman>
+				<batsman-name>Williamson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>521</playerid>
+				<nbr>3</nbr>
+				<runs>232</runs>
+				<overs>38.3</overs>
+				<batsman>Ross Taylor</batsman>
+				<batsman-name>Ross Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8982</playerid>
+				<nbr>4</nbr>
+				<runs>278</runs>
+				<overs>43.2</overs>
+				<batsman>Corey Anderson</batsman>
+				<batsman-name>CJ Anderson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1064</playerid>
+				<nbr>5</nbr>
+				<runs>333</runs>
+				<overs>46.3</overs>
+				<batsman>Grant Elliott</batsman>
+				<batsman-name>Elliott</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1396</playerid>
+				<nbr>6</nbr>
+				<runs>365</runs>
+				<overs>48.4</overs>
+				<batsman>Luke Ronchi</batsman>
+				<batsman-name>Ronchi</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>7</wides>
+			<noballs>1</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>10</total>
+		</extras>
+		<bowlteam name="West Indies">
+			<players>
+				<player>
+					<playerid>379</playerid>
+					<name>Jerome Taylor</name>
+					<bowler-name>Jerome Taylor</bowler-name>
+					<bowler-nickname>Jerome Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>71</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8313</playerid>
+					<name>Jason Holder</name>
+					<bowler-name>J Holder</bowler-name>
+					<bowler-nickname>J Holder</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>76</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1117</playerid>
+					<name>Sulieman Benn</name>
+					<bowler-name>S Benn</bowler-name>
+					<bowler-nickname>Benn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>66</runsoff>
+					<wickets>0</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<bowler-name>A Russell</bowler-name>
+					<bowler-nickname>A Russell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>96</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>253</playerid>
+					<name>Darren Sammy</name>
+					<bowler-name>Sammy</bowler-name>
+					<bowler-nickname>Sammy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>356</playerid>
+					<name>Marlon Samuels</name>
+					<bowler-name>Samuels</bowler-name>
+					<bowler-nickname>Samuels</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>247</playerid>
+					<name>Chris Gayle</name>
+					<bowler-name>Gayle</bowler-name>
+					<bowler-nickname>Gayle</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8101</playerid>
+					<name>Johnson Charles</name>
+					<bowler-name>J Charles</bowler-name>
+					<bowler-nickname>Charles</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8314</playerid>
+					<name>Jonathan Carter</name>
+					<bowler-name>J Carter</bowler-name>
+					<bowler-nickname>J Carter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>599</playerid>
+					<name>Lendl Simmons</name>
+					<bowler-name>L Simmons</bowler-name>
+					<bowler-nickname>Simmons</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>399</playerid>
+					<name>Denesh Ramdin</name>
+					<bowler-name>Ramdin</bowler-name>
+					<bowler-nickname>Ramdin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>250</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>30.3</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="West Indies">
+			<players>
+				<player>
+					<playerid>247</playerid>
+					<name>Chris Gayle</name>
+					<batsman-name>Gayle</batsman-name>
+					<batsman-nickname>Gayle</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>61</runs>
+					<balls>33</balls>
+					<fours>2</fours>
+					<sixes>8</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Milne</bowler>
+					<bowlerId>7625</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8101</playerid>
+					<name>Johnson Charles</name>
+					<batsman-name>J Charles</batsman-name>
+					<batsman-nickname>Charles</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>599</playerid>
+					<name>Lendl Simmons</name>
+					<batsman-name>L Simmons</batsman-name>
+					<batsman-nickname>Simmons</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>17</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder>Martin Guptill</fielder>
+						<fielderId>1457</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>356</playerid>
+					<name>Marlon Samuels</name>
+					<batsman-name>Samuels</batsman-name>
+					<batsman-nickname>Samuels</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>15</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder>Daniel Vettori</fielder>
+						<fielderId>205</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>399</playerid>
+					<name>Denesh Ramdin</name>
+					<batsman-name>Ramdin</batsman-name>
+					<batsman-nickname>Ramdin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8314</playerid>
+					<name>Jonathan Carter</name>
+					<batsman-name>J Carter</batsman-name>
+					<batsman-nickname>J Carter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>32</runs>
+					<balls>39</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>253</playerid>
+					<name>Darren Sammy</name>
+					<batsman-name>Sammy</batsman-name>
+					<batsman-nickname>Sammy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>16</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>CJ Anderson</bowler>
+					<bowlerId>8982</bowlerId>
+						<fielder>Luke Ronchi</fielder>
+						<fielderId>1396</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<batsman-name>A Russell</batsman-name>
+					<batsman-nickname>A Russell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>11</balls>
+					<fours>1</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8313</playerid>
+					<name>Jason Holder</name>
+					<batsman-name>J Holder</batsman-name>
+					<batsman-nickname>J Holder</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>26</balls>
+					<fours>5</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder>Corey Anderson</fielder>
+						<fielderId>8982</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>379</playerid>
+					<name>Jerome Taylor</name>
+					<batsman-name>Jerome Taylor</batsman-name>
+					<batsman-nickname>Jerome Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>12</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Martin Guptill</fielder>
+						<fielderId>1457</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1117</playerid>
+					<name>Sulieman Benn</name>
+					<batsman-name>S Benn</batsman-name>
+					<batsman-nickname>Benn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>4</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>8101</playerid>
+				<nbr>1</nbr>
+				<runs>4</runs>
+				<overs>1.2</overs>
+				<batsman>Johnson Charles</batsman>
+				<batsman-name>J Charles</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>599</playerid>
+				<nbr>2</nbr>
+				<runs>27</runs>
+				<overs>5.3</overs>
+				<batsman>Lendl Simmons</batsman>
+				<batsman-name>L Simmons</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>356</playerid>
+				<nbr>3</nbr>
+				<runs>80</runs>
+				<overs>9.1</overs>
+				<batsman>Marlon Samuels</batsman>
+				<batsman-name>Samuels</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>399</playerid>
+				<nbr>4</nbr>
+				<runs>80</runs>
+				<overs>9.5</overs>
+				<batsman>Denesh Ramdin</batsman>
+				<batsman-name>Ramdin</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>247</playerid>
+				<nbr>5</nbr>
+				<runs>120</runs>
+				<overs>16.1</overs>
+				<batsman>Chris Gayle</batsman>
+				<batsman-name>Gayle</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>253</playerid>
+				<nbr>6</nbr>
+				<runs>166</runs>
+				<overs>21.1</overs>
+				<batsman>Darren Sammy</batsman>
+				<batsman-name>Sammy</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8314</playerid>
+				<nbr>7</nbr>
+				<runs>173</runs>
+				<overs>22.3</overs>
+				<batsman>Jonathan Carter</batsman>
+				<batsman-name>J Carter</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7736</playerid>
+				<nbr>8</nbr>
+				<runs>201</runs>
+				<overs>25.1</overs>
+				<batsman>Andre Russell</batsman>
+				<batsman-name>A Russell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>379</playerid>
+				<nbr>9</nbr>
+				<runs>221</runs>
+				<overs>27.6</overs>
+				<batsman>Jerome Taylor</batsman>
+				<batsman-name>Jerome Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8313</playerid>
+				<nbr>10</nbr>
+				<runs>250</runs>
+				<overs>30.3</overs>
+				<batsman>Jason Holder</batsman>
+				<batsman-name>J Holder</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<bowlteam name="New Zealand">
+			<players>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<bowler-name>Southee</bowler-name>
+					<bowler-nickname>Southee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>1</maidens>
+					<runsoff>82</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<bowler-name>T Boult</bowler-name>
+					<bowler-nickname>Boult</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>3</maidens>
+					<runsoff>44</runsoff>
+					<wickets>4</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>205</playerid>
+					<name>Daniel Vettori</name>
+					<bowler-name>Vettori</bowler-name>
+					<bowler-nickname>Vettori</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6.3</overs>
+					<maidens>0</maidens>
+					<runsoff>58</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7625</playerid>
+					<name>Adam Milne</name>
+					<bowler-name>Milne</bowler-name>
+					<bowler-nickname>Milne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>42</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<bowler-name>CJ Anderson</bowler-name>
+					<bowler-nickname>Corey Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<bowler-name>B McCullum</bowler-name>
+					<bowler-nickname>Brendon McCullum</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1457</playerid>
+					<name>Martin Guptill</name>
+					<bowler-name>M Guptill</bowler-name>
+					<bowler-nickname>Guptill</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6326</playerid>
+					<name>Kane Williamson</name>
+					<bowler-name>Williamson</bowler-name>
+					<bowler-nickname>Williamson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>521</playerid>
+					<name>Ross Taylor</name>
+					<bowler-name>Ross Taylor</bowler-name>
+					<bowler-nickname>Ross Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1064</playerid>
+					<name>Grant Elliott</name>
+					<bowler-name>Elliott</bowler-name>
+					<bowler-nickname>Elliott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1396</playerid>
+					<name>Luke Ronchi</name>
+					<bowler-name>Ronchi</bowler-name>
+					<bowler-nickname>Ronchi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

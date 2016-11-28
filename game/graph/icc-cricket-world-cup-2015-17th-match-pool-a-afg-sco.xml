@@ -1,0 +1,145 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Scotland</name>
+	<graph>
+		<id>wag_1415</id>
+		<name>Kyle Coetzer</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_1415_K_Coetzer.png</url>
+	</graph>
+	<graph>
+		<id>wag_1416</id>
+		<name>Calum MacLeod</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_1416_C_MacLeod.png</url>
+	</graph>
+	<graph>
+		<id>wag_9523</id>
+		<name>Hamish Gardiner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_9523_H_Gardiner.png</url>
+	</graph>
+	<graph>
+		<id>wag_6565</id>
+		<name>Matt Machan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_6565_M_Machan.png</url>
+	</graph>
+	<graph>
+		<id>wag_6744</id>
+		<name>Preston Mommsen</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_6744_P_Mommsen.png</url>
+	</graph>
+	<graph>
+		<id>wag_1398</id>
+		<name>Richie Berrington</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_1398_R_Berrington.png</url>
+	</graph>
+	<graph>
+		<id>wag_9365</id>
+		<name>Matthew Cross</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_9365_M_Cross.png</url>
+	</graph>
+	<graph>
+		<id>wag_6657</id>
+		<name>Josh Davey</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_6657_J_Davey.png</url>
+	</graph>
+	<graph>
+		<id>wag_646</id>
+		<name>Majid Haq</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_646_M_Haq.png</url>
+	</graph>
+	<graph>
+		<id>wag_3053</id>
+		<name>Alasdair Evans</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_3053_A_Evans.png</url>
+	</graph>
+	<graph>
+		<id>wag_8423</id>
+		<name>Iain Wardlaw</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_23_8423_Iain_Wardlaw.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Afghanistan</name>
+	<graph>
+		<id>wag_7614</id>
+		<name>Javed Ahmadi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_7614_Ahmadi.png</url>
+	</graph>
+	<graph>
+		<id>wag_3008</id>
+		<name>Nawroz Mangal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_3008_Nawroz.png</url>
+	</graph>
+	<graph>
+		<id>wag_3004</id>
+		<name>Asghar Stanikzai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_3004_Stanikzai.png</url>
+	</graph>
+	<graph>
+		<id>wag_3011</id>
+		<name>Samiullah Shenwari</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_3011_Shenwari.png</url>
+	</graph>
+	<graph>
+		<id>wag_3007</id>
+		<name>Mohammad Nabi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_3007_Nabi.png</url>
+	</graph>
+	<graph>
+		<id>wag_8278</id>
+		<name>Afsar Zazai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_8278_Zazai.png</url>
+	</graph>
+	<graph>
+		<id>wag_8375</id>
+		<name>Najibullah Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_8375_Najibullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_8030</id>
+		<name>Gulbadin Naib</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_8030_Naib.png</url>
+	</graph>
+	<graph>
+		<id>wag_8029</id>
+		<name>Dawlat Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_8029_Dawlat_Zadran.png</url>
+	</graph>
+	<graph>
+		<id>wag_3001</id>
+		<name>Hamid Hassan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_3001_Hamid.png</url>
+	</graph>
+	<graph>
+		<id>wag_3015</id>
+		<name>Shapoor Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_SCO_FEB26/gph_wag_12871_96_3015_Shapoor.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

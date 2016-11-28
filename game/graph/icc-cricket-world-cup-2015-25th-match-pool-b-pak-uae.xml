@@ -1,0 +1,125 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>United Arab Emirates</name>
+	<graph>
+		<id>wag_1365</id>
+		<name>Amjad Ali</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_1365_Amjad_Ali.png</url>
+	</graph>
+	<graph>
+		<id>wag_10124</id>
+		<name>Andri Berenger</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_10124_Andri_Berenger.png</url>
+	</graph>
+	<graph>
+		<id>wag_10041</id>
+		<name>Krishnachandran Karate</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_10041_Karate.png</url>
+	</graph>
+	<graph>
+		<id>wag_81</id>
+		<name>Khurram Khan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_81_K_Khan.png</url>
+	</graph>
+	<graph>
+		<id>wag_9837</id>
+		<name>Shaiman Anwar</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_9837_Shaiman_Anwar.png</url>
+	</graph>
+	<graph>
+		<id>wag_9834</id>
+		<name>Swapnil Patil</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_9834_Swapnil_Patil.png</url>
+	</graph>
+	<graph>
+		<id>wag_9835</id>
+		<name>Rohan Mustafa</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_9835_Rohan_Mustafa.png</url>
+	</graph>
+	<graph>
+		<id>wag_1366</id>
+		<name>Amjad Javed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_1366_A_Javed.png</url>
+	</graph>
+	<graph>
+		<id>wag_9832</id>
+		<name>Mohammad Naveed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_9832_Naveed.png</url>
+	</graph>
+	<graph>
+		<id>wag_87</id>
+		<name>Mohammad Tauqir</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_7_87_M_Tauqir.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Pakistan</name>
+	<graph>
+		<id>wag_1055</id>
+		<name>Nasir Jamshed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_1055_Jamshed.png</url>
+	</graph>
+	<graph>
+		<id>wag_1787</id>
+		<name>Ahmed Shehzad</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_1787_Ahmed_Shehzad.png</url>
+	</graph>
+	<graph>
+		<id>wag_8299</id>
+		<name>Haris Sohail</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_8299_H_Sohail.png</url>
+	</graph>
+	<graph>
+		<id>wag_9524</id>
+		<name>Sohaib Maqsood</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_9524_S_Maqsood.png</url>
+	</graph>
+	<graph>
+		<id>wag_274</id>
+		<name>Misbah-ul-Haq</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_274_Misbah.png</url>
+	</graph>
+	<graph>
+		<id>wag_1992</id>
+		<name>Umar Akmal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_1992_U_Akmal.png</url>
+	</graph>
+	<graph>
+		<id>wag_142</id>
+		<name>Shahid Afridi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_142_Afridi.png</url>
+	</graph>
+	<graph>
+		<id>wag_1051</id>
+		<name>Wahab Riaz</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/PAK_UAE_MAR04/gph_wag_12879_3_1051_Riaz.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

@@ -1,0 +1,1086 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12885" >
+		<type>ODI</type>
+		<gameDesc>31st Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>New Zealand</home>
+		<away>Afghanistan</away>
+		<teamsabbr>NZ vs AFG</teamsabbr>
+		<homeabbr>NZ</homeabbr>
+		<awayabbr>AFG</awayabbr>
+		<homeId>13</homeId>
+		<awayId>96</awayId>
+		<venue>McLean Park, Napier</venue>
+		<startdate>08 03 2015</startdate>
+		<enddate>08 03 2015</enddate>
+		<toss>
+			<winner>Afghanistan</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>New Zealand won by 6 wkts</status>
+		<result type="win">
+			<winningteam>New Zealand</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>6</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Johanes Cloete</Name>
+			<Country>RSA</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Marais Erasmus</Name>
+			<Country>RSA</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Steve Davis</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>David Boon</Name>
+			<Country>Aus</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>22:00</starttimeGMT>
+		<prevDayPerGMT>true</prevDayPerGMT>
+		<actualendGMT>20150308050427</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>NZ</batteamname>
+		<bwlteamname>AFG</bwlteamname>
+		<batteamruns>188</batteamruns>
+		<batteamwkts>4</batteamwkts>
+		<batteamovers>36.1</batteamovers>
+		<status>New Zealand won by 6 wkts</status>
+		<batsman>
+			<playerid>8982</playerid>
+			<name>Corey Anderson*</name>
+			<batsman-name>CJ Anderson</batsman-name>
+			<batsman-nickname>Corey Anderson</batsman-nickname>
+			<runs>7</runs>
+			<balls-faced>8</balls-faced>
+			<fours>1</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>521</playerid>
+			<name>Ross Taylor</name>
+			<batsman-name>Ross Taylor</batsman-name>
+			<batsman-nickname>Ross Taylor</batsman-nickname>
+			<runs>24</runs>
+			<balls-faced>41</balls-faced>
+			<fours>2</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>3007</playerid>
+			<name>Mohammad Nabi*</name>
+			<bowler-name>Nabi</bowler-name>
+			<bowler-nickname>Nabi</bowler-nickname>
+			<overs>7.1</overs>
+			<maidens>0</maidens>
+			<runs>39</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8029</playerid>
+			<name>Dawlat Zadran</name>
+			<bowler-name>Dawlat Zadran</bowler-name>
+			<bowler-nickname>Dawlat Zadran</bowler-nickname>
+			<overs>9</overs>
+			<maidens>0</maidens>
+			<runs>51</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>187</target>
+<lastwicket>
+<playerid>1064</playerid>
+<name>Grant Elliott</name>
+<player-runs>19</player-runs>
+<player-balls>28</player-balls>
+<runs>175</runs>
+<wicket-nbr>4</wicket-nbr>
+<bowlerid>0</bowlerid>
+<bowlername></bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<prevOvers><![CDATA[. . 1 . W . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 1 1 . Wd 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . . 4 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/NZ_AFG_MAR08/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That's it from this game. Hope you enjoyed our coverage. There is plenty of cricket happening. Switch tabs and catch the Australia-Sri Lanka game, where Maxwell has arrived. On behalf of <b>Mani, Sriram</b> and my co-commentator, <b>Sidhant Maheshwari</b>, this is <b>Akshay</b> signing off. Till next time, take care and Cya!]]></line><line><![CDATA[<b>McCullum:</b> "I thought it was a really good performance today. Obviously the way we bowled early on and had them at 60/6, credit to Afghanistan for the way they fought back. It was a total which was a little bit tricky for us as well after a couple of our most recent chases. I thought overall it was a very satisfying performance since some of the guys got some game time and it is always good to win a World Cup game. So, we are pretty happy at the moment. Yeah, we got the ends wrong and it is always great when you have a guy like Dan (Vettori) who can jump in and pick up a wicket. It allowed the guys (Boult and Southee) to switch ends, but even if we changed ends, the winds changed again. And it was one of those days where it was always hard to have a predominant wind for the seamers. I thought the guys bowled really well. I thought Adam Milne bowled with some good pace as well. And obviously Daniel Vettori was standout with his performance and Trent (Boult), Tim (Southee) and Corey (Anderson) chipped in as well. Really good bowling performance. But, fielding could go up a gear. I thought Martin Guptill was outstanding in the field today and again in terms of batting, it was not a bad chase. We can improve, but overall it was not a bad game for us."]]></line><line><![CDATA["He (Vettori) is a special cricketer with what he has achieved in all three forms of the game, over almost two decades is phenomenal. Credit to him for not just his drive, but is ability to bounce back from injuries as well and the hunger that he has played with for us. You see how special a member he is of the team and tick off another milestone means a lot of satisfaction, not just for him but also all the guys. It's great to have him back, he is a special member of the team and he will continue to be so for the next few games. Again, no disrespect to other people around the world, those two (Boult and Southee) are pretty special bowlers and they just bowl so well together and with Adam (Milne) coming in as a first change bowler with the pace he has got, we are pretty lucky with the personnel we have got at the moment. We just need to keep trying and improve as a group, we have got some good cricketers amongst us," he added.]]></line><line><![CDATA[<b>Nabi:</b> "It was a good toss to win, but we didn't score a lot. 180 was not good enough on that pitch and in those condtions. New Zealand bowled brilliantly, especially Daniel Vettori. And in those conditions they bowled really well. Our top five batsmen didn't play well in the whole tournament. Hopefully, we will give our best in the next game. Shenwari has played well in the whole tournament and also the way Najibullah Zadran is batting is quite good for the team as well. We tried our best. The way McCullum batted, we did well to take the game around the 40th over. It is good to take an early wicket as well. The boys worked hard in those conditions."]]></line><line><![CDATA[<b>Vettori:</b> "It was good. I think obviously both teams wanted to bat first. There is always a little bit in the Napier wicket. Probably a touch slower today and once again we got off to a good start with the fast bowlers. I just backed that up. It was a little bit more warm than we are used to, normally it is very pristine here. The fact that we had a game here a few days ago, so probably a little bit more excited coming to Napier on these wickets. But, once again the start we got because of Trent (Boult) and Tim (Southee), it is easier to back those two up. Pretty used to it, playing some of the T20 cricket, you get the chance to open the bowling and sometimes with the newer ball it skids on a little bit and it can help me at times. So, any time is a good time, but with the newer ball, I don't mind. I enjoyed more than my first one because I didn't play a game. It's a lot of fun playing at home. It's an experience that none of us will forget and not many New Zealand cricketers have had the chance to do so. So far so good."]]></line><line><![CDATA[<b>Daniel Vettori</b> is the <b>Man of the Match</b> for his figures of <b>4/18.</b>]]></line><line><![CDATA[Daniel Vettori was the chief architect of the Afghan downfall, taking 4 top-order wickets and putting them under tremendous pressure. He was well supported by the other Kiwi bowlers, especially Trent Boult, who also picked up 3 wickets. New Zealand now have won 5 out of 5 World Cup games and are definitely going to top Pool A. Their final game is against Bangladesh and it should be a good contest as well. ]]></line><line><![CDATA[For Afghanistan, they lost the game, but they shouldn't be disheartened by their bowling performance. They managed to delay the inevitable till the 37th over, the longest New Zealand have batted while batting second in this World Cup so far. They fielding standard today was also very good, they managed to effect two run-outs today. Earlier in the day, after struggling at 59/6 at one stage, Afghanistan managed to post 186 on the board, riding on a 7th wicket partnership between Shenwari and Najibullah. <br/>]]></line><line><![CDATA[The birthday boy walked out and was struggling to get his timing right in the beginning. Meanwhile, Guptill reached his 22nd ODI fifty, his 1st fifty in this edition of the World Cup. However, a brainfade saw him get run-out after a confusion in the middle. Taylor was then joined by Elliott and both of them batted calmly till the time Elliott decided to go for a single and was caught inches short of the crease after Nabi disturbed the stumps with a direct-hit from mid-off. New Zealand didn't lose any more wickets and finally romped home with 6 wickets in hand.]]></line><line><![CDATA[New Zealand's run-chase got off to a usual start, with Brendon McCullum going hard at the bowlers right from the outset. Guptill played second fiddle to him and McCullum was looking all set to reach another fifty, but Nabi got him to drag one back onto his stumps at 42. In his knock of 42 off just 19 balls, McCullum hit 6 fours and a six before getting out. After that Guptill and Williamson mixed aggression with defence and put on 58 runs for the second wicket, before Williamson miscued a pull off Shapoor and holed out to short mid-wicket. ]]></line><line><![CDATA[The crowd are on their feet applauding the effort. Both teams shake hands. Taylor and Hamid Hassan have a chat as they walk off the field. The rest of the Kiwi players come out and shake hands with the Afghan players.]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, <b>FOUR</b>, <b>New Zealand win by 6 wickets.</b> Anderson completes the formalities, tossed up delivery, he kneels down fetches it from outside off and sweeps it in front of square, the ball hurries through to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, no run, short delivery just outside off, Taylor drops his wrists and watches it sail past him]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, <b>FOUR</b>, New Zealand are one hit away now. Dawlat drifts onto the pads, Taylor stays inside the line and tickles it fine, the fielder was inside the ring and it was easy pickings]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, no run, good length ball around off, Taylor bunts it off the inside half to short mid-wicket]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, no run, too full, almost a yorker, Taylor digs it back to the bowler]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Corey Anderson, 1 run, low full toss outside off, Anderson drives it to sweeper cover]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Corey Anderson, no run, full toss on leg-stump, Anderson knocks it to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [8.0-0-46-0] is back into the attack</b>]]></line><line><![CDATA[The <b>batting powerplay</b> has been enforced..]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, 1 run, short and outside off, Anderson cuts it square of the wicket, retains strike]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, <b>wide</b>, darted down the leg-side, Anderson fails to connect with the glance, wide given]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, no run, too full and on off, Anderson whips it straight to short mid-wicket]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, 1 run, tucks the off-break behind square leg, for a single]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, 1 run, drops it short and outside off, Anderson cuts it to deep extra cover, called for two but Taylor says "no", it was the right call]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, no run, sliding on middle, Anderson taps it gently to the on-side]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Nabi to Corey Anderson, no run, tossed up on off, Anderson presses forward and blocks]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, too full and just outside off, Taylor squeezes it to short cover]]></line><line><![CDATA[<b>Corey Anderson, left handed bat, comes to the crease</b>]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Shapoor to Elliott, <b>out</b> Elliott Run Out!! New Zealand gift another wicket away. There was never a run in that, but Elliott still went through with it. Fullish and around off, Elliott drives it to mid-off and sets off, Nabi runs forward, gathers the ball and fires a direct hit at the bowler's end, Elliott was on the line, which meant he was short. The third umpire gave the marching orders. <b>Elliott run out (Nabi) 19(28) [4s-1]</b>]]></line><line><![CDATA[Shapoor to Elliott, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[The TV umpire has been called in again for a run-out chance. Elliott is the man in question. He looks short. OUT should flash on the giant screen. It does and he walks back to the pavilion]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Shapoor to Elliott, no run, fuller and outside off, Elliott walks across his stumps and defends it down the wicket]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, 1 run, cuts it towards gully, where the fielder gets a hand and parries it to third man]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, good length ball around off, Taylor presses it to cover after coming forward]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, short and outside off, Taylor cuts it to backward point, straight to the fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Nabi to Elliott, no run, touch quicker and on off, Elliott knocks it back to the bowler]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Nabi to Elliott, no run, floated up on off, Elliott stays low and works it to short mid-wicket]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Nabi to Elliott, 2 runs, trifle short and just outside off, Elliott backs away and cuts it to deep backward point for a brace]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Nabi to Elliott, no run, slower and on off, defended to the on-side]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Nabi to Elliott, <b>FOUR</b>, nice execution of the sweep shot, wrong line from Nabi, on leg-stump and turning away further, Elliott kneels down and sweeps it behind square, no one in the deep to stop that]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Nabi to Elliott, no run, works it with loose hands to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, Taylor does not connect well with the cut, went too hard at that and ends up chopping it to backward point]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Shapoor to Elliott, 1 run, plenty of width on that, Elliott frees his arms and cuts it to third man, came off the outside half of the bat]]></line><line><![CDATA[A gully is placed for the dab down the third man..]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Shapoor to Elliott, no run, on a length just outside off, Elliott shuffles across and dabs it in front of backward point]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Shapoor to Elliott, 2 runs, full and just outside off, Elliott presses forward, opens the bat face and slices the drive in the air to the left of backward point, Najibullah dived but the ball was too far for him to reach. Hassan from third man tidies up]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, 1 run, again, Shapoor bowls it short and outside off, Taylor flashes a cut to square third man]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Shapoor to Elliott, 1 run, short and outside off, Elliott cracks the cut square of the wicket, sweeper runs to his left and keeps it to a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now. New Zealand are cruising towards their fifth consecutive victory. It is just a matter of how many more overs will they take.]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, gives this bit more air, Taylor knocks it with soft hands in front of short mid-wicket]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Nabi to Elliott, 1 run, slower through the air, Elliott checks his shot and chips it well wide of mid-wicket, for a single]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, 1 run, floated up on off, Taylor eases it to long-on]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, straighter one on middle, Taylor goes back and drops it to the on-side]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Nabi to Elliott, 1 run, comes down the track to this tossed up delivery and works it to deep mid-wicket]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, 1 run, flighted on middle and leg, Taylor leans forward and nudges it to square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi [4.0-0-21-1] is back into the attack</b>]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, 1 run, again, short and outside off, Taylor cuts it to third man]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Shapoor to Elliott, 1 run, shortish and just outside off, Elliott waits for it and cuts it towards backward point, the fielder makes a half stop and parries it to third man]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Shapoor to Elliott, 2 runs, banged in midway down the pitch, Elliott pulls it over mid-wicket, the fielder from deep square tidies up]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Shapoor to Elliott, no run, fullish and around off, Elliott push-drives it to mid-off]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Shapoor to Elliott, no run, short and outside off, Elliott goes for the cut half-heartedly, the ball zips past the outside edge. He should have gone through with the shot]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Shapoor to Elliott, no run, starts from round the wicket, keeps it on a length just outside off, Elliott watches it go past him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [7.0-2-35-1] is back into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Elliott, 1 run, fullish and outside off, Elliott drives it square of the wicket on the off-side]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, leg byes, 1 run, full and homing in on leg-stump, Taylor falls over on the clip, the ball thuds off the pads and rolls to the on-side]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Elliott, 1 run, full toss outside off, Elliott drives it to extra cover, where the fielder fumbles and the batsmen steal a run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Elliott, no run, pitched up just outside off, Elliott drives it to mid-off]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, 1 run, back of a length on off, Taylor nurdles it behind square leg, for a single]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, <b>FOUR</b>, classy shot! That should make him feel good. It was not a half volley, just full and around off, Taylor presses forward and caresses the drive through the packed off-side field, no one at sweeper to stop the four]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Hamid to Elliott, no run, yorker that tails back in, Elliott manages to bring his bat down and jam it to mid-on]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Hamid to Elliott, no run, fullish and around off, Elliott drives it gently to mid-off]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Hamid to Elliott, no run, shortens the length just outside off, Elliott goes for the steer once again, but this time is beaten]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Hamid to Elliott, no run, back of a length around off, Elliott dabs it to backward point]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Hamid to Elliott, 2 runs, short and close to off, Elliott opens the bat face and steers it to third man, Shapoor runs to his left, slides and saves the ball from reaching the fence]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Hamid to Elliott, no run, too full and around off, Elliott squeezes it out towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [6.0-1-34-0] is back into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, 2 runs, full and too straight, on middle and leg, Taylor clips it behind square leg for a brace]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, no run, back of a length around off, Taylor gets behind the line and defends]]></line><line><![CDATA[<b>Grant Elliott, right handed bat, comes to the crease</b>]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, <b>out</b> Guptill Run Out!! Needless from New Zealand! It is a waste of a wicket. Short of a length around off, Guptill punches it towards point, sets off and stutters in the middle as Taylor was late to respond, then goes for it. Najibullah runs to his right and fires a throw at the non-striker's end, but missed and there was Shenwari running in from mid-on, who collected the ball and under-armed it onto the stumps. He hits the bulls-eye and Guptill was struggling. <b>Guptill run out (Najibullah/Shenwari) 57(76) [4s-7]</b>]]></line><line><![CDATA[Dawlat Zadran to Guptill, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire called in for a run-out chance. Guptill seems to be short of the ground. He has already wandered off the ground. He is OUT!]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, back of a length on the stumps, Guptill can't connect with the flick, wears it on the thigh pad]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, <b>FOUR</b>, gorgeous shot! Guptill held his pose for the cameras after playing that. Fuller and on off, Guptill moves slightly to the leg-side, lofts it handsomely over the bowler's head, couple of bounces and into the fence]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Ross Taylor, 1 run, back of a length around off, punched off the back foot to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Nabi to Guptill, no run, slightly short and just outside off, Guptill guides it to short third man, finds Shapoor]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Nabi to Guptill, 2 runs, that was well played, goes deep in the crease and nurdles it with soft hands square of the wicket on the leg-side, that allowed him to come back for the second]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Nabi to Guptill, no run, tossed up on middle, Guptill pushes it to short mid-wicket]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, 1 run, leans forward and knocks it to long-on]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, comes down the track and defends it down the wicket]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Nabi to Guptill, 1 run, flighted on off, Guptill nudges it to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, 1 run, Guptill registers his <b>22nd ODI fifty</b>, first in this World Cup. He was almost deceived by this slower one, it was a full toss as well, Guptill manages to spot it early and steers it down to third man]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, back of a length on off, Guptill pushes it to cover off the back foot]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, good length ball around off, Guptill makes a late decision to play that, toe-ends it to backward point]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, on a length close to off, Guptill covers his sticks, lifts his bat and lets it go]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, <b>wide</b>, splays it down leg, Guptill can't bat on the glance, wide signalled. Dawlat thought there was a bit of pad, but the umpire disagrees]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, <b>FOUR</b>, typical Guptill shot! It was fuller on off and middle, Guptill keeps his head down and plays the pick up shot over mid-on, he didn't middle it and the ball rolls away to the fence]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, starts with one down leg, Guptill fails to connect with the flick, ball brushes the pad on the way to the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [5.0-0-26-0] is back into the attack</b>]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, works it with soft hands to short mid-wicket, can't get it past the fielder]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, slower and close to off, Taylor goes back and bunts it to cover]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Nabi to Guptill, 1 run, eases the drive to long-on]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Nabi to Guptill, no run, quicker and on the stumps, Guptill taps it in front of short mid-wicket]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Nabi to Guptill, no run, stays back and dabs it in front of short third man, he wanted the single but Taylor was not interested]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Nabi to Guptill, no run, nurdled to backward square, straight to the fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Hamid to Ross Taylor, no run, second time in the over and I have lost count on how many times in the innings that Taylor has missed out on the full toss, he flicks it and picks out short mid-wicket, Shenwari dives and makes a fine stop]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Hamid to Ross Taylor, no run, on length close to off, Taylor presses forward and knocks it to mid-on]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Hamid to Ross Taylor, no run, good length ball around off, Taylor push-drives it towards cover-point]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Hamid to Guptill, 1 run, short of length on off, Guptill pats it to the on-side and sets off immediately. Another well judged run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Hamid to Ross Taylor, 1 run, another full toss that Taylor has missed out on, he generously clips it to deep backward square leg]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Hamid to Guptill, 1 run, back of a length on off, punched off the back foot to deep cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [5.0-1-31-0] is back into the attack</b>]]></line><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Nabi to Guptill, 1 run, slower and around off, Guptill drops it adjacent to the wicket on the off-side, Taylor calls for the single and makes it easily before the keeper could throw at his end]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, 1 run, skips out of the crease, gets to the pitch and works it to long-on]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, turns it gently in front of short mid-wicket. Bit more bounce on that occasion and Taylor played it well]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Nabi to Ross Taylor, no run, nudges it to backward square, finds the fielder there]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Nabi to Guptill, 1 run, wrists it to long-on for a comfortable single]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Nabi to Guptill, no run, flighted on off, Guptill defends it to the right of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi [1.0-0-13-1] is back into the attack</b>]]></line><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, good length ball on off, Guptill taps it to mid-off, who is on the boundary rope]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, 1 run, trifle short and outside off, Taylor cuts it to square third man, Stanikzai mops up]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, 2 runs, there's the birthday present from the Afghanistan team, they misfield one and allow Taylor to get off the mark. Full toss just outside off, Taylor drives it to cover, where Mangal lets it through him. Very poor effort]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, low full toss outside off, Taylor toe-ends the drive to short mid-wicket. Still not finding his timing is Rosco]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, on a length close to off, Taylor presses it towards cover after coming forward]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, pitched up just outside off, Guptill drives it hard and straight to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Hamid to Ross Taylor, no run, good length ball well wide of off, Taylor is happy to let it go]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Hamid to Ross Taylor, no run, Taylor missed out there, a nice juicy full toss outside off, Taylor was on the move and he fails to make contact with it]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Hamid to Guptill, 1 run, knocks this to the left of cover and calls early for the run, good response from Taylor as well]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, shortens the length on off, Guptill bunts it to the off-side, lifts his bat up and shouts "no" for the single]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, back of a length around off, Guptill goes on his toes and punches it to backward point]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Hamid to Guptill, <b>FOUR</b>, not in control of the shot, but Guptill will pick up four more. It was very similar to the way Williamson got out. Short and on off, Guptill goes back and pulls it just over mid-wicket, he timed it well as the ball raced to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [4.0-1-26-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, pitched up just outside off, Taylor leans into the drive, finds mid-off]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Shapoor to Ross Taylor, no run, almost a first-baller for Rosco! Full and angled in from round the wicket, it was the off-cutter which holds its line, Taylor walks into the drive and is beaten all ends up]]></line><line><![CDATA[<b>Ross Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[The birthday boy, Ross Taylor comes to the crease. And he is welcomed with a round of applause. His family is also present and they are sporting a jersey which has "Taylor Squad" written on it.]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Shapoor to Williamson, <b>out</b> Caught by Shenwari!! Shapoor strikes against the run of play! It was a very unlike Williamson shot. Short ball on off, Williamson goes back and pulls it straight to short mid-wicket, Shenwari makes no mistake. He could have just tucked it away, but instead decides to take it on. <b>Williamson c Shenwari b Shapoor 33(45) [4s-4]</b>]]></line><line><![CDATA[Shapoor to Williamson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, back of a length around off, Guptill stands up and punches it to sweeper cover]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Shapoor to Williamson, 1 run, takes the pace off the ball, Williamson dabs it down to third man, runs the first one hard, but has to setle with it as the fielder gets to the ball quickly]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, starts from round the wicket, keeps it on a length just outside off, Guptill drives it to long-off, for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [5.0-2-27-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, pitched up on off, Williamson presents the straightest of bats and drives it down the ground, Dawlat sticks out his right boot and stops the ball]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, 3 runs, banged in halfway down the pitch, Guptill pulls off the front foot, didn't get it anywhere close to the middle, clears mid-wicket and collects three before Stanikzai hunts the ball down]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, <b>wide</b>, bumper which is too short and sails away over Guptill's head, he didn't even have to duck. Easy call for umpire Erasmus]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, 1 run, short of length on the fourth stump line, Williamson punches it to deep cover, he beat the diving cover fielder]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, 1 run, back of a length close to off, Guptill punches it towards mid-off]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, lovely ball! Full and at 144.5kph, it was angled in and shaped away, Guptill was lured into the drive, the late movement beat the outside edge]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, fuller and on off, Guptill moves across and drives it to mid-on, can't beat the fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Shenwari to Guptill, 1 run, nice loopy delivery, Guptill gets forward and drives to long-off]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Shenwari to Guptill, no run, slider around off, Guptill hangs back and punches it to cover]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Shenwari to Williamson, 1 run, flatter and on off, Williamson punches it past the diving bowler and down to long-on]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Shenwari to Williamson, 2 runs, repeat off the first ball, but this time Williamson didn't get close to the ball, still went through with the loft and hits it wide of long-on]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Shenwari to Williamson, no run, too full and on off, Williamson squeezes it to cover]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Shenwari to Williamson, <b>FOUR</b>, great shot! Superb use of the feet. Williamson dances down the turf for the flighted delivery, gets to the pitch and picks it up over mid-wicket, couple of bounces and into the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, excellent ball, right in the blockhole, Guptill gets his front leg out of the way and jams it back to the bowler]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, 1 run, too straight, on middle and leg, Williamson leans forward and flicks it to deep mid-wicket]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, again, the length is short, Williamson punches it towards backward point, Najibullah dives to his left and makes a fine stop]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, <b>FOUR</b>, nice shot! It was short on middle and leg, Williamson swivels around in the crease and pulls it behind square, the fine leg fielder runs across, dives and fails to prevent the boundary]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, keeps it short of length on off, Williamson goes back and across before defending it to the off-side]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, back of a length around off, Williamson guides it to backward point with an angled bat]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now. McCullum started off in a usual fashion, hitting a few blows before he dragged one back onto his stumps on 42. Since then, both Guptill and Williamson have mixed aggression with good defence to take New Zealand forward. They now need 98 more runs to win. On the other hand, Afghanistan need wickets]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Shenwari to Guptill, no run, floated up on middle, Guptill leans forward and blocks]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Shenwari to Williamson, 1 run, comes down the track and works this flighted delivery down to long-on]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Shenwari to Guptill, 1 run, flatter and quicker on the stumps, Guptill punches it towards long-on]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Shenwari to Guptill, no run, pushed through on the pads, Guptill tucks it away into the on-side]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Shenwari to Guptill, no run, overpitching outside off, Guptill leans forward, opens the face of the bat and drives it towards backward point]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Shenwari to Williamson, 1 run, low full toss on middle, Williamson eases it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, bumper on leg, Guptill lets it go past his left shoulder, the umpire deems it legal]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, 1 run, banged in short and at the batsman, Williamson pulls it all along the ground to deep mid-wicket]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, back of a length delivery just outside off, Williamson opens the face of the bat and pushes it towards backward point]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, fuller in length and just outside off, Williamson drives it towards cover, didn't time it too well though]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, just short of a good length and around off, Williamson goes on the back foot and defends it back to the bowler]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, back of a length delivery just outside off, Williamson punches it back to the bowler after hopping in the crease]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Shenwari to Guptill, no run, short and well wide outside off, Guptill cuts but picks out cover, who dives to his left and stops the ball]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Shenwari to Williamson, 1 run, takes two steps forward and wrists this flatter delivery down to long-on]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Shenwari to Williamson, 2 runs, drifting on the pads, Williamson works it behind square, the batsmen take two before the fielder from deep square leg runs to his right and fields the ball]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Shenwari to Williamson, no run, flighted delivery just outside off, Williamson leans forward and pushes it into the off-side]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Shenwari to Williamson, no run, slower through the air and on middle stump line, Williamson defends with his bat in front of the pad]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Shenwari to Guptill, 1 run, short and outside off, Guptill rocks back and cuts it to sweeper cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Samiullah Shenwari, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, 1 run, short delivery from Dawlat, Guptill pulls it to deep mid-wicket and he will keep the strike]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, back of a length delivery cramping Guptill for room on middle and leg, Guptill drops his wrists on it and the ball rolls away into the on-side]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, 1 run, short of length delivery angled across off, Williamson opens the face of the bat and runs it down to third man]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, back of a length delivery just outside off, Williamson works it away into the on-side]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Williamson, no run, a loud shout for lbw but umpire Erasmus just walks away, it was angling in on middle stump, it was the right decision as Williamson was pushing at it and got an inside edge onto the pad, very good decision by the umpire, Afghanistan don't go for the review either]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, 1 run, back of a length delivery just outside off, Guptill punches it towards cover off the back foot, who misfields and allows the batsmen to take a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [1.0-0-11-0] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, back of a length delivery around off, Williamson punches it to the left of the bowler]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, back of a length delivery angled across off, Guptill goes across and punches it off the inside half of the bat in front of mid-on, he sets off for the single and makes it in time even though the fielder throws it at the non-striker's end]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Shapoor to Williamson, 1 run, goes across to this short of length delivery outside off, Williamson works it past mid-wicket and gets to the other end]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, back of a length delivery around off, Williamson moves across a little and turns it into the on-side]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Shapoor to Williamson, <b>FOUR</b>, back-to-back boundaries for Williamson, he is all about class, it was fuller and well wide outside off, Williamson reaches to the pitch of the ball and drives it beautifully through the covers, there was a cover and extra cover in place, but Williamson pierced them beautifully]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Shapoor to Williamson, <b>FOUR</b>, short and slightly wide outside off, Williamson waits for the ball and cuts it magnificently past backward point, the ball races across the turf and crashes into the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Hamid to Guptill, <b>FOUR</b>, Guptill is getting a move on here, now he goes downtown for a boundary, it was touch fuller and outside off, Guptill leans forward and lofts it over mid-off, who was inside the circle and the ball runs away to the fence]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Hamid to Guptill, <b>FOUR</b>, short delivery at the batsman, Guptill rocks back and pulls it to the deep backward square leg fence, good shot that]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, length delivery just outside off, Guptill gets forward and defends]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, back of a length delivery from Hamid Hassan, Guptill was looking to work it through the on-side, the ball bounces extra and lobs up off the shoulder of the bat, but luckily for Guptill, it falls in front of the fielder at backward point, who was charging towards the ball, can only collect it on the bounce]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, back of a length delivery just outside off, Guptill drops it in front of point and was looking for the single, but Williamson sends him back]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Hamid to Guptill, <b>FOUR</b>, length delivery outside off, Guptill gets on top of the bounce and drives it on the up square of the wicket, the ball runs away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Shapoor to Williamson, 2 runs, <b>first runs in 18 balls</b>, it was back of a length delivery angling in on leg, Williamson just helps it off his pads to fine leg, where Hassan dives to his left, but can't stop it cleanly, the batsmen take two because he had to get up on his feet and stop the ball from reaching the fence]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, length delivery around off, Williamson pushes it to the left of mid-off, can't get a single though]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, full delivery outside off, Williamson slices the drive towards backward point]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, back of a length delivery just outside off, Williamson punches it uppishly past the bowler, who dives to his right but can't get to it, the ball rolls awway towards mid-on]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, just short of a good length and outside off, Williamson punches it towards cover-point]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, full and around off, Williamson goes slightly across and drives it to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, just short of a good length and around off, Guptill defends it with soft hands, <b>back-to-back maidens</b> for Afghanistan]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, short of length delivery angling in on middle, Guptill looks to tuck it away into the on-side but can't lay bat on it, the ball rolls away into the on-side off the thigh pad]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, full delivery just outside off, Guptill drives well, but picks out cover]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, back of a length delivery well wide outside off, Guptill goes for the cut, but fails to make a connection, the ball beats the outside edge and the keeper collects]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, back of a length delivery just outside off, Guptill defends with an angular bat, the ball goes on the bounce to the right of slip, who moves across to stop it]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, length delivery on off, Guptill pushes at it off the front foot, the ball rolls away towards cover-point off the outside half of the bat]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [2.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, touch fuller and just outside off, Williamson leans forward and bunts it to mid-off]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, length delivery on off, turned to mid-wicket from the crease]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, length delivery just outside off, Williamson defends with soft hands, the ball rolls away behind square on the off-side]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, back of a length delivery around off, Williamson pushes it to the right of the bowler, who sticks his right hand out and collects it]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, full outside off, Williamson watches it closely and lets it pass]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Shapoor to Williamson, no run, low full toss outside off, Williamson drives it towards cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [2.0-1-15-0] is back into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Nabi to Williamson, 1 run, floated up on off and middle, Williamson turns it past mid-wicket with the turn, gets off the mark with a single]]></line><line><![CDATA[<b>Kane Williamson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Nabi to Brendon McCullum, <b>out</b> Bowled!! McCullum perishes trying to score more quick runs. It was another short delivery from Nabi, but not that short for McCullum to pull it over deep mid-wicket. He ends up getting an inside edge onto the pad and the ball rolls away onto the stumps. Not a good way to get out, but Afghanistan won't mind it at all. McCullum makes the long walk back after a breezy innings. <b>Brendon McCullum b Nabi 42(19) [4s-6 6s-1]</b>]]></line><line><![CDATA[Nabi to Brendon McCullum, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Nabi to Brendon McCullum, <b>SIX</b>, poor delivery from Nabi, drags it well short, McCullum rocks back and muscles the pull over the deep square leg fence for a maximum]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Nabi to Brendon McCullum, <b>FOUR</b>, touch flatter from Nabi, McCullum backs away and punches it past extra cover, the ball runs away to the fence in no time]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Nabi to Brendon McCullum, no run, McCullum gives the charge and Nabi shortens his length, McCullum defends it back to the bowler]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Nabi to Brendon McCullum, 2 runs, McCullum goes for the reverse sweep first up, it was going down leg, he doesn't get it off the middle of the bat, but just about gets it over short third man, the batsmen take two]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Introduction of spin as Nabi replaces Shapoor. He will operate with a slip and a leg slip in place.]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Hamid to Guptill, no run, full just outside off, Guptill leans forward and mistimes the drive towards cover off the toe-end of the bat, Guptill looks at his bat after playing that shot]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, 1 run, slower full ball well wide outside off, McCullum reaches out and squeezes it out towards extra cover for a single]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, 2 runs, drifting onto the pads, McCullum clips it behind square, the fielder from square leg gives chase and the batsmen take a couple before he hunts it down]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Hamid to Guptill, 1 run, straighter in line this time around, Guptill tucks it away to fine leg off his pads]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, 1 run, almost a yorker around off, McCullum drives it down to long-off for a single]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Hamid to Guptill, 1 run, angling in on off and middle, Guptill works it wide of mid-on and the batsmen pinch a run before mid-on moves across to his right and fields it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, again back of a length and outside off, Guptill cuts it towards backward point, where Najibullah dives to his right and makes a stop, he can't prevent the single, good effort though]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, short and slightly wide outside off, Guptill cuts it towards cover-point, where the fielder dives to his left and throws himself at the ball, saves a boundary and doesn't even allow the single, good effort that from the fielder there]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Shapoor to Brendon McCullum, 5 runs, length delivery around off, McCullum pushes it towards cover and sets off, Nabi at cover picks it up and throws it at the striker's end, he has a direct hit, but the batsman was in. To make matters worse, there was no one backing up and the ball deflects off the stumps and runs away to the fine leg fence, 4 more runs for McCullum and the Kiwis]]></line><line><![CDATA[Comes round the wicket]]></line><line><![CDATA[Long-off is in place for McCullum]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Shapoor to Brendon McCullum, <b>FOUR</b>, back of a length delivery angling away outside off, McCullum flat-bats it wide of long-off, the ball crashes into the fence in no time]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Shapoor to Guptill, 1 run, touch short and slightly wide outside off, Guptill hangs back and cuts it towards cover-point, who slides and misfields, allowing the batsmen to cross over for a single]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Shapoor to Guptill, <b>FOUR</b>, Guptill also joins the party, it was full and outside off, Guptill offers the full face of the bat and drills it past the non-striker, the fielders from mid-off and mid-on give chase, but the ball runs away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, <b>FOUR</b>, well, McCullum doesn't care whatever length you bowl, this time he clears his front leg and lofts this fuller delivery straight over the bowler, there was a fielder at long-off, but he had no chance of cutting that off running to his right]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, no run, <b>almost a catch!</b> McCullum is living dangerously here. He comes down the track and converts this full delivery into a full toss, he goes for the lofted drive, but luckily for him the ball bounces just short of a diving mid-off fielder, that was very close to him and the fielder did well to get behind it]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, no run, length delivery on the stumps, McCullum leans forward and defends it into the off-side]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, <b>FOUR</b>, full delivery outside off, McCullum goes for the drive, gets an outside edge that runs away past the slip and crashes into the third man fence, there was no second slip in place, otherwise it would have gone straight to him]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, no run, yorker on the stumps, McCullum squeezes it out back on the track, the ball goes on the bounce to the keeper and the Afghans thought that they had their man, only to know that it was a bump ball]]></line><line><![CDATA[The umpires are having a discussion in the middle. They have asked the third umpire to check this caught behind appeal. It is hard to tell, there is no rebound off McCullum's foot. Did McCullum squeeze it off the bottom of his bat? McCullum survives as the umpire gives it Not Out]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Hamid to Brendon McCullum, no run, low full toss from Hamid, McCullum was down the track once again, but fails to lay bat on the ball, the ball goes through to the keeper, it wasn't that far away from the off stump too]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[Early change from Afghanistan as Hassan/The Rambo comes into the attack]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, angling away outside off, Guptill stays back, lifts his bat and lets it go, a <b>maiden</b> to start with from Shapoor]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, fuller in length and with a hint of shape away outside off, Guptill leaves it for the keeper]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, short of length delivery outside off, Guptill stays back and punches hard, picks out cover]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, back of a length delivery angled across off, Guptill stays rooted to the crease and punches it towards cover]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, on a length and angling away outside off, Guptill goes chasing after it and looks to cut it hard, but the length was not there, the ball goes past his blade]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Shapoor to Guptill, no run, full and well outside off, Guptill puts his front foot forward and shoulder arms]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[Shapoor will share the attack with Dawlat]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Brendon McCullum, <b>FOUR</b>, back-to-back boundaries for McCullum, it was the inswinging fuller length delivery on off and middle, McCullum just drills it past the non-striker and the ball runs away to the fence, the fielder at mid-on could only see the ball rocket away to the fence]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Brendon McCullum, <b>FOUR</b>, McCullum comes charging down the wicket and goes for the loft over the bowler's head, he doesn't time it well, but the ball had enough legs to reach the fence]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, 1 run, length delivery shaping back in on off and middle, Guptill punches it wide of mid-on off the inside half of the bat, the batsmen take another run and Guptill is off the mark as well]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Brendon McCullum, 1 run, on middle and leg, McCullum clips it wide of mid-on and gets off the mark with a single]]></line><line><![CDATA[Fine leg comes inside the circle and point goes back on the rope]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, leg byes, 1 run, angling in on leg, Guptill fails to clip it fine, the ball rolls away behind square off the pad, the batsmen run for a leg bye]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, no run, fuller delivery shaping away outside off, Guptill leans forward and drives it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Guptill, <b>wide</b>, starts off with a wayward delivery down the leg-side, the keeper dives to his left and collects and the umpire calls it a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Guptill and Brendon McCullum are at the crease. Guptill is on strike. Dawlat Zadran will open the attack</b>]]></line><line><![CDATA[Welcome back. The Kiwi openers are making their way out to the middle. The Afghan players are also out there. Guptill will take the strike first up. Dawlat Zadran will open the bowling. There are two slips in place]]></line><line><![CDATA[For the Black Caps, Vettori was the pick of the bowlers. The tall left-arm spinner took 4/18 in his 10 overs. He was simply superb with the ball and never allowed the Afghan batsmen to take control of the game when he was on. In fact, during the course of this game, Vettori became the first New Zealand bowler to complete 300 ODI wickets. Boult gave him good support, picking 3 wickets for 34. Now, it is upto their batsmen to make it 5 consecutive wins in the World Cup. Join us in a short while to follow the Kiwi run-chase.]]></line><line><![CDATA[However, Najibullah came out all guns blazing and looked to take the attack to the opposition. His six off Southee that he sent sailing out of the park was a treat to watch. Both Shenwari and Najibullah batted superbly in those middle overs and were looking good enough to take their team past 200, but Najibullah holed out to third man after a 86-run partnership, while trying to up the ante. He got out on a run-a-ball 56. Dawlat Zadran also failed to put any kind of partnership with Shenwari and got out for 1. Shenwari then took the responsibility of taking the attack to the opposition, but he also threw away his wicket after bringing up his 10th ODI fifty. In the end, Afghanistan were bowled out for 186 , but only after Hamid Hassan entertained the crowd with some good blows. He eventually got out to a great catch from Milne.]]></line><line><![CDATA[Afghanistan got off to a poor start, losing both their openers when the team score read 6. Boult and Southee bowled tight lines and lengths as they kept good pressure on the Afghan batsmen. Stanikzai too failed to hold one end and perished for just 9. Mangal and Shenwari then put on 25 for the 4th wicket, before Vettori outfoxed Mangal and bowled him. Afghanistan then lost 2 more wickets in a space of 10 runs and were reeling at 59/6 at one stage.]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, <b>out</b> Caught by Milne!! That's a stunner from Milne. The fun ends for Hassan. Gives the charge once again, Anderson drops it short, Hassan flat-bats it to wide long-on, Milne runs forward, dives full length and scoops it inches from the ground. That was a difficult take and he made it look ridiculously easy. <b>Hamid c Milne b Corey Anderson 16(21) [4s-4]</b>]]></line><line><![CDATA[Corey Anderson to Hamid, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, <b>FOUR</b>, these runs will now be hurting New Zealand. Shortens the length around off, Hassan backs away and steers it to third man, the fielder was inside the circle and it was cleverly played]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, no run, takes the pace off the ball, Hassan charges down the wicket and does not make the required connection]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Corey Anderson to Shapoor, 1 run, short of length on off, Shapoor hops back and steers it to third man. The two batsmen collide with each other, but no harm done. Hassan lost his bat, but he didn't it to get in the crease as he got in comfortably]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Milne to Hamid, no run, short of length around off, Hassan rides the bounce and guides it to the left of backward point, he wanted the run but Shapoor was not too keen]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Milne to Hamid, no run, good length ball just outside off, Hassan has a late go at that, the ball fizzes past the outside edge]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Milne to Hamid, no run, change of pace from Milne, Hassan looks to heave it to mid-wicket, fails to make contact]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Milne to Hamid, <b>FOUR</b>, cracking shot! These are some useful runs for Afghanistan. Short and width on offer, Hassan transfers his weight onto the back foot and cuts it behind point. No chance for third man to stop that]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Milne to Hamid, <b>wide</b>, slower short ball that sails over Hassan, wide called for height]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Milne to Shapoor, leg byes, 1 run, back of a length on leg-stump, Shapoor was looking to get out of the way, the ball thuds into the thigh pad and rolls behind square]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Milne to Shapoor, no run, fullish and on off, Shapoor stays in the crease and knocks it to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Adam Milne [9.0-0-33-1] is back into the attack</b>]]></line><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, <b>FOUR</b>, take that, Anderson! Full and in the slot, Hassan clears his front leg and hammers it over the bowler's head. That is more like the tailender's shot]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, <b>FOUR</b>, streaky! Dug in midway down the track, Hassan looks to arch back and sway out of the way, but held his bat up like a telescope, the ball takes the edge and flies over the keeper. He couldn't believe that he connected and has a wry smile on his face]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, no run, short delivery around off, Hassan gets his gloves out of the way and lets it go]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Corey Anderson to Shapoor, 1 run, back of a length around off, Shapoor pushes at it with laden feet, the ball goes off the outside edge to third man]]></line><line><![CDATA[<b>Shapoor Zadran, left handed bat, comes to the crease</b>]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, <b>out</b> Caught by Ross Taylor!! A fine innings comes to an end. Anderson has the last laugh. It was banged in halfway down the wicket, Shenwari is hurried on the pull, top-edges it to backward square, where the <b>birthday</b> boy Taylor takes it easily. <b>Shenwari c Ross Taylor b Corey Anderson 54(110) [4s-5 6s-1]</b>]]></line><line><![CDATA[Corey Anderson to Shenwari, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, good length ball on middle, Shenwari backs away and mistimes the heave to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Boult to Hamid, no run, full and slanting in on the pads, Hassan misses the flick, goes off the pad to fine leg. Shenwari wants the strike and does not single. Another fine spell from Boult comes to an end. His figures read: <b>10-2-34-3</b>]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Boult to Shenwari, 1 run, low full toss on the stumps, Shenwari eases it to long-on and takes the single]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Boult to Shenwari, 2 runs, off-speed delivery, Shenwari pokes at it and the ball rolls off the outside edge to third man, it was very fine and that allowed the batsmen to pick up two]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, right in the blockhole, Shenwari squeezes it out towards point]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Boult to Shenwari, <b>FOUR</b>, Shenwari brings up his <b>fifty</b>, 10th in ODIs and 2nd in the World Cup. The back of the hand slower ball, Shenwari lofts it over extra cover, Baz gives chase, dives and hauls it in, but the ball still rolls back to the rope]]></line><line><![CDATA[Switches to round the wicket!]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, short of length on off, Shenwari rides the bounce and glides it to third man. Doesn't take the run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult [9.0-2-27-3] is back into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, no run, back of a length on off, Hassan pats it in front of backward point]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, no run, fuller and on off, Hassan presses it to short cover by coming half-forward]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Corey Anderson to Hamid, no run, shortens the length around off, Hassan dabs it to backward point]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, 1 run, in the air and safe! Back of a length just outside off, Shenwari goes for mow towards cow corner, ends up splicing it over the bowler. McCullum could not get there from mid-off and he is not happy with Anderson. Guess he wanted the bowler to come for the catch]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, Anderson goes back over the wicket, angles it across the right-hander, Shenwari tries to repeat the previous shot, but the angle took it away from him]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, <b>SIX</b>, monster hit! Targets the short side boundary and clears it comfortably. Length delivery around off, Shenwari shuffles across, gets his front leg out of the way and heaves it over cow corner for a maximum. That went 30 rows back]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Corey Anderson [4.0-0-17-0] is back into the attack</b>]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Milne to Hamid, no run, yorker tailing in on off, Hassan brings his bat down and jams it to the on-side]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Milne to Hamid, no run, fuller and just outside off, Hassan presses forward and eases it to backward point]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, steers the back of a length delivery to third man and takes the single.]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, good length ball on off, Shenwari prefers to hang back and tap it to short cover]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, back of a length outside off, left alone]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, short of length around off, Shenwari covers the line and lets it pass]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Boult to Hamid, no run, on a length close to off, Hassan watches it carefully and blocks it to the off-side]]></line><line><![CDATA[Goes back over the wicket..]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Boult to Hamid, no run, pitched up close to off, Hassan manages to keep it out, ball rolls to the right of Boult]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Boult to Hamid, no run, full and angling in on off, Hassan defends off the inside part to the on-side]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Boult to Hamid, no run, drags the length back, Hassan stays back and knocks it to short cover]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Boult to Hamid, no run, fuller and on off, Hassan prods forward and defends it to cover]]></line><line><![CDATA[<b>Hamid Hassan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Boult to Dawlat Zadran, <b>out</b> Caught by Ronchi!! That was very easy! This is the reason why Shenwari wanted to keep most of the strike. Boult comes round the wicket, keeps it full and just outside off, Dawlat has a wild swing at it, gets a feather through to Ronchi. An unneccessary shot from the fast bowler. <b>Dawlat Zadran c Ronchi b Boult 1(5)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Boult to Dawlat Zadran, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, can't get the single and he is disappointed with himself. Short in length around off, Shenwari bunts it towards cover, Guptill is quickly onto the ball]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, 150.5kph short of length and just outside off, Shenwari looks to steer it down to third man, is beaten for pace]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, keeps it back of a length on off, Shenwari hops across and taps it to short cover]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, tucked away square of the wicket on the leg-side, doesn't take the single]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, <b>run-out chance goes begging!</b> Both batsmen were right in the middle, but the throw was at the wrong end. Short of a length, Shenwari punches it in the air off the back foot over short cover, McCullum moves to his left from mid-off, Shenwari was in a dilemma whether to take the single or not, in the end he gets back to the crease in time. The throw had to be at the bowler's end as Dawlat was ball watching and was nowhere close to the crease]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, back of a length on off, Shenwari gets back and across, defends to the left of Milne]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, <b>wide</b>, bumper down leg, easy call for the umpire]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The batting powerplay yielded <b>29/1</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Boult to Dawlat Zadran, no run, length delivery angling in on around off, Zadran pushes it towards backward point]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Boult to Dawlat Zadran, no run, yorker on the stumps, Dawlat squeezes it to short mid-wicket]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Boult to Dawlat Zadran, no run, back of a length delivery outside off, Dawlat looks to cut it, but can't connect, the ball goes past the blade]]></line><line><![CDATA[Comes round the wicket]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Boult to Shenwari, 1 run, full delivery angled across off, Shenwari mistimes the heave to long-on, this time he takes the single, <b>150 up</b> for Afghanistan]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, back of a length delivery on the pads, Shenwari tucks it away to short fine, there was a chance of a single there, but Shenwari says no to his partner]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Boult to Shenwari, 2 runs, slower full ball outside off, Shenwari slices the drive over extra cover, the fielder from sweeper comes around and keeps the batsmen down to a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult [7.0-1-24-2] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, length delivery outside off, Shenwari pushes it to the right of backward point and sets off, the fielder from backward point slides, picks it up and throws it at the striker's end, but the batsman made his ground comfortably]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, another good bumper from Milne, Shenwari ducks under it]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Milne to Dawlat Zadran, 1 run, length delivery outside off, Dawlat pushes at it, the ball runs away to third man off a thickish outside edge]]></line><line><![CDATA[<b>Dawlat Zadran, right handed bat, comes to the crease</b>]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>out</b> Caught by Vettori!! Najibullah perishes after a good fifty. It was short and slightly wide outside off, Najibullah backs away and throws his bat at it, the ball flies off his bat towards Vettori at third man, who moves to his left and swallows it easily. End of a good partnership as well, the second highest partnership for Afghanistan for any wicket in World Cup. <b>Najibullah c Vettori b Milne 56(56) [4s-8 6s-2]</b>]]></line><line><![CDATA[Milne to Najibullah, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, angling in on off and middle, Shenwari clips it in front of mid-on and the batsmen pinch a quick run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, yorker on off, Shenwari squeezes it to the right of the bowler and sets off, Milne was quick to hare across and things would have been interesting had he picked it up cleanly, but Shenwari reaches his crease in time]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Elliott to Najibullah, <b>FOUR</b>, back of a length delivery outside off, Najibullah goes hard at it, gets an outside edge and the ball runs away to the third man fence]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Elliott to Shenwari, 1 run, angling in on middle and leg, Shenwari clips it to the right of mid-wicket and the batsmen take a single]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Elliott to Najibullah, 1 run, fuller delivery outside off, Najibullah drives it down to long-off for a single]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Elliott to Najibullah, no run, length delivery outside off, Najibullah looks to force it through the off-side, but fails to lay bat on that, the ball goes past the outside edge]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Elliott to Najibullah, <b>FOUR</b>, <b>2nd ODI fifty</b> for Najibullah, it was short and wide outside off, Najibullah cuts it past a diving backward point and the ball runs away to the fence]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Elliott to Najibullah, no run, length delivery around off, Najibullah defends it off the front foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Grant Elliott, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[Elliott will come from round the wicket]]></line><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Milne to Najibullah, 1 run, short of length delivery outside off, Najibullah backs away a touch and looks to slice it over point, ends up slicing it towards backward point, who dives to his right but can't take a clean stop, the batsmen take a single as the ball rolls away to third man]]></line><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>wide</b>, slower ball bumper from Milne, Najibullah ducks under it and the umpire calls it a wide for height]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, length delivery just outside off, Najibullah pushes it into the off-side]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>FOUR</b>, back of a length delivery angling away outside off, Najibullah stays back and lofts it over mid-off, the ball runs away to the fence, he didn't middle it but the ball had enough to reach the fence]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, full delivery outside off, Najibullah squeezes it out to the right of short cover, where Guptill dives and stops the ball, saves some runs for his team there]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, back of a length delivery angled across off, Najibullah opens the face of the bat and pushes it towards backward point with laden feet]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, full and wide outside off, Najibullah goes chasing after it, but fails to connect]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Adam Milne [5.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, yorker on off and middle, Shenwari jams it out, Southee finishes off his quota of 10 overs. His figures read: <b>10-0-43-0</b>]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, length delivery just outside off, Shenwari leans forward and drives it to the left of short cover, who collects it easily]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, yorker around off, Shenwari squeezes it to the right of the bowler]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, back of the hand slower ball, it is short in length, Shenwari mistimes the pull to backward square, picks out the fielder there]]></line><line><![CDATA[What has happened there? Shenwari is sitting on the ground and he looks to be having some pain at the back of the head now. A little late, but sometimes you don't realize it until after some time. There's an ice pack being applied to the back of his head. Luckily, it hit flush on the helmet. He is back up now and ready to continue..]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Southee to Najibullah, 1 run, low full toss outside off, Najibullah drills it towards short cover, who dives to his left and parries it towards the mid-off region, the batsmen take a single]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Southee to Najibullah, <b>SIX</b>, first ball from Southee in the batting powerplay and it has been smacked over the long-on fence, it was touch fuller and outside off, Zadran just launches it over the long-on fence, someone in the crowd tried to take the one-handed catch, but fails to take it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for the <b>batting powerplay</b>. Shenwari has had a change of helmet as well]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, back of a length delivery just around off, Shenwari defends from the crease]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, touch fuller and around off, pushes in the direction of the bowler]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, <b>wide</b>, another bumper from Anderson, Shenwari ducks under it and the umpire calls it a wide]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, ohh dear! That has <b>hit him right on the helmet</b>. It was banged in short and at the batsman, Shenwari was surprised by the bounce and was a little late to duck, he takes his eyes off as he tries to get out of the way, the ball hits him on the back of the helmet and it has left an impact mark on the helmet]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, slower ball outside off, Shenwari looks to run it down to third man after opening the face of the bat, gets an outside edge that bounces in front of the fielder at slip]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, another full delivery around off, Shenwari leans forward and drives it to short cover with an angular bat]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, touch fuller and just outside off, Shenwari leans forward and drives it to mid-off, can't get the single as McCullum was quickly onto the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, good delivery to end the over, it was angled across off, Najibullah pushes at it, the ball beats the outside edge once again]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Southee to Shenwari, 1 run, back of a length delivery outside off, Shenwari jumps and gets on top of the bounce, cuts it to sweeper cover for a single]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, length delivery just outside off, Shenwari punches it to mid-off]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, fullish delivery angling in around off, Shenwari pushes it back to the bowler]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Southee to Najibullah, 1 run, on a good length and just outside off, Najibullah opens the face of the bat and runs it down to third man off the outside half of the bat]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, length delivery angled across off, Najibullah pushes at it with laden feet, the ball goes past the outside edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now. Both Shenwari and Najibullah have done well to lift their team from 59/6 at one stage to 118/6 now. However, the job is still not over yet as Afghanistan should at least try and post something over 200. Can they do it? Or will the Kiwis strike back? All the action follows right after the drinks break]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, in the channel outside off, Shenwari leaves it alone]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, 1 run, angling in on off and middle, Najibullah stays rooted to the crease and clips it towards mid-wicket, sets off and completes the single easily in the end]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, no run, back of a length delivery shaping away outside off, Najibullah leaves it for the keeper]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, no run, yorker just outside off, Najibullah squeezes it out into the off-side]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, no run, length delivery just outside off, Najibullah defends it from inside the crease, this is also the <b>record 7th wicket partnership</b> for Afghanistan in ODIs]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, <b>FOUR</b>, full delivery outside off, Najibullah goes for the drive off the front foot, but gets a thick outside edge that runs away to the third man fence, the fielder at third man was a little square and had no chance of cutting that off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, back of a length delivery just outside off, Shenwari punches it to short cover, who bends across to his right and fields the ball]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, yorker on off, Shenwari jams it out to short cover]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, back of a length delivery outside off, Shenwari waits for it inside the crease and looks to guide it down to third man, but can't get it past backward point, who dives to his left and stops the ball]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, length delivery just outside off, Shenwari comes forward and defends it to short cover]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Southee to Najibullah, 1 run, length delivery angling away outside off, Najibullah pushes at it off the front foot, gets an outside edge that runs away down to third man for a single]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, short and wide outside off, Najibullah goes after it and looks to go hard, but fails to make a connection]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [7.0-0-33-0] is back into the attack</b>]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, length delivery just outside off, Shenwari leans forward and pushes it to the left of short cover, where Guptill dives and prevents the single]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, low full toss outside off, Shenwari drives it to short cover]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, <b>wide</b>, bowls this one well wide outside off, Shenwari goes after it but fails to connect, the umpire calls it a wide, Anderson is not happy with the call]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, <b>wide</b>, bumper at the batsman, who ducks under it. The umpire calls it a wide for height]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, length delivery around off, Shenwari shuffles across and turns it to the right of the bowler, who gets across and stops the ball]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, 1 run, back of a length delivery on off, Najibullah works it past square leg]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, no run, bumper from Anderson but it was well outside off, Najibullah has nothing to do with it]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, 1 run, short of length around off, Shenwari rides the bounce and guides it square of the wicket on the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, slower and around off, Najibullah drops it to the off-side, wanted the single but is sent back. The crowd applaud Vettori's effort as he has finished a fine spell. His figures read: <b>10-4-18-4</b>]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, 1 run, pushed through on off, Shenwari goes back and punches it past a diving cover fielder]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, flighted on off, Shenwari presses forward and defends it down the wicket]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, leans forward and glances it to short fine leg off the inner part of the bat]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Vettori to Najibullah, 1 run, stands tall and punches it to long-on]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Vettori to Shenwari, 1 run, trifle short and outside off, Shenwari cuts it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Corey Anderson to Najibullah, no run, short of length just outside off, Najibullah looks to flay it through the off-side, the ball beats the outside edge]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, 1 run, <b>run-out chance missed!</b> Guptill almost made amends to the drop catch. Shenwari drives the full delivery towards short cover, Guptill dives to his left and makes a fine save, he then shies at the striker's end, where Shenwari had left the crease thinking the ball had gone past Guptill, he dived back in, but was well short. There was no one backing up and they steal the extra run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, bouncer on middle and leg, Shenwari sinks under it and eludes it comfortably]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, 2 runs, good length ball around off, Shenwari lofts it straight back over the bowler's head, didn't time it again and the ball plugs in the outfield, Baz runs back and keeps it to two]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, no run, back of a length around off, Shenwari gets behind the line and knocks it in front of short cover]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Corey Anderson to Shenwari, <b>FOUR</b>, fuller and outside off, Shenwari presses forward and drives, didn't time it as well as he would have liked, but the ball had enough to beat Guptill's chase and dive]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Corey Anderson, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, floated up outside off, Najibullah drives and finds mid-off]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, 1 run, sliding in on middle and leg, Shenwari glances it to short fine, Najibullah calls him through for a quick single]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, New Zealand went up for the catch, floated up on off, Shenwari kneels down and can't connect with the sweep, the ball lobs off the right forearm to the off-side, Ronchi runs across, dives and takes it with one hand. It was a good decision from umpire Cloete]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, arm-ball that angles in, Shenwari hangs back and blocks it to Vettori]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, tossed up on off, Shenwari dead-bats it down the wicket]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, quicker and on off, Shenwari defends to the right of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, yorker on the fourth stump line, Najibullah squeezes it to short cover]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, back of a length on off, it holds up on the wicket, Najibullah bunts it down the wicket, Southee makes a half stop with his right boot]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Southee to Shenwari, 1 run, another slower one, Shenwari pulls it with one leg in the air, gets it down to fine leg]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Southee to Najibullah, 1 run, off-speed delivery, Najibullah nudges it in front of square on the leg-side and scampers through for a quick single]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, short delivery on leg-stump, Najibullah gets inside the line and watches it sail over his right shoulder]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, low full toss just outside off, Najibullah drives it to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, punched back to the bowler and it is the <b>4th maiden</b> for Vettori]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, slower through the air, Shenwari gets behind the line and blocks it to the on-side]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, kneels down and sweeps, picks out the fielder at short fine leg]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, flatter and around off, Shenwari goes for the cut, ends up chopping it to cover]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, comes half-forward and taps it to the on-side]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, goes back and knocks it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Southee to Najibullah, no run, punched off the back foot straight to short cover]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Southee to Shenwari, 1 run, good length ball on off and middle, Shenwari wrists it towards mid-on and takes a couple of steps, Najibullah responds and was going for the run before being sent back, Nathan McCullum runs forward and hits the target at the bowler's end, but Najibullah made it back. The ball ricochets and the batsmen sneak in an extra run]]></line><line><![CDATA[Third umpire pressed into service for a run-out chance. Najibullah is in though. Not Out flashes on the giant screen. The Afghanistan supporters cheer after seeing that.]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, on a length close to off, pushed to mid-off]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Southee to Shenwari, <b>FOUR</b>, fabulous shot! It was fuller and just outside off, Shenwari comes forward and drives it wide of mid-off, the timing was superb as it beats McCullum's chase]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Southee to Najibullah, 1 run, <b>dropped!</b> Can you believe it? It is Martin Guptill, who puts it down. Change up from Southee, rolls his finger on top of the ball, Najibullah goes for the hoick, miscues it completely towards deep square leg, Guptill ran forward and got both hands, but couldn't latch onto it. It stayed in the air for a long time]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Southee to Najibullah, <b>SIX</b>, monster! It is out of the park. Hit one of the pillars on the roof. Length delivery right in the arc, Najibullah swings hard and sends it sailing over deep mid-wicket for a maximum. Southee has a wry smile on his face]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [5.0-0-19-0] is back into the attack</b>]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Vettori to Najibullah, 1 run, Vettori sees the batsman give charge and spears it in just outside leg, Najibullah does well to get some bat and nurdle it to long leg]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, flighted on middle, Najibullah works it softly to short mid-wicket]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Vettori to Najibullah, <b>FOUR</b>, Najibullah not afraid to take on the bowlers. He shimmies down the track and wanted to go over mid-off, ends up slicing it over extra cover. It came off the outside half of the bat]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, push-drives it to mid-off]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, slower and on the stumps, Najibullah turns it gently to the on-side]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, tossed up on off, Najibullah presses forward and defends to the right of Vettori]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Milne to Najibullah, 1 run, full and outside off, almost a yorker, Najibullah digs it off the toe-end through extra cover, Baz does the mopping up from mid-off]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, too full and just outside off, Najibullah squeezes it to the right of the bowler]]></line><line><![CDATA[Milne's shoe came off as he delivered the ball. He is taking some time to put it back on which is causing a slight delay in play. In fact, it didn't come off, he was not happy with it and decided to change it. Now, all is sorted out and he steams in again..]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, again, short and at the batsman, Najibullah hangs back and tries to defend, the ball hits the glove and hits the helmet grill]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, short and bowled at 152kph, Najibullah looks to fetch it from outside off, but he is nowhere close to the ball]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, full and homing in on off, Najibullah doesn't move his feet as he squirts it off the inside edge to short fine]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>FOUR</b>, hammered! Banged in midway down the pitch, Najibullah pulls it off the front foot, he hits it in front of square and not a muscle moved on the ground. It was raw power from Najibullah]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, floated up around off, Shenwari knocks it to cover after coming forward]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, comes on the front foot and drives it to mid-off, who is well inside the circle]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Vettori to Shenwari, <b>FOUR</b>, Vettori errs in line and Shenwari is quick to dispatch it. On middle and leg, Shenwari kneels down and hammers the sweep behind square, the fielder was square and had no chance of stopping that]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, holds up on the wicket, Shenwari prods forward and drops it towards cover]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, straight roller on off, Shenwari blocks it down the wicket]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, pushes it gently to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>FOUR</b>, lovely shot! Najibullah is not afraid to play his shots. It was overpitched outside off, he doesn't get fully forward and drills the drive through extra cover, Vettori gives chase and comes second]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, spears in the bumper at the batsman, Najibullah does well to sway away from the line of the delivery, he also got his gloves out of the way]]></line><line><![CDATA[Goes round the wicket]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, on a length close to off, Najibullah dabs it to a squarish gully]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>FOUR</b>, take that says Najibullah, pitched up outside off, he gets a good stride forward and creams the drive through the vacant cover region. He rolled his wrists to keep it along the ground and to get the placement right]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Milne to Najibullah, <b>wide</b>, angled across the left-hander, Najibullah watches it go past him]]></line><line><![CDATA[A leg gully and short leg in place...]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Milne to Najibullah, no run, bouncer on the stumps, Najibullah ducks under it and evades it comfortably]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, in the air and just over! That was almost another one. It was a well directed short delivery, right at the batsman, Shenwari jumps up and fends, the ball takes the shoulder of the bat and balloons over Williamson at gully, he leaped up with one hand but was over him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Vettori to Najibullah, no run, Najibullah survives the hat-trick ball, floated up around off, he defends it gently to silly point]]></line><line><![CDATA[<b>Hat-trick</b> ball coming up. There are six fielders around the bat. Two slips, a gully, a short leg, a silly point and silly mid-off in place..]]></line><line><![CDATA[<b>Najibullah Zadran, left handed bat, comes to the crease</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Vettori to Zazai, <b>out</b> Lbw!! <b>On a hat-trick!</b> Vettori went up for the lbw appeal and umpire Cloete obliged. It was the arm--ball that slides on after pitching, Zazai had no clue about that, goes back and misses the defence, is trapped in front of middle and leg. The ball would have crashed into leg-stump. <b>Zazai lbw b Vettori 0(1)</b>]]></line><line><![CDATA[Vettori to Zazai, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Afsar Zazai, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Vettori to Nabi, <b>out</b> Caught by Ross Taylor!! Vettori strikes again! He has picked up his third of the innings. This is top class left-arm spin bowling. Flighted delivery, that straightens a touch, Nabi pushes at it away from the body, the outside edge goes to Taylor at slip, he managed to hang onto it as it went right at his stomach. <b>Nabi c Ross Taylor b Vettori 6(15)</b>]]></line><line><![CDATA[Vettori to Nabi, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Vettori to Nabi, no run, gives this more air than usual, Nabi presses forward and blocks it to the on-side]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Vettori to Nabi, no run, quicker and outside off, Nabi can't connect with the cut, he was beaten for pace]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Vettori to Nabi, no run, tossed up on off, Nabi drops it dead on the wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Daniel Vettori [4.0-2-5-2] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Milne to Nabi, 1 run, banged in halfway down the wicket, it was right at the batsman, Nabi was hopping around in the crease, fends it off the gloves to the on-side. For a second, he didn't know where the ball went]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Milne to Nabi, no run, pitches it up on the fourth stump line, Nabi drives and finds Baz at mid-off]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Milne to Nabi, no run, good length ball on the stumps, Nabi gets behind the line and defends it to mid-on]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Milne to Nabi, no run, Nabi missed out there, half volley on leg-stump, Nabi leans forward and fails to connect with the flick, is rapped on the pads, but no appeal for lbw as the ball was sliding down leg]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, cross seam delivery, attacking the stumps, Shenwari knocks it to cover-point, calls early for the single]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, tempter from Milne, full and outside off, Shenwari goes for the ambitious drive, luckily the ball does not graze the outside edge on the way to Ronchi]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Boult to Nabi, 2 runs, back of a length and bit of more bounce, Nabi jumps up, rides the bounce and guides it through backward point, Williamson gives chase and keeps it down to a couple]]></line><line><![CDATA[Switches to round the sticks]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Boult to Shenwari, 1 run, drifts onto the pads, Shenwari leans forward and glances it to fine leg]]></line><line><![CDATA[Goes back over the wicket..]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, shortens the length close to off, Shenwari hops up and looks to steer it down to third man, is cut into half as the ball beats the inside edge]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, slight confusion between the two batsmen, but no harm done. Shenwari pushes the length delivery towards point, takes a couple of steps before sending Nabi back, Guptill runs to his right and fails to pick up the ball]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Boult to Nabi, 1 run, angled in on middle and leg, Nabi tucks it in front of square on the leg-side, for a single]]></line><line><![CDATA[He is operating with two slips and a gully. Changes to round the wicket now..]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Boult to Nabi, no run, fuller and on off, Nabi presses it to mid-off after coming well forward]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult [6.0-1-20-2] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, back of a length around off, Shenwari punches it to backward point]]></line><line><![CDATA[Leg slip in place now..]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, too straight, on the middle stump line, Shenwari turns it gently to mid-on]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, fuller and on off, Shenwari knocks it to mid-off, no real footwork when he played that]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Milne to Nabi, 1 run, shortens the length around off, Nabi rides the bounce and cuts it to third man, he did well to get past the diving gully fielder]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, fullish and just outside off, Shenwari pushes it to the vacant cover region and picks up an easy single]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, 150.7kph back of a length delivery, Shenwari stays in the crease and knocks it to the left of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Vettori to Shenwari, 1 run, drags the length back, Shenwari cuts it square of the wicket and retains strike]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, slider on middle and leg, Shenwari leans forward and misses the nudge, the ball lobs off the pads towards short fine]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Vettori to Nabi, 1 run, flatter, fuller and around off, Nabi push-drives it past the diving cover to get off the mark]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Vettori to Nabi, no run, slows this up considerably, Nabi presses forward and blocks it in front of cover]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Vettori to Nabi, no run, quicker and on off, Nabi hangs back and knocks it to the off-side]]></line><line><![CDATA[Short leg in place. And it is the captain, Baz under the helmet..]]></line><line><![CDATA[<b>Mohammad Nabi, right handed bat, comes to the crease</b>]]></line><line><![CDATA[With that the <b>drinks</b> arrive on the field. It has been all New Zealand so far. After electing to bat, Afghanistan got off to a poor start, losing Ahmadi and a review only in the second over. Ghani and Stanikzai too didn't hang around much. Mangal battled for a while, before he became Vettori's <b>700th international wicket.</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Vettori to Nawroz, <b>out</b> Bowled!! <b>300th ODI wicket for Vettori!</b> First Kiwi to get to the landmark and only the 5th spinner in the world. He is congratulated by his team-mates on achieving the milestone. It was an arm-ball that pitches and drifts in, Mangal stays leg-side of the ball and looks to force it through the off-side, the ball hurried onto him and kisses the off-pole. He looked surprised, but has to make the long walk back to the pavilion. <b>Nawroz b Vettori 27(46) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Vettori to Nawroz, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Milne to Shenwari, no run, full delivery angling in from outside off, Shenwari was looking to drive, but the ball beats the outside edge]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Milne to Nawroz, 1 run, back of a length delivery just outside off, Mangal stays rooted to the crease and ramps it in the gap between the second slip and gully, too risky a shot for a single as the ball rolls away to third man]]></line><line><![CDATA[Two slips and a gully in place]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Milne to Nawroz, no run, length delivery on off, Mangal stays back inside the crease and defends]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Milne to Shenwari, 1 run, full and straightens just outside off, Shenwari was pushing at it, gets a thick outside edhe that rolls away to third man]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Milne to Nawroz, 1 run, good bit of fielding from Guptill, it was on a length and outside off, Mangal opens the face of the bat and pushes it towards backward point, where Guptill dives to his left, but can't prevent the single there]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Milne to Nawroz, no run, just short of a good length and on off, Mangal hops in the crease and blocks it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Adam Milne, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, tossed up outside off, Shenwari drives hard, but picks out mid-off, another maiden from Vettori]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, slower through the air this time and on off, Shenwari lunges forward in defence]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, pushed through quicker on leg, Shenwari was pushing at it, gets an inside edge onto the pad]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, tossed up just outside off, Shenwari presses forward and defends]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, floated up around off, Shenwari pushes it towards the cover-point region and sets off, his partner was not interested though]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, touch quicker and on off, Shenwari gets behind the line and defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, yorker outside off, Mangal jams it out towards the second gully]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Boult to Nawroz, <b>FOUR</b>, aggression from Mangal as he comes charging down the track to this back of a length delivery, he cuts it up and over cover and the ball runs away to the sweeper cover fence]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, 2 runs, <b>dropped!</b> Taylor is the culprit here, it was a length delivery outside off, Mangal pokes at it away from his body, he gets an edge towards Taylor at first slip, the ball was dying down on him, Taylor leans forward and tries to pouch it, but can't take it, the ball rolls away towards the third man region and the batsmen take two]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, almost sneaks through! It was very full and around off, Mangal was rooted to the crease and he tried to squeeze it out, gets an inside edge onto the pad]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, length delivery just outside off, Mangal opens the face of the bat and pushes it towards backward point]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Boult to Nawroz, 2 runs, touch fuller and outside off, Mangal drives but can't time it well enough, Guptill from backward point gives chase, slides near the sweeper cover fence and relays the ball back to the fielder who was running behind him, the batsmen take two meanwhile]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Vettori to Nawroz, 1 run, short and slightly wide outside off, Mangal goes deep in the crease, mistimes the cut towards sweeper cover, he will keep the strike]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Vettori to Shenwari, 1 run, loopy delivery just outside off, Shenwari pushes at it off the front foot, the ball rolls away behind square on the on-side off the inside half of the bat]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, floated up on off, Shenwari drives it to the right of the bowler, where Vettori moves across and dives, parries it towards mid-wicket and prevents the single]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Vettori to Shenwari, no run, flighted delivery on middle, Shenwari defends it off the front foot, he was thinking about a single there, but decides against it]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Vettori to Nawroz, 1 run, floated up on middle, Mangal works it wide of long-on for a single]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Vettori to Nawroz, no run, slower through the air on middle, Mangal pushes it to the right of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Daniel Vettori [1.0-1-0-1] is back into the attack</b>]]></line><line><![CDATA[Southee has been taken off the attack and Vettori who bowled a wicket maiden comes up]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, full and outside off, Shenwari goes for the front foot drive, but the ball beats the outside edge once again]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Boult to Nawroz, 1 run, length delivery on off, Mangal drops it in front of the vacant cover-point region and sets off, the batsmen complete the single easily in the end]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, goes round the wicket and bowls this in the channel outside off, Mangal dabs it towards backward point]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, <b>wide</b>, comes back over the wicket and bowls a bumper, Mangal ducks under it and the umpire calls it a wide for height]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, back of a length delivery around off, Mangal hops in the crease and defends]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, fullish on the stumps, Mangal drills the drive back to the bowler]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, back of a length delivery outside off, Mangal was looking to steer it down towards third man, but fails to connect and the ball goes past the outside edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Southee to Shenwari, no run, on a length and just outside off, Shenwari pushes it to mid-off]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Southee to Nawroz, 1 run, fullish delivery outside off with a hint of inswing, Mangal drives it towards mid-off and sets off, McCullum picks the ball up quickly running forward and fires the throw at the non-striker's end, had he hit, <b>Mangal would have been out</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Southee to Nawroz, <b>FOUR</b>, angling in on the pads, Mangal clips it past square leg and the short side boundaries do the rest]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, did he get an edge there? There was a <b>good sound</b> on that. The Kiwis however didn't appeal at all. It was on a length and outside off, Mangal pushes at it, not sure whether it took the edge or not. Snicko shows that there was a spike as the ball passed the bat, looked out to me]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, full and holding its line outside off, Mangal leaves it for the keeper]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, length delivery angling in on off, the ball holds a bit off the surface and Mangal mistimes the clip towards mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, another good delivery to end the over, it was full and outside off, it was the off-cutter from Boult, Shenwari leaves it at the last moment]]></line><line><![CDATA[There are three slips, two gullies and a backward point in place]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, touch fuller and just outside off, Shenwari was looking to drive, but the ball goes past the outside edge]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Boult to Shenwari, no run, back of a length delivery angling in from outside off, Shenwari tries to force it through the off-side, but fails to connect and the keeper collects]]></line><line><![CDATA[Boult switches to round the wicket...]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Boult to Shenwari, <b>FOUR</b>, Shenwari gets off the mark with a boundary, it was full and outside off, Shenwari opens the face of the bat and drives, gets it past backward point and the ball runs away to the fence]]></line><line><![CDATA[<b>Samiullah Shenwari, right handed bat, comes to the crease</b>]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Boult to Stanikzai, <b>out</b> Caught by Guptill!! Poor delivery from Boult, but he wouldn't mind it one bit. It was a short delivery well wide outside off, Stanikzai goes for the cut, but doesn't keep it down. He ends up giving a simple catch to backward point, where Guptill won't drop those even in his sleep. Three wickets down already and we are just in the 9th over. <b>Stanikzai c Guptill b Boult 9(18) [4s-2]</b>]]></line><line><![CDATA[Boult to Stanikzai, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Boult to Stanikzai, no run, continues from round the wicket and bowls this on a back of a length and well outside off, Stanikzai cuts it late, but picks out gully, where Williamson is quick to throw the ball back at the striker's end, the batsman rushes back in]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, yorker tailing in on leg, Mangal just about squeezes it out]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, on a good length and outside off, Mangal presses forward and blocks it towards cover-point]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, length delivery just outside off, Mangal leans forward and defends it into the off-side]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, touch fuller and just outside off, Mangal was looking to go over mid-on, but the bat turns in his hands and luckily for him, it went on the bounce to mid-on]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Southee to Nawroz, no run, length delivery just outside off, Mangal defends with a straight bat]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Southee to Nawroz, 2 runs, fullish delivery just outside off, Mangal goes hard at it, ends up slicing it over the cover infield, McCullum from mid-off gives chase and keeps them down to a couple, he didn't time it well at all]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Boult to Stanikzai, no run, goes across to this slightly back of a length delivery around off, he fails to connect with the push and wears it on the pad]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Boult to Nawroz, 1 run, angles it in on off and middle, Mangal goes across and works it through square leg for a single]]></line><line><![CDATA[Comes round the wicket now]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, full delivery outside off, Mangal drives once again, but picks out mid-off]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, low full toss outside off, Mangal drives it to mid-off]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, <b>run-out chance missed!</b> Mangal backs away, pushes this towards backward point and sets off, Guptill was quick to reach the ball, picks up and he fires in the throw at the striker's end as Mangal was looking to come back, if there was a direct-hit, the former Afghan captain would have been a goner]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Boult to Nawroz, <b>FOUR</b>, back of a length delivery outside off, Mangal opens the face of the bat and steers it past gully and backward point, both of them dived, but the ball splits them perfectly and runs away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, length delivery just outside off, Stanikzai defends it towards mid-off]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Southee to Stanikzai, <b>FOUR</b>, banged in short once again, Stanikzai rocks back, controls the pull as he rolls his wrists on it, Elliott from short mid-wicket gives chase, but the ball beats his dive near the boundary and crashes into the deep square leg fence]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, length delivery shaping in on off, Stanikzai gets his bat down in time and pushes it towards short mid-wicket]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Southee to Nawroz, 1 run, back of a length delivery outside off, Mangal waits for it inside the crease, opens the face of the bat and runs it down to third man]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Southee to Stanikzai, 1 run, goes wide of the crease and homes it in on middle and leg, Stanikzai goes across slightly and nudges it towards fine leg for a single]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Southee to Stanikzai, <b>FOUR</b>, banged in short and at the batsman, Stanikzai goes for the pull, gets a top-edge that flies over the slip cordon, he was not in control there but luckily for him, the ball went over the slips and runs away to the third man fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, touch fuller and outside off, Mangal watches it carefully and leaves it for the keeper]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, peach! It was a length delivery outside off, Mangal was playing for the inswing there, but the ball holds its line as it was bowled with a scrambled seam, Mangal was pushing at it, but the ball goes past the outside edge]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, length delivery with a hint of inswing outside off, Mangal opens the face of the bat and pushes it towards backward point]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, back of a length delivery angling away outside off, Mangal was looking to go after it, but drops his wrists at the last moment and lets it go]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, full and outside off, Mangal drives it towards mid-off after coming forward]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, length delivery shaping in from around off, Mangal pushes at it, the ball takes the inside edge onto the pad]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult [1.0-0-1-1] is back into the attack</b>]]></line><line><![CDATA[Change of ends for Boult as well, he replaces Vettori from the other end]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, full and shaping away outside off, Stanikzai goes chasing after it, but fails to lay bat on that]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, McCullum went too early for the review here, it was a full toss on the pads, Stanikzai fails to clip it into the on-side and wears it low on the pad, the ball was going down leg by a good margin and both teams have now lost their reviews with just 4 overs in]]></line><line><![CDATA[McCullum has gone for the review for an lbw appeal. No problems with Southee's front foot. It is a poor review, because it was a full toss that was going down leg, this must be missing the leg stump. It was missing the leg stump and the onfield decision stays.]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, touch fuller and swinging away outside off, Stanikzai leans forward and looks to drive hard, but mistimes it towards short cover]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, short of length delivery on middle and leg, Stanikzai fails to work it through the on-side and wears it on the pad once again, a little too high though]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Southee to Stanikzai, no run, back of a length delivery shaping in on leg, Stanikzai fails to clip it through the on-side and wears it on the pad, the ball was too high and going down leg though]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Southee to Nawroz, 1 run, fullish delivery on middle and it straightens a little, Mangal pushes it towards extra cover off the outside half of the bat and sets off, McCullum from mid-off charges forward but doesn't pick the ball cleanly, otherwise things could have been interesting]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [1.0-0-1-0] is back into the attack</b>]]></line><line><![CDATA[Change of ends for Southee as he replaces Boult from the other end]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Vettori to Stanikzai, no run, flighted delivery on off and middle, Stanikzai presses forward in defence]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Vettori to Stanikzai, no run, slower through the air on middle and leg, Stanikzai gets his bat in front of the pad and defends]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Vettori to Stanikzai, no run, flatter and outside off, Stanikzai opens the face of the bat and guides it towards backward point, who dives to his right and stops the ball]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Vettori to Stanikzai, no run, tossed up just outside off, Stanikzai defends it to the right of the bowler off the front foot]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Vettori to Stanikzai, no run, floated up on off, Stanikzai leans forward and defends]]></line><line><![CDATA[A leg slip is in place now]]></line><line><![CDATA[<b>Asghar Stanikzai, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Vettori to Usman Ghani, <b>out</b> Bowled!! What a bowling change from McCullum, surely a genius! Ghani goes for a duck. It was the slider on off, Ghani was pushing at it off the front foot, the ball sneaks through the gap between bat-pad, crashes into the stumps, the off stump gets uprooted. Vettori is delighted and so are the other Kiwi players. Suprising bowling change, but it has done the job. <b>Usman Ghani b Vettori 0(3)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Vettori to Usman Ghani, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Daniel Vettori, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[A strange bowling change for McCullum. He is bringing on Vettori for Southee. There's a slip in place for him.]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, swings this back into the right hander from a length around off, Mangal gets his bat close to the pad and defends]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, full and well outside off, Mangal is happy to let that one go through]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, no run, good ball, the inswinging yorker from Boult on off, Mangal manages to squeeze it out towards square leg]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Boult to Nawroz, <b>wide</b>, swinging down the leg-side, Mangal fails to tickle it fine, the umpire calls it a wide]]></line><line><![CDATA[<b>Nawroz Mangal, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Boult to Ahmadi, <b>out</b> Lbw!! Early first wicket for the Black Caps. It was a length delivery on middle stump line, it shapes back in just a touch to beat Ahmad's bat, who was trying to clip it through the on-side. He misses and the ball sneaks through, He was hit high on the pad, but the onfield decision was out and it stays that way. <b>Ahmadi lbw b Boult 1(7)</b>]]></line><line><![CDATA[Boult to Ahmadi, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[Ahmadi has been given out <b>LBW</b>. He has decided to review the decision. Boult's front foot is fine. There's no inside edge on that. It pitched in line, the impact was in line and the ball was going on to clip the top of middle and leg. The onfield decision stays and Ahmadi has to go]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Boult to Ahmadi, no run, angling away outside off, Ahmadi was looking to force it through the off-side, but fails to make contact, the keeper collects]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Boult to Ahmadi, no run, length delivery angled across off, Ahmadi dabs it towards short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Trent Boult, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[No real swing for Southee. Let's see how Boult goes now. There are two slips in place for him]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Southee to Usman Ghani, no run, goes wide of the crease and bowls this on a fuller length around off and middle, Ghani goes across and clips it past a diving mid-wicket, the batsmen can't take the single as mid-on was backing up behind him]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Southee to Usman Ghani, no run, another full delivery just outside off, Ghani gets behind the line and defends]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Southee to Ahmadi, 1 run, full outside off, Ahmadi looks to drive, the ball runs away down to third man off the outside half of the bat]]></line><line><![CDATA[Three slips in place]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Southee to Ahmadi, no run, full and around off, Ahmadi pushes it into the off-side]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Southee to Ahmadi, leg byes, <b>FOUR</b>, angling down leg, Ahmadi fails to clip it fine, the ball rolls away towards the fine leg fence off the pad, Ronchi dived to his left, but couldn't stop the ball]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Southee to Ahmadi, no run, length delivery shaping away outside off, Ahmadi pushes at it, gets an inside edge that rolls past the off stump and towards the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ahmadi and Usman Ghani are at the crease. Ahmadi is on strike. Southee will open the attack</b>]]></line><line><![CDATA[The teams are out there for the national anthems. The players are out there. Tim Southee will open the bowling. Ahmadi will face the first ball. Here we go then...]]></line><line><![CDATA[<b>Pitch Report:</b> 'It's swirling around the ground a little bit. As far as the surface is concerned, it is a used one. There are no demons in the pitch. There is just a nice little covering of grass, but it's fairly even. It won't be a quick wicket, but a medium paced one,' reckons <b>Simon Doull</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Afghanistan</b> (Playing XI): Javed Ahmadi, Usman Ghani, Nawroz Mangal, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi(c), Najibullah Zadran, Afsar Zazai(w), Dawlat Zadran, Hamid Hassan, Shapoor Zadran]]></line><line><![CDATA[<b>New Zealand</b> (Playing XI): Brendon McCullum(c), Martin Guptill, Kane Williamson, Ross Taylor, Grant Elliott, Corey Anderson, Luke Ronchi(w), Daniel Vettori, Adam Milne, Tim Southee, Trent Boult]]></line><line><![CDATA[<b>Afghanistan have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>McCullum:</b> 'Last weekend was a fair bit of spectacle. I think everyone thoroughly enjoyed the game. It was a hell of a game to be involved in. But, now our attention turns to today and respectfully, for the challenge Afghanistan present us with. So, we will make sure that the guys are keyed up for this game. We would have batted first as well, but it's not to be. So, we will go about our work with the ball in hand and hopefully, get ourselves a total that we can chase down later on. It's always a good wicket here. Obviously, a fantastic cricket wicket, there are normally a lot of runs as well, very good groundsman in Phil, he knows how to prepare a wicket which has a lot of runs about it. So, it's nothing different today. Obviously, slightly different boundaries to what we have seen in the last couple of games, got to make sure that we adapt to that. We are playing the same team as well. It's a good opportunity for us to go about our work again and try and get some points. It's really tough on the guys missing out, we look at this World Cup, not just as an isolation of World Cup itself, but also look at the preparation games we had. I guess the beauty of such a tough schedule is that we are able to get a lot of game time for our squad members. They haven't had an impact so far in the tournament on the field, but I believe we have got guys who can be called upon at any given time, will stand up and deliver for us. It's tough for them, but at the same time, the guys have performed really well, we have got some nice combinations going and it is a good problem to have when you're able to roll out the same team. We have got some experience and very good cricketers in the side.']]></line><line><![CDATA[<b>Nabi:</b> 'It's a lot of travelling for us. After every game, the next day we are travelling. It is hard to adjust with jet lag as well. We try our best to adjust with the conditions. We will bat <b>first</b> here, it is a used wicket and we will try our best to put some score on the board. It's a part of the game. We tried our best in the Australia game, but you know that Australia are one of the best teams in that conditions in Perth, they played an excellent game. It is exciting to see the whole ground packed and cheering both teams as well. We are playing the same team.']]></line><line><![CDATA[<b>Head-to-Head:</b> These two sides are facing each other for the first time in ODIs. We all know the expected result. But, cricket is a funny game. So, can David(Afghanistan) beat Goliath(New Zealand)? Answer coming your way in a few hours time. Do stay tuned as the toss is not far away...]]></line><line><![CDATA[<b>Afghanistan</b>]]></line><line><![CDATA[Meanwhile, Afghanistan have played some fearless cricket in the tournament. Though they have won only one game so far, Afghanistan have put up a spirited fight in almost every game. They even gave Sri Lanka a scare. However, in the last game against Australia, they were just outplayed in all departments. Warner scored a majestic 178, Smith missed out on a ton, while Maxwell bludgeoned his way to 88. A target of 418 always seemed out of reach as Johnson made sure that the Aussies didn't have to sweat much, picking up 4 wickets and rolling Afghanistan over for 142.]]></line><line><![CDATA[There were a few positives for Afghanistan from that game. The pacers bowled with a lot of vigour, especially Hamid Hassan, who was the pick of the three seamers and was appreciated by Warner as well. These were the exact words from the Aussie opener, "The boys were very surprised that how quick that fellow bowls." On the batting front, Nawroz Mangal made 33 and that should give him confidence coming into this game as he was struggling in the previous games. Will they make any changes to the playing XI? We will know in a short while.]]></line><line><![CDATA[<b>New Zealand</b>]]></line><line><![CDATA[New Zealand can't seem to put a foot wrong. Brendon McCullum is leading arguably one of the best Kiwi sides in World Cups. Their only test was against familiar foes Australia. And they somehow managed to scrape through to a 1-wicket win. It was the match of the tournament. Two captains with an attacking mindset made it even more exciting. Warner got going very quickly, but New Zealand managed to pull things back through Vettori. Then, Boult came and ripped through the middle-order, restricting Australia to 151.]]></line><line><![CDATA[However, the Aussies were not giving up easily. They fought tooth and nail. Even though McCullum scored a quickfire fifty, the Kiwis were staring at a defeat. Mitchell Starc kept plugging away at one end and almost gave his side a miraculous victory. But, it was Kane Williamson's calm composure that saw the Black Caps through. Even though they have won all their games, New Zealand don't want to disturb the winning combination. Meaning, they will not be testing their bench strength in this game.]]></line><line><![CDATA[<b>08:45 Local Time, 20:45 GMT, 02:15 IST:</b> Today's encounter can be termed as a David vs Goliath battle. A complete mismatch between the two opponents. One side, we have New Zealand, who are playing their best cricket and on the other side, we have Afghanistan - a team that has grown leaps and bounds over the last few years. Hello and welcome to our coverage of the New Zealand-Afghanistan game. Let us have a recap of what these two teams have done in the tournament so far..]]></line><line><![CDATA[<b>Preview:</b><br/><br/>It's a contest between a team that is looking to maintain its dominance in Pool A and a team that's sole purpose is to stand up to Test nations and play with bravado. The way New Zealand have performed in their previous four matches - winning all of them - they look like the team to beat. Their biggest test was arch-rivals Australia who they eventually managed to dispatch in a humdinger late last month.<br/><br/>To beat such a team is out of the question and Afghanistan should know that. All they could do is make sure they don't lose it without putting up a fight and learning a few more lessons.<br/><br/><b>Date and start:</b> March 8, 2015, 3.30 am (IST)<br/><br/><b>Venue:</b> McLean Park, Napier<br/><br/><b>Weather:</b> It's been predicted to be sunny with the temperatures hovering between 14 and 27 degrees Celsius<br/><br/><b>Team News:</b><br/><br/><b>New Zealand</b><br/><br/>The Black Caps have confirmed they are going in with the same team that played against Australia. Their intention is clear: they don't want to disturb the winning composition.<br/><br/><b>Final XI:</b> 1 Martin Guptill, 2 Brendon McCullum (capt), 3 Kane Williamson, 4 Ross Taylor, 5 Grant Elliott, 6 Corey Anderson, 7 Luke Ronchi (wk), 8 Daniel Vettori, 9 Adam Milne, 10 Tim Southee, 11 Trent Boult<br/><br/><b>Afghanistan</b><br/><br/>Afghanistan lost to Australia by 275 runs in their last match but are unlikely to make any changes. This is their best XI following Mirwais Ashraf's side strain that ruled him out of the remainder of the tournament.<br/><br/><b>Probable XI:</b> 1 Javed Ahmadi, 2 Usman Ghani, 3 Nawroz Mangal, 4 Asghar Stanikzai, 5 Samiullah Shenwari, 6 Mohammad Nabi (capt), 7 Najibullah Zadran, 8 Afsar Zazai (wk), 9 Dawlat Zadran, 10 Hamid Hassan, 11 Shapoor Zadran<br/><br/><b>Players to watch out for:</b><br/><br/><b>Trent Boult's</b> five-for against Australia went a long way towards the Kiwis coming out on top. It will be interesting to see how an inexperienced Afghan batting line-up deals with the threat the fast bowler poses. For Afghanistan, former captain <b>Nawroz Mangal</b> is yet to score a fifty in the tournament, 33 being his highest score. Tomorrow could be the day for the Afghan batsman to turn his fortunes around. The Afghans really need somebody to score big runs.<br/><br/><b>Quotes:</b><br/><br/>The minnows have performed strongly at times in this tournament and you can't afford to ease off because they're not a more recognised opponent. We've still got to stick to our game plan and our brand of cricket, so nothing changes from our point of view: <b>Tim Southee</b> ahead of the game<br/><br/>They will want to show everyone, they are in the shop window. They want to make sure we compete. It didn't happen in Australia, and we know we are in a very tough examination against New Zealand but as a group we are putting our best foot forward: Afghanistan coach <b>Andy Moles</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Afghanistan</b> (From): Javed Ahmadi, Nawroz Mangal, Usman Ghani, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi(c), Najibullah Zadran, Afsar Zazai(w), Dawlat Zadran, Hamid Hassan, Shapoor Zadran, Aftab Alam, Nasir Jamal, Gulbadin Naib, Shafiqullah Shafiq]]></line><line><![CDATA[<b>New Zealand</b> (From): Brendon McCullum(c), Martin Guptill, Kane Williamson, Ross Taylor, Grant Elliott, Corey Anderson, Luke Ronchi(w), Daniel Vettori, Adam Milne, Tim Southee, Trent Boult, Tom Latham, Mitchell McClenaghan, Nathan McCullum, Kyle Mills]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>186</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>47.4</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<batsman-name>Ahmadi</batsman-name>
+					<batsman-nickname>Ahmadi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9855</playerid>
+					<name>Usman Ghani</name>
+					<batsman-name>Usman Ghani</batsman-name>
+					<batsman-nickname>Usman Ghani</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<batsman-name>Nawroz</batsman-name>
+					<batsman-nickname>Nawroz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>46</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3004</playerid>
+					<name>Asghar Stanikzai</name>
+					<batsman-name>Stanikzai</batsman-name>
+					<batsman-nickname>Stanikzai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>18</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder>Martin Guptill</fielder>
+						<fielderId>1457</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<batsman-name>Shenwari</batsman-name>
+					<batsman-nickname>Shenwari</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>54</runs>
+					<balls>110</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>CJ Anderson</bowler>
+					<bowlerId>8982</bowlerId>
+						<fielder>Ross Taylor</fielder>
+						<fielderId>521</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<batsman-name>Nabi</batsman-name>
+					<batsman-nickname>Nabi</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder>Ross Taylor</fielder>
+						<fielderId>521</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<batsman-name>Zazai</batsman-name>
+					<batsman-nickname>Zazai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<batsman-name>Najibullah</batsman-name>
+					<batsman-nickname>Najibullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>56</runs>
+					<balls>56</balls>
+					<fours>8</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Milne</bowler>
+					<bowlerId>7625</bowlerId>
+						<fielder>Daniel Vettori</fielder>
+						<fielderId>205</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<batsman-name>Dawlat Zadran</batsman-name>
+					<batsman-nickname>Dawlat Zadran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder>Luke Ronchi</fielder>
+						<fielderId>1396</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<batsman-name>Hamid</batsman-name>
+					<batsman-nickname>Hamid</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>21</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>CJ Anderson</bowler>
+					<bowlerId>8982</bowlerId>
+						<fielder>Adam Milne</fielder>
+						<fielderId>7625</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<batsman-name>Shapoor</batsman-name>
+					<batsman-nickname>Shapoor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>7614</playerid>
+				<nbr>1</nbr>
+				<runs>5</runs>
+				<overs>1.3</overs>
+				<batsman>Javed Ahmadi</batsman>
+				<batsman-name>Ahmadi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9855</playerid>
+				<nbr>2</nbr>
+				<runs>6</runs>
+				<overs>2.1</overs>
+				<batsman>Usman Ghani</batsman>
+				<batsman-name>Usman Ghani</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3004</playerid>
+				<nbr>3</nbr>
+				<runs>24</runs>
+				<overs>8.2</overs>
+				<batsman>Asghar Stanikzai</batsman>
+				<batsman-name>Stanikzai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3008</playerid>
+				<nbr>4</nbr>
+				<runs>49</runs>
+				<overs>15.1</overs>
+				<batsman>Nawroz Mangal</batsman>
+				<batsman-name>Nawroz</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3007</playerid>
+				<nbr>5</nbr>
+				<runs>59</runs>
+				<overs>19.4</overs>
+				<batsman>Mohammad Nabi</batsman>
+				<batsman-name>Nabi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8278</playerid>
+				<nbr>6</nbr>
+				<runs>59</runs>
+				<overs>19.5</overs>
+				<batsman>Afsar Zazai</batsman>
+				<batsman-name>Zazai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8375</playerid>
+				<nbr>7</nbr>
+				<runs>145</runs>
+				<overs>38.3</overs>
+				<batsman>Najibullah Zadran</batsman>
+				<batsman-name>Najibullah</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8029</playerid>
+				<nbr>8</nbr>
+				<runs>151</runs>
+				<overs>41.1</overs>
+				<batsman>Dawlat Zadran</batsman>
+				<batsman-name>Dawlat Zadran</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3011</playerid>
+				<nbr>9</nbr>
+				<runs>166</runs>
+				<overs>45.2</overs>
+				<batsman>Samiullah Shenwari</batsman>
+				<batsman-name>Shenwari</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3001</playerid>
+				<nbr>10</nbr>
+				<runs>186</runs>
+				<overs>47.4</overs>
+				<batsman>Hamid Hassan</batsman>
+				<batsman-name>Hamid</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>9</wides>
+			<noballs>0</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>14</total>
+		</extras>
+		<bowlteam name="New Zealand">
+			<players>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<bowler-name>Southee</bowler-name>
+					<bowler-nickname>Southee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>43</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<bowler-name>T Boult</bowler-name>
+					<bowler-nickname>Boult</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>2</maidens>
+					<runsoff>34</runsoff>
+					<wickets>3</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>205</playerid>
+					<name>Daniel Vettori</name>
+					<bowler-name>Vettori</bowler-name>
+					<bowler-nickname>Vettori</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>4</maidens>
+					<runsoff>18</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7625</playerid>
+					<name>Adam Milne</name>
+					<bowler-name>Milne</bowler-name>
+					<bowler-nickname>Milne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>1</wickets>
+					<wides>4</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<bowler-name>CJ Anderson</bowler-name>
+					<bowler-nickname>Corey Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6.4</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>2</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1064</playerid>
+					<name>Grant Elliott</name>
+					<bowler-name>Elliott</bowler-name>
+					<bowler-nickname>Elliott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>10</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<bowler-name>B McCullum</bowler-name>
+					<bowler-nickname>Brendon McCullum</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1457</playerid>
+					<name>Martin Guptill</name>
+					<bowler-name>M Guptill</bowler-name>
+					<bowler-nickname>Guptill</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6326</playerid>
+					<name>Kane Williamson</name>
+					<bowler-name>Williamson</bowler-name>
+					<bowler-nickname>Williamson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>521</playerid>
+					<name>Ross Taylor</name>
+					<bowler-name>Ross Taylor</bowler-name>
+					<bowler-nickname>Ross Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1396</playerid>
+					<name>Luke Ronchi</name>
+					<bowler-name>Ronchi</bowler-name>
+					<bowler-nickname>Ronchi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>188</totalruns>
+		<totalwickets>4</totalwickets>
+		<totalovers>36.1</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="New Zealand">
+			<players>
+				<player>
+					<playerid>1457</playerid>
+					<name>Martin Guptill</name>
+					<batsman-name>M Guptill</batsman-name>
+					<batsman-nickname>Guptill</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>57</runs>
+					<balls>76</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Najibullah Zadran</fielder>
+						<fielderId>8375</fielderId>
+						<fielder2>Samiullah Shenwari</fielder2>
+						<fielderId2>3011</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<batsman-name>B McCullum</batsman-name>
+					<batsman-nickname>Brendon McCullum</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>19</balls>
+					<fours>6</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Nabi</bowler>
+					<bowlerId>3007</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6326</playerid>
+					<name>Kane Williamson</name>
+					<batsman-name>Williamson</batsman-name>
+					<batsman-nickname>Williamson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>33</runs>
+					<balls>45</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shapoor</bowler>
+					<bowlerId>3015</bowlerId>
+						<fielder>Samiullah Shenwari</fielder>
+						<fielderId>3011</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>521</playerid>
+					<name>Ross Taylor</name>
+					<batsman-name>Ross Taylor</batsman-name>
+					<batsman-nickname>Ross Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>41</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1064</playerid>
+					<name>Grant Elliott</name>
+					<batsman-name>Elliott</batsman-name>
+					<batsman-nickname>Elliott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>28</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Mohammad Nabi</fielder>
+						<fielderId>3007</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<batsman-name>CJ Anderson</batsman-name>
+					<batsman-nickname>Corey Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1396</playerid>
+					<name>Luke Ronchi</name>
+					<batsman-name>Ronchi</batsman-name>
+					<batsman-nickname>Ronchi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>205</playerid>
+					<name>Daniel Vettori</name>
+					<batsman-name>Vettori</batsman-name>
+					<batsman-nickname>Vettori</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7625</playerid>
+					<name>Adam Milne</name>
+					<batsman-name>Milne</batsman-name>
+					<batsman-nickname>Milne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<batsman-name>Southee</batsman-name>
+					<batsman-nickname>Southee</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<batsman-name>T Boult</batsman-name>
+					<batsman-nickname>Boult</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>201</playerid>
+				<nbr>1</nbr>
+				<runs>53</runs>
+				<overs>5.5</overs>
+				<batsman>Brendon McCullum</batsman>
+				<batsman-name>B McCullum</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6326</playerid>
+				<nbr>2</nbr>
+				<runs>111</runs>
+				<overs>18.4</overs>
+				<batsman>Kane Williamson</batsman>
+				<batsman-name>Williamson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1457</playerid>
+				<nbr>3</nbr>
+				<runs>143</runs>
+				<overs>26.4</overs>
+				<batsman>Martin Guptill</batsman>
+				<batsman-name>M Guptill</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1064</playerid>
+				<nbr>4</nbr>
+				<runs>175</runs>
+				<overs>33.5</overs>
+				<batsman>Grant Elliott</batsman>
+				<batsman-name>Elliott</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<bowlteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<bowler-name>Dawlat Zadran</bowler-name>
+					<bowler-nickname>Dawlat Zadran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>51</runsoff>
+					<wickets>0</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<bowler-name>Shapoor</bowler-name>
+					<bowler-nickname>Shapoor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>2</maidens>
+					<runsoff>45</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<bowler-name>Hamid</bowler-name>
+					<bowler-nickname>Hamid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>1</maidens>
+					<runsoff>36</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<bowler-name>Nabi</bowler-name>
+					<bowler-nickname>Nabi</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>7.1</overs>
+					<maidens>0</maidens>
+					<runsoff>39</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<bowler-name>Shenwari</bowler-name>
+					<bowler-nickname>Shenwari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>15</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<bowler-name>Ahmadi</bowler-name>
+					<bowler-nickname>Ahmadi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9855</playerid>
+					<name>Usman Ghani</name>
+					<bowler-name>Usman Ghani</bowler-name>
+					<bowler-nickname>Usman Ghani</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<bowler-name>Nawroz</bowler-name>
+					<bowler-nickname>Nawroz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3004</playerid>
+					<name>Asghar Stanikzai</name>
+					<bowler-name>Stanikzai</bowler-name>
+					<bowler-nickname>Stanikzai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<bowler-name>Najibullah</bowler-name>
+					<bowler-nickname>Najibullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<bowler-name>Zazai</bowler-name>
+					<bowler-nickname>Zazai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

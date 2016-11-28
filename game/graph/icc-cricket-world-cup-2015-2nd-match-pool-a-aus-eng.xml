@@ -1,0 +1,140 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>England</name>
+	<graph>
+		<id>wag_6692</id>
+		<name>Moeen Ali</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_6692_M_Ali.png</url>
+	</graph>
+	<graph>
+		<id>wag_385</id>
+		<name>Ian Bell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_385_Bell.png</url>
+	</graph>
+	<graph>
+		<id>wag_6679</id>
+		<name>Gary Ballance</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_6679_Ballance.png</url>
+	</graph>
+	<graph>
+		<id>wag_8019</id>
+		<name>Joe Root</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_8019_J_Root.png</url>
+	</graph>
+	<graph>
+		<id>wag_624</id>
+		<name>Eoin Morgan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_624_E_Morgan.png</url>
+	</graph>
+	<graph>
+		<id>wag_6500</id>
+		<name>James Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_6500_James_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_2258</id>
+		<name>Jos Buttler</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_2258_J_Buttler.png</url>
+	</graph>
+	<graph>
+		<id>wag_6670</id>
+		<name>Chris Woakes</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_6670_C_Woakes.png</url>
+	</graph>
+	<graph>
+		<id>wag_554</id>
+		<name>Stuart Broad</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_554_Broad.png</url>
+	</graph>
+	<graph>
+		<id>wag_6317</id>
+		<name>Steven Finn</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_6317_Finn.png</url>
+	</graph>
+	<graph>
+		<id>wag_65</id>
+		<name>James Anderson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_9_65_J_Anderson.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Australia</name>
+	<graph>
+		<id>wag_1739</id>
+		<name>David Warner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_1739_Warner.png</url>
+	</graph>
+	<graph>
+		<id>wag_1643</id>
+		<name>Aaron Finch</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_1643_Finch.png</url>
+	</graph>
+	<graph>
+		<id>wag_158</id>
+		<name>Shane Watson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_158_Watson.png</url>
+	</graph>
+	<graph>
+		<id>wag_2250</id>
+		<name>Steven Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_2250_S_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_1440</id>
+		<name>George Bailey</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_1440_Bailey.png</url>
+	</graph>
+	<graph>
+		<id>wag_7662</id>
+		<name>Glenn Maxwell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_7662_Maxwell.png</url>
+	</graph>
+	<graph>
+		<id>wag_6250</id>
+		<name>Mitchell Marsh</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_6250_M_Marsh.png</url>
+	</graph>
+	<graph>
+		<id>wag_159</id>
+		<name>Brad Haddin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_159_Haddin.png</url>
+	</graph>
+	<graph>
+		<id>wag_496</id>
+		<name>Mitchell Johnson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_496_Johnson.png</url>
+	</graph>
+	<graph>
+		<id>wag_7710</id>
+		<name>Mitchell Starc</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_ENG_FEB14/gph_wag_12856_4_7710_M_Starc.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

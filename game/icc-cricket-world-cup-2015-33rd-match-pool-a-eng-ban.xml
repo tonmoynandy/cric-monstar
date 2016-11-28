@@ -1,0 +1,1107 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12887" >
+		<type>ODI</type>
+		<gameDesc>33rd Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>England</home>
+		<away>Bangladesh</away>
+		<teamsabbr>ENG vs BAN</teamsabbr>
+		<homeabbr>ENG</homeabbr>
+		<awayabbr>BAN</awayabbr>
+		<homeId>9</homeId>
+		<awayId>6</awayId>
+		<venue>Adelaide Oval, Adelaide</venue>
+		<startdate>09 03 2015</startdate>
+		<enddate>09 03 2015</enddate>
+		<toss>
+			<winner>England</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Bangladesh won by 15 runs</status>
+		<result type="win">
+			<winningteam>Bangladesh</winningteam>
+			<wonbyruns>15</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Billy Bowden</Name>
+			<Country>NZ</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Paul Reiffel</Name>
+			<Country>Aus</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Simon Fry</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Ranjan Madugalle</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>03:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150309114306</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Eng</batteamname>
+		<bwlteamname>Ban</bwlteamname>
+		<batteamruns>260</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>48.3</batteamovers>
+		<status>Bangladesh won by 15 runs</status>
+		<batsman>
+			<playerid>6670</playerid>
+			<name>Chris Woakes</name>
+			<batsman-name>C Woakes</batsman-name>
+			<batsman-nickname>Woakes</batsman-nickname>
+			<runs>42</runs>
+			<balls-faced>40</balls-faced>
+			<fours>3</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>1736</playerid>
+			<name>Rubel Hossain*</name>
+			<bowler-name>Rubel</bowler-name>
+			<bowler-nickname>Rubel</bowler-nickname>
+			<overs>9.3</overs>
+			<maidens>0</maidens>
+			<runs>53</runs>
+			<wickets>4</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8548</playerid>
+			<name>Taskin Ahmed</name>
+			<bowler-name>Taskin Ahmed</bowler-name>
+			<bowler-nickname>Taskin Ahmed</bowler-nickname>
+			<overs>9</overs>
+			<maidens>0</maidens>
+			<runs>59</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>276</target>
+<lastwicket>
+<playerid>65</playerid>
+<name>James Anderson</name>
+<player-runs>0</player-runs>
+<player-balls>2</player-balls>
+<runs>260</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>1736</bowlerid>
+<bowlername>Rubel</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>1</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<prevOvers><![CDATA[2 4 1 2 W W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 1 1 . . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 6 L2 N1 2 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>W . W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/ENG_BAN_MAR09/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That's it from us! <b>New Zealand, Australia, Bangladesh and Sri Lanka</b> have <b>officially qualified for the quarterfinals</b> from Pool A. Tomorrow the action shifts to Pool B, where India take on Ireland in Hamilton. Looking forward to your company then. Take care. Goodbye!]]></line><line><![CDATA[Lets have a look at some of the reactions on <b>Twitter</b> about this game..]]></line><line><![CDATA[<b>@ShaneWarne:</b> Eng had the wrong team, the wrong style of play & everyone could see it, tonight's result not a shock. I feel for Morgan, coach in trouble !]]></line><line><![CDATA[<b>@KP24:</b> I CANNOT BELIVE THIS! I JUST CANNOT! But, well done Bangladesh! You deserved it! #ENGvBAN]]></line><line><![CDATA[<b>@BeefyBotham:</b> Well done Bangladesh ! England pathetic ! When are we going to pick the selectors to pick a team for the 1 day format ? Time for change !!]]></line><line><![CDATA[<b>@cricketaakash:</b> England would've walked this if it was a bilateral series...World Cup knockout game is just too much for them to handle. Temperament suspect]]></line><line><![CDATA[<b>@irbishi:</b> Well done Bangladesh. That was some very mature cricket. Rubel showed how to bowl at the death ; full & straight & 19yr old Taskin Congrats.]]></line><line><![CDATA[<b>@bhogleharsha:</b> England have imprisoned themselves in a cell so dark, so distant that no fresh light can reach it. The world has changed and they don't know]]></line><line><![CDATA[<b>Mortaza</b>: "I feel proud, thanks to the team management and the coaching staff. They are putting a really good effort with us and obviously the boys as well. The wicket was pretty good and we knew we had to bowl well. Definitely, our start wasn't that good, but in the middle overs we bowled really well and put the pressure back on England. Mahmudullah was tremendous, he has shown he has guts, it's his first hundred for Bangladesh. And also I have to mention Mushfiqur (Rahim), once again he was brilliant. I have to take Rubel's name. He is very happy now. He got 4 wickets and all were crucial wickets. My knee is okay but the calf is a bit tight and hopefully it will be fine. I think Tamim felt really bad about that (talking about Woakes' dropped catch). Because he knows he is one of the best fielders for us. It happens in cricket. At the end of the day, we won the game so we are very happy. It's amazing, it's all for the freedom fighters (becomes emotional) of Bangladesh and especially for all those people who are working hard. Still day in and day out they keep supporting us, doesn't matter whether we win or lose and I think this is for those guys. We had a good combination today, especially with the seven batters there was a little bit of risk, but batters showed their guts and we had a good total. After that five bowlers and two part-timers and I think they have done a really good job."]]></line><line><![CDATA[<b>Morgan</b>: "Pretty poor. Obviously to be knocked out of the World Cup this early is unbelievably disappointing. At half-time I thought the guys bowled well and a couple of Bangladeshi guys batted well, but certainly with the short boundary and the wicket the way it played, it was certainly well within our reach. I think today was another case of, we bowled reasonably well. Again we didn't match it up with that two performances (referring to their batting). I am gutted at the moment. We've struggled and fought and fought our way since we arrived here. The big thing was to fight very hard to try and get through to the quarter-finals and from there fight our way through the last three games, but obviously that was not meant to be. The changes that we made at the start of the tournament were the changes that were necessary. I believed that they were the right ones at the time, the two again we made today were necessary. Again we were four games into the group stage and weren't getting what we wanted from those positions, so we changed them. I think it all ultimately comes down to the performances. Today is an example of where some of the guys performed but we didn't perform as a unit and we've done it for quite a while now. Since we've landed in Australia, we have tried to address that problem, it hasn't worked. Our expectations are a lot higher than the way we perform, so that's extremely disappointing. As I said, to be knocked out this early is disappointing. To be honest, I have no idea what happens from here. It's a surprise that we are knocked out this early. I think we'll be debating perhaps over the next few weeks as to what happened and what went wrong in the World Cup and then we go from there. Again we've picked guys who play a brand of cricket that if we perform we could win this World Cup, but again ultimately we haven't performed."]]></line><line><![CDATA[<b>Mahmudullah</b>: "Really impressed by the attitude of the boys. The way Rubel (Hossain) bowled and Taskin (Ahmed) and Mash (Mashrafe Mortaza) bowled really well though he had an injury. All the boys chipped in and brilliant catches, so everything went well. I was just trying to bat properly, I didn't think too much. In the meantime Soumo (Soumya Sarkar) batted really well. Mushi (Mushfiqur Rahim) was the aggressor. So they batted well and we had a good partnership. We were thinking that maybe we were 15-20 runs short, because one side of the ground is a bit shorter. But we were thinking that we need early wickets and if we got those wickets, we were in. Back home it's really special, for us also it's very special. Thanks to all of them for supporting us here. So it's really special. Tamim I think is one of the best fielders in our team, a catch can be dropped in the match and the way we came back and the way Rubel bowled, especially the last few balls, that was really special."]]></line><line><![CDATA[<b>Mahmudullah</b> is the <b>Man of the Match</b> for his <b>103</b>]]></line><line><![CDATA[Bangladesh will next take on New Zealand in Hamilton. England will take on Afghanistan in Sydney in their last game of the World Cup. <br/>]]></line><line><![CDATA[Earlier, Mahmudullah helped Bangladesh to recover after Anderson struck upfront to leave them in a spot of bother. Mahmudullah played each ball on its merit and looked to anchor the innings and scored a fine ton. Mushfiqur Rahim also played a key role. He frustrated the English pacers with his flair and improvisation. The way he slog swept Jordan for a boundary gave a glimpse of his ability to play cheeky shots. England though, bowled reasonably well in the end overs to pull the batting side back. <br/>]]></line><line><![CDATA[In fact, England made a fine start with Ian Bell and Moeen Ali stitching a brisk partnership. However, Moeen was run out on the back of miscommunication. Bell and Alex Hales looked to build a partnership, but once both of them were dismissed, they struggled to keep the scoreboard moving. Eoin Morgan continued to find runs hard to come by and was dismissed for a duck. Root and Buttler tried to make a good fist of the chase, before Root got out. However, Buttler played with unrestrained bravado to take England closer to victory, but once he was dismissed, they found themselves in trouble. To make it worse for them, Chris Jordan perhaps got a tough decision as he was adjudged run out by the third umpire.  Rubel came back to take the wickets of James Anderson and Stuart Broad and bowl out England.<br/>]]></line><line><![CDATA[Mashrafe Mortaza and Rubel Hossain produced inspired spells of pace bowling to help Bangladesh script a famous win against England and qualify for the quarter-finals. It also meant that England have been knocked out of the World Cup in the Group stages. Mortaza got just enough movement off the deck to trouble the batsmen and take two wickets.  In particular, he bowled  a fine leg-cutter to snaffle the key wicket of Joe Root. Rubel too bowled with fire by snaffling two wickets in one over to put Bangladesh in the ascendancy during the middle part of the innings. Thousands of jubilant fans would have certainly erupted in joy on the streets of Dhaka after Bangladesh won a humdinger.  <br/>]]></line><line><![CDATA[Rubel takes off and runs all across the Adelaide Oval. Mahmudullah hugs him, all the Bangladeshi players form a huddle. Rubel lies flat on the ground in joy. The entire team takes a lap of honour. There are a lot of fans waving the Bangladeshi flag in the stands. The Bangladesh team management comes out to celebrate as well. Rahim is a happy man. <b>Bowling coach Heath Streak</b> pats Rubel on the shoulder and has a long chat with him. Meanwhile, the England team is absolutely gutted. They have their hands covering the faces and are looking extremely disappointed.]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Rubel to J Anderson, <b>out</b> Bowled!! Game, set and match. <b>England are out of the World Cup</b>. What a ball under pressure. Full and fast, swinging away from the left-hander as well, Anderson doesn't get behind the line of the ball, stays leg-side and misses it. The ball crashes into the base of middle-stump. <b>Bangladesh have qualified for the knockouts</b> for the first time. This is the <b>second time in a row that Bangladesh have beaten England in World Cup cricket</b>. <b>J Anderson b Rubel 0(2)</b>]]></line><line><![CDATA[Rubel to J Anderson, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Rubel to J Anderson, no run, <b>edgedddd</b>, but all along the ground to slip. Full and outside off stump, Anderson toe-ends the drive to slip]]></line><line><![CDATA[There is a man at fly slip now!]]></line><line><![CDATA[<b>James Anderson, left handed bat, comes to the crease</b>]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Rubel to Broad, <b>out</b> Bowled!! Knocked him over. What a bowler. He has tried so hard all day and delivered quality goods when it mattered. Oh no! They are checking for the no-ball, but Rubel is fine. Pacy length ball at 142.2kph, Broad was not only beaten for pace, but the ball also tailed away from him, Broad exposed all the stumps and it hit the top of off stump. This is a timely wicket from Rubel. Broad has a word with Anderson as he walks off. Gestures to him that the ball is reversing a bit. <b>Broad b Rubel 9(6) [6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Rubel to Broad, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Rubel Hossain [9.0-0-53-2] is back into the attack</b>]]></line><line><![CDATA[<b>15</b> came off the over and England need 16 more to stay alive in the tournament.]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Broad, 1 run, slower ball outside off stump, Broad tries to punch off the back foot, the ball goes off the toe-end of the bat and rolls to short cover]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, 1 run, yorker outside off stump, Woakes digs it out to short cover and sets off, Taskin Ahmed under-arms the ball towards the striker's end, but misses. Broad put in a full length dive as well. This is <b>Woakes' highest ODI score</b>]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, 2 runs, in the airrrrrrr and he's <b>dropped</b> him. Is that the match? It was a simple chance. Length ball outside off stump, Woakes mistimes the loft, Tamim ran in from long-on and then realises that he has to go back, he does so and gets there in time, tries to reverse-cup it but it pops out. He also tries to grab it with his left hand on the second attempt but it goes to ground. The Bangladeshi fielders and the fans can't believe it]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Broad, <b>no ball</b>, 1 run, oh no! It's a waist high no-ball. First warning for bowling a beamer. Taskin Ahmed loses control of this one, it goes well above waist height, Broad tries to guide it fine, but gets the toe end of the bat and it rolls to third man]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Broad, leg byes, 2 runs, full and down the leg-side, Broad misses the glance, the ball rolls off the pad to fine leg. A fine little tickle would have been four for Broad and England]]></line><line><![CDATA[Fine leg comes in and mid-on goes back. So the length is going to be full I guess.]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Broad, <b>SIX</b>, he's pulled that and he's connected that very well! This man can bat! He's no mug with the bat. Short ball not rising much, Broad rocks back and pulls powerfully and it goes all the way over deep mid-wicket]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, 1 run, yorker on the off stump, Woakes digs it out towards point and sets off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[England need 31 runs off 18 balls.]]></line><line><![CDATA[Shakib ends 10-0-41-0.]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Shakib to Woakes, 1 run, low full toss outside off stump, Woakes advances and drives very hard, the fielder at extra-cover dives to his right and gets a hand on it, the fielder at long-off quickly gets to the ball to prevent the second run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, pushed to the right of the bowler]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, very full, Woakes digs it out, the ball goes past the keeper, Woakes thinks about a run but Broad says no]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Shakib to Broad, 1 run, punches this from the crease to cover]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Shakib to Woakes, 1 run, punched down to long-off]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Shakib to Woakes, <b>FOUR</b>, flighted delivery on the leg stump, Woakes sweeps it along the ground to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad, left handed bat, comes to the crease</b>]]></line><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Jordan, <b>out</b> Jordan Run Out!! Drama! Absolutely drama out there. I didn't see enough conclusive evidence to rule that OUT, but the third umpire thought otherwise. Firstly, why would you go for a non-existent run at this stage Jordan? He pushed this towards cover and set off immediately, the fielder got to the ball and under-armed it onto the stumps. Jordan turned back and put in the dive, he made his ground but the bat bounced just when the ball hit the stumps. Disaster for England. <b>Coach Peter Moores</b> got up from his seat and <b>walked straight to the fourth umpire</b> to have a chat. <b>Jordan run out (Shakib) 0(1)</b>]]></line><line><![CDATA[Taskin Ahmed to Jordan, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Run-out check sent upstairs, but I think Jordan is fine! Oh my word! Has the bat bounced after hitting the ground. It has but is the shoulder of the bat in contact with the grass? It's a toughie! He actually made his ground, but just as the ball hit the stump, the bat bounced. I think the shoulder of the bat is grounded. It's a very, very tough one indeed. Good luck, third umpire! He is taking a long look. The zoomer comes in as well. It's very difficult to tell! Oh! <b>He's given it OUT</b>. That's a brave call! It's a harsh call I think. Phew!]]></line><line><![CDATA[<b>Chris Jordan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[One slip in place.]]></line><line><![CDATA[Is this the opening Bangladesh wanted to gain the upper hand?]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, <b>out</b> Caught by Rahim!! Is there a twist in the tale? I was just about to type this is surely England's game now and Buttler has nicked one to the keeper. Nothing but a full ball outside off stump, Buttler backs away and looks to run it down to third man, but he was off balance while meeting the ball and gets a thick edge. Fourth catch for Rahim today. Buttler is absolutely distraught in the dug-out and he holds his head with his hands. He shakes his head as well. <b>Buttler c Rahim b Taskin Ahmed 65(52) [4s-6 6s-1]</b>]]></line><line><![CDATA[Taskin Ahmed to Buttler, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, 2 runs, nice yorker again, but England manage to get two. Buttler drills it to long-on, Tamim was too deep and it was an easy two in the end]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, 1 run, nice fast yorker on the off stump, Woakes digs it out to backward point and Buttler races to the striker's end]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, <b>FOUR</b>, this time he's picked the slower ball very early, waited for it to come and lofted it easily over extra-cover. Poor thinking from Taskin to opt for the slower ball again]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, 2 runs, slower ball full toss outside off stump, Woakes drives it wide of long-off. "Come on lads, come onnnn," shouts Rahim from behind the stumps]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed [7.0-0-37-1] is back into the attack</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Shakib to Woakes, 1 run, on the leg stump, driven to long-on]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, flighted delivery from Shakib, Buttler drives it down to long-on]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Shakib to Buttler, no run, oh he's hit that very hard and the fielder at extra-cover makes a good save to his left. That was certainly heading to the boundary]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Shakib to Woakes, 1 run, driven down to long-on]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, flighted delivery on the leg stump, pushed to the right of the bowler]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Shakib to Woakes, 2 runs, tossed up wide outside off stump, driven well to deep extra-cover, they take two as the man at sweeper had to run to his right to get to the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan [8.0-0-29-0] is back into the attack</b>]]></line><line><![CDATA[England have scored 43 runs off the last 4 overs. Shakib comes on! He has to deliver. Can he? The equation is down to 52 off 36 balls.]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Rubel to Buttler, <b>FOUR</b>, and again! Almost a Ctrl+C and Ctrl+V of the previous ball. Rubel bowls one full and outside off stump, Buttler sends it to the right of short third man. Bad finish to the over from Rubel]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Rubel to Buttler, <b>FOUR</b>, brilliant placement! With third man inside the ring, Buttler anticipates a full ball or a yorker and makes room, as it came very full, Buttler sliced the drive with an open face and split backward point and short third man to perfection]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Rubel to Woakes, 1 run, another yorker attempted and it goes as a low full toss, Woakes drills it to long-on]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Rubel to Buttler, 1 run, poor ball but he's got away with it. Low full toss down the leg-side, Buttler tickles it to fine leg, when he could have easily hit that for four]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Rubel to Buttler, no run, a fast yorker outside off stump, Buttler stays leg-side and tries to drive, but misses. In fact it passed the bat as a low full toss]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Rubel to Woakes, 3 runs, in the airrr but there is no one at long-on. Short and outside off stump, Woakes goes for the pull but ends up flat-batting it over mid-on. <b>Fifty partnership</b> comes up as well]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rubel Hossain [8.0-0-40-2] is back into the attack</b>]]></line><line><![CDATA[England need 65 runs off 42 balls.]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;S Rahman to Woakes, 1 run, on the leg stump, flicked to deep mid-wicket]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;S Rahman to Buttler, 1 run, tossed up on the stumps, Buttler drives it wide of long-off]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;S Rahman to Buttler, no run, outside edge, but there is no one at slip. Flatter delivery outside off stump, Buttler slashes and gets a thickish edge that rolls to short third man]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;S Rahman to Woakes, 1 run, short and spinning away outside off stump, Woakes cuts it to sweeper cover]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;S Rahman to Buttler, 1 run, on the leg stump, Buttler flicks it to deep mid-wicket]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;S Rahman to Buttler, <b>FOUR</b>, short ball, bad ball at this stage, Buttler rocks back and muscles the pull shot through mid-wicket. <b>7th ODI fifty</b> for Buttler and it's come off just 41 balls. What a knock!]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sabbir Rahman [1.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[<b>11</b> runs came off that over, just what England wanted at this stage. Bangladesh will have to be very careful here.]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, no run, very full outside off stump, Woakes drives it to mid-off]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Woakes, <b>FOUR</b>, short and wide outside off stump, slapped very hard, there is a man sweeping on the off-side but he can't get there. Woakes hit that very hard and it raced away for four. Second boundary of the over]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, 1 run, full and outside off stump, Buttler walks forward and drives it to long-off]]></line><line><![CDATA[Fine leg is going back now.]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, <b>FOUR</b>, in the air and that's a brave hit under pressure! Short of a length on the stumps, Buttler goes off-side and gets into a great position to scoop it easily over the keeper's head]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, no run, short of length delivery outside off stump, Buttler tries to dab it down to third man but gets beaten]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, 2 runs, slower ball full toss outside off stump, Buttler drives it to long-off, good running from Woakes again as he races back for the second]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed [6.0-0-26-1] is back into the attack</b>]]></line><line><![CDATA[Buttler is brimming with confidence. Can Woakes give him good support? 84 off 54 is still easily doable!]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;A Sunny to Woakes, no run, flighted delivery on the leg stump, Woakes advances and drives it straight to cover]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;A Sunny to Buttler, 1 run, easily driven down to long-off]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;A Sunny to Woakes, 1 run, steps out and drives the flighted delivery along the ground to long-off]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;A Sunny to Buttler, 1 run, pushed down to long-on]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;A Sunny to Buttler, 2 runs, flighted delivery outside off stump, Buttler drives it to long-off, slight hesitation while returning for the second but Woakes makes his ground]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;A Sunny to Buttler, <b>SIX</b>, that is an excellent shot! Flighted delivery on the leg stump, Buttler steps out and also makes room, goes inside-out over wide long-off and gets a 96-metre six]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny [7.0-0-31-0] is back into the attack</b>]]></line><line><![CDATA[Take a bow Mortaza. He finishes: <b>10-0-48-2</b>. He was not 100%. He was limping almost every time he walked back to the start of his run-up but he has bowled very well. Great commitment! England managed to score just <b>20/1</b> in the 5-over <b>batting powerplay</b>.]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Mortaza to Buttler, 1 run, Buttler gives the charge and flicks the length ball to deep mid-wicket]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Mortaza to Buttler, no run, back of a length outside off stump, Buttler defends it to the left of the bowler after walking forward]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Mortaza to Woakes, 1 run, short of length delivery outside off stump, Woakes pushes it square of the wicket on the off-side]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Mortaza to Woakes, no run, short of length delivery outside off stump, Woakes defends it to backward point]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Mortaza to Woakes, no run, is that another outside edge? No, it isn't! Good length delivery wide outside off stump, Woakes plays away from the body, the ball just swings away a bit and beats the bat]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Mortaza to Buttler, 1 run, slower ball just outside off stump, pushed to extra-cover for a run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, on the off stump, mid-on fields the ball this time]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, on the stumps, turned to the left of the man at short mid-wicket]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Shakib to Woakes, 2 runs, slider down the leg-side, Woakes whips it to deep mid-wicket, Buttler has to rush back but he gets home as the throw was wild]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, on the leg stump, punched down to long-on]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Shakib to Woakes, 1 run, a confident front foot drive to long-off from Woakes]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, Shakib teases Buttler with a very slowish flighted delivery, Buttler drives it along the ground to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The batting powerplay has been very good for Bangladesh so far. They've conceded just 12 runs and taken the wicket of Root.]]></line><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Mortaza to Woakes, no run, short of length delivery outside off stump, Woakes pushes it to cover]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Mortaza to Buttler, 1 run, walks forward again and flicks the short of length delivery to mid-wicket]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Mortaza to Buttler, no run, was that <b>dropped</b>? Yes, it was, but a very tough chance. Slower delivery outside off stump, Buttler drives it straight back at the bowler, Mortaza couldn't get down low in his followthrough, and the ball hit his right knee]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Mortaza to Buttler, 2 runs, walks forward and flicks the length ball to deep mid-wicket, good enough for two]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Mortaza to Woakes, 1 run, full and outside off stump, pushed along the ground to sweeper cover]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Mortaza to Woakes, no run, fullish and outside off stump, softly played to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Shakib to Woakes, 3 runs, on the pads, Woakes flicks it along the ground through mid-wicket, the fielder in the deep runs to his left and saves a run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, flighted delivery outside off stump, Woakes drives it into the off-side]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, on the off stump, pushed to cover]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Shakib to Woakes, no run, flighted delivery just outside off stump, Woakes defends off the back foot]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, on the leg stump, punched to long-on]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Shakib to Woakes, 1 run, flatter delivery on the leg stump, pushed to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[England coach Peter Moores is a worried man.]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Mortaza to Woakes, 1 run, <b>outside edgeee</b> but doesn't carry to the man at slip. 127.4kph back of a length delivery outside off stump, Woakes defends and gets an edge, he played with soft hands and it didn't have enough wood on it to go to hand. The fielder fumbled to allow the run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Mortaza to Woakes, no run, short of length delivery outside off stump, dabbed to point]]></line><line><![CDATA[<b>Chris Woakes, right handed bat, comes to the crease</b>]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Mortaza to J Root, <b>out</b> Caught by Rahim!! It's a clear nick and it's an easy catch for the keeper. This is a big, big wicket for Bangladesh. The captain has taken another important wicket for his side. He has his hands aloft and runs around the Adelaide Oval like a bird. Leg-cutter on a good length, Root pushes at it away from the body, gets a thin edge and Rahim makes no mistake. Root was holding one end up and Bangladesh have got him. England will have to be very careful here. The batting powerplay has once again done the trick for the bowling side. <b>J Root c Rahim b Mortaza 29(47) [4s-2]</b>]]></line><line><![CDATA[Mortaza to J Root, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Mortaza to Buttler, 1 run, nudged away to backward square leg]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Mortaza to Buttler, no run, slower ball outside off stump, Buttler was completely deceived by the lack of pace as he checks the drive, there was a sound as the ball passed the bat, but it was bat hitting the ground]]></line><line><![CDATA[Huge shout for a caught behind, not given. They think about the review but decide against it]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Mortaza to J Root, 1 run, slower delivery outside off stump, Root flicks it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mashrafe Mortaza [7.0-0-38-1] is back into the attack</b>]]></line><line><![CDATA[The skipper comes on. Third man and fine leg inside the ring.]]></line><line><![CDATA[Time for the <b>batting powerplay</b>. This is a very crucial phase for England. They've got to take some calculated risks and cannot afford to be over aggressive!]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Shakib to J Root, 1 run, slightly quicker through the air, Root steps out and drives it to long-off]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, nicely floated up from Shakib, Buttler drives along the ground to long-off]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Shakib to J Root, 1 run, very full and outside off stump, Root drives it to long-off]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, spinning away outside off stump, cut to sweeper cover]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Shakib to J Root, 1 run, tossed up, driven to long-off]]></line><line><![CDATA[Mortaza is not moving freely on the field after that dive in the previous over.]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, flighted delivery from Shakib, driven to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;A Sunny to Buttler, 1 run, Buttler looks to drive but gets an inside edge that goes wide of mid-wicket, Mortaza dives in vain]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;A Sunny to J Root, 1 run, punched off the back foot to long-on]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;A Sunny to Buttler, 1 run, down the track, gets to the pitch of the ball and drives it along the ground to long-off]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;A Sunny to J Root, 1 run, flatter in trajectory, Root punches it to long-off]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;A Sunny to J Root, no run, sprays the slider down the leg-side, Root turns it to backward square leg]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;A Sunny to Buttler, 1 run, very full, driven back, the bowler dives to his right and tries to stop the ball but fumbles to allow the run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny [6.0-0-26-0] is back into the attack</b>]]></line><line><![CDATA[It's going to be left-arm spin at both ends.]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Shakib to J Root, no run, slider goes down the leg-side, knocked to short mid-wicket. That was a good tight over from Shakib]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, steps out and drives the flighted delivery wide of long-off. <b>150 up for England</b>]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Shakib to J Root, 1 run, gives this even more air, Root drives along the ground to long-off]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Shakib to J Root, no run, tossed up on the off stump, Root pushes it to short mid-wicket]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Shakib to Buttler, 1 run, slower through the air from Shakib, Buttler delays the drive and sends it to deep cover]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Shakib to Buttler, no run, round the wicket, bowls the slider, Buttler waits and defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan [4.0-0-10-0] is back into the attack</b>]]></line><line><![CDATA[England need 129 more runs. Buttler is looking very good. If these two carry on for some 10 overs, England will easily gain the upper hand.]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, 1 run, short of length delivery and rising steeply outside off stump, Buttler taps it to cover-point with soft hands and keeps strike]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, no run, bumper on the off stump, Buttler ducks under it]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, <b>FOUR</b>, gives the charge to the bowler and boy, what a shot that is! He didn't try to overhit the ball, just plays an extended forward push, the timing on that was too good and the man at sweeper had no chance as it raced away for four]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, no run, fullish and around the off stump, watchfully defended off the front foot]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, <b>FOUR</b>, full and outside off stump, just a bit of inswing on this ball, Buttler leans forward and plays a lovely drive, the ball goes to the left of mid-off, who dives in vain. The England vice-captain is looking very positive here. He looks determined as well!]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, 1 run, allows the short of length delivery to come and runs it down to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The Bangladeshi supporters are joyous in the stands.]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Rubel to J Root, 1 run, turns around and helps this short of length delivery down to long leg]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Rubel to Buttler, 1 run, walks forward and then clips the length ball to long leg]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Rubel to Buttler, 2 runs, short of length delivery on the off stump, Buttler rocks back and pulls it along the ground to deep backward square leg, where the fielder makes a sliding save]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Rubel to Buttler, no run, nice positive forward stride from Buttler as he drives this full ball, but hits it straight to mid-off]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Rubel to Buttler, no run, pushed to cover]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Rubel to Buttler, no run, short of length delivery outside off stump, Buttler punches it towards point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, 1 run, dug in midway down the wicket, Buttler goes on his toes and drops it to the on-side. That was well played by the England keeper]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Buttler, no run, short delivery well wide of off, Buttler watches it sail past him]]></line><line><![CDATA[<b>Jos Buttler, right handed bat, comes to the crease</b>]]></line><line><![CDATA[That will also be <b>drinks</b>. England have lost their last 3 wickets for 11 runs. They have slipped from 97/1 to 132/5. Bangladesh are well on top and surprisingly it is not the spinners, who are causing the damage. The pacers have picked up 4 out of the 5 wickets. England need a partnership, else they can say goodbye to their World Cup campaign.]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to James Taylor, <b>out</b> Caught by Kayes!! Excellent captaincy from Mortaza. He had a slip for the new batsman and Taylor has picked him out. It was shortish and outside off, Taylor shuffles across and slashes at it, the outside edge flies to Kayes at first slip. Good take from him. Taylor was in no position to play that shot, he was trying to do too many things at once. He was livid with himself as he made his way back to the pavilion. <b>James Taylor c Kayes b Taskin Ahmed 1(4)</b>]]></line><line><![CDATA[Taskin Ahmed to James Taylor, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, 1 run, back of the hand slower delivery, Root punches it to deep mid-wicket, for a single]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, two in two, full and around off, Root drills it down the ground, Taskin bends down and stops it]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, pitched up outside off, Root drives it straight back at the bowler, who makes a half-stop in his followthrough]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Rubel to J Root, 1 run, fullish and just outside off, Root goes for the expansive drive, the ball squirts off the inside edge to fine leg]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, shortish and outside off, Root cuts it to the same fielder at widish backward point]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Rubel to J Root, <b>FOUR</b>, superb shot! It was short and Root was onto it in a flash, he rocks back and nails the pull in front of square, there was no one in the deep to stop that ball]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, change of pace from Rubel, Root steers it to widish backward point]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, slightly short in length, Root shuffles across, blocks it calmly to cover]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, angling in on off, Root gets behind the line and defends it to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Mortaza and Rubel have a chat. They want to get the field right.]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to James Taylor, no run, pitched up outside off, Taylor drives with an open bat face to backward point]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to James Taylor, no run, good length ball close to off, Taylor presents the straight bat and defends to the bowler]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, 3 runs, first full delivery of the over and he is taken for runs, Root leans nicely forward and drives it to the left of mid-on, the fielder gives chase and hauls it in just before the rope]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, short of length just outside off, Root punches and picks out backward point]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, Taskin is keeping it tight around off, Root hangs back and bunts it in front of cover-point]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, back of a length around off, Root stays in the crease and dabs it to backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Rubel to J Root, 1 run, fuller and around off, Root push-drives it past the diving bowler, mid-off dives to his right and keeps it to a single. End of a magnificent over. It has changed the course of the game]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Rubel to James Taylor, 1 run, tails the yorker back into the right-hander, Taylor digs it out to mid-on, Mortaza has an unneccessary shy at the bowler's end and concedes an overthrow. Rubel is not happy with the skipper, he wanted another crack at Taylor]]></line><line><![CDATA[A slip, a gully and leg gully in place now.. Bangladesh on the prowl.]]></line><line><![CDATA[<b>James Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Rubel to Eoin Morgan, <b>out</b> Caught by Shakib!! England in shambles! Morgan has been dismissed for a duck. The umpires check for a no-ball, Rubel is once again fine. Bangladesh are right on top. It was another short delivery aimed at the batsman, Morgan decides to take it on, swivels and pulls it to deep backward square, Shakib runs to his right from fine leg, judges it well and holds on to a superb catch. Pressure on England now. <b>Eoin Morgan c Shakib b Rubel 0(3)</b>]]></line><line><![CDATA[Rubel to Eoin Morgan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Rubel to Eoin Morgan, no run, bumper angled across off, Morgan arches back and sways away from the line of the delivery]]></line><line><![CDATA[Rubel is steaming in and bowling well over 140. Mortaza had a few words for him when they were in a huddle after Bell's wicket. He also clocked the quickest ball of the day.]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Rubel to Eoin Morgan, no run, good length ball on off, Morgan defends it down the wicket]]></line><line><![CDATA[<b>Eoin Morgan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Rubel to Bell, <b>out</b> Caught by Rahim!! Peach of a delivery! Rubel gives a staring send off to Ian Bell. A very crucial breakthrough for Bangladesh. They have removed the well set batsman. It was a short of length delivery that reared up, Bell went for the glide to third man, the ball got big on him and took the outside edge on the way to Rahim. The umpire checks for the no-ball, but Rubel was fine on that account. It was the effort delivery from him. <b>Bell c Rahim b Rubel 63(82) [4s-7]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Rubel to Bell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, back of a length around off, Root bunts it off the toe-end to the left of the bowler]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to J Root, no run, another short delivery that is hit straight to the fielder, Root cuts and finds one of the two backward point fielders]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, 1 run, too straight, on off and middle, Bell nudges it wide of mid-wicket, for a single]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, no run, short and outside off, Bell cuts it straight to cover-point, he should have done better with that as it was a loose delivery]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, no run, stifled appeal for caught behind. Bell went for his most productive shot, that is run it down to third man, the ball bounces a bit extra and goes past the outside edge. Clearly no wood on that]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, 2 runs, back of a length on the fourth stump line, Bell steers it fine, the duo hare back for the second as the fielder at third man was square]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed [2.0-0-8-0] is back into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, short of length on off, Root hangs back and knocks it to short mid-wicket]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, loose from Root, it was back of a length delivery around off, he goes for the dab down to third man, misses and the ball sneaks under his bat. It could have so easily taken the inside edge back onto the stumps]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Rubel to Bell, 1 run, this was the slower one from Rubel, bowled at 122kph, Bell spots it well, opens the bat face and steers it to third man]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Rubel to J Root, 1 run, good length ball on off, Root comes half-forward and eases it to sweeper cover]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Rubel to J Root, <b>FOUR</b>, brilliant shot! It is poor bowling from Rubel, banged in short, doesn't rise up as much as he expected, Root swivels and pulls it in front of square, no chance for the deep square leg fielder to stop that. Mortaza was not too pleased with that delivery]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Rubel to Bell, 1 run, back of a length close to off, Bell cuts it to square third man, for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Mortaza to Bell, 3 runs, another off-cutter from Mortaza, Bell picked this one early, he went through with the loft, the ball plugs at long-on and denies a boundary to Bell. He looked at the toe-end of the bat after playing the shot]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, clever change of pace from the Bangladeshi captain, Bell was deceived as he went for the drive, the ball takes the inside edge and rolls off the pads to the off-side]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Mortaza to Bell, 2 runs, back of a length on off, Bell moves slightly towards the off-side and flicks it behind square leg, the fielder from fine leg runs across and keeps it to a couple]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Mortaza to J Root, 1 run, slower delivery from Mortaza, Root waits for the ball to arrive and runs it down to third man]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Mortaza to J Root, no run, good length ball angling in, Root shuffles across and works it to short mid-wicket]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Mortaza to J Root, no run, fuller and close to off, Root pushes it off the front foot to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Rubel to Bell, no run, full and attacking the stumps, Bell stays in the crease and defends to the left of Rubel, who picks up the ball and mocks a throw at Bell, he just simply smiles at the bowler]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Rubel to J Root, 1 run, finally, Root manages to nurdle the back of a length delivery down to third man]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, fuller and just outside off, Root drives it down the wicket, Rubel looks to stop but slips and goes down, there is mid-off backing up]]></line><line><![CDATA[There is a slip fielder in place...]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, another dab and once again finds the fielder at backward point]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Rubel to J Root, no run, back of a length on the fourth stump line, Root guides it with an open bat face to backward point]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Rubel to Bell, 1 run, shortish and outside off, Bell rides the bounce and cuts it square of the wicket, sweeper mops up near the rope]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rubel Hossain [3.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Mortaza to J Root, no run, pitched up outside off, Root leans into the drive, picks out the fielder at cover]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Mortaza to J Root, no run, goes wide of the crease and angles it in, Root comes forward and plays it round his pads to mid-on. Bit of oohs and aahs from the Bangladeshi's because had Root missed that, he would have been dead in front]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Mortaza to Bell, 1 run, keeps it short of length around off, Bell guides it square on the off-side, for a single]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, back of a length on off, Bell gets behind the line and blocks it to the off-side]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Mortaza to J Root, 1 run, in the airrrr and just over the fielder. It was the tempter from Mortaza, full and well wide of off, Root went chasing after it, the thickish outside edge flew over backward point, who leapt but it was too high for him. Third man tidies up in the deep]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Mortaza to J Root, no run, touch short and outside off, Root cuts and finds backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;A Sunny to J Root, 1 run, flatter and on off, Root punches it to long-off]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;A Sunny to Bell, 1 run, Bell bunts the flighted delivery to the right of backward point, calls for the single and gets it easily. <b>100</b> up for England]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, slower and around off, Bell knocks it gently to short cover]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;A Sunny to J Root, 1 run, stretches forward and drives it to sweeper cover]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;A Sunny to Bell, 1 run, <b>fifty</b> for Bell, 34th in ODIs and 5th in World Cup cricket. It was the quicker delivery, Bell nudges it to deep square leg and reaches the milestone. The England dug-out applauds and Root congratulates him]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, flighted on off, Bell defends it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny [5.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Mortaza to J Root, no run, beauty! Mortaza made up for the poor first few deliveries. This one on a length and holds its line, Root prods across and looks to defend, the ball beats the outside edge]]></line><line><![CDATA[<b>Joe Root, right handed bat, comes to the crease</b>]]></line><line><![CDATA[A slip in place for the new batsman...]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Mortaza to Hales, <b>out</b> Caught by Rahim!! What a comeback! Just when we thought Hales was looking in good touch, he has given it away. Mortaza is pumped up. A good length delivery around off, Hales fiddles with it away from the body, the outside edge goes to Rahim, who makes no mistake. Timely wicket for Bangladesh. <b>Hales c Rahim b Mortaza 27(34) [4s-4]</b>]]></line><line><![CDATA[Mortaza to Hales, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Mortaza to Hales, no run, back of a length around off, Hales stands up and punches it to cover]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Mortaza to Hales, <b>FOUR</b>, poor stuff from the Bangladeshi captain, short and offers width outside off, Hales hangs back and cuts it past backward point and cover-point. Hales is looking in fine touch now]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Mortaza to Hales, <b>FOUR</b>, can't bowl short at that pace, it was 124kph, Hales is quick to transfer his weight onto the back foot and pulls it in front of square, no chance for the deep square fielder]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Mortaza to Bell, 1 run, shortish and outside off, Bell cuts it square of the wicket, for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mashrafe Mortaza [4.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;S Rahman to Bell, 1 run, trifle short and outside off, Bell cuts to backward point, Shakib dives to his left and makes a half-stop, the batsmen steal a quick single]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;S Rahman to Bell, no run, hint of turn on that occasion, Bell watches it carefully and defends it down the wicket]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;S Rahman to Hales, 1 run, too full and on the stumps, dug out to long-on]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;S Rahman to Bell, 1 run, drops it touch short, Bell goes back and pulls it to long-on, he hit it a lot straighter than he wanted]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;S Rahman to Hales, 1 run, goes straight on, Hales pushes it down to long-on]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;S Rahman to Bell, 1 run, slider close to off, Bell stays leg-side of the ball and punches it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sabbir Rahman, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Shakib to Bell, 1 run, backs away and punches it to sweeper cover]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Shakib to Hales, 1 run, angling in on middle and leg, Hales nudges it past a diving mid-wicket fielder]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, tossed up on off, Hales punches it back down the wicket]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, comes down the track and Shakib slows it up, Hales knocks it to the off-side]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, push-drives it to short cover]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Shakib to Bell, 1 run, floated up around off, Bell taps it wide of cover, for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now. England have done well to reach 80/1 at the end of 17 overs. England started off on a good note with Bell taking the attack to the opposition, he is looking in great nick. However, a brainfade from Ali saw him get run-out and England needlessly lost a wicket in that situation. Hales came out and both of them have looked comfortable at the crease. Bangladesh need a breakthrough and they need it quickly to stay in the game...]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;A Sunny to Bell, 3 runs, another quicker one and little wide outside off, Bell backs away a touch and looks to cut hard, the ball goes fine towards third man off the toe-end of the bat, the batsmen take three before before the fielder from short third man chases it down]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;A Sunny to Hales, 1 run, touch quicker and on the stumps, Hales bunts it down to long-on and gets off strike]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, flatter delivery on the stumps, Hales stays back and punches it uppishly towards mid-on, the ball goes on the bounce to the fielder]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, floated up just outside off, Hales drives it to the right of cover, who moves across and stops the ball]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, flighted delivery just outside off, Hales drives it to the left of the bowler, where the bowler moves across and puts in a full length dive, saved a run there for his team]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;A Sunny to Bell, 1 run, tossed up just outside off, Bell presses forward and drives it towards deep extra cover for a run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, slider to end the over, Hales pushes it down to mid-on, but can't get through for a single]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, floated up outside off, Hales defends it into the off-side off the front foot]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Shakib to Bell, 1 run, flatter delivery outside off, Bell rocks back and punches it to sweeper cover to get off strike]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, tossed up outside off, Bell comes on the front foot and drives it to short cover]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, slower through the air and on off, Bell defends off the front foot]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Shakib to Bell, 2 runs, flighted delivery on middle and leg, Bell kneels down and sweeps it past a diving backward square leg, the fielder from deep square leg runs across to his right near the boundary and keeps the batsmen down to a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan [2.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[What happened here? Taskin was coming onto bowl his third over, but Mortaza changes his mind and gives it to Shakib. Can the best all-rounder in the world provide Bangladesh the crucial breakthrough?]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, tossed up just outside off, Hales leans forward and drives it straight to short cover]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;A Sunny to Bell, 1 run, comes forward and eases this delivery on middle stump line down to long-on]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, flighted delivery on the stumps, Bell defends it into the on-side]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, drifting down leg, Bell glances it behind square, where the backward square leg fielder runs to his right and prevents the single]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, quicker one on off, Bell pushes at it off the front foot, gets an inside edge onto the pad and the ball rolls away into the off-side]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;A Sunny to Bell, <b>FOUR</b>, <b>magnificent shot!</b> It was short and on the leg stump, Bell was quick to rock back and pulls it to the deep mid-wicket fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, no run, Hales is not happy with himself, he feels that he has missed out on a boundary there, it was short and wide outside off, it was asking to be hit, Hales gets on top of the bounce and cuts hard, but picks out cover-point]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, 1 run, back of a length delivery slightly wide outside off, Bell stays rooted to the crease and cuts it square of the wicket]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, no run, touch fuller and around off, Bell pushes it towards cover off the front foot]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, no run, on a good length and with a hint of inswing on off, Bell defends it towards cover]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, 1 run, bowls this one slightly wide outside off, Hales waits on the back foot, opens the face of the bat and dabs it down to third man]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, 1 run, just short of a good length and just outside off, Bell gets half-forward and pushes it in front of sweeper cover, they were looking for the second run there but the fielder was quick to run forward and collect the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;A Sunny to Bell, 1 run, shortish again from Sunny, Bell rocks back and cuts it to sweeper cover, he will keep the strike]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, flighted delivery on off, Bell lunges forward in defence]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;A Sunny to Bell, <b>FOUR</b>, bowls this one slightly flatter and gives him a bit of width, Bell waits for it and cuts it to the left of backward point, who gives chase, but was never going to beat the ball to the fence]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, kneels down and sweeps this delivery on middle and leg, picks out backward square leg to perfection]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, floated up on off, Bell drives it back to the bowler off the front foot]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;A Sunny to Hales, 1 run, pushed through on middle and leg, Hales pushes at it off the front foot, the ball squirts off the inside half of the bat and rolls away behind square on the leg-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny [2.0-0-6-0] is back into the attack</b>]]></line><line><![CDATA[Change of ends for Sunny as he comes from the end where Shakib was bowling]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Bell, no run, slightly back of a length and in the channel just outside off, Bell pushes it to backward point from the crease]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, 1 run, short of length delivery angling in on the pads, Hales works it to deep mid-wicket and gets off strike]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, no run, back of a length delivery just outside off, Hales stays inside the crease and defends it into the off-side]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, no run, just short of a good length and outside off, Hales hangs back in the crease and punches it towards cover-point]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, no run, back of a length delivery outside off, Hales punches it towards backward point after opening the bat face slightly]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hales, <b>FOUR</b>, short and slightly wide outside off, Hales goes for the cut, but gets an outside edge that flies through the vacant second slip region and runs away to the fence, not the ideal start for Taskin]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, kneels down and misses the sweep to this flighted delivery on leg, he was rapped on the pads and there was a loud appeal, but the ball was definitely going down leg]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, slider from Shakib and on middle, Bell makes room and pushes it into the off-side]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, quicker one on the stumps, Bell backs away and bunts it back to the bowler]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, floated up on off, Bell pushes it back to the bowler]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Shakib to Hales, 1 run, flighted delivery on off, Hales defends off the outside half of the bat, the ball rolls away towards point, where the fielder tries to stop it with his boot, but he can't stop it cleanly and the batsmen then go through with the single]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Shakib to Hales, 2 runs, drifting on the pads, Hales bunts it uppishly through mid-wicket, he comes back for the second run before the ball is hunted down]]></line><end-of-over>end of over</end-of-over><line><![CDATA[A short leg is in place now for Hales]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, pushed through quicker and on the stumps, Bell makes room and punches it towards cover-point, who runs to his right and stops the ball]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;A Sunny to Hales, 1 run, flighted delivery outside off, Hales leans forward and drives it down to long-off]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;A Sunny to Bell, 1 run, tossed up just outside off, Bell drives it down to long-off and gets to the other end]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, flatter outside off, Bell backs away and punches it hard, but picks out short cover]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, slows this one around off, Bell opens the face of the bat and pushes it into the off-side]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;A Sunny to Bell, no run, arm-ball from Sunny, Bell was pushing at it off the front foot, gets an inside edge onto the pad, Bell was lucky to get an inside edge there, had he missed, he would have been out plumb]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, slower through the air and on off and middle, Hales leans forward and defends, gets an inside edge onto the boot]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Shakib to Hales, no run, flatter again from Shakib, Hales makes room and punches it to cover-point]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Shakib to Bell, 1 run, another shortish delivery just outside off, Bell backs away and cuts it to backward point, the batsmen pinch a quick run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, flatter and outside off, Bell cuts it to cover-point]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, flighted delivery on middle, Bell leans forward and defends]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Shakib to Bell, no run, round-armish ball and just outside off, Bell decides to leave this one, but the ball just goes past the off-stump, it was mighty close to the off stick there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, quicker and on leg, Hales dead-bats it to his left]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, tossed up outside off, Hales leans forward and gently drives it to short cover]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;A Sunny to Hales, no run, flighted delivery around off, Hales leans foward and defends]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;A Sunny to Hales, <b>FOUR</b>, shortish and just outside off, Hales rocks back and cuts it to the sweeper cover fence, gets off the mark with a boundary off the first ball]]></line><line><![CDATA[<b>Alex Hales, right handed bat, comes to the crease</b>]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;A Sunny to Moeen Ali, <b>out</b> Moeen Ali Run Out!! Oh dear! What has happened here? Ali comes down the wicket and pushes it to the left of the bowler, there was a mix-up as he was looking for the single there, but Bell was busy ball watching, Ali was halfway down the track when the fielder from mid-wicket gets across, picks up the ball and fires in the throw at the striker's end. Ali turns back and tries to get in with a dive, but Rahim breaks the stumps before he could even reach close to the crease. Bell there didn't respond because he thought the bowler will stop the ball. England have thrown away a wicket here after a good start. It was a needless run attempted by Moeen. <b>Moeen Ali run out (Soumya Sarkar/Rahim) 19(21) [4s-3]</b>]]></line><line><![CDATA[A Sunny to Moeen Ali, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;A Sunny to Moeen Ali, no run, slower through the air and turning in towards off, Ali defends off the front foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[A slip and a leg slip in place]]></line><line><![CDATA[Introduction of spin for the first time as Sunny replaces Rubel. Bangladesh need a wicket here, otherwise England will run away with the game]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Mortaza to Bell, <b>FOUR</b>, back-to-back boundaries for Bell, it was slightly back of a length and just outside off, Bell punches it past extra cover to finish the over on a high, <b>13 runs</b> came off that over]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Mortaza to Bell, <b>FOUR</b>, touch fuller and outside off, Bell picks the off-cutter and lofts it over cover with ease, the ball runs away to the fence]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, just short of a good length and on off, Bell gets behind the line and defends with the straightest of bats]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Mortaza to Bell, <b>FOUR</b>, classic shot from Bell, it was a shortish delivery well outside off, Bell stays back in the crease, opens the face of the bat and drives it square of the wicket for a boundary]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, back of a length delivery just outside off, Bell goes back in the crease and defends it towards short cover]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Mortaza to Moeen Ali, 1 run, slower ball on the pads, Ali pushes it through mid-wicket and thinks about a second, but the fielder from mid-on was quick to get across and the batsmen have to be content with a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Rubel to Bell, <b>FOUR</b>, great shot from Bell to end the over, it made a sweet sound off the bat, it was banged in short and Bell was quick to rock back, he pulls it through mid-wicket and the ball rockets away to the fence]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Rubel to Bell, no run, bowls this one in the channel outside off, Bell lifts his bat and lets it go]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, 1 run, on the pads this time, Ali stays back and whips it behind square on the on-side, the batsmen cross over]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, on a good length and around off, Ali punches it back to the bowler]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, length ball this time and on off, Ali blocks it into the off-side and was thinking about the single, but it is not there for the taking]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, back of a length delivery angled across off, Ali opens the face of the bat and bunts it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, on a good length and in the channel outside off, Bell opens the face of the bat and pushes it towards backward point, shouts 'no' for the single]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, goes wide of the crease this time and angles it in on middle and leg, Bell works it towards mid-wicket]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, back of a length delivery just outside off, Bell goes on the back foot and punches it to short cover]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, length delivery on off, Bell leans forward and defends it solidly into the off-side]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, good comeback from Mortaza, it was on a good length and just outside off, Bell was pushing at it, the ball shapes away and beats the outside edge, it was dying down on the keeper though]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Mortaza to Bell, <b>FOUR</b>, good shot from Bell, it was full and outside off, Bell lofts it inside-out over cover and the ball goes on the bounce to the deep extra cover fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, <b>FOUR</b>, another edge and four! It was on a good length and angled across off, Ali pushes at it tentatively, gets an inside edge that rolls past the stumps and runs away to the fine leg fence]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, another effort ball from Rubel, this time Ali ducks under it and lets it go through to the keeper]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, banged in short and around off, Ali goes for the pull but mistimes it towards short mid-wicket, the ball hurried onto him there and that's why he couldn't get the timing right]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Rubel to Bell, 1 run, finally gets his line right now, it was full and outside off, the ball shapes away just a touch as Bell was looking to drive it through the off-side, it takes the outside edge and runs away through the vacant gully region]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Rubel to Bell, leg byes, 2 runs, splays one on the pads once again, Bell fails to glance it fine, the ball clips the pad and goes towards the keeper, who dives to his left but can't stop it cleanly, the ball rolls away towards fine leg and the batsmen run for two leg byes]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Rubel to Bell, no run, back of a length delivery angling in on leg, Bell fails to flick it into the leg-side and wears it on the pad, he is not too happy with himself there on missing out on it, the ball was snaking down leg though]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Mortaza to Moeen Ali, no run, another slower one on off to end the over, Ali defends it off the front foot]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Mortaza to Bell, 1 run, good fielding effort at mid-on, it was the slower ball angling in on off and middle, Bell moves across and pushes it past the non-striker, Tamim from mid-on runs to his left, dives full length and saves some runs for his team there]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, back of a length delivery just outside off, Bell pushes it off the back foot to the left of cover-point, who moves across, puts in the dive and keeps the batsmen at their respective ends]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, just short of a good length and outside off, Bell goes back in the crease and knocks it to cover]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, back of a length delivery on the pads, Bell tucks it away into the on-side and picks out square leg]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, on a good length and just outside off, Bell opens the face of the bat and pushes it towards point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, 2 runs, length delivery just outside off, Ali punches it to the left of mid-off, who runs across and dives, gets a hand on it, the batsmen take a couple before the ball is hunted down]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, back of a length delivery on leg, Ali fails to work it through the on-side and wears it high on the pad, the umpire raised his finger in a flash after the appeal, but Ali reviews it straightaway, it pitched outside leg and Ali stays]]></line><line><![CDATA[Ali has been given out LBW. He reviews it straightaway. Was it going down leg? Or was it too high? It looks to have pitched just outside leg, there is no inside edge on that. The decision has to be overturned as Hawk-Eye shows that it pitched outside leg, Ali survives.]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, <b>FOUR</b>, good shot from Ali, it was slightly wide outside off, Ali pounces on it and cuts it past backward point, the fielder at third man could only watch it run away to the fence]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, good short ball angled across off, Ali just about manages to drop his wrists in time and leaves it for the keper]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, no run, length delivery and shaping in from just outside off, Ali pushes at it from the crease, gets an inside edge onto the pad and the ball rolls away into the off-side]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Rubel to Moeen Ali, <b>FOUR</b>, full and outside off, Ali goes for the drive off the front foot, gets an outside edge that runs past first slip and crashes into the third man fence, there was no second slip in place and things would have been interesting if there was one]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rubel Hossain, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, back of a length delivery angling in on off, Bell gets behind the line and blocks]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Mortaza to Bell, no run, just short of a good length and swinging in on off, Bell defends it back down the wicket from the crease]]></line><line><![CDATA[Two slips in place for Bell]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Mortaza to Moeen Ali, 1 run, slower short ball outside off, Ali was early into the pull, gets a top edge that clears a leaping slip, the batsmen take a single as the ball rolls away to third man]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Mortaza to Moeen Ali, 2 runs, on a good length and just outside off, Ali leans forward and drives it through extra cover, the batsmen take two before the fielder from mid-off runs across to his right and tidies up]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Mortaza to Moeen Ali, no run, length delivery angled across off, there was a hint of shape back into Ali, who was pushing at it. The ball takes the inside edge onto the pad and rolls away towards gully]]></line><line><![CDATA[A slip and a gully in place]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Mortaza to Moeen Ali, no run, length delivery on off, Ali gets behind the line and defends solidly]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moeen Ali and Bell are at the crease. Moeen Ali is on strike. Mortaza will open the attack</b>]]></line><line><![CDATA[Welcome back. The English openers are out in the middle. Mashrafe Mortaza will start the proceedings. Ali will take the strike first up.]]></line><line><![CDATA[This is going to be an interesting run chase folks. Take a break and join us back at <b>18:15 local time</b>.]]></line><line><![CDATA[<b>Mahmudullah</b>: "I am feeling very good, but would have been very nice if I got few more runs on the board. I think we are 15-20 runs short. But yeah, very special innings for me. When me and Soumo (Soumya Sarkar) were batting, we just thought we should play normally, just wait for the loose ball and keep batting. Today's game is a very special game for us because we've got a chance to qualify for the quarterfinals. We have to bowl well. I think there is a little bit of grip. It is slowing up a bit. If we take early wickets, we will be in the game. Fielding is a crucial part. This is a very special innings for me and I would like dedicate it to my wife and son."]]></line><line><![CDATA[It is a must-win game for England and they will feel the pressure of chasing down the target. For Bangladesh, it is about taking wickets with the new ball and then, the spinners can come into play. ]]></line><line><![CDATA[Anderson generated swing and more importantly, got movement off the deck to take the wickets of both openers, Imrul Kayes and Tamim Iqbal. However, Soumya Sarkar and Mahmudullah helped Bangladesh to make a smart recovery. Jordan provided the vital breakthrough by snaffling the wicket of Sarkar and Moeen Ali followed it up by snaring the wicket of Bangladesh's best player, Shakib Al Hasan. But during the middle part of the innings, they struggled for penetration and the opposition took advantage of it. England though, bowled reasonably well in the end overs to keep the opposition in check.]]></line><line><![CDATA[Mushfiqur Rahim, who stitched a key partnership with Mahmudullah, also made an impact by playing a stirring knock. He took quick singles and improvised to frustrate the English pacers. In particular, the way he slog-swept Chris Jordan for a boundary, gave a glimpse of his superb hand-eye co-ordination. Rahim went on to notch up a well-deserved half-century. In the end overs, he also hoicked Chris Woakes across the line for a six. Earlier, it was Anderson, who bowled an impressive spell to take wickets upfront.<br/>]]></line><line><![CDATA[On the back of Mahmudullah's well-measured century, Bangladesh reached a competitive total on the board.  It was also Mahmudullah's first century in ODIs and Bangladesh's first in World Cups. After surviving a testing spell from James Anderson, Mahmudullah played with a calm head on his shoulders to keep the scorecard moving. He also played some cracking shots during his innings. When Bangladesh needed to up the tempo, he lofted Stuart Broad over extra-cover for a boundary in the 36th over of the innings.<br/>]]></line><line><![CDATA[<b>275</b> is not a great total, but it is competitive enough. The pitch is still good to bat. Maybe it could assist the spinners later on. It is a tricky target.]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Woakes to Mortaza, 1 run, slower ball on the leg stump, Mortaza takes his front leg out of the way and slogs, gets an inside edge, the keeper dives to his left and prevents the boundary]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Woakes to A Sunny, byes, 1 run, widish yorker outside off stump, Sunny fails to reach out, Mortaza charges for the striker's end and steals a bye]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Woakes to A Sunny, 2 runs, just three balls left in the innings and he opts to gently guide this fullish ball past backward point instead of going hard at it. Sunny returns for the second, a better throw from third man would have been interesting]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Woakes to Mortaza, 1 run, full and down the leg-side, Mortaza flicks it to deep mid-wicket]]></line><line><![CDATA[Can Bangladesh get to 280?]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Woakes to Mortaza, <b>FOUR</b>, the captain backs away and swings hard, hits it over the infield as it was full and in the slot, long-off is inside the ring and it runs away for four]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Woakes to A Sunny, 1 run, good length outside off stump, Sunny toe-ends the cut to cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes [9.0-0-55-0] is back into the attack</b>]]></line><line><![CDATA[<b>Arafat Sunny, left handed bat, comes to the crease</b>]]></line><line><![CDATA[Just 4 runs off the over and the wicket of Rahman in it. Top stuff from Jordan.]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Jordan to S Rahman, <b>out</b> Caught by Eoin Morgan!! This is just the over England wanted at this stage. Full and in the slot, Rahman should have put it away, maybe he was a little late in trying to loft, the bat turns in his hands and it goes up in the air, mid-on runs back a few steps, before completing an easy catch. <b>S Rahman c Eoin Morgan b Jordan 14(12) [6s-1]</b>]]></line><line><![CDATA[Jordan to S Rahman, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Jordan to Mortaza, leg byes, 1 run, great death bowling from Jordan. Follows Mortaza with a yorker as he backs away, the batsman couldn't get bat on ball]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Jordan to Mortaza, <b>wide</b>, oops! Jordan has to rebowl that, this went way outside off stump as he tried a widish yorker]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Jordan to S Rahman, 1 run, this is excellent stuff from Jordan, inswinging yorker angled in from wide of the crease, Rahman could only dig it out to mid-wicket]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Jordan to S Rahman, no run, full toss and he only manages to toe-end it on the bounce to the keeper. Three dot balls in the 49th over, not what Bangladesh wanted]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Jordan to S Rahman, no run, brilliant inswinging yorker on the off stump, Rahman just manages to dig it out]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Jordan to S Rahman, no run, oh he's let that go thinking it was a wide! That ball went well inside the line]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Broad to S Rahman, 1 run, short and outside off stump, Rahman cuts it to sweeper cover]]></line><line><![CDATA[<b>Mashrafe Mortaza, right handed bat, comes to the crease</b>]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Broad to Rahim, <b>out</b> Caught by Jordan!! He's mistimed this and Jordan takes an easy catch. Full and outside off stump, the leg-cutter in fact, Rahim tries to go over mid-wicket with a slog, but the ball takes a thick outside edge and goes high in the air, the man at sweeper takes a few steps forward, settles under it and takes it well. End of a fine hand from the former Bangladeshi captain. <b>Rahim c Jordan b Broad 89(77) [4s-8 6s-1]</b>]]></line><line><![CDATA[Broad to Rahim, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Broad to S Rahman, 1 run, slower delivery, Rahman turns it to mid-wicket]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Broad to S Rahman, <b>SIX</b>, down the track! Has he connected well? Yes he has! Timely blow from Rahman! Broad banged it short on seeing Rahman advance down the track, but Rahman manages to time the pull well enough for it to clear deep mid-wicket]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Broad to Rahim, 1 run, oh! He's picked the fielder out perfectly! Short and on the stumps, Rahim backs away and cuts, but hits it straight to backward point. A couple of yards either side of the fielder would have been four]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Broad to Rahim, 2 runs, short of a length delivery on the off stump, Rahim pulls it over square leg, Moeen Ali runs to his left from deep backward square leg to save two]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [9.0-0-41-0] is back into the attack</b>]]></line><line><![CDATA[Broad comes on for his final over.]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, swung away along the ground to long-on, Rahim will keep strike]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Jordan to Rahim, no run, driven hard again but this time straight to the bowler. Rahim will be kicking himself for not hitting it in the gap]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Jordan to Rahim, <b>FOUR</b>, full and outside off stump, driven hard. Oh! Long-on is very square and even a full length dive wasn't good enough. Well placed, Mushfiqur Rahim! Bangladesh need more boundaries to finish on a high. <b>250 comes up</b>]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Jordan to S Rahman, 1 run, short of length delivery outside off stump, Rahman is late on the pull and he ends up flat-batting it, mid-on dives to his left and makes a good save]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, attempts a fancy little paddle but Jordan bowls a widish yorker outside off stump, Rahim only manages to mistime it to backward square leg after going too far across the stumps]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Jordan to S Rahman, 1 run, short of a length delivery just outside off stump, Rahman guides it to third man to get Rahim back on strike]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [8.0-0-49-1] is back into the attack</b>]]></line><line><![CDATA[<b>Anderson completes his spell: 10-1-45-2.</b>]]></line><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;J Anderson to S Rahman, 1 run, 'two, two, two' is the call from Rahman as soon as he dabbed this short of length delivery towards third man with an open face, but the fielder got to the ball very quickly]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;J Anderson to S Rahman, 2 runs, short of length delivery on the leg stump, Rahman turns it to backward square leg and quickly races back for the second]]></line><line><![CDATA[<b>Sabbir Rahman, right handed bat, comes to the crease</b>]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;J Anderson to Rahim, <b>out</b> Mahmudullah Run Out!! Slower ball on the stumps from over the wicket, Rahim guides it to short third man, they try to steal a run, but Woakes fires an accurate throw at the striker's end and catches Mahmudullah well short of his crease. Mahmudullah walks off to a standing ovation. He has played a brilliant knock. Maybe Bangladesh won't mind this wicket as Mahmudullah was looking very tired. <b>Mahmudullah run out (Woakes) 103(138) [4s-7 6s-2]</b>]]></line><line><![CDATA[J Anderson to Rahim, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire has been called for a run-out check. Looks like Mahmudullah is short of his crease and he's well short! OUT flashes on the big screen.]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, slower ball full toss, Mahmudullah doesn't pick it, mistimes the slog to mid-wicket]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;J Anderson to Rahim, 1 run, yorker on the leg stump, Rahim flicks it to deep backward square leg]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, leg byes, 1 run, round the wicket, high full toss again, Mahmudullah misses the flick, gets hit on the pad, the ball rolls into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Anderson [9.0-1-40-2] is back into the attack</b>]]></line><line><![CDATA[Five overs to go and Bangladesh will be targetting 50 runs!]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, full and outside off stump, Mahmudullah mistimes the loft to long-on]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Woakes to Rahim, <b>no ball</b>, 1 run, <b>front foot no-ball</b> and it's going to be a <b>free-hit</b> now. This full toss was again above the waist, Rahim smashed it hard and it was caught at long-on but it won't count. Not sure whether there was a warning issued to Woakes for bowling a beamer]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Woakes to Rahim, <b>SIX</b>, good shot from Rahim! Low full toss, Woakes misses the attempted yorker, Rahim goes off-side, does extremely well to get under this ball and slogs it hard over deep mid-wicket]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, driven nicely but again, there is protection in the deep at sweeper cover]]></line><line><![CDATA[Bangladesh have got just 1 run in the last 6 balls. Need to do better!]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, full and wide outside off stump, Mahmudullah drives well hits it straight to point]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, full and outside off stump, Mahmudullah tries to square-drive the ball but misses]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, <b>wide</b>, way outside off stump and Mahmudullah was just ball-watching on that occasion]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, oh that's a high full toss. Is it above waist height? No signal from the umpire. Mahmudullah punches it straight to backward point. Oh that looked like it was above the waist]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes [8.0-0-44-0] is back into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, low full toss, Rahim drives it into the off-side]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, short from Broad, Rahim backs away and looks to punch, but misses]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, yorker, dug out to mid-on]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, misfield and <b>Mahmudullah</b> becomes the <b>first Bangladeshi player to record a World Cup hundred</b>. It is also his <b>maiden ODI hundred</b>. Wow! Rahim pumps his fist after completing the single. Shows what it means to the Bangladeshi team. Mahmudullah takes the helmet off and raises his bat. He also kisses the badge on the helmet before blowing a kiss. Short of a length delivery outside off stump, Mahmudullah dabs it to backward point, the fielder fumbles and they take the run. Rahim had to put in the dive as the fielder had a shy at the striker's end]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, get back, Mahmudullah! Short of a length delivery on the off stump, Mahmudullah flicks it to mid-wicket and sets off, sensibly Rahim sends him back]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Broad to Rahim, 1 run, shuffles in the crease and guides the length ball to backward point, Woakes runs to his right from short third man, puts in the dive and half-stops the ball, Rahim wanted two but he slipped while turning for the second]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [8.0-0-39-0] is back into the attack</b>]]></line><line><![CDATA[Broad, Anderson and Morgan have a conference meeting. Meanwhile, Rahim wants to change his gloves and he signals to the dressing room.]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;J Anderson to Rahim, 1 run, shortish from Anderson, Rahim pulls it to deep mid-wicket]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;J Anderson to Rahim, no run, Rahim backs away, Anderson follows him with a length ball and keeps him calm. Anderson has a few words with Rahim]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;J Anderson to Rahim, <b>FOUR</b>, oh no! A juicy full toss from Anderson and Rahim easily puts it away. Doesn't overhit the ball, just stays leg-side of the ball and drives it to the left of the man at cover]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;J Anderson to Rahim, no run, good length delivery on the off stump, Rahim defends]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;J Anderson to Rahim, <b>FOUR</b>, England are under pressure! Short and on the stumps, not high enough to trouble Rahim, who rocks back and pulls very well to deep square leg]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, short of length delivery on the off stump, Mahmudullah turns it to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, tossed up on the stumps, driven down to long-on, he'll keep strike]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, shortish and spinning back in, Rahim goes across and tucks it to short mid-wicket]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, <b>FOUR</b>, oh dear! Root at deep backward square leg didn't see the ball coming and it escaped for four. Flighted delivery from Ali, Rahim sweeps well and goes into the 60s now]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, low full toss, driven down to long-on]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, races down the track and almost yorks himself, but manages to drive it to mid-off]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 2 runs, slog-swept over the infield, but long-on runs to his right and tidies up]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moeen Ali [8.0-0-34-1] is back into the attack</b>]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, short of length delivery just outside off stump, Mahmudullah defends off the back foot]]></line><line><![CDATA[This is the <b>highest score by a Bangladeshi batsman</b> in World Cups.]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, <b>FOUR</b>, it's an outside edge but there is no one at slip, third man is too square and he can't get there. Good length delivery outside off stump, Mahmudullah drives away from the body and gets away with the edge. He's just one hit away from becoming the first Bangladeshi player to record a World Cup hundred]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;J Anderson to Rahim, leg byes, 1 run, Rahim gives the charge, Anderson follows him with a yorker, Rahim doesn't manage to get bat on ball, the ball rolls off the back leg into the on-side]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, <b>century stand</b> between these two and that gets the Bangladeshi fans going in the stands. Good length delivery outside off stump, Mahmudullah dabs it to third man]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, Mahmudullah looks for a drop-and-run single as he taps this towards backward point, but Rahim sends him back]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;J Anderson to Rahim, 1 run, short and down the leg-side, Rahim helps it down to long leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Anderson [7.0-1-24-2] is back into the attack</b>]]></line><line><![CDATA[Bangladesh have had a decent <b>batting powerplay</b>. Although they've scored only 37 runs, the key thing is that they haven't lost a wicket.]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Woakes to Rahim, 1 run, too straight again, flicked to deep mid-wicket]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Woakes to Rahim, 2 runs, full and on the leg stump, Rahim flicks it through backward square leg]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Woakes to Rahim, 2 runs, goes aerial and the ball plugs at deep mid-wicket, but that brings up his <b>21st ODI fifty</b>. Another timely knock under pressure from the little man. This is his <b>third fifty in this World Cup</b>, the <b>first Bangladeshi player to do so</b>. Full and in the slot, Rahim slogs well over the infield but the ball almost stops in the deep]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Woakes to Rahim, 2 runs, again strays onto the pads, Rahim easily flicks it along the ground to deep backward square leg for a couple of runs]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, friendly slower ball down the leg-side, glanced away to fine leg]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, <b>FOUR</b>, short ball on the stumps, Mahmudullah hangs back and pulls, puts it behind square on the on-side, Hales runs to his left from fine leg and puts in the dive but the ball escapes. Mahmudullah moves into the 90s now]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes [7.0-0-32-0] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, brilliant yorker, at the base of middle stump, but Mahmudullah does well to dig it out just in time to mid-on]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, full and outside off stump, driven to cover]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, <b>big shout for LBW</b> from Jordan, but the umpire walks away. Are they going to review? No, Morgan isn't keen either. Full and shaping back in, Mahmudullah misses the flick and gets hit on the front pad, the impact was on leg stump but it was going down the leg-side]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, <b>wide</b>, oops! That's way outside off stump and it's an easy call for the umpire]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, nice inswinging yorker on the leg stump, Rahim digs it out to mid-wicket]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Jordan to Rahim, no run, fullish and angling into the right-hander, turned to square leg]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, Mahmudullah goes leg-side and tries to pull, but gets it on the inside half of the bat and it rolls to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Broad to Rahim, 2 runs, the ball is certainly reversing, but Broad sprays this full ball down the leg-side, tickled down to fine leg]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, Broad follows Mahmudullah with a fulll ball as he makes room, flicked to deep mid-wicket]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Broad to Rahim, 1 run, short of length delivery just outside off stump, Rahim punches it past point for an easy run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, width on offer but this was a slower ball, dabbed to backward point]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, Rahim goes on the back foot and pulls, but mistimes the short of length delivery to mid-wicket]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, this is <b>Mahmudullah's highest ODI score</b>. Good length delivery on the off stump, Mahmudullah turns it through square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Jordan to Rahim, 2 runs, full outside off stump, Rahim drives it to deep extra-cover, the fielder from sweeper runs to his right and saves two with the dive. Alex Hales was the fielder there]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Jordan to Rahim, no run, short of length delivery just outside off stump, Rahim defends]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Jordan to Rahim, <b>FOUR</b>, it's almost a sweep. Full and outside off stump, Rahim gets down on one knee and smashes it through square leg. That would be embarrassing for fast bowler]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, good length delivery on the off stump, Mahmudullah turns it to mid-on]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, short and outside off stump, Rahim cuts it to sweeper cover]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, very full outside off stump, Mahmudullah drives it through point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [6.0-0-36-1] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, good length delivery outside off stump, Rahim defends it into the off-side]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, attempts a similar shot, but gets an under edge that rolls through short fine leg]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 2 runs, Broad bowls a shortish ball again, Mahmudullah gets inside the line slightly and pulls on one leg to deep backward square leg]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, jumps and dabs the short of length delivery to backward point]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, driven hard again but this time he picks out mid-off]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, <b>FOUR</b>, that's a great start to the powerplay! Full and in the slot, Mahmudullah goes leg-side and goes inside-out, lofts it over extra-cover. That was a terrific shot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [6.0-0-27-0] is back into the attack</b>]]></line><line><![CDATA[The <b>batting powerplay</b> has been enforced now. These will be 5 tricky overs for Bangladesh. They need to score at a brisk pace but also will have to keep wickets in hand.]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;J Anderson to Rahim, no run, short of length delivery on the leg stump, Rahim defends off the back foot]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, nicely driven off the front foot but straight to the man at deep cover]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, just outside off stump, pushed into the off-side]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, bit of shape back into the right-hander on this short of length delivery, Mahmudullah defends it towards mid-wicket]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;J Anderson to Rahim, 1 run, short and outside off stump, Rahim cuts it to the man sweeping on the off-side]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;J Anderson to Rahim, 2 runs, fullish and outside off stump, Rahim drives and gets a thickish edge that rolls to square third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Anderson [6.0-1-20-2] is back into the attack</b>]]></line><line><![CDATA[<b>Drinks</b> are on the field now. Sarkar and Mahmudullah were looking set to put on a big partnership, before Jordan struck with a short ball to send Sarkar back. The dangerman Shakib walked out, but failed to make an impact as Ali fooled him with some intelligent bowling. Since then, Rahim and Mahmudullah have batted sensibly, thrashing the poor balls and respecting the good ones. They will look to launch from here. Can they get to a big total? All the answers coming up after this drinks break.]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, touch slower and on middle, Rahim works it past mid-wicket for a single]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, pushed through outside off, Mahmudullah goes deep in the crease and punches it off the inside half of the bat to long-on]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, flatter delivery just outside off, Rahim makes room and cuts it to the right of sweeper cover for a single]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, no run, turns this flighted delivery around off and shouts a loud 'No' for the single]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, drifitng on the pads, Mahmudullah flicks it behind square on the on-side for a single]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, backs away to this shortish delivery on off, he cuts it to the right of backward point and sets off, the fielder gets across, picks it up and fires the throw at the striker's end, but Rahim was home]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, in the channel outside off, Mahmudullah presses forward and drives it to cover]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, touch fuller and outside off, Mahmudullah comes forward and drives hard, but picks out mid-off]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, length delivery just outside off, Mahmudullah leans forward and pushes it to cover]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Woakes to Rahim, 1 run, back of a length delivery well wide outside off, Rahim hangs back and cuts it to sweeper cover]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Woakes to Rahim, no run, just short of a good length and on middle, Rahim defends off the back foot back to the bowler]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, back of a length delivery just outside off, Mahmudullah whips it towards deep mid-wicket from the crease]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, steps out of the crease and eases this one down to long-on, he will keep the strike, <b>50 of the partnership</b> also comes up with this single]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, flighted delivery on middle and leg, Rahim clips it towards mid-wicket and gets off strike]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, <b>FOUR</b>, good shot from Rahim! It was tossed up from Ali, Rahim kneels down and slog sweeps it for a one bounce four over deep mid-wicket]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, drifting onto the pads, Mahmudullah works it through backward square leg for a single]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, on middle stump line, Mahmudullah wrists it towards short mid-wicket]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, tossed up outside off, Mahmudullah leans forward and goes for the drive, but can't connect, Buttler takes the bails off in a flash and appeals for the stumping, but the square leg umpire is not interested]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moeen Ali [6.0-0-22-1] is back into the attack</b>]]></line><line><![CDATA[The experiment with Root hasn't worked and Moeen Ali comes back into the attack]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, touch fuller this time and just outside off, Mahmudullah drives it towards cover, who dives to his left and makes half a stop, the ball rolls away to the left of mid-off and the batsmen take a single]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, back of a length delivery just outside off, Mahmudullah drops it in front of cover and can't go through for the single]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Woakes to Rahim, 1 run, banged in short and at the batsman, Rahim rocks back and pulls it hard, but picks out deep mid-wicket]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Woakes to Rahim, no run, touch fuller and on off, Rahim drives it back towards the bowler, who bends down and fields in his followthrough]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, length delivery on middle stump line, Mahmudullah goes for the loft over mid-on, but doesn't connect too well. However, it was good enough to beat Morgan at mid-on and the batsmen take a run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, back of a length delivery around off, Mahmudullah punches it past the bowler, but mid-off gets around and prevents the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;J Root to Rahim, 2 runs, Root is not learning his lessons, bowls this short and wide outside off once again, Rahim cuts it past backward point, the batsmen take two before Jordan from sweeper runs to his left and hunts it down]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;J Root to Mahmudullah, 1 run, great fielding effort from Jordan, it was short and wide outside off, Mahmudullah cuts it towards backward point, where Jordan from cover-point runs to his left, dives and saves three runs for his team]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;J Root to Rahim, 1 run, slower through the air on middle and leg, Rahim turns it behind square on the on-side for a single]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;J Root to Mahmudullah, 1 run, flatter and on the stumps, Mahmudullah rocks back and punches it down to long-on]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;J Root to Mahmudullah, no run, floated up on off, Mahmudullah works it towards short mid-wicket]]></line><line><![CDATA[A leg slip is in place]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;J Root to Rahim, 1 run, shortish and wide outside off, Rahim cuts it square of the wicket and gets to the other end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joe Root, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Time for some more spin as Root comes into the attack]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, almost a yorker on off and middle, Mahmudullah jams it out to mid-on]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, length delivery well outside off, Mahmudullah stays back and looks to cut it hard, but again the length was not there and he was cramped as well. He fails to connect and the keeper collects]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, just short of a good length and on off, Mahmudullah gets right behind the line and defends it]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Woakes to Rahim, 1 run, angling in on middle stump line, Rahim shuffles across just a touch and works it through mid-wicket for an easy single]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Woakes to Rahim, no run, length delivery just outside off, Rahim comes forward and drives it to mid-off]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Woakes to Rahim, 2 runs, length delivery outside off, Rahim pushes at it off the front foot, gets an outside edge that runs away past the slip fielder and down to third man, who was square. The batsmen take two before the fielder runs to his left and cuts it off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes [4.0-0-24-0] is back into the attack</b>]]></line><line><![CDATA[Woakes replaces Jordan. There is a slip in place for him]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, back of a length delivery well outside off, Mahmudullah arches back and lets it pass]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Broad to Rahim, 1 run, banged in halfway down the wicket, Rahim stays back, rolls his wrists over it and pulls it along the ground to deep mid-wicket]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, fuller now and outside off, Rahim shoulders arms this time around]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Broad to Rahim, <b>FOUR</b>, good thinking from Rahim, it was banged in short and outside off, Rahim waits for it, opens the face of the bat and dabs it fine to the third man fence, Broad was not amused with that shot]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, back of a length delivery well wide outside off, Mahmudullah hangs back and cracks it to sweeper cover, good shot but straight to the fielder, the batsmen take a single]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, length delivery on off, Mahmudullah stays back and turns it towards short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Jordan to Rahim, no run, length delivery outside off, Rahim comes on the front foot and drives hard, but picks out point]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, drfiting on the pads, Mahmudullah nurdles it to fine leg for a single]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, <b>SIX</b>, <b>top-edge and six!</b> It was short again from Jordan, Mahmudullah was not expecting the ball to get big on him as he went for the pull, gets a top-edge and the short side boundary on the on-side does the rest, that ball carried 59 metres]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, slightly wide outside off and Mahmudullah was trying to cut it through the off-side, but the length was not there, the ball goes past the bat once again]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, in the channel outside off, Mahmudullah pushes it into the off-side]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, good short ball from Jordan, the ball hurried onto Mahmudullah, who was looking to pull it at first and then ends up swatting at it, luckily for him, the ball goes past his blade]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Broad to Rahim, 2 runs, full and on middle, Rahim wrists the push past mid-on, good running ensures that the batsmen come back for the second as Taylor from mid-on gives chase and hunts it down]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, another one that's banged in short and at the batsman, Rahim sits under it and lets it pass]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, banged in short and just outside off, Rahim hangs back and looks to pull it hard, but mistimes it and picks out mid-on]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, bumper from Broad this time, Rahim is happy to duck underneath and leaves it for the keeper]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Broad to Rahim, no run, touch fuller and on off, Rahim comes forward and pushes it back to the bowler]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Broad to Rahim, <b>FOUR</b>, great shot from Rahim to welcome Broad into the attack, it was short of length delivery well wide outside off, Rahim rocks back and cuts it beautifully past a diving backward point, the ball rockets away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [4.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[Broad comes back, replacing Moeen Ali. Just a slip and a leg gully in place]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, <b>FOUR</b>, <b>lovely shot!</b> It was touch fuller and outside off, Mahmudullah gets on top of the bounce and drives it past cover, who dives to his left but can't stop the ball, the ball runs away to the fence in no time]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, bit straighter in line once again, Rahim works it through mid-wicket for a single]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Jordan to Rahim, no run, back of a length delivery around off, Rahim defends off the back foot]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Jordan to Rahim, no run, bumper from Jordan, Rahim ducks under it]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, leg byes, 1 run, on the pads once again, Mahmudullah tries to flick it through the on-side, but the angle cramps him for room, he can't lay bat on it, the ball rolls away into the on-side off the thigh pad and the batsmen sneak in a leg bye]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, back of a length delivery angling in on middle and leg, Rahim works it off his pads to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, comes down the track and turns this flighted delivery into the on-side]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, 1 run, short and slightly wide outside off, Rahim rocks back and cuts it square of the wicket only for a run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, slower through the air and around off, Mahmudullah was looking to work it through the on-side, but closes the bat face a little too early and gets a leading edge, that luckily for him falls in the unmanned mid-off region, the batsmen take a single]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, flighted delivery on off and middle, Mahmudullah pushes it towards mid-wicket, who runs across to his left, dives and prevents the single]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, floated up on off, Mahmudullah drives it back to the bowler, who dives to his left and stops the ball]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, flatter and around off, Mahmudullah punches it towards mid-on, where mid-wicket moves across to his left to collect the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, Mahmudullah gets to his <b>13th ODI fifty</b> with a quick single, consecutive fifties for him. It was a full delivery outside off, Mahmudullah drives it wide of mid-off and sets off, he makes it to the other end even though Anderson has a shy at the stumps]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Jordan to Rahim, 1 run, angling into the pads, Rahim tucks it away behind square on the on-side for another run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, on a length and just outside off, Mahmudullah leans into the drive and gets it past a diving extra cover for a single]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, good shot for no run, it was slightly wide outside off, Mahmudullah flashes hard, but picks out backward point]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, on a good length and just outside off, Mahmudullah gets behind the line and defends it into the off-side]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, no run, just short of a good length and well outside off, Mahmudullah goes hard at it, but gets an inside edge that rolls behind the wickets and towards the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Moeen Ali to Rahim, no run, floated up on off, Rahim lunges forward in defence]]></line><line><![CDATA[<b>Mushfiqur Rahim, right handed bat, comes to the crease</b>]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Moeen Ali to Shakib, <b>out</b> Caught by J Root!! Shakib goes early and Bangladesh are in trouble now. It was drifting in around off, Shakib pushes at it as he thought it will come through with the angle, but the ball spins away, enough to take the outside edge to Root, who swallows it easily at slip. Mooen Ali is delighted with this breakthrough. <b>Shakib c J Root b Moeen Ali 2(6)</b>]]></line><line><![CDATA[Moeen Ali to Shakib, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Moeen Ali to Shakib, no run, opens the face of the bat and guides this flighted delivery towards backward point]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, comes down the track and wrists the tossed up delivery past a diving mid-wicket for a single]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Moeen Ali to Shakib, 1 run, flighted delivery outside off and turning away, Shakib pushes it with the turn towards sweeper cover]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, quicker and on middle and leg, Mahmudullah works it through mid-wicket for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Jordan to Shakib, no run, on the pads, Shakib works it towards short mid-wicket]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, full and outside off, Mahmudullah leans forward and drives it to sweeper cover]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Jordan to Shakib, 1 run, banged in short and at the batsman, Shakib tries to pull it, but miscues it completely. Luckily, for him, the ball just about clears Anderson at short fine leg, the batsmen take a single]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Jordan to Shakib, no run, bumper from Jordan first up, Shakib is happy to duck underneath]]></line><line><![CDATA[<b>Shakib Al Hasan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, <b>out</b> Caught by Buttler!! Excellent ball by Jordan. It was the short ball from Jordan, Sarkar was surprised by the steep bounce as it got big on him, he tries to duck under it, but can't drop his wrists in time. The ball brushes the glove, the keeper collects and the umpire raises his finger in a flash. Sarkar won't be happy with how he got out there. He was looking solid and he is very disappointed as he walks away. <b>Soumya Sarkar c Buttler b Jordan 40(52) [4s-5 6s-1]</b>]]></line><line><![CDATA[Jordan to Soumya Sarkar, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, back of a length delivery on the stumps, Sarkar jumps in the crease and blocks]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, <b>wide</b>, comes round the wicket and bowls this down leg, Sarkar fails to pull it fine and the umpire calls it a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [2.0-0-17-0] is back into the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, 1 run, pushed through on the pads, Sarkar works it through mid-wicket for a single]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, waits for the ball to turn, nudges it through square leg ]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, 1 run, floated up outside off, Sarkar drives it to deep cover, for a single]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, presses forward and defends in front of cover]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, nurdled behind square on the leg-side]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, the batsman misses the flick]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, no run, bumper to end the over, Sarkar ducks under it and evades it comfortably ]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, no run, comes round the wicket now and bowls a short of length delivery, Sarkar hops and defends from the crease]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, slices the drive square of the wicket and gets to the other end]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, 1 run, back of a length delivery angled across off, Sarkar opens the face of the bat and guides it towards square third man]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, no run, banged in short and at the batsman, Sarkar sways away from the line and lets it pass]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, full and outside off, Mahmudullah leans forward and drives it to sweeper cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, flighted delivery just outside off, Sarkar pushes it off the front foot, picks out cover]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, <b>SIX</b>, <b>he has put that into orbit</b>, it was a rank long hop from Ali, Sarkar rocks back and muscles the pull over the deep mid-wicket fence]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, 2 runs, <b>did that carry?</b> It didn't carry as the ball bounces just in front of the fielder, it was floated up outside off, Sarkar pushes at it with an open face, gets an outside edge that bounces in front of the slip fielder and goes through his hands, the batsmen take two]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, short and slightly wide outside off, Sarkar hangs back and cuts it towards backward point, can't beat the fielder]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, pushed through on middle and leg, Sarkar pushes it towards mid-wicket]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, flatter from Ali, Sarkar rocks back and punches it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for a <b>drink.</b> England started off brilliantly with Anderson snaring the openers. Since then, these two have done exceptionally well. First, survived a good spell from Anderson and Broad and then attacked the lesser known bowlers. England need wickets and quickly, as this partnership is setting up the platform for the the likes of Rahim, Shakib and Sabbir]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, targets the stumps, Mahmudullah bunts it to short mid-wicket]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, back of a length around off, Mahmudullah pokes at it and gets an inside edge onto the pad, the ball rolls in front of cover]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, 1 run, Woakes comes round the wicket, angles it in on middle and leg, tucked away to backward square leg]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, <b>FOUR</b>, Woakes provides width outside off, Sarkar dispatches it with ease, he cuts it to the right of backward point, no chance for the third man fielder with the short boundary]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, on a length just outside off, Mahmudullah drives it to sweeper cover]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, <b>was that a run-out chance</b>? England don't hit the stumps, but Sarkar would have made it. Mahmudullah fails to nail the clip, the ball rolls off the pads to the leg-side, Root runs forward from short mid-wicket and fires a throw at the non-striker's end. Sarkar wanted the run and was halfway down the wicket, but he made it back in time]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, skids on after pitching, Sarkar looks to force it off the back foot, gets an inside edge to backward square]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, pushes it off the inside half to the left of the bowler]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, fraction short and around off, Sarkar guides it to backward point, it was in the air but well short of the fielder]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, flighted on off, Mahmudullah bends his back leg and sweeps it to deep backward square leg]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, punched to the right of the bowler, Moeen Ali runs across, dives and stops the ball]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, comes down the track and works it to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, drifts onto Mahmudullah's pads, he leans forward and glances it to fine leg]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, too straight, on off and middle, Mahmudullah flicks and finds short mid-wicket, calls "wait, wait" for the single]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, good length ball on off, Mahmudullah turns it to short mid-wicket]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 2 runs, Woakes overcompensates and bowls it full and outside off, Mahmudullah drives it through extra cover, comes back for two before Taylor hunts the ball down]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, <b>SIX</b>, bang! Mahmudullah has decided to take on the bowling. Gives the charge and Woakes digs it in short, he smacks the pull in front of square, hits it flat and just over deep mid-wicket]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, back of a length around off, Mahmudullah mistimes the pull to mid-on. The line and length was not there to play that shot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, flatter and on off, Sarkar works it to short mid-wicket]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, <b>wide</b>, darted down leg, and Billy calls it a wide]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, leans forward and glances it past the diving leg slip fielder, for a single]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, 1 run, floated up from round the wicket, Sarkar drives it to sweeper cover]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Moeen Ali to Soumya Sarkar, no run, touch short and outside off, Sarkar cuts and picks out backward point]]></line><line><![CDATA[A slip now for Sarkar..]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, 1 run, turning into the batsman, nudged away behind square on the leg-side]]></line><line><![CDATA[A leg slip in place for Mahmudullah..]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Moeen Ali to Mahmudullah, no run, tossed up just outside off, defended down the wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Moeen Ali, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, <b>FOUR</b>, gorgeous shot! The extra ball has cost England and Woakes four runs. Fuller and just outside off, Sarkar presses forward and creams the drive through extra cover, Jordan at sweeper didn't even bother to get around it, he knew it was timed too well]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, <b>wide</b>, short and down leg, Sarkar can't connect with the pull, called wide for the line]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Woakes to Soumya Sarkar, no run, back of a length on middle, Sarkar turns it with soft hands to short mid-wicket]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, 1 run, full and tailing into the pads, Mahmudullah leans forward and flicks it to deep mid-wicket]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, full and on off, Mahmudullah pushes it off the inside part to mid-on]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, half volley outside off, Mahmudullah plays a crisp drive straight to cover-point. Either side of Taylor and that would have been four more]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Woakes to Mahmudullah, no run, on a length close to off, Mahmudullah plays an extended forward defence to cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Woakes, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, Sarkar missed out there. Another ball on leg-stump, Sarkar looks to work it through the on-side, fails to get bat on that and wears it on the thigh pad. A very good over for Bangladesh, <b>15 runs</b> came off it]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 1 run, short of length on off, Mahmudullah tucks it behind square leg, for a single]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, 3 runs, pitched up outside off, Sarkar leans into the drive and sends it wide of mid-off, Moeen Ali runs behind the ball and hauls it in well within the rope]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, <b>FOUR</b>, beautiful shot! Jordan just releasing the pressure that was built up by Anderson and Broad. Good length ball just outside off, Sarkar drives it on the up through cover-point]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, 3 runs, short of length on off, Mahmudullah gets inside the line and whips it off his hips, Hales gets around at fine leg, dives and saves a run for the team]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jordan to Mahmudullah, <b>FOUR</b>, cracking shot! Poor delivery from Jordan. Short and wide, Mahmudullah pounced onto it, he cracks it between backward point and cover-point, the short boundary does the rest]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, on a length just outside off, Sarkar pushes it gently to cover]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, Sarkar decides to give the charge to Anderson, who keeps it close to the batsman, Sarkar does not have the width to free his arms, mishits the pull to mid-on]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, short of length, Mahmudullah stands up and dabs it down to third man]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 2 runs, angled back into the right-hander, Mahmudullah works it with the angle to mid-on, Broad dives to his right and allows the ball to go through, another brace]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 2 runs, back of a length just outside off, Mahmudullah comes forward and punches it sweetly through cover-point, Morgan gives chase and keeps it to two]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, short of length around off, Mahmudullah goes for the pull and misses. He didn't have the room to play that shot and the ball was not far away from the off-pole either]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, back of a length on off and middle, blocked down the wicket]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, much better from Jordan, tight line, on the off-stump, Sarkar is half-forward and defending back to the bowler]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, fuller and outside off, Sarkar middles another drive, but picks out mid-off this time]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, pitched up just outside off, Sarkar drives and finds the fielder at cover]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, <b>wide</b>, Jordan still not getting his radar right, sprays another one down the leg-side]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, fuller on middle and leg, it holds its line, Sarkar closes the bat face and gets a leading edge on the flick, the ball rolls to mid-off]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, <b>wide</b>, sprays it down leg, easy call for the umpire]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jordan to Soumya Sarkar, no run, gets the ball to move, looks at the wicket after beating the bat. A full delivery that shapes away late, Sarkar goes for the drive with laden feet, lucky not to have edged it. The ball hardly carries to Buttler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, pulls the length back, Mahmudullah stays behind the line and knocks it in front of mid-on]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, pitched up outside off, Mahmudullah leans forward, opens the bat face and drives it towards backward point, Morgan dives to his left and makes a fine stop]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, short of length just outside off, Mahmudullah waves it through to the keeper]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, back of a length on off, Mahmudullah punches it to cover, picks out the fielder there]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, <b>FOUR</b>, streaky! Pitched well outside off and nips back in sharply, Mahmudullah is cramped for room as he goes for the cut, the ball takes the inside edge and goes past the stumps. Woakes was very square and the ball had enough to reach the fence. It was not far away from the off-pole]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, fuller and on off, Mahmudullah pushes it to mid-off, calls for "wait" on the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, too straight, on off and middle, Mahmudullah leans forward and tucks it to the unmanned mid-wicket region]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, good length ball on the fourth stump line, Mahmudullah presses forward and knocks it to mid-off]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, back of a length just outside off, Mahmudullah forces it off the back foot to cover]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, short of length around off, Mahmudullah goes for the cut, it was too close to the body and chops it towards the slip cordon]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 2 runs, fullish and on off, Mahmudullah pushes it past the diving bowler, mid-on runs behind and keeps it down to a couple]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, full and wide, inviting the batsman to drive, Mahmudullah goes for it and the ball beats the outside edge. The keeper and slip cordon seemed excited, but there was no edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, short of length on off, Sarkar stays leg-side of the ball and dabs it towards backward point, Morgan runs to his right and keeps the batsmen at their respective ends]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, straying onto the pads, Mahmudullah leans forward and flicks it to long leg]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, back of a length around off, Mahmudullah stays behind the line and bunts it to cover]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, 1 run, good length ball in the corridor of uncertainty, Sarkar decided late that he has to play at that, the ball squirts off the inside edge to backward square leg. It was not far away from the leg-stump]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, <b>FOUR</b>, back of a length and outside off, Sarkar waits for the ball to come and steers it past the right of backward point, no one at third man and the ball runs away to the boundary]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, on a length just outside off, Sarkar defends off the inner part to the left of Anderson]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, nip-backer from short of length, Mahmudullah stays rooted to the crease and gets an inside edge onto the pad]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, good length ball on off, Mahmudullah knocks it to mid-on. Again, he was not to the pitch of the ball]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, full and on the stumps, Mahmudullah works it to mid-on]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, <b>FOUR</b>, edged and four! England won't mind that. They are thinking about wickets. Fuller and close to off, Mahmudullah pushes at it with no footwork, the outside edge rolls down to the vacant third man region]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, teaser from Broad, he pushes it up outside off and draws the batsman into the drive, Mahmudullah obliges and goes for it well away from the body, the ball shapes away and beats the outside edge]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Broad to Soumya Sarkar, 1 run, on the pads, Sarkar gets inside the line and tucks it square of the wicket on the leg-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, shapes back in around off, Mahmudullah covers the line and shoulders arms]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, back of a length on off, Mahmudullah stays in the crease and bunts it in front of cover]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, good length ball on off, Mahmudullah awkwardly defends it back to the bowler]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, Buttler goes up for a caught behind, but nothing from the slip cordon or the bowler. Dug in midway down the wicket, Mahmudullah goes for the pull and missed it completely. There was a sound as ball passed the bat, but it was not a confident shout from Buttler]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, Anderson probes away in the channel around off, Mahmudullah was late to get his bat out of the way, we can say that he was beaten there]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, no run, good length ball on off, Mahmudullah moves forward and blocks it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Broad to Soumya Sarkar, no run, on a length close to off, Sarkar presses across and defends off the inside half to mid-on]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Broad to Soumya Sarkar, no run, too full and attacking the stumps, Sarkar squeezes it out in front of mid-off]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, 1 run, again, the length is a bit short, Mahmudullah ekes out an inside edge onto the thigh pad, the ball rolls to the on-side]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, back of a length on off, Mahmudullah gets behind the line and knocks it to cover]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Broad to Mahmudullah, no run, short of length just outside off, Mahmudullah hoists his bat up and lets it pass]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Broad to Soumya Sarkar, 1 run, another edge! Plenty of oohs and aahs from the Englishmen. Seems like they are playing in home conditions. Pitched on leg and shaping away, Sarkar closes the bat face and tries to clip it into the on-side, the leading edge flies past the vacant gully region and down to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, 1 run, fuller and around off, Sarkar taps it gently to the vacant cover region and takes a quick single]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, peach! After getting a few to jag away from the left-handers, Anderson gets this to tail back in, Sarkar goes for the drive and is cut into half, the ball beats the inside edge and was not far away from the off-stump either]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, back of a length around off, Sarkar hangs back and dabs it behind point, the fourth slip fielder moves to his left and tidies up]]></line><line><![CDATA[England going for the kill. Four slips in place now...]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, Anderson now tests the bounce on the wicket, bangs it halfway and gets it to sail over Sarkar's head, the batsman ducked and evaded it comfortably]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;J Anderson to Mahmudullah, 1 run, too straight, on middle and leg, Mahmudullah leans forward and flicks it behind square leg for a single]]></line><line><![CDATA[<b>Mahmudullah, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;J Anderson to Tamim, <b>out</b> Caught by J Root!! Bangladesh in trouble! Both their openers are back in the hut in just the third over. Top class swing bowling from Anderson. Pushes this across the left-hander, Tamim had to play that, prods across and pokes at it, the outside edge goes at a good height to Root at first slip. Tamim doesn't make the most of the let off he got in the previous over. <b>Tamim c J Root b J Anderson 2(7)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[J Anderson to Tamim, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Broad to Soumya Sarkar, no run, short of length on off, Sarkar gets behind the line and defends it to the on-side]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Broad to Soumya Sarkar, <b>FOUR</b>, lovely shot! Tad overpitched and the room was also provided, Sarkar leans forward, opens the face of the bat and drives it past the diving cover fielder. The timing was superb on that]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Broad to Tamim, 1 run, <b>dropped!</b> After pouching an easy one in the previous over, Jordan puts down a tough one. Excellent bowling from Broad, pitched up and lured Tamim into the drive, the batsman drives with laden feet and the edge flies to the left of third slip, Jordan dives and gets a hand to it, but could not hold on]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Broad to Tamim, no run, the keeper and slip cordon seemed excited for a caught behind, but not Broad. Fullish and in the channel around off, Tamim goes for the drive and is beaten]]></line><line><![CDATA[Morgan on the attack. Brings in an extra slip fielder.. Now there are three in the cordon...]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Broad to Tamim, no run, good length ball slanted across the left-hander, Tamim lifts his bat and lets it go]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Broad to Tamim, no run, starts with a full delivery around off, Tamim comes half-forward and pushes it to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, short of length outside off, Sarkar has nothing to do with, lets it through to the keeper]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;J Anderson to Soumya Sarkar, no run, back of a length on off, Sarkar stands up and taps it in front of cover]]></line><line><![CDATA[<b>Soumya Sarkar, left handed bat, comes to the crease</b>]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;J Anderson to Kayes, <b>out</b> Caught by Jordan!! Anderson strikes early! Excellent captaincy by Morgan, for having three slips first up. It was slightly short of length and jags away late, Kayes feels for the ball away from the body, the ball grazes the outside edge and flies to third slip, where Jordan swallows it comfortably. Not the start Bangladesh would have hoped for. <b>Kayes c Jordan b J Anderson 2(2)</b>]]></line><line><![CDATA[J Anderson to Kayes, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[Three slips in place...]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;J Anderson to Kayes, 2 runs, keeps it full and outside off, Kayes presses forward and pushes it between cover and point for a couple]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;J Anderson to Tamim, 1 run, drifts onto the pads, Tamim tucks it to fine leg and opens his account]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;J Anderson to Tamim, no run, straightaway swing for Anderson, pitches on off and moves away, Tamim covers the line, keeps his bat in and lets it go through to Buttler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tamim and Kayes are at the crease. Tamim is on strike. J Anderson will open the attack</b>]]></line><line><![CDATA[The Bangladesh national anthem is played out followed by the England anthem. The English players are taking their positions. Tamim and Imrul make their way out to the middle. Anderson checks his run-up. Bowls a few mock balls to Broad at mid-off. The countdown begins and umpire Reiffel says PLAY..]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>England</b> (Playing XI): Moeen Ali, Ian Bell, Alex Hales, Joe Root, Eoin Morgan(c), James Taylor, Jos Buttler(w), Chris Woakes, Chris Jordan, Stuart Broad, James Anderson]]></line><line><![CDATA[<b>Bangladesh</b> (Playing XI): Tamim Iqbal, Imrul Kayes, Soumya Sarkar, Mahmudullah, Shakib Al Hasan, Mushfiqur Rahim(w), Sabbir Rahman, Mashrafe Mortaza(c), Arafat Sunny, Rubel Hossain, Taskin Ahmed]]></line><line><![CDATA[<b>England have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Morgan:</b> 'Not start again, obviously we have built a little bit of progess throughout the tournament. We are left with these two group games, must-win games for us. We had 3 days off which is very nice and then, 2 hard days of training. We are going to bowl first. The pitch looks really good, it's fresh, a drop-in and the short boundary on one side and with a little bit of rain around, it's a little bit sticky so it might swing. We have two changes, Ballance and Finn miss out and Hales and Jordan come in. Hales will be batting at No. 3. I think they will be good and there's always pressure on every game that we play. So, again you prepare for games like this and it's pretty simple for us, if we win these two games, we go through. It's a little bit humid here so hopefully, it will do a bit this morning and we can make early inroads.']]></line><line><![CDATA[<b>Mortaza:</b> 'Boys have been very excited, it is definitely a do-or-die match for us. Hopefully, we will do well today. We would have batted first (if we would have won the toss). Everything is good, except Anamul is injured, so Imrul is coming back into the side. Nasir (Hossain) is not playing, Arafat Sunny is coming in. Back home he got 2-3 centuries in first class cricket, hopefully he will do something similar here. We have Arafat Sunny today and hopefully, he will do the best. Looks to be very good (on the pitch) and the atmosphere is fine here. Hopefully, we will do our best today.']]></line><line><![CDATA[<b>Pitch Report:</b> 'There was some early morning rain. It is one of the 8 drop-in pitches. It generally plays very well and it looks like a very hard surface. Many teams will like to bat first, but with the short side boundary towards the Sir Don Bradman stand, captain who gets the opportunity to win the toss, will look to bowl first,' reckons <b>Tom Moody</b>]]></line><line><![CDATA[<b>Weather Report:</b> Rain was expected today, but luckily the conditions right now are bright and sunny, with a few clouds in the sky. The maximum temperature is expected to hover around 23 degrees Celsius, with the minimum being 13 degrees.]]></line><line><![CDATA[<b>Team News:</b> Anamul Haque, who dislocated his right shoulder in the last game, has been replaced by Imrul Kayes in the squad. Kayes was the chief architect of Bangladesh's win over England in the 2011 World Cup, putting up a Man of the Match performance with the bat to take his team through.]]></line><line><![CDATA[<b>BLAST FROM THE PAST:</b> Bangladesh will have history behind them when these two teams meet in Adelaide. The last time these two teams met in a World Cup was in 2011, on a slow Chittagong pitch, where Bangladesh first bowled England out for a meagre total of 225. In reply, their batters did extremely well to chase the English total down with 2 wickets in hand.]]></line><line><![CDATA[<b>Bangladesh</b>]]></line><line><![CDATA[If Bangladesh manage to beat England, they will create history as this will be the first time they will qualify for the knockout stages of a World Cup. However, it is not going to be an easy task at all. Bangladesh's first game was against their Asian counterparts, Afghanistan. The Bangladeshi Tigers put up an all-round show that day, emerging winners by 105 runs. They were lucky that their second game against Australia was washed out, with both teams sharing a point each in the end. In their third game against Sri Lanka, their bowlers took a serious pounding and Sri Lanka managed to post 332/1 on the board. In return, most of their batsmen got starts, but failed to convert it into a big score and the team eventually folded for 240.]]></line><line><![CDATA[Their last game was against Scotland and their bowling was again put to the sword, with Kyle Coetzer's 156 guiding Scotland to 318 in their 50 overs. However, it was a flat track and with 50+ scores from Tamim, Mahmudullah, Rahim and Shakib, Bangladesh managed to chase it down with 11 balls to spare, their highest ODI run-chase. However, they will have their task cut-out as they know that a loss today will be a big blow to their chances of making it to the next round. It is important that their bowlers rise to the occasion today and bowl a tight line and length, otherwise they will find it difficult against the Englishmen.]]></line><line><![CDATA[<b>England</b>]]></line><line><![CDATA[England's campaign got off to a poor start, courtesy a defeat to Australia by 111 runs on the opening day of the tournament. Up next, it was New Zealand and the English team got bowled out for a paltry 123 in Wellington. Their only win of the tournament came against Scotland, where Moeen Ali's century inspired them to a 119-run win. In their last game against Sri Lanka, even though they posted 309 on the board, their bowling and fielding disappointed. Sri Lanka, riding on centuries from Thirimanne and Sangakkara, chased down the total in the 48th over, that too with 9 wickets in hand.]]></line><line><![CDATA[Their bowling has not been upto the mark. Despite having the likes of Anderson, Broad, Finn and Woakes, the English bowlers have failed to deliver in the World Cup so far, at least against the better oppositions. Their fielding too remains a worry, Woakes dropped Finch in their first game and he went on to score a century. Similarly, Thirimanne was dropped in the last game, not once but twice, before he made them pay by reaching his ton. It will be a good test for their bowling against Bangladesh, but there's no scope of faltering. If they do, they will bow out of the World Cup.]]></line><line><![CDATA[Before we go any further, let's take a look at how both the teams have fared so far in the tournament:]]></line><line><![CDATA[<b>11:45 Local Time, 02:15 GMT, 07:45 IST:</b> It is a do-or-die game for England today. If England win this game, they will be in a strong position to qualify for the next round as their final game is against Afghanistan. For Bangladesh, this game also holds similar importance. Even though Bangladesh are 3 points ahead of England in the Pool table, their final game is against the Pool toppers New Zealand and with the kind of form New Zealand are in, it will be extremely difficult to beat them. So, today's game is like a knockout before the knockouts. England will be out of the World Cup if they lose today.]]></line><line><![CDATA[<b>Preview:</b><br/><br/>The equation is pretty simple. If England beat Bangladesh in the ICC World Cup 2015 on Monday, their campaign is alive and if they don't they will have to pack their bags. This is also Bangladesh's golden opportunity to reach the quarterfinals for the first time.<br/><br/>If Bangladesh could beat England - with New Zealand, Australia and Sri Lanka fairly certain to take the first three spots - the fourth and last spot will surely be theirs. Considering their next opponents are the undefeated New Zealand, England - on its current form - look like the team against which the Bangladeshis could fancy themselves.<br/><br/>England's next opponents will be Afghanistan, against whom they should have no difficulty, so tomorrow's match - to all intents and purposes - is the last match in Pool A with real value.<br/><br/><b>Date and Start:</b> March 9, 2014; 9 am IST<br/><br/><b>Venue:</b> The Adelaide Oval<br/><br/><b>Weather:</b> Rain has been forecast with the temperatures hovering between 17 and 23 degrees Celsius<br/><br/><b>Team News</b><br/><br/><b>England</b><br/><br/>Despite having failed to defend 309 for 6 against Sri Lanka in their last match, there are no changes on the cards for England.<br/><br/><b>Probable XI:</b> 1 Ian Bell, 2 Moeen Ali, 3 Gary Ballance, 4 Joe Root, 5 Eoin Morgan (c), 6 James Taylor, 7 Jos Buttler (wk) 8 Chris Woakes, 9 Steven Finn, 10 Stuart Broad, 11 James Anderson.<br/><br/><b>Bangladesh</b><br/><br/>Bangladesh will have to take a call on whether or not they are playing Imrul Kayes, the replacement for the injured Anamul Haque. Looking at the options and the concept of "opener for opener", he is likely to get a game.<br/><br/><b>Probable XI:</b> 1 Tamim Iqbal, 2 Imrul Kayes, 3 Soumya Sarkar 4 Mahmudullah, 5 Mushfiqur Rahim (wk), 6 Shakib Al Hasan, 7 Sabbir Rahman, 8 Nasir Hossain, 9 Mashrafe Mortaza (c), 10 Rubel Hossain, 11 Taskin Ahmed<br/><br/><b>Players to watch out for</b><br/><br/><b>Joe Root</b> is one of the few batsmen in the England team who look comfortable against spin. The Adelaide pitch is known for assisting spinners and Bangladesh have got some good spinners in Shakib Al Hasan, Sabbir Rahman and Mahmudullah. Clearly, Root has got a big task on his hands.<br/><br/>For Bangladesh, it has to be <b>Shakib</b>. He has been consistent with both bat and ball - 169 runs and four wickets in four matches - and if the team aspires to upset England, he has to be at his very best.<br/><br/><b>Quotes:</b><br/><br/>We don't need to change anything. We need to be ruthless enough to do the simple things consistently. We haven't done that and that's why we've struggled. It is quite true. This England team is not full of bad players; it is full of good players playing badly. They still have the ability to progress. But the time for talking is over: England captain <b>Eoin Morgan</b> ahead of the contest<br/><br/>They are a very experienced side and know how to deal with pressure games like these. I am not thinking of the quarter-finals yet. The focus is to bat, bowl and field well so that we can trouble England. We should just think about our cricket and not worry about what England have been doing: Bangladesh captain <b>Mashrafe Mortaza</b><br/><br/><b>Stats and trivia:</b> <br/><br/>- Bangladesh have won two of their last three ODIs against England.<br/>- Tamim Iqbal is the only Bangladeshi batsman to have scored a ton against the English team.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Bangladesh</b> (From): Mahmudullah, Tamim Iqbal, Soumya Sarkar, Mushfiqur Rahim(w), Shakib Al Hasan, Sabbir Rahman, Nasir Hossain, Taijul Islam, Mashrafe Mortaza(c), Rubel Hossain, Taskin Ahmed, Mominul Haque, Shafiul Islam, Arafat Sunny, Imrul Kayes]]></line><line><![CDATA[<b>England</b> (From): Moeen Ali, Ian Bell, Gary Ballance, Joe Root, Eoin Morgan(c), James Taylor, Jos Buttler(w), Chris Woakes, Stuart Broad, Steven Finn, James Anderson, Ravi Bopara, Alex Hales, Chris Jordan, James Tredwell]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>275</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Bangladesh">
+			<players>
+				<player>
+					<playerid>612</playerid>
+					<name>Tamim Iqbal</name>
+					<batsman-name>Tamim</batsman-name>
+					<batsman-nickname>Tamim</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Anderson</bowler>
+					<bowlerId>65</bowlerId>
+						<fielder>Joe Root</fielder>
+						<fielderId>8019</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1583</playerid>
+					<name>Imrul Kayes</name>
+					<batsman-name>I Kayes</batsman-name>
+					<batsman-nickname>Kayes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Anderson</bowler>
+					<bowlerId>65</bowlerId>
+						<fielder>Chris Jordan</fielder>
+						<fielderId>6532</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8233</playerid>
+					<name>Soumya Sarkar</name>
+					<batsman-name>Soumya Sarkar</batsman-name>
+					<batsman-nickname>Soumya Sarkar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>40</runs>
+					<balls>52</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1121</playerid>
+					<name>Mahmudullah</name>
+					<batsman-name>Mahmudullah</batsman-name>
+					<batsman-nickname>Mahmudullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>103</runs>
+					<balls>138</balls>
+					<fours>7</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Chris Woakes</fielder>
+						<fielderId>6670</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>544</playerid>
+					<name>Shakib Al Hasan</name>
+					<batsman-name>Shakib</batsman-name>
+					<batsman-nickname>Shakib</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Ali</bowler>
+					<bowlerId>6692</bowlerId>
+						<fielder>Joe Root</fielder>
+						<fielderId>8019</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>394</playerid>
+					<name>Mushfiqur Rahim</name>
+					<batsman-name>Rahim</batsman-name>
+					<batsman-nickname>Rahim</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>89</runs>
+					<balls>77</balls>
+					<fours>8</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Broad</bowler>
+					<bowlerId>554</bowlerId>
+						<fielder>Chris Jordan</fielder>
+						<fielderId>6532</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8231</playerid>
+					<name>Sabbir Rahman</name>
+					<batsman-name>S Rahman</batsman-name>
+					<batsman-nickname>S Rahman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>12</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>323</playerid>
+					<name>Mashrafe Mortaza</name>
+					<batsman-name>Mortaza</batsman-name>
+					<batsman-nickname>Mortaza</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>4</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8243</playerid>
+					<name>Arafat Sunny</name>
+					<batsman-name>A Sunny</batsman-name>
+					<batsman-nickname>A Sunny</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1736</playerid>
+					<name>Rubel Hossain</name>
+					<batsman-name>Rubel</batsman-name>
+					<batsman-nickname>Rubel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8548</playerid>
+					<name>Taskin Ahmed</name>
+					<batsman-name>Taskin Ahmed</batsman-name>
+					<batsman-nickname>Taskin Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1583</playerid>
+				<nbr>1</nbr>
+				<runs>3</runs>
+				<overs>0.4</overs>
+				<batsman>Imrul Kayes</batsman>
+				<batsman-name>I Kayes</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>612</playerid>
+				<nbr>2</nbr>
+				<runs>8</runs>
+				<overs>2.1</overs>
+				<batsman>Tamim Iqbal</batsman>
+				<batsman-name>Tamim</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8233</playerid>
+				<nbr>3</nbr>
+				<runs>94</runs>
+				<overs>20.2</overs>
+				<batsman>Soumya Sarkar</batsman>
+				<batsman-name>Soumya Sarkar</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>544</playerid>
+				<nbr>4</nbr>
+				<runs>99</runs>
+				<overs>21.5</overs>
+				<batsman>Shakib Al Hasan</batsman>
+				<batsman-name>Shakib</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1121</playerid>
+				<nbr>5</nbr>
+				<runs>240</runs>
+				<overs>45.4</overs>
+				<batsman>Mahmudullah</batsman>
+				<batsman-name>Mahmudullah</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>394</playerid>
+				<nbr>6</nbr>
+				<runs>261</runs>
+				<overs>47.5</overs>
+				<batsman>Mushfiqur Rahim</batsman>
+				<batsman-name>Rahim</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8231</playerid>
+				<nbr>7</nbr>
+				<runs>265</runs>
+				<overs>48.6</overs>
+				<batsman>Sabbir Rahman</batsman>
+				<batsman-name>S Rahman</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>8</wides>
+			<noballs>1</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>14</total>
+		</extras>
+		<bowlteam name="England">
+			<players>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<bowler-name>J Anderson</bowler-name>
+					<bowler-nickname>J Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>45</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<bowler-name>Broad</bowler-name>
+					<bowler-nickname>Broad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>52</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<bowler-name>C Jordan</bowler-name>
+					<bowler-nickname>Jordan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>59</runsoff>
+					<wickets>2</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6670</playerid>
+					<name>Chris Woakes</name>
+					<bowler-name>C Woakes</bowler-name>
+					<bowler-nickname>Woakes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>64</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6692</playerid>
+					<name>Moeen Ali</name>
+					<bowler-name>M Ali</bowler-name>
+					<bowler-nickname>Moeen Ali</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<bowler-name>J Root</bowler-name>
+					<bowler-nickname>J Root</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>6</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<bowler-name>Bell</bowler-name>
+					<bowler-nickname>Bell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<bowler-name>A Hales</bowler-name>
+					<bowler-nickname>Hales</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<bowler-name>E Morgan</bowler-name>
+					<bowler-nickname>Eoin Morgan</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<bowler-name>James Taylor</bowler-name>
+					<bowler-nickname>James Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<bowler-name>J Buttler</bowler-name>
+					<bowler-nickname>Buttler</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>260</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>48.3</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="England">
+			<players>
+				<player>
+					<playerid>6692</playerid>
+					<name>Moeen Ali</name>
+					<batsman-name>M Ali</batsman-name>
+					<batsman-nickname>Moeen Ali</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>21</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Soumya Sarkar</fielder>
+						<fielderId>8233</fielderId>
+						<fielder2>Mushfiqur Rahim</fielder2>
+						<fielderId2>394</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<batsman-name>Bell</batsman-name>
+					<batsman-nickname>Bell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>63</runs>
+					<balls>82</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rubel</bowler>
+					<bowlerId>1736</bowlerId>
+						<fielder>Mushfiqur Rahim</fielder>
+						<fielderId>394</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<batsman-name>A Hales</batsman-name>
+					<batsman-nickname>Hales</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>34</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mortaza</bowler>
+					<bowlerId>323</bowlerId>
+						<fielder>Mushfiqur Rahim</fielder>
+						<fielderId>394</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<batsman-name>J Root</batsman-name>
+					<batsman-nickname>J Root</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>29</runs>
+					<balls>47</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mortaza</bowler>
+					<bowlerId>323</bowlerId>
+						<fielder>Mushfiqur Rahim</fielder>
+						<fielderId>394</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<batsman-name>E Morgan</batsman-name>
+					<batsman-nickname>Eoin Morgan</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rubel</bowler>
+					<bowlerId>1736</bowlerId>
+						<fielder>Shakib Al Hasan</fielder>
+						<fielderId>544</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<batsman-name>James Taylor</batsman-name>
+					<batsman-nickname>James Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Taskin Ahmed</bowler>
+					<bowlerId>8548</bowlerId>
+						<fielder>Imrul Kayes</fielder>
+						<fielderId>1583</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<batsman-name>J Buttler</batsman-name>
+					<batsman-nickname>Buttler</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>65</runs>
+					<balls>52</balls>
+					<fours>6</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Taskin Ahmed</bowler>
+					<bowlerId>8548</bowlerId>
+						<fielder>Mushfiqur Rahim</fielder>
+						<fielderId>394</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6670</playerid>
+					<name>Chris Woakes</name>
+					<batsman-name>C Woakes</batsman-name>
+					<batsman-nickname>Woakes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>40</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<batsman-name>C Jordan</batsman-name>
+					<batsman-nickname>Jordan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Shakib Al Hasan</fielder>
+						<fielderId>544</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<batsman-name>Broad</batsman-name>
+					<batsman-nickname>Broad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Rubel</bowler>
+					<bowlerId>1736</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<batsman-name>J Anderson</batsman-name>
+					<batsman-nickname>J Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Rubel</bowler>
+					<bowlerId>1736</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6692</playerid>
+				<nbr>1</nbr>
+				<runs>43</runs>
+				<overs>7.2</overs>
+				<batsman>Moeen Ali</batsman>
+				<batsman-name>M Ali</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6734</playerid>
+				<nbr>2</nbr>
+				<runs>97</runs>
+				<overs>19.5</overs>
+				<batsman>Alex Hales</batsman>
+				<batsman-name>A Hales</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>385</playerid>
+				<nbr>3</nbr>
+				<runs>121</runs>
+				<overs>26.1</overs>
+				<batsman>Ian Bell</batsman>
+				<batsman-name>Bell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>624</playerid>
+				<nbr>4</nbr>
+				<runs>121</runs>
+				<overs>26.4</overs>
+				<batsman>Eoin Morgan</batsman>
+				<batsman-name>E Morgan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6500</playerid>
+				<nbr>5</nbr>
+				<runs>132</runs>
+				<overs>29.4</overs>
+				<batsman>James Taylor</batsman>
+				<batsman-name>James Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8019</playerid>
+				<nbr>6</nbr>
+				<runs>163</runs>
+				<overs>35.4</overs>
+				<batsman>Joe Root</batsman>
+				<batsman-name>J Root</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2258</playerid>
+				<nbr>7</nbr>
+				<runs>238</runs>
+				<overs>45.5</overs>
+				<batsman>Jos Buttler</batsman>
+				<batsman-name>J Buttler</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6532</playerid>
+				<nbr>8</nbr>
+				<runs>238</runs>
+				<overs>46</overs>
+				<batsman>Chris Jordan</batsman>
+				<batsman-name>C Jordan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>554</playerid>
+				<nbr>9</nbr>
+				<runs>260</runs>
+				<overs>48.1</overs>
+				<batsman>Stuart Broad</batsman>
+				<batsman-name>Broad</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>65</playerid>
+				<nbr>10</nbr>
+				<runs>260</runs>
+				<overs>48.3</overs>
+				<batsman>James Anderson</batsman>
+				<batsman-name>J Anderson</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>1</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Bangladesh">
+			<players>
+				<player>
+					<playerid>323</playerid>
+					<name>Mashrafe Mortaza</name>
+					<bowler-name>Mortaza</bowler-name>
+					<bowler-nickname>Mortaza</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>48</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1736</playerid>
+					<name>Rubel Hossain</name>
+					<bowler-name>Rubel</bowler-name>
+					<bowler-nickname>Rubel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9.3</overs>
+					<maidens>0</maidens>
+					<runsoff>53</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8243</playerid>
+					<name>Arafat Sunny</name>
+					<bowler-name>A Sunny</bowler-name>
+					<bowler-nickname>A Sunny</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>42</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>544</playerid>
+					<name>Shakib Al Hasan</name>
+					<bowler-name>Shakib</bowler-name>
+					<bowler-nickname>Shakib</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>41</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8548</playerid>
+					<name>Taskin Ahmed</name>
+					<bowler-name>Taskin Ahmed</bowler-name>
+					<bowler-nickname>Taskin Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>59</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8231</playerid>
+					<name>Sabbir Rahman</name>
+					<bowler-name>S Rahman</bowler-name>
+					<bowler-nickname>S Rahman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>612</playerid>
+					<name>Tamim Iqbal</name>
+					<bowler-name>Tamim</bowler-name>
+					<bowler-nickname>Tamim</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1583</playerid>
+					<name>Imrul Kayes</name>
+					<bowler-name>I Kayes</bowler-name>
+					<bowler-nickname>Kayes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8233</playerid>
+					<name>Soumya Sarkar</name>
+					<bowler-name>Soumya Sarkar</bowler-name>
+					<bowler-nickname>Soumya Sarkar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1121</playerid>
+					<name>Mahmudullah</name>
+					<bowler-name>Mahmudullah</bowler-name>
+					<bowler-nickname>Mahmudullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>394</playerid>
+					<name>Mushfiqur Rahim</name>
+					<bowler-name>Rahim</bowler-name>
+					<bowler-nickname>Rahim</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

@@ -1,0 +1,1085 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14355" >
+		<type>T20</type>
+		<gameDesc>South Group</gameDesc>
+		<series>NatWest t20 Blast, 2015</series>
+		<matchday>1</matchday>
+		<home>Essex</home>
+		<away>Surrey</away>
+		<teamsabbr>ESS vs SUR</teamsabbr>
+		<homeabbr>ESS</homeabbr>
+		<awayabbr>SUR</awayabbr>
+		<homeId>152</homeId>
+		<awayId>148</awayId>
+		<venue>County Ground, Chelmsford</venue>
+		<startdate>16 05 2015</startdate>
+		<enddate>16 05 2015</enddate>
+		<toss>
+			<winner>Essex</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Surrey won by 44 runs</status>
+		<result type="win">
+			<winningteam>Surrey</winningteam>
+			<wonbyruns>44</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>David Millns</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Martin Saggers</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Neil Mallender</Name>
+			<Country>Eng</Country>
+		</ThirdUmpire>
+		</umpires>
+		<starttimeGMT>12:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150516150057</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Ess</batteamname>
+		<bwlteamname>Sur</bwlteamname>
+		<batteamruns>161</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Surrey won by 44 runs</status>
+		<batsman>
+			<playerid>6541</playerid>
+			<name>David Masters*</name>
+			<batsman-name>D Masters</batsman-name>
+			<batsman-nickname>David Masters</batsman-nickname>
+			<runs>5</runs>
+			<balls-faced>6</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>1051</playerid>
+			<name>Wahab Riaz*</name>
+			<bowler-name>Riaz</bowler-name>
+			<bowler-nickname>Riaz</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>25</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>9522</playerid>
+			<name>Tom Curran</name>
+			<bowler-name>T Curran</bowler-name>
+			<bowler-nickname>Curran</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>35</runs>
+			<wickets>4</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>206</target>
+<lastwicket>
+<playerid>8349</playerid>
+<name>Reece Topley</name>
+<player-runs>1</player-runs>
+<player-balls>2</player-balls>
+<runs>161</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>9522</bowlerid>
+<bowlername>T Curran</bowlername>
+</lastwicket>
+		<extras>
+			<byes>5</byes>
+			<wides>11</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>17</total>
+		</extras>
+		<prevOvers><![CDATA[Wd5 2 4 6 1 . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. Wd W W 1 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 . 1 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 W 1 1 W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_NATWEST_T20/ESS_SUR_MAY16/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Curran to Topley, <b>out</b> Caught&Bowled!! <b>Topley c and b Curran 1(2)</b>]]></line><line><![CDATA[Curran to Topley, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Curran to David Masters, 1 run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Curran to Topley, 1 run]]></line><line><![CDATA[<b>Reece Topley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Curran to Tait, <b>out</b> Bowled!! <b>Tait b Curran 5(7)</b>]]></line><line><![CDATA[Curran to Tait, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Curran to David Masters, 1 run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Curran to Tait, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran [3.0-0-31-2] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Riaz to Tait, 1 run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Riaz to David Masters, 1 run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Riaz to Tait, 1 run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Riaz to Tait, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Riaz to David Masters, 1 run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Riaz to Tait, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz [3.0-0-20-1] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;J Burke to David Masters, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;J Burke to Tait, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;J Burke to David Masters, 1 run]]></line><line><![CDATA[<b>Shaun Tait, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;J Burke to Callum Taylor, <b>out</b> Caught by G Wilson!! <b>Callum Taylor c G Wilson b J Burke 2(7)</b>]]></line><line><![CDATA[J Burke to Callum Taylor, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>David Masters, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;J Burke to ten Doeschate, <b>out</b> Caught by Gareth Batty!! <b>ten Doeschate c Gareth Batty b J Burke 40(19) [4s-4 6s-2]</b>]]></line><line><![CDATA[J Burke to ten Doeschate, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;J Burke to ten Doeschate, <b>wide</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;J Burke to ten Doeschate, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Burke [3.0-0-20-1] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Curran to Callum Taylor, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Curran to Callum Taylor, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, 1 run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, <b>SIX</b>]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, <b>5 wides</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran [2.0-0-13-2] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Kapil to Callum Taylor, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Kapil to ten Doeschate, 1 run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Kapil to ten Doeschate, 2 runs]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Kapil to ten Doeschate, <b>FOUR</b>]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Kapil to ten Doeschate, <b>FOUR</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Kapil to Callum Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Aneesh Kapil [1.0-0-9-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Riaz to ten Doeschate, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Riaz to Callum Taylor, 1 run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Riaz to Callum Taylor, no run]]></line><line><![CDATA[<b>Callum Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Riaz to Foster, <b>out</b> Caught by Steven Davies!! <b>Foster c Steven Davies b Riaz 9(5) [4s-2]</b>]]></line><line><![CDATA[Riaz to Foster, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Riaz to Foster, <b>FOUR</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Riaz to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz [2.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;J Burke to ten Doeschate, <b>SIX</b>]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;J Burke to ten Doeschate, 2 runs]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;J Burke to ten Doeschate, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;J Burke to Foster, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;J Burke to Foster, <b>FOUR</b>]]></line><line><![CDATA[<b>James Foster, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;J Burke to Napier, <b>out</b> Bowled!! <b>Napier b J Burke 6(4) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[J Burke to Napier, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;J Burke to Napier, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Burke [2.0-0-6-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Dunn to ten Doeschate, <b>FOUR</b>]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Dunn to Napier, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Dunn to ten Doeschate, 1 run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Dunn to Napier, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Dunn to Napier, <b>FOUR</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Dunn to ten Doeschate, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Dunn [2.0-0-15-2] is back into the attack</b>]]></line><line><![CDATA[<b>Graham Napier, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Curran to Greg Smith, <b>out</b> Bowled!! <b>Greg Smith b Curran 44(35) [4s-3 6s-1]</b>]]></line><line><![CDATA[Curran to Greg Smith, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Curran to Greg Smith, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Curran to ten Doeschate, 1 run]]></line><line><![CDATA[<b>Ryan ten Doeschate, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Curran to Kishen Velani, <b>out</b> Bowled!! <b>Kishen Velani b Curran 22(26) [4s-1]</b>]]></line><line><![CDATA[Curran to Kishen Velani, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Curran to Greg Smith, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran [1.0-0-9-0] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Gareth Batty to Kishen Velani, byes, <b>FOUR</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, 1 run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Gareth Batty to Kishen Velani, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, <b>FOUR</b>]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Gareth Batty to Kishen Velani, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gareth Batty [1.0-0-6-0] is back into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Kapil to Greg Smith, <b>FOUR</b>]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Kapil to Greg Smith, 2 runs]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Kapil to Greg Smith, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Kapil to Kishen Velani, 1 run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Kapil to Greg Smith, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Kapil to Kishen Velani, 1 run, the partnership between Kishen Velani and Greg Smith is now]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Aneesh Kapil, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Kishen Velani, 1 run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Greg Smith, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Greg Smith, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Greg Smith, <b>SIX</b>]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Kishen Velani, 1 run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Greg Smith, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Zafar Ansari, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;J Burke to Greg Smith, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;J Burke to Greg Smith, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, byes, 1 run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;J Burke to Greg Smith, 1 run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, 1 run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, 2 runs]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Gareth Batty to Kishen Velani, 1 run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Gareth Batty to Greg Smith, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gareth Batty, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;J Burke to Greg Smith, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, leg byes, 1 run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;J Burke to Kishen Velani, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Burke, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Curran to Kishen Velani, 1 run]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Curran to Kishen Velani, <b>wide</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Curran to Kishen Velani, 2 runs]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Curran to Greg Smith, 3 runs]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Curran to Kishen Velani, 1 run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Curran to Greg Smith, 1 run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Curran to Greg Smith, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Dunn to Kishen Velani, <b>FOUR</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, 3 runs]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, <b>FOUR</b>]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Dunn to Kishen Velani, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Riaz to Kishen Velani, 3 runs]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Riaz to Kishen Velani, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Riaz to Kishen Velani, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Riaz to Kishen Velani, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Riaz to Greg Smith, 1 run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Riaz to Greg Smith, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kishen Velani, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Dunn to Daniel Lawrence, <b>out</b> Bowled!! <b>Daniel Lawrence b Dunn 3(4)</b>]]></line><line><![CDATA[Dunn to Daniel Lawrence, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, 1 run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, <b>wide</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Dunn to Greg Smith, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Dunn to Daniel Lawrence, 1 run]]></line><line><![CDATA[<b>Greg Smith, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Dunn to Nicholas Browne, <b>out</b> Caught by J Burke!! <b>Nicholas Browne c J Burke b Dunn 7(5) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Dunn to Nicholas Browne, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Matt Dunn, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Riaz to Daniel Lawrence, 2 runs]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Riaz to Daniel Lawrence, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Riaz to Nicholas Browne, 3 runs]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Riaz to Nicholas Browne, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Riaz to Nicholas Browne, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Riaz to Nicholas Browne, <b>wide</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Riaz to Nicholas Browne, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Riaz to Nicholas Browne, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nicholas Browne and Daniel Lawrence are at the crease. Nicholas Browne is on strike. Riaz will open the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Napier to Zafar Ansari, 2 runs]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Napier to Riaz, <b>2 wides</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Napier to Riaz, 2 runs]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Napier to Riaz, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Napier to Riaz, <b>FOUR</b>]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Napier to Zafar Ansari, 1 run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Napier to Riaz, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz, right handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Graham Napier [3.0-0-31-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Tait to Zafar Ansari, <b>out</b> Kapil Run Out!! 1 run completed <b>Kapil run out (Greg Smith) 15(12) [4s-2]</b>]]></line><line><![CDATA[Tait to Zafar Ansari, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Tait to Zafar Ansari, 2 runs]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Tait to Kapil, 1 run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Tait to Kapil, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Tait to Zafar Ansari, 1 run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Tait to Kapil, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shaun Tait [3.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Topley to Zafar Ansari, <b>FOUR</b>]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Topley to Kapil, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Topley to Zafar Ansari, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Topley to Zafar Ansari, 2 runs]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Topley to Kapil, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Topley to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Topley to Zafar Ansari, <b>no ball</b>, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Reece Topley [3.0-0-36-1] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;David Masters to Kapil, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;David Masters to Zafar Ansari, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;David Masters to Kapil, 1 run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;David Masters to Kapil, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;David Masters to Kapil, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;David Masters to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Napier to Kapil, <b>FOUR</b>]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Napier to Zafar Ansari, 1 run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Napier to Kapil, 1 run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Napier to Zafar Ansari, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Napier to Kapil, 1 run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Napier to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Napier [2.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;David Masters to Zafar Ansari, 1 run]]></line><line><![CDATA[<b>Aneesh Kapil, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;David Masters to G Wilson, <b>out</b> Caught by ten Doeschate!! <b>G Wilson c ten Doeschate b David Masters 41(34) [4s-5 6s-1]</b>]]></line><line><![CDATA[David Masters to G Wilson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;David Masters to G Wilson, 2 runs]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;David Masters to G Wilson, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;David Masters to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;David Masters to G Wilson, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Masters [2.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Greg Smith to G Wilson, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Greg Smith to Zafar Ansari, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Greg Smith to Zafar Ansari, 2 runs]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Greg Smith to G Wilson, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Greg Smith to G Wilson, <b>SIX</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Greg Smith to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Tait to G Wilson, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Tait to Zafar Ansari, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Tait to G Wilson, 1 run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Tait to G Wilson, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Tait to G Wilson, <b>wide</b>]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Tait to G Wilson, <b>no ball</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Tait to G Wilson, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Tait to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shaun Tait [2.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[<b>Zafar Ansari, left handed bat, comes to the crease</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Greg Smith to Steven Davies, <b>out</b> Caught by Napier!! <b>Steven Davies c Napier b Greg Smith 53(25) [4s-6 6s-2]</b>]]></line><line><![CDATA[Greg Smith to Steven Davies, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Greg Smith to G Wilson, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Greg Smith to Steven Davies, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Greg Smith to Steven Davies, <b>SIX</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Greg Smith to G Wilson, leg byes, 1 run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Greg Smith to Steven Davies, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Greg Smith, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, 2 runs]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;ten Doeschate to Steven Davies, 3 runs]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, 1 run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Topley to G Wilson, 1 run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Topley to G Wilson, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Topley to G Wilson, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Topley to Steven Davies, 1 run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Topley to G Wilson, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Topley to Steven Davies, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, no run]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, <b>5 wides</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;ten Doeschate to Steven Davies, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, 1 run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;ten Doeschate to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ryan ten Doeschate, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Topley to G Wilson, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Topley to G Wilson, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Topley to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Topley to G Wilson, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Topley to G Wilson, no run]]></line><line><![CDATA[<b>Gary Wilson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Topley to Sangakkara, <b>out</b> Caught by David Masters!! <b>Sangakkara c David Masters b Topley 38(21) [4s-2 6s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Topley to Sangakkara, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Reece Topley [1.0-0-27-0] is back into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Tait to Steven Davies, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Tait to Sangakkara, 1 run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Tait to Steven Davies, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Tait to Sangakkara, 1 run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Tait to Steven Davies, 1 run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Tait to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shaun Tait [1.0-0-9-0] is back into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Napier to Sangakkara, 1 run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Napier to Steven Davies, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Napier to Steven Davies, <b>SIX</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Napier to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Napier to Sangakkara, 1 run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Napier to Steven Davies, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Topley to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Topley to Sangakkara, <b>no ball</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Topley to Sangakkara, <b>SIX</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Topley to Sangakkara, <b>SIX</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Topley to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Topley to Steven Davies, 1 run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Topley to Steven Davies, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Reece Topley, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Tait to Steven Davies, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Tait to Sangakkara, 1 run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Tait to Sangakkara, <b>SIX</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Tait to Sangakkara, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Tait to Sangakkara, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Tait to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Tait to Sangakkara, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shaun Tait, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;David Masters to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;David Masters to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;David Masters to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;David Masters to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;David Masters to Sangakkara, 1 run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;David Masters to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Napier to Steven Davies, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Napier to Sangakkara, 3 runs]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Napier to Sangakkara, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Napier to Sangakkara, 2 runs]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Napier to Steven Davies, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Napier to Steven Davies, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kumar Sangakkara, left handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Graham Napier, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;David Masters to Jason Roy, <b>out</b> Jason Roy Run Out!! <b>Jason Roy run out (ten Doeschate) 4(6)</b>]]></line><line><![CDATA[David Masters to Jason Roy, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;David Masters to Jason Roy, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;David Masters to Jason Roy, 2 runs]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;David Masters to Jason Roy, 2 runs]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;David Masters to Jason Roy, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;David Masters to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jason Roy and Steven Davies are at the crease. Jason Roy is on strike. David Masters will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Surrey</b> (Playing XI): Jason Roy, Steven Davies, Kumar Sangakkara, Aneesh Kapil, Gary Wilson(w), Zafar Ansari, James Burke, Wahab Riaz, Gareth Batty(c), Tom Curran, Matt Dunn]]></line><line><![CDATA[<b>Essex</b> (Playing XI): Nicholas Browne, Daniel Lawrence, Greg Smith, Kishen Velani, Ryan ten Doeschate(c), James Foster(w), Callum Taylor, Graham Napier, David Masters, Shaun Tait, Reece Topley]]></line><line><![CDATA[<b>Essex have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Surrey</b> (From): Jason Roy, Steven Davies, Kumar Sangakkara, Aneesh Kapil, Gary Wilson(w), Vikram Solanki, Zafar Ansari, Wahab Riaz, Gareth Batty(c), Tom Curran, Matt Dunn, Rory Burns]]></line><line><![CDATA[<b>Essex</b> (From): Jesse Ryder, Nicholas Browne, Greg Smith, Kishen Velani, Ryan ten Doeschate(c), James Foster(w), Callum Taylor, Graham Napier, Adeel Malik, David Masters, Shaun Tait, Jaik Mickleburgh, Mark Pettini, Reece Topley, Daniel Lawrence]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>205</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Surrey">
+			<players>
+				<player>
+					<playerid>6534</playerid>
+					<name>Jason Roy</name>
+					<batsman-name>J Roy</batsman-name>
+					<batsman-nickname>Jason Roy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Ryan ten Doeschate</fielder>
+						<fielderId>640</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1841</playerid>
+					<name>Steven Davies</name>
+					<batsman-name>S Davies</batsman-name>
+					<batsman-nickname>Steven Davies</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>53</runs>
+					<balls>25</balls>
+					<fours>6</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Greg Smith</bowler>
+					<bowlerId>6815</bowlerId>
+						<fielder>Graham Napier</fielder>
+						<fielderId>1870</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<batsman-name>Sangakkara</batsman-name>
+					<batsman-nickname>Sangakkara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>38</runs>
+					<balls>21</balls>
+					<fours>2</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Topley</bowler>
+					<bowlerId>8349</bowlerId>
+						<fielder>David Masters</fielder>
+						<fielderId>6541</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<batsman-name>G Wilson</batsman-name>
+					<batsman-nickname>G Wilson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>41</runs>
+					<balls>34</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>Ryan ten Doeschate</fielder>
+						<fielderId>640</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7953</playerid>
+					<name>Zafar Ansari</name>
+					<batsman-name>Zafar Ansari</batsman-name>
+					<batsman-nickname>Zafar Ansari</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>21</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6684</playerid>
+					<name>Aneesh Kapil</name>
+					<batsman-name>A Kapil</batsman-name>
+					<batsman-nickname>Kapil</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>12</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Greg Smith</fielder>
+						<fielderId>6815</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<batsman-name>Riaz</batsman-name>
+					<batsman-nickname>Riaz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>4</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7942</playerid>
+					<name>James Burke</name>
+					<batsman-name>J Burke</batsman-name>
+					<batsman-nickname>J Burke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1750</playerid>
+					<name>Gareth Batty</name>
+					<batsman-name>G Batty</batsman-name>
+					<batsman-nickname>Gareth Batty</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9522</playerid>
+					<name>Tom Curran</name>
+					<batsman-name>T Curran</batsman-name>
+					<batsman-nickname>Curran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7858</playerid>
+					<name>Matt Dunn</name>
+					<batsman-name>M Dunn</batsman-name>
+					<batsman-nickname>Dunn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6534</playerid>
+				<nbr>1</nbr>
+				<runs>4</runs>
+				<overs>1</overs>
+				<batsman>Jason Roy</batsman>
+				<batsman-name>J Roy</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>104</playerid>
+				<nbr>2</nbr>
+				<runs>84</runs>
+				<overs>7.1</overs>
+				<batsman>Kumar Sangakkara</batsman>
+				<batsman-name>Sangakkara</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1841</playerid>
+				<nbr>3</nbr>
+				<runs>128</runs>
+				<overs>11.6</overs>
+				<batsman>Steven Davies</batsman>
+				<batsman-name>S Davies</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>739</playerid>
+				<nbr>4</nbr>
+				<runs>154</runs>
+				<overs>14.5</overs>
+				<batsman>Gary Wilson</batsman>
+				<batsman-name>G Wilson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6684</playerid>
+				<nbr>5</nbr>
+				<runs>193</runs>
+				<overs>19</overs>
+				<batsman>Aneesh Kapil</batsman>
+				<batsman-name>A Kapil</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>9</wides>
+			<noballs>6</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>17</total>
+		</extras>
+		<bowlteam name="Essex">
+			<players>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<bowler-name>D Masters</bowler-name>
+					<bowler-nickname>David Masters</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>37</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<bowler-name>G Napier</bowler-name>
+					<bowler-nickname>Napier</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>42</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>407</playerid>
+					<name>Shaun Tait</name>
+					<bowler-name>Tait</bowler-name>
+					<bowler-nickname>Tait</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8349</playerid>
+					<name>Reece Topley</name>
+					<bowler-name>R Topley</bowler-name>
+					<bowler-nickname>Topley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>52</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>640</playerid>
+					<name>Ryan ten Doeschate</name>
+					<bowler-name>ten Doeschate</bowler-name>
+					<bowler-nickname>ten Doeschate</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>0</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6815</playerid>
+					<name>Greg Smith</name>
+					<bowler-name>Greg Smith</bowler-name>
+					<bowler-nickname>Greg Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>21</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<bowler-name>N Browne</bowler-name>
+					<bowler-nickname>Nicholas Browne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<bowler-name>Daniel Lawrence</bowler-name>
+					<bowler-nickname>Daniel Lawrence</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8514</playerid>
+					<name>Kishen Velani</name>
+					<bowler-name>Kishen Velani</bowler-name>
+					<bowler-nickname>Kishen Velani</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<bowler-name>J Foster</bowler-name>
+					<bowler-nickname>Foster</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10405</playerid>
+					<name>Callum Taylor</name>
+					<bowler-name>Callum Taylor</bowler-name>
+					<bowler-nickname>Callum Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>161</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Essex">
+			<players>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<batsman-name>N Browne</batsman-name>
+					<batsman-nickname>Nicholas Browne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Dunn</bowler>
+					<bowlerId>7858</bowlerId>
+						<fielder>James Burke</fielder>
+						<fielderId>7942</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<batsman-name>Daniel Lawrence</batsman-name>
+					<batsman-nickname>Daniel Lawrence</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>M Dunn</bowler>
+					<bowlerId>7858</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6815</playerid>
+					<name>Greg Smith</name>
+					<batsman-name>Greg Smith</batsman-name>
+					<batsman-nickname>Greg Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>44</runs>
+					<balls>35</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8514</playerid>
+					<name>Kishen Velani</name>
+					<batsman-name>Kishen Velani</batsman-name>
+					<batsman-nickname>Kishen Velani</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>26</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>640</playerid>
+					<name>Ryan ten Doeschate</name>
+					<batsman-name>ten Doeschate</batsman-name>
+					<batsman-nickname>ten Doeschate</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>40</runs>
+					<balls>19</balls>
+					<fours>4</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Burke</bowler>
+					<bowlerId>7942</bowlerId>
+						<fielder>Gareth Batty</fielder>
+						<fielderId>1750</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<batsman-name>G Napier</batsman-name>
+					<batsman-nickname>Napier</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>4</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>J Burke</bowler>
+					<bowlerId>7942</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<batsman-name>J Foster</batsman-name>
+					<batsman-nickname>Foster</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>9</runs>
+					<balls>5</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Riaz</bowler>
+					<bowlerId>1051</bowlerId>
+						<fielder>Steven Davies</fielder>
+						<fielderId>1841</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10405</playerid>
+					<name>Callum Taylor</name>
+					<batsman-name>Callum Taylor</batsman-name>
+					<batsman-nickname>Callum Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Burke</bowler>
+					<bowlerId>7942</bowlerId>
+						<fielder>Gary Wilson</fielder>
+						<fielderId>739</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<batsman-name>D Masters</batsman-name>
+					<batsman-nickname>David Masters</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>407</playerid>
+					<name>Shaun Tait</name>
+					<batsman-name>Tait</batsman-name>
+					<batsman-nickname>Tait</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8349</playerid>
+					<name>Reece Topley</name>
+					<batsman-name>R Topley</batsman-name>
+					<batsman-nickname>Topley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder>T Curran</fielder>
+						<fielderId>9522</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>9388</playerid>
+				<nbr>1</nbr>
+				<runs>11</runs>
+				<overs>1.1</overs>
+				<batsman>Nicholas Browne</batsman>
+				<batsman-name>N Browne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10385</playerid>
+				<nbr>2</nbr>
+				<runs>14</runs>
+				<overs>1.6</overs>
+				<batsman>Daniel Lawrence</batsman>
+				<batsman-name>Daniel Lawrence</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8514</playerid>
+				<nbr>3</nbr>
+				<runs>85</runs>
+				<overs>11.2</overs>
+				<batsman>Kishen Velani</batsman>
+				<batsman-name>Kishen Velani</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6815</playerid>
+				<nbr>4</nbr>
+				<runs>88</runs>
+				<overs>11.6</overs>
+				<batsman>Greg Smith</batsman>
+				<batsman-name>Greg Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1870</playerid>
+				<nbr>5</nbr>
+				<runs>101</runs>
+				<overs>13.1</overs>
+				<batsman>Graham Napier</batsman>
+				<batsman-name>G Napier</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1914</playerid>
+				<nbr>6</nbr>
+				<runs>118</runs>
+				<overs>14.3</overs>
+				<batsman>James Foster</batsman>
+				<batsman-name>J Foster</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>640</playerid>
+				<nbr>7</nbr>
+				<runs>150</runs>
+				<overs>17.2</overs>
+				<batsman>Ryan ten Doeschate</batsman>
+				<batsman-name>ten Doeschate</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10405</playerid>
+				<nbr>8</nbr>
+				<runs>150</runs>
+				<overs>17.3</overs>
+				<batsman>Callum Taylor</batsman>
+				<batsman-name>Callum Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>407</playerid>
+				<nbr>9</nbr>
+				<runs>159</runs>
+				<overs>19.3</overs>
+				<batsman>Shaun Tait</batsman>
+				<batsman-name>Tait</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8349</playerid>
+				<nbr>10</nbr>
+				<runs>161</runs>
+				<overs>19.6</overs>
+				<batsman>Reece Topley</batsman>
+				<batsman-name>R Topley</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>5</byes>
+			<wides>11</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>17</total>
+		</extras>
+		<bowlteam name="Surrey">
+			<players>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<bowler-name>Riaz</bowler-name>
+					<bowler-nickname>Riaz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7858</playerid>
+					<name>Matt Dunn</name>
+					<bowler-name>M Dunn</bowler-name>
+					<bowler-nickname>Dunn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9522</playerid>
+					<name>Tom Curran</name>
+					<bowler-name>T Curran</bowler-name>
+					<bowler-nickname>Curran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>4</wickets>
+					<wides>6</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7942</playerid>
+					<name>James Burke</name>
+					<bowler-name>J Burke</bowler-name>
+					<bowler-nickname>J Burke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>3</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1750</playerid>
+					<name>Gareth Batty</name>
+					<bowler-name>G Batty</bowler-name>
+					<bowler-nickname>Gareth Batty</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7953</playerid>
+					<name>Zafar Ansari</name>
+					<bowler-name>Zafar Ansari</bowler-name>
+					<bowler-nickname>Zafar Ansari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>10</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6684</playerid>
+					<name>Aneesh Kapil</name>
+					<bowler-name>A Kapil</bowler-name>
+					<bowler-nickname>Kapil</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>21</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6534</playerid>
+					<name>Jason Roy</name>
+					<bowler-name>J Roy</bowler-name>
+					<bowler-nickname>Jason Roy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1841</playerid>
+					<name>Steven Davies</name>
+					<bowler-name>S Davies</bowler-name>
+					<bowler-nickname>Steven Davies</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<bowler-name>Sangakkara</bowler-name>
+					<bowler-nickname>Sangakkara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<bowler-name>G Wilson</bowler-name>
+					<bowler-nickname>G Wilson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

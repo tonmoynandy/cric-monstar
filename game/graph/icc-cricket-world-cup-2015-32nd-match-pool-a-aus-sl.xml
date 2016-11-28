@@ -1,0 +1,145 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Australia</name>
+	<graph>
+		<id>wag_1643</id>
+		<name>Aaron Finch</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_1643_Finch.png</url>
+	</graph>
+	<graph>
+		<id>wag_1739</id>
+		<name>David Warner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_1739_Warner.png</url>
+	</graph>
+	<graph>
+		<id>wag_2250</id>
+		<name>Steven Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_2250_S_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_138</id>
+		<name>Michael Clarke</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_138_Clarke.png</url>
+	</graph>
+	<graph>
+		<id>wag_7662</id>
+		<name>Glenn Maxwell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_7662_Maxwell.png</url>
+	</graph>
+	<graph>
+		<id>wag_158</id>
+		<name>Shane Watson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_158_Watson.png</url>
+	</graph>
+	<graph>
+		<id>wag_7789</id>
+		<name>James Faulkner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_7789_Faulkner.png</url>
+	</graph>
+	<graph>
+		<id>wag_159</id>
+		<name>Brad Haddin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_159_Haddin.png</url>
+	</graph>
+	<graph>
+		<id>wag_496</id>
+		<name>Mitchell Johnson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_496_Johnson.png</url>
+	</graph>
+	<graph>
+		<id>wag_7710</id>
+		<name>Mitchell Starc</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_7710_M_Starc.png</url>
+	</graph>
+	<graph>
+		<id>wag_7729</id>
+		<name>Xavier Doherty</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_4_7729_Doherty.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Sri Lanka</name>
+	<graph>
+		<id>wag_6243</id>
+		<name>Lahiru Thirimanne</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_6243_Thirimanne.png</url>
+	</graph>
+	<graph>
+		<id>wag_105</id>
+		<name>Tillakaratne Dilshan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_105_Dilshan.png</url>
+	</graph>
+	<graph>
+		<id>wag_104</id>
+		<name>Kumar Sangakkara</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_104_Sangakkara.png</url>
+	</graph>
+	<graph>
+		<id>wag_101</id>
+		<name>Mahela Jayawardene</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_101_M_Jayawardene.png</url>
+	</graph>
+	<graph>
+		<id>wag_1629</id>
+		<name>Angelo Mathews</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_1629_Mathews.png</url>
+	</graph>
+	<graph>
+		<id>wag_6245</id>
+		<name>Dinesh Chandimal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_6245_Chandimal.png</url>
+	</graph>
+	<graph>
+		<id>wag_2281</id>
+		<name>Thisara Perera</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_2281_T_Perera.png</url>
+	</graph>
+	<graph>
+		<id>wag_414</id>
+		<name>Upul Tharanga</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_414_U_Tharanga.png</url>
+	</graph>
+	<graph>
+		<id>wag_8063</id>
+		<name>Seekkuge Prasanna</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_8063_S_Prasanna.png</url>
+	</graph>
+	<graph>
+		<id>wag_6729</id>
+		<name>Sachithra Senanayake</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_6729_Senanayake.png</url>
+	</graph>
+	<graph>
+		<id>wag_111</id>
+		<name>Lasith Malinga</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_SL_MAR08/gph_wag_12886_5_111_Malinga.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

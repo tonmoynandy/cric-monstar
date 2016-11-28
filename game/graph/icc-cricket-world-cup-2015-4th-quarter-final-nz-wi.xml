@@ -1,0 +1,130 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>New Zealand</name>
+	<graph>
+		<id>wag_1457</id>
+		<name>Martin Guptill</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_1457_M_Guptill.png</url>
+	</graph>
+	<graph>
+		<id>wag_201</id>
+		<name>Brendon McCullum</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_201_B_McCullum.png</url>
+	</graph>
+	<graph>
+		<id>wag_6326</id>
+		<name>Kane Williamson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_6326_Williamson.png</url>
+	</graph>
+	<graph>
+		<id>wag_521</id>
+		<name>Ross Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_521_Ross_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_8982</id>
+		<name>Corey Anderson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_8982_CJ_Anderson.png</url>
+	</graph>
+	<graph>
+		<id>wag_1064</id>
+		<name>Grant Elliott</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_1064_Elliott.png</url>
+	</graph>
+	<graph>
+		<id>wag_1396</id>
+		<name>Luke Ronchi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_1396_Ronchi.png</url>
+	</graph>
+	<graph>
+		<id>wag_205</id>
+		<name>Daniel Vettori</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_13_205_Vettori.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>West Indies</name>
+	<graph>
+		<id>wag_247</id>
+		<name>Chris Gayle</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_247_Gayle.png</url>
+	</graph>
+	<graph>
+		<id>wag_8101</id>
+		<name>Johnson Charles</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_8101_J_Charles.png</url>
+	</graph>
+	<graph>
+		<id>wag_599</id>
+		<name>Lendl Simmons</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_599_L_Simmons.png</url>
+	</graph>
+	<graph>
+		<id>wag_356</id>
+		<name>Marlon Samuels</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_356_Samuels.png</url>
+	</graph>
+	<graph>
+		<id>wag_399</id>
+		<name>Denesh Ramdin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_399_Ramdin.png</url>
+	</graph>
+	<graph>
+		<id>wag_8314</id>
+		<name>Jonathan Carter</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_8314_J_Carter.png</url>
+	</graph>
+	<graph>
+		<id>wag_253</id>
+		<name>Darren Sammy</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_253_Sammy.png</url>
+	</graph>
+	<graph>
+		<id>wag_7736</id>
+		<name>Andre Russell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_7736_A_Russell.png</url>
+	</graph>
+	<graph>
+		<id>wag_8313</id>
+		<name>Jason Holder</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_8313_J_Holder.png</url>
+	</graph>
+	<graph>
+		<id>wag_379</id>
+		<name>Jerome Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_379_Jerome_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_1117</id>
+		<name>Sulieman Benn</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_WI_MAR21/gph_wag_12900_10_1117_S_Benn.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

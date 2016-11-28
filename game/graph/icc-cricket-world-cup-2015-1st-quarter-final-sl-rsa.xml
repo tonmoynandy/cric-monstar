@@ -1,0 +1,100 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>South Africa</name>
+	<graph>
+		<id>wag_314</id>
+		<name>Hashim Amla</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_11_314_Amla.png</url>
+	</graph>
+	<graph>
+		<id>wag_8520</id>
+		<name>Quinton de Kock</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_11_8520_de_Kock.png</url>
+	</graph>
+	<graph>
+		<id>wag_7825</id>
+		<name>Faf du Plessis</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_11_7825_du_Plessis.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Sri Lanka</name>
+	<graph>
+		<id>wag_8116</id>
+		<name>Kushal Janith Perera</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_8116_K_Perera.png</url>
+	</graph>
+	<graph>
+		<id>wag_105</id>
+		<name>Tillakaratne Dilshan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_105_Dilshan.png</url>
+	</graph>
+	<graph>
+		<id>wag_104</id>
+		<name>Kumar Sangakkara</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_104_Sangakkara.png</url>
+	</graph>
+	<graph>
+		<id>wag_6243</id>
+		<name>Lahiru Thirimanne</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_6243_Thirimanne.png</url>
+	</graph>
+	<graph>
+		<id>wag_101</id>
+		<name>Mahela Jayawardene</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_101_M_Jayawardene.png</url>
+	</graph>
+	<graph>
+		<id>wag_1629</id>
+		<name>Angelo Mathews</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_1629_Mathews.png</url>
+	</graph>
+	<graph>
+		<id>wag_2281</id>
+		<name>Thisara Perera</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_2281_T_Perera.png</url>
+	</graph>
+	<graph>
+		<id>wag_8445</id>
+		<name>T Kaushal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_8445_T_Kaushal.png</url>
+	</graph>
+	<graph>
+		<id>wag_8393</id>
+		<name>Dushmantha Chameera</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_8393_Dushmantha_Chameera.png</url>
+	</graph>
+	<graph>
+		<id>wag_111</id>
+		<name>Lasith Malinga</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/SL_RSA_MAR18/gph_wag_12897_5_111_Malinga.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

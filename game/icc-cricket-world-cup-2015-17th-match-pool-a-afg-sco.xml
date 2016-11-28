@@ -1,0 +1,1055 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12871" >
+		<type>ODI</type>
+		<gameDesc>17th Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>Afghanistan</home>
+		<away>Scotland</away>
+		<teamsabbr>AFG vs SCO</teamsabbr>
+		<homeabbr>AFG</homeabbr>
+		<awayabbr>SCO</awayabbr>
+		<homeId>96</homeId>
+		<awayId>23</awayId>
+		<venue>University Oval, Dunedin</venue>
+		<startdate>26 02 2015</startdate>
+		<enddate>26 02 2015</enddate>
+		<toss>
+			<winner>Afghanistan</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status></status>
+		<result type="win">
+			<winningteam>Afghanistan</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>1</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Simon Fry</Name>
+			<Country>Aus</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Ruchira Palliyaguru</Name>
+			<Country>SL</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Rod Tucker</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>David Boon</Name>
+			<Country>Aus</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>22:00</starttimeGMT>
+		<prevDayPerGMT>true</prevDayPerGMT>
+		<actualendGMT>20150226060619</actualendGMT>
+	</match>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>210</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Scotland">
+			<players>
+				<player>
+					<playerid>1415</playerid>
+					<name>Kyle Coetzer</name>
+					<batsman-name>K Coetzer</batsman-name>
+					<batsman-nickname>Coetzer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>41</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Dawlat Zadran</bowler>
+					<bowlerId>8029</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1416</playerid>
+					<name>Calum MacLeod</name>
+					<batsman-name>C MacLeod</batsman-name>
+					<batsman-nickname>MacLeod</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Dawlat Zadran</bowler>
+					<bowlerId>8029</bowlerId>
+						<fielder>Najibullah Zadran</fielder>
+						<fielderId>8375</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9523</playerid>
+					<name>Hamish Gardiner</name>
+					<batsman-name>H Gardiner</batsman-name>
+					<batsman-nickname>Gardiner</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>20</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Hamid</bowler>
+					<bowlerId>3001</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6565</playerid>
+					<name>Matt Machan</name>
+					<batsman-name>M Machan</batsman-name>
+					<batsman-nickname>Machan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>28</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Nabi</bowler>
+					<bowlerId>3007</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6744</playerid>
+					<name>Preston Mommsen</name>
+					<batsman-name>P Mommsen</batsman-name>
+					<batsman-nickname>Mommsen</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>23</runs>
+					<balls>36</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Naib</bowler>
+					<bowlerId>8030</bowlerId>
+						<fielder>Afsar Zazai</fielder>
+						<fielderId>8278</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1398</playerid>
+					<name>Richie Berrington</name>
+					<batsman-name>R Berrington</batsman-name>
+					<batsman-nickname>Berrington</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>46</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Dawlat Zadran</bowler>
+					<bowlerId>8029</bowlerId>
+						<fielder>Afsar Zazai</fielder>
+						<fielderId>8278</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9365</playerid>
+					<name>Matthew Cross</name>
+					<batsman-name>M Cross</batsman-name>
+					<batsman-nickname>Matthew Cross</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>15</runs>
+					<balls>26</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shapoor</bowler>
+					<bowlerId>3015</bowlerId>
+						<fielder>Afsar Zazai</fielder>
+						<fielderId>8278</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6657</playerid>
+					<name>Josh Davey</name>
+					<batsman-name>J Davey</batsman-name>
+					<batsman-nickname>Davey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shapoor</bowler>
+					<bowlerId>3015</bowlerId>
+						<fielder>Hamid Hassan</fielder>
+						<fielderId>3001</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>646</playerid>
+					<name>Majid Haq</name>
+					<batsman-name>M Haq</batsman-name>
+					<batsman-nickname>Haq</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>51</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shapoor</bowler>
+					<bowlerId>3015</bowlerId>
+						<fielder>Gulbadin Naib</fielder>
+						<fielderId>8030</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3053</playerid>
+					<name>Alasdair Evans</name>
+					<batsman-name>A Evans</batsman-name>
+					<batsman-nickname>Alasdair Evans</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>28</runs>
+					<balls>37</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shapoor</bowler>
+					<bowlerId>3015</bowlerId>
+						<fielder>Mohammad Nabi</fielder>
+						<fielderId>3007</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8423</playerid>
+					<name>Iain Wardlaw</name>
+					<batsman-name>Iain Wardlaw</batsman-name>
+					<batsman-nickname>Iain Wardlaw</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1416</playerid>
+				<nbr>1</nbr>
+				<runs>7</runs>
+				<overs>1.6</overs>
+				<batsman>Calum MacLeod</batsman>
+				<batsman-name>C MacLeod</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9523</playerid>
+				<nbr>2</nbr>
+				<runs>38</runs>
+				<overs>10.5</overs>
+				<batsman>Hamish Gardiner</batsman>
+				<batsman-name>H Gardiner</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1415</playerid>
+				<nbr>3</nbr>
+				<runs>40</runs>
+				<overs>11.1</overs>
+				<batsman>Kyle Coetzer</batsman>
+				<batsman-name>K Coetzer</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6565</playerid>
+				<nbr>4</nbr>
+				<runs>93</runs>
+				<overs>21.2</overs>
+				<batsman>Matt Machan</batsman>
+				<batsman-name>M Machan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6744</playerid>
+				<nbr>5</nbr>
+				<runs>95</runs>
+				<overs>22.2</overs>
+				<batsman>Preston Mommsen</batsman>
+				<batsman-name>P Mommsen</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9365</playerid>
+				<nbr>6</nbr>
+				<runs>132</runs>
+				<overs>30.4</overs>
+				<batsman>Matthew Cross</batsman>
+				<batsman-name>M Cross</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6657</playerid>
+				<nbr>7</nbr>
+				<runs>134</runs>
+				<overs>32.5</overs>
+				<batsman>Josh Davey</batsman>
+				<batsman-name>J Davey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1398</playerid>
+				<nbr>8</nbr>
+				<runs>144</runs>
+				<overs>36.4</overs>
+				<batsman>Richie Berrington</batsman>
+				<batsman-name>R Berrington</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>646</playerid>
+				<nbr>9</nbr>
+				<runs>206</runs>
+				<overs>49.1</overs>
+				<batsman>Majid Haq</batsman>
+				<batsman-name>M Haq</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3053</playerid>
+				<nbr>10</nbr>
+				<runs>210</runs>
+				<overs>49.6</overs>
+				<batsman>Alasdair Evans</batsman>
+				<batsman-name>A Evans</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>12</wides>
+			<noballs>1</noballs>
+			<legbyes>12</legbyes>
+			<penalty>0</penalty>
+			<total>25</total>
+		</extras>
+		<bowlteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<bowler-name>Shapoor</bowler-name>
+					<bowler-nickname>Shapoor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>38</runsoff>
+					<wickets>4</wickets>
+					<wides>2</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<bowler-name>Dawlat Zadran</bowler-name>
+					<bowler-nickname>Dawlat Zadran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>29</runsoff>
+					<wickets>3</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<bowler-name>Hamid</bowler-name>
+					<bowler-nickname>Hamid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>32</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8030</playerid>
+					<name>Gulbadin Naib</name>
+					<bowler-name>Naib</bowler-name>
+					<bowler-nickname>Naib</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>53</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<bowler-name>Nabi</bowler-name>
+					<bowler-nickname>Nabi</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>1</wickets>
+					<wides>6</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<bowler-name>Ahmadi</bowler-name>
+					<bowler-nickname>Ahmadi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>8</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<bowler-name>Nawroz</bowler-name>
+					<bowler-nickname>Nawroz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3004</playerid>
+					<name>Asghar Stanikzai</name>
+					<bowler-name>Stanikzai</bowler-name>
+					<bowler-nickname>Stanikzai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<bowler-name>Shenwari</bowler-name>
+					<bowler-nickname>Shenwari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<bowler-name>Najibullah</bowler-name>
+					<bowler-nickname>Najibullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<bowler-name>Zazai</bowler-name>
+					<bowler-nickname>Zazai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>211</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>49.3</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<batsman-name>Ahmadi</batsman-name>
+					<batsman-nickname>Ahmadi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>51</runs>
+					<balls>51</balls>
+					<fours>8</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Berrington</bowler>
+					<bowlerId>1398</bowlerId>
+						<fielder>Matt Machan</fielder>
+						<fielderId>6565</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<batsman-name>Nawroz</batsman-name>
+					<batsman-nickname>Nawroz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>13</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>A Evans</bowler>
+					<bowlerId>3053</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3004</playerid>
+					<name>Asghar Stanikzai</name>
+					<batsman-name>Stanikzai</batsman-name>
+					<batsman-nickname>Stanikzai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>3</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Evans</bowler>
+					<bowlerId>3053</bowlerId>
+						<fielder>Matthew Cross</fielder>
+						<fielderId>9365</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<batsman-name>Shenwari</batsman-name>
+					<batsman-nickname>Shenwari</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>96</runs>
+					<balls>147</balls>
+					<fours>7</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Haq</bowler>
+					<bowlerId>646</bowlerId>
+						<fielder>Josh Davey</fielder>
+						<fielderId>6657</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<batsman-name>Nabi</batsman-name>
+					<batsman-nickname>Nabi</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>J Davey</bowler>
+					<bowlerId>6657</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<batsman-name>Zazai</batsman-name>
+					<batsman-nickname>Zazai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>R Berrington</bowler>
+					<bowlerId>1398</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<batsman-name>Najibullah</batsman-name>
+					<batsman-nickname>Najibullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Berrington</bowler>
+					<bowlerId>1398</bowlerId>
+						<fielder>Majid Haq</fielder>
+						<fielderId>646</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8030</playerid>
+					<name>Gulbadin Naib</name>
+					<batsman-name>Naib</batsman-name>
+					<batsman-nickname>Naib</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Davey</bowler>
+					<bowlerId>6657</bowlerId>
+						<fielder>Majid Haq</fielder>
+						<fielderId>646</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<batsman-name>Dawlat Zadran</batsman-name>
+					<batsman-nickname>Dawlat Zadran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>25</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Berrington</bowler>
+					<bowlerId>1398</bowlerId>
+						<fielder>Preston Mommsen</fielder>
+						<fielderId>6744</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<batsman-name>Hamid</batsman-name>
+					<batsman-nickname>Hamid</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>39</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<batsman-name>Shapoor</batsman-name>
+					<batsman-nickname>Shapoor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>10</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>3008</playerid>
+				<nbr>1</nbr>
+				<runs>42</runs>
+				<overs>7.3</overs>
+				<batsman>Nawroz Mangal</batsman>
+				<batsman-name>Nawroz</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3004</playerid>
+				<nbr>2</nbr>
+				<runs>46</runs>
+				<overs>7.6</overs>
+				<batsman>Asghar Stanikzai</batsman>
+				<batsman-name>Stanikzai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7614</playerid>
+				<nbr>3</nbr>
+				<runs>85</runs>
+				<overs>18.1</overs>
+				<batsman>Javed Ahmadi</batsman>
+				<batsman-name>Ahmadi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3007</playerid>
+				<nbr>4</nbr>
+				<runs>88</runs>
+				<overs>19.6</overs>
+				<batsman>Mohammad Nabi</batsman>
+				<batsman-name>Nabi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8278</playerid>
+				<nbr>5</nbr>
+				<runs>89</runs>
+				<overs>20.6</overs>
+				<batsman>Afsar Zazai</batsman>
+				<batsman-name>Zazai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8375</playerid>
+				<nbr>6</nbr>
+				<runs>96</runs>
+				<overs>22.6</overs>
+				<batsman>Najibullah Zadran</batsman>
+				<batsman-name>Najibullah</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8030</playerid>
+				<nbr>7</nbr>
+				<runs>97</runs>
+				<overs>23.4</overs>
+				<batsman>Gulbadin Naib</batsman>
+				<batsman-name>Naib</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8029</playerid>
+				<nbr>8</nbr>
+				<runs>132</runs>
+				<overs>34.6</overs>
+				<batsman>Dawlat Zadran</batsman>
+				<batsman-name>Dawlat Zadran</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3011</playerid>
+				<nbr>9</nbr>
+				<runs>192</runs>
+				<overs>46.5</overs>
+				<batsman>Samiullah Shenwari</batsman>
+				<batsman-name>Shenwari</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>10</wides>
+			<noballs>1</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="Scotland">
+			<players>
+				<player>
+					<playerid>8423</playerid>
+					<name>Iain Wardlaw</name>
+					<bowler-name>Iain Wardlaw</bowler-name>
+					<bowler-nickname>Iain Wardlaw</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9.3</overs>
+					<maidens>0</maidens>
+					<runsoff>61</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6657</playerid>
+					<name>Josh Davey</name>
+					<bowler-name>J Davey</bowler-name>
+					<bowler-nickname>Davey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>34</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3053</playerid>
+					<name>Alasdair Evans</name>
+					<bowler-name>A Evans</bowler-name>
+					<bowler-nickname>Alasdair Evans</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>2</wickets>
+					<wides>4</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>646</playerid>
+					<name>Majid Haq</name>
+					<bowler-name>M Haq</bowler-name>
+					<bowler-nickname>Haq</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1398</playerid>
+					<name>Richie Berrington</name>
+					<bowler-name>R Berrington</bowler-name>
+					<bowler-nickname>Berrington</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>40</runsoff>
+					<wickets>4</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1416</playerid>
+					<name>Calum MacLeod</name>
+					<bowler-name>C MacLeod</bowler-name>
+					<bowler-nickname>MacLeod</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1415</playerid>
+					<name>Kyle Coetzer</name>
+					<bowler-name>K Coetzer</bowler-name>
+					<bowler-nickname>Coetzer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9523</playerid>
+					<name>Hamish Gardiner</name>
+					<bowler-name>H Gardiner</bowler-name>
+					<bowler-nickname>Gardiner</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6565</playerid>
+					<name>Matt Machan</name>
+					<bowler-name>M Machan</bowler-name>
+					<bowler-nickname>Machan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6744</playerid>
+					<name>Preston Mommsen</name>
+					<bowler-name>P Mommsen</bowler-name>
+					<bowler-nickname>Mommsen</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9365</playerid>
+					<name>Matthew Cross</name>
+					<bowler-name>M Cross</bowler-name>
+					<bowler-nickname>Matthew Cross</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

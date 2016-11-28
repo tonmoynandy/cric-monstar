@@ -1,0 +1,1007 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12896" >
+		<type>ODI</type>
+		<gameDesc>42nd Match, Pool B</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>Ireland</home>
+		<away>Pakistan</away>
+		<teamsabbr>IRE vs PAK</teamsabbr>
+		<homeabbr>IRE</homeabbr>
+		<awayabbr>PAK</awayabbr>
+		<homeId>27</homeId>
+		<awayId>3</awayId>
+		<venue>Adelaide Oval, Adelaide</venue>
+		<startdate>15 03 2015</startdate>
+		<enddate>15 03 2015</enddate>
+		<toss>
+			<winner>Ireland</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status></status>
+		<result type="win">
+			<winningteam>Pakistan</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>7</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Marais Erasmus</Name>
+			<Country>RSA</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Ruchira Palliyaguru</Name>
+			<Country>SL</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Simon Fry</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Ranjan Madugalle</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>03:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150315110745</actualendGMT>
+	</match>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>237</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Ireland">
+			<players>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<batsman-name>Porterfield</batsman-name>
+					<batsman-nickname>Porterfield</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>107</runs>
+					<balls>131</balls>
+					<fours>11</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Khan</bowler>
+					<bowlerId>1120</bowlerId>
+						<fielder>Shahid Afridi</fielder>
+						<fielderId>142</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<batsman-name>Stirling</batsman-name>
+					<batsman-nickname>Stirling</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Ehsan Adil</bowler>
+					<bowlerId>8362</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<batsman-name>Ed Joyce</batsman-name>
+					<batsman-nickname>Ed Joyce</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>18</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Riaz</bowler>
+					<bowlerId>1051</bowlerId>
+						<fielder>Umar Akmal</fielder>
+						<fielderId>1992</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<batsman-name>N O'Brien</batsman-name>
+					<batsman-nickname>N O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>10</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rahat Ali</bowler>
+					<bowlerId>8301</bowlerId>
+						<fielder>Umar Akmal</fielder>
+						<fielderId>1992</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6710</playerid>
+					<name>Andrew Balbirnie</name>
+					<batsman-name>Balbirnie</batsman-name>
+					<batsman-nickname>Balbirnie</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>36</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>H Sohail</bowler>
+					<bowlerId>8299</bowlerId>
+						<fielder>Shahid Afridi</fielder>
+						<fielderId>142</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<batsman-name>G Wilson</batsman-name>
+					<batsman-nickname>G Wilson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>29</runs>
+					<balls>38</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Khan</bowler>
+					<bowlerId>1120</bowlerId>
+						<fielder>Wahab Riaz</fielder>
+						<fielderId>1051</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>690</playerid>
+					<name>Kevin O'Brien</name>
+					<batsman-name>K O'Brien</batsman-name>
+					<batsman-nickname>K O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>16</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Riaz</bowler>
+					<bowlerId>1051</bowlerId>
+						<fielder>Sohaib Maqsood</fielder>
+						<fielderId>9524</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7985</playerid>
+					<name>Stuart Thompson</name>
+					<batsman-name>S Thompson</batsman-name>
+					<batsman-nickname>S Thompson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>15</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Rahat Ali</bowler>
+					<bowlerId>8301</bowlerId>
+						<fielder>Umar Akmal</fielder>
+						<fielderId>1992</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>622</playerid>
+					<name>John Mooney</name>
+					<batsman-name>J Mooney</batsman-name>
+					<batsman-nickname>J Mooney</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Riaz</bowler>
+					<bowlerId>1051</bowlerId>
+						<fielder>Umar Akmal</fielder>
+						<fielderId>1992</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6329</playerid>
+					<name>George Dockrell</name>
+					<batsman-name>Dockrell</batsman-name>
+					<batsman-nickname>Dockrell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Sarfraz Ahmed</fielder>
+						<fielderId>881</fielderId>
+						<fielder2>Wahab Riaz</fielder2>
+						<fielderId2>1051</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>735</playerid>
+					<name>Alex Cusack</name>
+					<batsman-name>Cusack</batsman-name>
+					<batsman-nickname>Cusack</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1114</playerid>
+				<nbr>1</nbr>
+				<runs>11</runs>
+				<overs>3.3</overs>
+				<batsman>Paul Stirling</batsman>
+				<batsman-name>Stirling</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>540</playerid>
+				<nbr>2</nbr>
+				<runs>56</runs>
+				<overs>12.3</overs>
+				<batsman>Ed Joyce</batsman>
+				<batsman-name>Ed Joyce</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>691</playerid>
+				<nbr>3</nbr>
+				<runs>86</runs>
+				<overs>16.4</overs>
+				<batsman>Niall O'Brien</batsman>
+				<batsman-name>N O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6710</playerid>
+				<nbr>4</nbr>
+				<runs>134</runs>
+				<overs>29.4</overs>
+				<batsman>Andrew Balbirnie</batsman>
+				<batsman-name>Balbirnie</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>625</playerid>
+				<nbr>5</nbr>
+				<runs>182</runs>
+				<overs>38.5</overs>
+				<batsman>William Porterfield</batsman>
+				<batsman-name>Porterfield</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>739</playerid>
+				<nbr>6</nbr>
+				<runs>189</runs>
+				<overs>40.3</overs>
+				<batsman>Gary Wilson</batsman>
+				<batsman-name>G Wilson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7985</playerid>
+				<nbr>7</nbr>
+				<runs>204</runs>
+				<overs>43.5</overs>
+				<batsman>Stuart Thompson</batsman>
+				<batsman-name>S Thompson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>690</playerid>
+				<nbr>8</nbr>
+				<runs>216</runs>
+				<overs>47.1</overs>
+				<batsman>Kevin O'Brien</batsman>
+				<batsman-name>K O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>622</playerid>
+				<nbr>9</nbr>
+				<runs>230</runs>
+				<overs>49.2</overs>
+				<batsman>John Mooney</batsman>
+				<batsman-name>J Mooney</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6329</playerid>
+				<nbr>10</nbr>
+				<runs>237</runs>
+				<overs>50</overs>
+				<batsman>George Dockrell</batsman>
+				<batsman-name>Dockrell</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>10</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="Pakistan">
+			<players>
+				<player>
+					<playerid>1120</playerid>
+					<name>Sohail Khan</name>
+					<bowler-name>S Khan</bowler-name>
+					<bowler-nickname>Sohail Khan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8362</playerid>
+					<name>Ehsan Adil</name>
+					<bowler-name>Ehsan Adil</bowler-name>
+					<bowler-nickname>Ehsan Adil</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8301</playerid>
+					<name>Rahat Ali</name>
+					<bowler-name>Rahat Ali</bowler-name>
+					<bowler-nickname>Rahat Ali</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>48</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<bowler-name>Riaz</bowler-name>
+					<bowler-nickname>Riaz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>54</runsoff>
+					<wickets>3</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>142</playerid>
+					<name>Shahid Afridi</name>
+					<bowler-name>Afridi</bowler-name>
+					<bowler-nickname>Afridi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8299</playerid>
+					<name>Haris Sohail</name>
+					<bowler-name>H Sohail</bowler-name>
+					<bowler-nickname>Sohail</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>20</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>881</playerid>
+					<name>Sarfraz Ahmed</name>
+					<bowler-name>S Ahmed</bowler-name>
+					<bowler-nickname>Sarfraz Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1787</playerid>
+					<name>Ahmed Shehzad</name>
+					<bowler-name>Ahmed Shehzad</bowler-name>
+					<bowler-nickname>Ahmed Shehzad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>274</playerid>
+					<name>Misbah-ul-Haq</name>
+					<bowler-name>Misbah</bowler-name>
+					<bowler-nickname>Misbah</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9524</playerid>
+					<name>Sohaib Maqsood</name>
+					<bowler-name>S Maqsood</bowler-name>
+					<bowler-nickname>Maqsood</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1992</playerid>
+					<name>Umar Akmal</name>
+					<bowler-name>U Akmal</bowler-name>
+					<bowler-nickname>U Akmal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>241</totalruns>
+		<totalwickets>3</totalwickets>
+		<totalovers>46.1</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Pakistan">
+			<players>
+				<player>
+					<playerid>1787</playerid>
+					<name>Ahmed Shehzad</name>
+					<batsman-name>Ahmed Shehzad</batsman-name>
+					<batsman-nickname>Ahmed Shehzad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>63</runs>
+					<balls>71</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Thompson</bowler>
+					<bowlerId>7985</bowlerId>
+						<fielder>Ed Joyce</fielder>
+						<fielderId>540</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>881</playerid>
+					<name>Sarfraz Ahmed</name>
+					<batsman-name>S Ahmed</batsman-name>
+					<batsman-nickname>Sarfraz Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>101</runs>
+					<balls>124</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8299</playerid>
+					<name>Haris Sohail</name>
+					<batsman-name>H Sohail</batsman-name>
+					<batsman-nickname>Sohail</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Andrew Balbirnie</fielder>
+						<fielderId>6710</fielderId>
+						<fielder2>George Dockrell</fielder2>
+						<fielderId2>6329</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>274</playerid>
+					<name>Misbah-ul-Haq</name>
+					<batsman-name>Misbah</batsman-name>
+					<batsman-nickname>Misbah</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>39</runs>
+					<balls>46</balls>
+					<fours>3</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[hitwicket]]></status>
+					<bowler>Cusack</bowler>
+					<bowlerId>735</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1992</playerid>
+					<name>Umar Akmal</name>
+					<batsman-name>U Akmal</batsman-name>
+					<batsman-nickname>U Akmal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>29</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9524</playerid>
+					<name>Sohaib Maqsood</name>
+					<batsman-name>S Maqsood</batsman-name>
+					<batsman-nickname>Maqsood</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>142</playerid>
+					<name>Shahid Afridi</name>
+					<batsman-name>Afridi</batsman-name>
+					<batsman-nickname>Afridi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<batsman-name>Riaz</batsman-name>
+					<batsman-nickname>Riaz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1120</playerid>
+					<name>Sohail Khan</name>
+					<batsman-name>S Khan</batsman-name>
+					<batsman-nickname>Sohail Khan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8301</playerid>
+					<name>Rahat Ali</name>
+					<batsman-name>Rahat Ali</batsman-name>
+					<batsman-nickname>Rahat Ali</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8362</playerid>
+					<name>Ehsan Adil</name>
+					<batsman-name>Ehsan Adil</batsman-name>
+					<batsman-nickname>Ehsan Adil</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1787</playerid>
+				<nbr>1</nbr>
+				<runs>120</runs>
+				<overs>22.4</overs>
+				<batsman>Ahmed Shehzad</batsman>
+				<batsman-name>Ahmed Shehzad</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8299</playerid>
+				<nbr>2</nbr>
+				<runs>126</runs>
+				<overs>24.3</overs>
+				<batsman>Haris Sohail</batsman>
+				<batsman-name>H Sohail</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>274</playerid>
+				<nbr>3</nbr>
+				<runs>208</runs>
+				<overs>38.2</overs>
+				<batsman>Misbah-ul-Haq</batsman>
+				<batsman-name>Misbah</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>13</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>15</total>
+		</extras>
+		<bowlteam name="Ireland">
+			<players>
+				<player>
+					<playerid>735</playerid>
+					<name>Alex Cusack</name>
+					<bowler-name>Cusack</bowler-name>
+					<bowler-nickname>Cusack</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>43</runsoff>
+					<wickets>1</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>622</playerid>
+					<name>John Mooney</name>
+					<bowler-name>J Mooney</bowler-name>
+					<bowler-nickname>J Mooney</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>1</maidens>
+					<runsoff>40</runsoff>
+					<wickets>0</wickets>
+					<wides>6</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7985</playerid>
+					<name>Stuart Thompson</name>
+					<bowler-name>S Thompson</bowler-name>
+					<bowler-nickname>S Thompson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>59</runsoff>
+					<wickets>1</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6329</playerid>
+					<name>George Dockrell</name>
+					<bowler-name>Dockrell</bowler-name>
+					<bowler-nickname>Dockrell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>43</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>690</playerid>
+					<name>Kevin O'Brien</name>
+					<bowler-name>K O'Brien</bowler-name>
+					<bowler-nickname>K O'Brien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>49</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<bowler-name>Stirling</bowler-name>
+					<bowler-nickname>Stirling</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1.1</overs>
+					<maidens>0</maidens>
+					<runsoff>5</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<bowler-name>Porterfield</bowler-name>
+					<bowler-nickname>Porterfield</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<bowler-name>Ed Joyce</bowler-name>
+					<bowler-nickname>Ed Joyce</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<bowler-name>N O'Brien</bowler-name>
+					<bowler-nickname>N O'Brien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6710</playerid>
+					<name>Andrew Balbirnie</name>
+					<bowler-name>Balbirnie</bowler-name>
+					<bowler-nickname>Balbirnie</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<bowler-name>G Wilson</bowler-name>
+					<bowler-nickname>G Wilson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

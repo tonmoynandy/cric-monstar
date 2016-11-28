@@ -1,0 +1,1515 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14284" >
+		<type>TEST</type>
+		<gameDesc>County Div 2</gameDesc>
+		<series>County Championship Division Two 2015</series>
+		<matchday>4</matchday>
+		<home>Glamorgan</home>
+		<away>Derbyshire</away>
+		<teamsabbr>GLAM vs DERBY</teamsabbr>
+		<homeabbr>GLAM</homeabbr>
+		<awayabbr>DERBY</awayabbr>
+		<homeId>149</homeId>
+		<awayId>144</awayId>
+		<venue>Sophia Gardens, Cardiff</venue>
+		<startdate>03 05 2015</startdate>
+		<enddate>06 05 2015</enddate>
+		<toss>
+			<winner>Glamorgan</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Match drawn</status>
+		<result type="draw">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Nigel Cowley</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Alex Wharf</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150506161006</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>3</currentinningsno>
+		<batteamname>Derby</batteamname>
+		<bwlteamname>Glam</bwlteamname>
+		<batteamruns>209</batteamruns>
+		<batteamwkts>2</batteamwkts>
+		<batteamovers>55</batteamovers>
+		<status>Match drawn</status>
+		<batsman>
+			<playerid>6808</playerid>
+			<name>Wayne Madsen*</name>
+			<batsman-name>W Madsen</batsman-name>
+			<batsman-nickname>Madsen</batsman-nickname>
+			<runs>72</runs>
+			<balls-faced>142</balls-faced>
+			<fours>5</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>7672</playerid>
+			<name>Scott Elstone</name>
+			<batsman-name>Scott Elstone</batsman-name>
+			<batsman-nickname>Scott Elstone</batsman-nickname>
+			<runs>103</runs>
+			<balls-faced>131</balls-faced>
+			<fours>8</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<bowler>
+			<playerid>6803</playerid>
+			<name>Graham Wagg*</name>
+			<bowler-name>G Wagg</bowler-name>
+			<bowler-nickname>Wagg</bowler-nickname>
+			<overs>8</overs>
+			<maidens>0</maidens>
+			<runs>34</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8304</playerid>
+			<name>Dean Cosker</name>
+			<bowler-name>D Cosker</bowler-name>
+			<bowler-nickname>D Cosker</bowler-nickname>
+			<overs>22</overs>
+			<maidens>2</maidens>
+			<runs>83</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target></target>
+<lastwicket>
+<playerid>6804</playerid>
+<name>Ben Slater</name>
+<player-runs>13</player-runs>
+<player-balls>37</player-balls>
+<runs>32</runs>
+<wicket-nbr>2</wicket-nbr>
+<bowlerid>8304</bowlerid>
+<bowlername>D Cosker</bowlername>
+</lastwicket>
+		<extras>
+			<byes>7</byes>
+			<wides>1</wides>
+			<noballs>4</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>14</total>
+		</extras>
+		<prevOvers><![CDATA[1 . 1 1 . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 . 6 . 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 2 . 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 1 . 1 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV2/GLAM_DERBY_MAY03_MAY06/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[54.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Wagg to Madsen, 2 runs]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>SIX</b>]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>wide</b>]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 2 runs]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Wagg [5.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Hogan to Madsen, 1 run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Hogan to Madsen, <b>FOUR</b>]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Hogan to Madsen, 1 run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 3 runs]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Hogan to Madsen, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Hogan to Madsen, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, byes, 3 runs]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, <b>FOUR</b>]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, <b>no ball</b>]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Hogan to Madsen, 1 run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 2 runs]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dean Cosker [14.0-1-37-1] is back into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Hogan [5.0-1-12-1] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 1 run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 2 runs]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Wagg to Madsen, <b>FOUR</b>]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 1 run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Bragg to Madsen, 1 run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Bragg to Madsen, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Bragg to Madsen, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 1 run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Bragg to Madsen, 1 run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Bragg to Scott Elstone, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Bragg to Madsen, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>William Bragg, comes into the attack</b>]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Wagg to Madsen, leg byes, 1 run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 3 runs]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 2 runs]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Wagg, comes into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 1 run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 2 runs]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, 1 run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 1 run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 1 run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andy Carter [3.0-1-4-0] is back into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, 2 runs]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Rudolph to Madsen, 1 run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Rudolph to Madsen, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Rudolph to Madsen, 2 runs]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Rudolph to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 2 runs]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, 1 run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Rudolph to Madsen, 1 run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, 1 run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Rudolph to Madsen, 1 run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Rudolph to Scott Elstone, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Rudolph to Madsen, 1 run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Rudolph to Madsen, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Rudolph to Madsen, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Rudolph to Madsen, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Rudolph to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jacques Rudolph, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, 1 run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, 1 run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Meschede to Madsen, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Meschede to Madsen, 2 runs]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, leg byes, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Meschede to Madsen, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[<b>Scott Elstone, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, <b>out</b> Caught by Ingram!! <b>Ben Slater c Ingram b D Cosker 13(37) [4s-2]</b>]]></line><line><![CDATA[D Cosker to Ben Slater, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Meschede to Madsen, <b>FOUR</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Meschede to Madsen, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Craig Meschede, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;D Cosker to Madsen, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, 1 run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Hogan to Madsen, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Hogan to Madsen, 2 runs]]></line><line><![CDATA[<b>Wayne Madsen, right handed bat, comes to the crease</b>]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, <b>out</b> Lbw!! <b>Chesney Hughes lbw b Hogan 7(22) [4s-1]</b>]]></line><line><![CDATA[Hogan to Chesney Hughes, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;D Cosker to Chesney Hughes, 3 runs]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;D Cosker to Chesney Hughes, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, byes, 3 runs]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;D Cosker to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dean Cosker, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, <b>FOUR</b>]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 1 run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Andy Carter to Chesney Hughes, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, 1 run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, <b>no ball</b>]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, byes, 1 run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Hogan, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Andy Carter to Chesney Hughes, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Andy Carter to Chesney Hughes, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Andy Carter to Chesney Hughes, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Andy Carter to Chesney Hughes, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Andy Carter to Chesney Hughes, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Slater and Chesney Hughes are at the crease. Ben Slater is on strike. Andy Carter will open the attack</b>]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, 2 runs]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, <b>FOUR</b>]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Footitt to Mark Wallace, 2 runs]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Footitt to Mark Wallace, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Footitt to Mark Wallace, no run]]></line><line><![CDATA[<b>Mark Wallace, left handed bat, comes to the crease</b>]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Footitt to Ingram, <b>out</b> Caught by Hosein!! <b>Ingram c Hosein b Footitt 12(27) [4s-2]</b>]]></line><line><![CDATA[Footitt to Ingram, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Footitt to Ingram, <b>FOUR</b>]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Footitt to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;A Hughes to C Cooke, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;A Hughes to Ingram, leg byes, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;A Hughes to Ingram, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;A Hughes to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Footitt to Ingram, 1 run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Footitt to Ingram, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Footitt to Ingram, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Footitt to Ingram, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Footitt to Ingram, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Footitt to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mark Footitt [9.0-4-19-0] is back into the attack</b>]]></line><line><![CDATA[<b>Chris Cooke, right handed bat, comes to the crease</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;A Hughes to Bragg, <b>out</b> Caught by Hosein!! <b>Bragg c Hosein b A Hughes 14(34) [4s-1]</b>]]></line><line><![CDATA[A Hughes to Bragg, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;A Hughes to Ingram, 1 run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;A Hughes to Ingram, <b>FOUR</b>]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;A Hughes to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Ben Cotton to Bragg, 2 runs]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Ben Cotton to Bragg, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Ben Cotton to Bragg, 2 runs]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Ben Cotton to Bragg, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Ben Cotton to Bragg, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Ben Cotton to Bragg, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Cotton [8.0-2-28-0] is back into the attack</b>]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;A Hughes to Bragg, 1 run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;A Hughes to Bragg, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;A Hughes to Ingram, 1 run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;A Hughes to Ingram, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;A Hughes to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Thakor to Bragg, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Thakor to Bragg, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Thakor to Bragg, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Thakor to Ingram, 1 run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Thakor to Ingram, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;A Hughes to Bragg, <b>FOUR</b>]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;A Hughes to Bragg, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alex Hughes, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[<b>Colin Ingram, left handed bat, comes to the crease</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, <b>out</b> Bowled!! <b>Kettleborough b Thakor 17(82) [4s-1]</b>]]></line><line><![CDATA[Thakor to Kettleborough, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, leg byes, <b>FOUR</b>]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Thakor to Bragg, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Thakor to Bragg, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Thakor to Bragg, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Bragg, 1 run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Bragg, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Thakor to Bragg, 1 run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Thakor to Bragg, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, 2 runs]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>William Bragg, left handed bat, comes to the crease</b>]]></line><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Thakor to Rudolph, <b>out</b> Lbw!! <b>Rudolph lbw b Thakor 43(67) [4s-6]</b>]]></line><line><![CDATA[Thakor to Rudolph, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Thakor to Rudolph, <b>FOUR</b>]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, 1 run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, 1 run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, 1 run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matthew Critchley, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Thakor to Kettleborough, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Thakor to Rudolph, 3 runs]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Thakor to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shiv Thakor, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, <b>FOUR</b>]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, <b>FOUR</b>]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Footitt to Rudolph, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Footitt to Rudolph, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, <b>FOUR</b>]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, <b>FOUR</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, 2 runs]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, <b>FOUR</b>]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, <b>FOUR</b>]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Footitt to Rudolph, 3 runs]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Footitt to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Ben Cotton to Kettleborough, 1 run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Ben Cotton to Kettleborough, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Ben Cotton to Kettleborough, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, 3 runs]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Footitt to Rudolph, 3 runs]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Footitt to Rudolph, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Footitt to Rudolph, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Footitt to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Ben Cotton to Kettleborough, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Ben Cotton to Kettleborough, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Ben Cotton to Kettleborough, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, 3 runs]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Ben Cotton to Rudolph, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Cotton, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, leg byes, <b>FOUR</b>]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, 2 runs]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Footitt to Kettleborough, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kettleborough and Rudolph are at the crease. Kettleborough is on strike. Footitt will open the attack</b>]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Wagg to Footitt, <b>out</b> Caught by Hogan!! <b>Footitt c Hogan b Wagg 4(7)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Wagg to Footitt, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Wagg to Footitt, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Wagg to Wainwright, 1 run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Wagg to Footitt, 1 run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Wagg to Wainwright, <b>no ball</b>, 1 run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Wagg to Footitt, 1 run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Wagg to Wainwright, 1 run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Wagg to Wainwright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Hogan to Footitt, no run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Hogan to Wainwright, 1 run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;Wagg to Footitt, 2 runs]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;Wagg to Footitt, no run]]></line><line><![CDATA[<b>Mark Footitt, right handed bat, comes to the crease</b>]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, <b>out</b> Caught by Rudolph!! <b>Ben Cotton c Rudolph b Wagg 7(13) [4s-1]</b>]]></line><line><![CDATA[Wagg to Ben Cotton, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, <b>FOUR</b>]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, 2 runs]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Wagg to Ben Cotton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Wagg [11.0-2-41-1] is back into the attack</b>]]></line><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Hogan to Wainwright, no run]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Hogan to Ben Cotton, 1 run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Hogan to Ben Cotton, no run]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Hogan to Ben Cotton, no run]]></line><line><![CDATA[<b>Ben Cotton, right handed bat, comes to the crease</b>]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Hogan to Matthew Critchley, <b>out</b> Caught by Mark Wallace!! <b>Matthew Critchley c Mark Wallace b Hogan 8(9) [4s-2]</b>]]></line><line><![CDATA[Hogan to Matthew Critchley, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Hogan to Matthew Critchley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Hogan [13.0-2-41-1] is back into the attack</b>]]></line><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Meschede to Wainwright, no run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Meschede to Wainwright, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Meschede to Wainwright, no run]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Meschede to Wainwright, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Meschede to Wainwright, no run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Meschede to Wainwright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Andy Carter to Matthew Critchley, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Andy Carter to Matthew Critchley, <b>FOUR</b>]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Andy Carter to Matthew Critchley, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Andy Carter to Matthew Critchley, no run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Andy Carter to Wainwright, 1 run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Andy Carter to Wainwright, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Meschede to Matthew Critchley, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Meschede to Matthew Critchley, <b>FOUR</b>]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Meschede to Matthew Critchley, no run]]></line><line><![CDATA[<b>Matthew Critchley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Meschede to A Hughes, <b>out</b> Caught by Mark Wallace!! <b>A Hughes c Mark Wallace b Meschede 14(41) [4s-1]</b>]]></line><line><![CDATA[Meschede to A Hughes, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Meschede to Wainwright, 1 run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Meschede to A Hughes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Andy Carter to Wainwright, no run]]></line><line><![CDATA[<b>David Wainwright, left handed bat, comes to the crease</b>]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Andy Carter to Hosein, <b>out</b> Caught by Mark Wallace!! <b>Hosein c Mark Wallace b Andy Carter 1(9)</b>]]></line><line><![CDATA[Andy Carter to Hosein, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Andy Carter to Hosein, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Andy Carter to Hosein, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Andy Carter to Hosein, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Andy Carter to Hosein, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Meschede to Hosein, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Meschede to Hosein, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Meschede to Hosein, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Meschede to Hosein, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, 2 runs]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[<b>Harvey Hosein, right handed bat, comes to the crease</b>]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, <b>out</b> Caught by Wagg!! <b>Thakor c Wagg b Andy Carter 18(38) [4s-3]</b>]]></line><line><![CDATA[Andy Carter to Thakor, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Meschede to Thakor, 1 run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Meschede to Thakor, byes, <b>FOUR</b>]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Meschede to A Hughes, 1 run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, <b>FOUR</b>]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, 1 run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, 1 run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Meschede to A Hughes, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Meschede to Thakor, <b>no ball</b>, 1 run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, <b>no ball</b>]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Meschede to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, 2 runs]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, 1 run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, 2 runs]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Hogan to Thakor, byes, 1 run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Hogan to Thakor, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Hogan to Thakor, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Hogan to A Hughes, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, <b>FOUR</b>]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Hogan to A Hughes, <b>FOUR</b>]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, 1 run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Andy Carter to A Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Hogan to Thakor, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Hogan to Thakor, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Hogan to Thakor, <b>FOUR</b>]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Hogan to A Hughes, 1 run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Hogan to A Hughes, no run]]></line><line><![CDATA[<b>Alex Hughes, right handed bat, comes to the crease</b>]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, <b>out</b> Caught by C Cooke!! <b>Scott Elstone c C Cooke b Hogan 48(83) [4s-7]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Hogan to Scott Elstone, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Michael Hogan [10.0-2-31-0] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Andy Carter to Thakor, no run]]></line><line><![CDATA[<b>Shiv Thakor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, <b>out</b> Caught by Mark Wallace!! <b>Ben Slater c Mark Wallace b Andy Carter 53(122) [4s-6]</b>]]></line><line><![CDATA[Andy Carter to Ben Slater, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andy Carter [10.0-4-20-1] is back into the attack</b>]]></line><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, 1 run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, byes, 2 runs]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;D Cosker to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dean Cosker, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, 3 runs]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, 2 runs]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Wagg to Scott Elstone, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, 3 runs]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Meschede to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, 3 runs]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Meschede to Scott Elstone, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Craig Meschede, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Wagg [7.0-1-28-1] is back into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 1 run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 3 runs]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 1 run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 1 run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, <b>no ball</b>]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 1 run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, leg byes, <b>FOUR</b>]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, 1 run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Hogan to Scott Elstone, <b>no ball</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 5 runs]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 2 runs]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Hogan [3.0-1-13-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, 2 runs]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Andy Carter to Scott Elstone, no run]]></line><line><![CDATA[<b>Scott Elstone, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Andy Carter to Madsen, <b>out</b> Lbw!! <b>Madsen lbw b Andy Carter 1(5)</b>]]></line><line><![CDATA[Andy Carter to Madsen, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Wagg to Madsen, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Wagg to Madsen, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Wagg to Madsen, <b>no ball</b>]]></line><line><![CDATA[<b>Wayne Madsen, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, <b>out</b> Caught by Meschede!! <b>Chesney Hughes c Meschede b Wagg 9(30) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Wagg to Chesney Hughes, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, <b>no ball</b>]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, <b>FOUR</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Andy Carter to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andy Carter, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, <b>wide</b>]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, 1 run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, 2 runs]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, 1 run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, <b>no ball</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Hogan to Ben Slater, <b>no ball</b>, 3 runs]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, 1 run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Hogan to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Hogan, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, 2 runs]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, 1 run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Wagg to Chesney Hughes, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Wagg to Ben Slater, byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Slater and Chesney Hughes are at the crease. Ben Slater is on strike. Wagg will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Derbyshire</b> (Playing XI): Ben Slater, Chesney Hughes, Wayne Madsen(c), Scott Elstone, Shiv Thakor, Alex Hughes, Harvey Hosein(w), David Wainwright, Matthew Critchley, Ben Cotton, Mark Footitt]]></line><line><![CDATA[<b>Glamorgan</b> (Playing XI): James Kettleborough, Jacques Rudolph(c), William Bragg, Colin Ingram, Chris Cooke, Mark Wallace(w), Craig Meschede, Graham Wagg, Dean Cosker, Michael Hogan, Andy Carter]]></line><line><![CDATA[<b>Glamorgan have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Derbyshire</b> (From): Wayne Madsen(c), Peter Burgoyne, Greg Cork, Wes Durston, Mark Footitt, Martin Guptill, Chesney Hughes, Jonathan Marsden, Tom Poynton, Tom Taylor, David Wainwright, Paul Borrington, Jonathan Clare, Ben Cotton, Chris Durham, Scott Elstone, Billy Godleman, Alex Hughes, Tom Knight, Tony Palladino, Ben Slater, Shiv Thakor, Wayne White, Harvey Hosein(w)]]></line><line><![CDATA[<b>Glamorgan</b> (From): Mark Wallace(c/w), Keiran Bull, Dean Cosker, Michael Hogan, James Kettleborough, Craig Meschede, Will Owen, Andrew Salter, Graham Wagg, William Bragg, Chris Cooke, Aneurin Donald, Colin Ingram, David Lloyd, David Murphy, Jacques Rudolph, Ruaidhri Smith, Ben Wright, Andy Carter]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>205</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>63.1</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<batsman-name>Ben Slater</batsman-name>
+					<batsman-nickname>Ben Slater</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>53</runs>
+					<balls>122</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Carter</bowler>
+					<bowlerId>6732</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<batsman-name>C Hughes</batsman-name>
+					<batsman-nickname>Chesney Hughes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>30</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder>Craig Meschede</fielder>
+						<fielderId>7940</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6808</playerid>
+					<name>Wayne Madsen</name>
+					<batsman-name>W Madsen</batsman-name>
+					<batsman-nickname>Madsen</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>A Carter</bowler>
+					<bowlerId>6732</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<batsman-name>Scott Elstone</batsman-name>
+					<batsman-nickname>Scott Elstone</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>48</runs>
+					<balls>83</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Hogan</bowler>
+					<bowlerId>7732</bowlerId>
+						<fielder>Chris Cooke</fielder>
+						<fielderId>7958</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<batsman-name>S Thakor</batsman-name>
+					<batsman-nickname>Thakor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>38</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Carter</bowler>
+					<bowlerId>6732</bowlerId>
+						<fielder>Graham Wagg</fielder>
+						<fielderId>6803</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7943</playerid>
+					<name>Alex Hughes</name>
+					<batsman-name>Alex Hughes</batsman-name>
+					<batsman-nickname>A Hughes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>41</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Meschede</bowler>
+					<bowlerId>7940</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<batsman-name>Hosein</batsman-name>
+					<batsman-nickname>Hosein</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>1</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Carter</bowler>
+					<bowlerId>6732</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6514</playerid>
+					<name>David Wainwright</name>
+					<batsman-name>D Wainwright</batsman-name>
+					<batsman-nickname>Wainwright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>32</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<batsman-name>Matthew Critchley</batsman-name>
+					<batsman-nickname>Matthew Critchley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>9</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Hogan</bowler>
+					<bowlerId>7732</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10029</playerid>
+					<name>Ben Cotton</name>
+					<batsman-name>Ben Cotton</batsman-name>
+					<batsman-nickname>Ben Cotton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>13</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder>Jacques Rudolph</fielder>
+						<fielderId>219</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<batsman-name>M Footitt</batsman-name>
+					<batsman-nickname>Footitt</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder>Michael Hogan</fielder>
+						<fielderId>7732</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6810</playerid>
+				<nbr>1</nbr>
+				<runs>26</runs>
+				<overs>10.1</overs>
+				<batsman>Chesney Hughes</batsman>
+				<batsman-name>C Hughes</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6808</playerid>
+				<nbr>2</nbr>
+				<runs>31</runs>
+				<overs>11.2</overs>
+				<batsman>Wayne Madsen</batsman>
+				<batsman-name>W Madsen</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6804</playerid>
+				<nbr>3</nbr>
+				<runs>132</runs>
+				<overs>38.5</overs>
+				<batsman>Ben Slater</batsman>
+				<batsman-name>Ben Slater</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7672</playerid>
+				<nbr>4</nbr>
+				<runs>132</runs>
+				<overs>39.1</overs>
+				<batsman>Scott Elstone</batsman>
+				<batsman-name>Scott Elstone</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7868</playerid>
+				<nbr>5</nbr>
+				<runs>172</runs>
+				<overs>50.3</overs>
+				<batsman>Shiv Thakor</batsman>
+				<batsman-name>S Thakor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10053</playerid>
+				<nbr>6</nbr>
+				<runs>175</runs>
+				<overs>52.5</overs>
+				<batsman>Harvey Hosein</batsman>
+				<batsman-name>Hosein</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7943</playerid>
+				<nbr>7</nbr>
+				<runs>177</runs>
+				<overs>53.3</overs>
+				<batsman>Alex Hughes</batsman>
+				<batsman-name>Alex Hughes</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10387</playerid>
+				<nbr>8</nbr>
+				<runs>188</runs>
+				<overs>56.2</overs>
+				<batsman>Matthew Critchley</batsman>
+				<batsman-name>Matthew Critchley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10029</playerid>
+				<nbr>9</nbr>
+				<runs>195</runs>
+				<overs>59.4</overs>
+				<batsman>Ben Cotton</batsman>
+				<batsman-name>Ben Cotton</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6812</playerid>
+				<nbr>10</nbr>
+				<runs>205</runs>
+				<overs>63.1</overs>
+				<batsman>Mark Footitt</batsman>
+				<batsman-name>M Footitt</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>8</byes>
+			<wides>2</wides>
+			<noballs>20</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>34</total>
+		</extras>
+		<bowlteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<bowler-name>G Wagg</bowler-name>
+					<bowler-nickname>Wagg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14.1</overs>
+					<maidens>2</maidens>
+					<runsoff>56</runsoff>
+					<wickets>3</wickets>
+					<wides>1</wides>
+					<noballs>3</noballs>
+				</player>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<bowler-name>M Hogan</bowler-name>
+					<bowler-nickname>Hogan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17</overs>
+					<maidens>4</maidens>
+					<runsoff>43</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>6732</playerid>
+					<name>Andy Carter</name>
+					<bowler-name>A Carter</bowler-name>
+					<bowler-nickname>Andy Carter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19</overs>
+					<maidens>5</maidens>
+					<runsoff>53</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<bowler-name>Meschede</bowler-name>
+					<bowler-nickname>Meschede</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>2</maidens>
+					<runsoff>29</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8304</playerid>
+					<name>Dean Cosker</name>
+					<bowler-name>D Cosker</bowler-name>
+					<bowler-nickname>D Cosker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<bowler-name>J Kettleborough</bowler-name>
+					<bowler-nickname>Kettleborough</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<bowler-name>J Rudolph</bowler-name>
+					<bowler-nickname>Rudolph</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<bowler-name>W Bragg</bowler-name>
+					<bowler-nickname>Bragg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<bowler-name>Ingram</bowler-name>
+					<bowler-nickname>Ingram</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<bowler-name>C Cooke</bowler-name>
+					<bowler-nickname>C Cooke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<bowler-name>Mark Wallace</bowler-name>
+					<bowler-nickname>Mark Wallace</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>103</totalruns>
+		<totalwickets>4</totalwickets>
+		<totalovers>36.5</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<batsman-name>J Kettleborough</batsman-name>
+					<batsman-nickname>Kettleborough</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>82</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>S Thakor</bowler>
+					<bowlerId>7868</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<batsman-name>J Rudolph</batsman-name>
+					<batsman-nickname>Rudolph</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>67</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>S Thakor</bowler>
+					<bowlerId>7868</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<batsman-name>W Bragg</batsman-name>
+					<batsman-nickname>Bragg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>34</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Alex Hughes</bowler>
+					<bowlerId>7943</bowlerId>
+						<fielder>Harvey Hosein</fielder>
+						<fielderId>10053</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<batsman-name>Ingram</batsman-name>
+					<batsman-nickname>Ingram</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>27</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Footitt</bowler>
+					<bowlerId>6812</bowlerId>
+						<fielder>Harvey Hosein</fielder>
+						<fielderId>10053</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<batsman-name>C Cooke</batsman-name>
+					<batsman-nickname>C Cooke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<batsman-name>Mark Wallace</batsman-name>
+					<batsman-nickname>Mark Wallace</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>2</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<batsman-name>Meschede</batsman-name>
+					<batsman-nickname>Meschede</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<batsman-name>G Wagg</batsman-name>
+					<batsman-nickname>Wagg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8304</playerid>
+					<name>Dean Cosker</name>
+					<batsman-name>D Cosker</batsman-name>
+					<batsman-nickname>D Cosker</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<batsman-name>M Hogan</batsman-name>
+					<batsman-nickname>Hogan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6732</playerid>
+					<name>Andy Carter</name>
+					<batsman-name>A Carter</batsman-name>
+					<batsman-nickname>Andy Carter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>219</playerid>
+				<nbr>1</nbr>
+				<runs>62</runs>
+				<overs>21.6</overs>
+				<batsman>Jacques Rudolph</batsman>
+				<batsman-name>J Rudolph</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9322</playerid>
+				<nbr>2</nbr>
+				<runs>71</runs>
+				<overs>25.6</overs>
+				<batsman>James Kettleborough</batsman>
+				<batsman-name>J Kettleborough</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6595</playerid>
+				<nbr>3</nbr>
+				<runs>89</runs>
+				<overs>32.6</overs>
+				<batsman>William Bragg</batsman>
+				<batsman-name>W Bragg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7664</playerid>
+				<nbr>4</nbr>
+				<runs>95</runs>
+				<overs>35.3</overs>
+				<batsman>Colin Ingram</batsman>
+				<batsman-name>Ingram</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>9</legbyes>
+			<penalty>0</penalty>
+			<total>9</total>
+		</extras>
+		<bowlteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<bowler-name>M Footitt</bowler-name>
+					<bowler-nickname>Footitt</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>4</maidens>
+					<runsoff>26</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10029</playerid>
+					<name>Ben Cotton</name>
+					<bowler-name>Ben Cotton</bowler-name>
+					<bowler-nickname>Ben Cotton</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>2</maidens>
+					<runsoff>33</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<bowler-name>S Thakor</bowler-name>
+					<bowler-nickname>Thakor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>1</maidens>
+					<runsoff>11</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<bowler-name>Matthew Critchley</bowler-name>
+					<bowler-nickname>Matthew Critchley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>1</maidens>
+					<runsoff>5</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7943</playerid>
+					<name>Alex Hughes</name>
+					<bowler-name>Alex Hughes</bowler-name>
+					<bowler-nickname>A Hughes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5.5</overs>
+					<maidens>1</maidens>
+					<runsoff>19</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<bowler-name>Ben Slater</bowler-name>
+					<bowler-nickname>Ben Slater</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<bowler-name>C Hughes</bowler-name>
+					<bowler-nickname>Chesney Hughes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6808</playerid>
+					<name>Wayne Madsen</name>
+					<bowler-name>W Madsen</bowler-name>
+					<bowler-nickname>Madsen</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<bowler-name>Scott Elstone</bowler-name>
+					<bowler-nickname>Scott Elstone</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<bowler-name>Hosein</bowler-name>
+					<bowler-nickname>Hosein</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6514</playerid>
+					<name>David Wainwright</name>
+					<bowler-name>D Wainwright</bowler-name>
+					<bowler-nickname>Wainwright</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>209</totalruns>
+		<totalwickets>2</totalwickets>
+		<totalovers>55</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<batsman-name>Ben Slater</batsman-name>
+					<batsman-nickname>Ben Slater</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>37</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Cosker</bowler>
+					<bowlerId>8304</bowlerId>
+						<fielder>Colin Ingram</fielder>
+						<fielderId>7664</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<batsman-name>C Hughes</batsman-name>
+					<batsman-nickname>Chesney Hughes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>22</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>M Hogan</bowler>
+					<bowlerId>7732</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6808</playerid>
+					<name>Wayne Madsen</name>
+					<batsman-name>W Madsen</batsman-name>
+					<batsman-nickname>Madsen</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>72</runs>
+					<balls>142</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<batsman-name>Scott Elstone</batsman-name>
+					<batsman-nickname>Scott Elstone</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>103</runs>
+					<balls>131</balls>
+					<fours>8</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<batsman-name>S Thakor</batsman-name>
+					<batsman-nickname>Thakor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7943</playerid>
+					<name>Alex Hughes</name>
+					<batsman-name>Alex Hughes</batsman-name>
+					<batsman-nickname>A Hughes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<batsman-name>Hosein</batsman-name>
+					<batsman-nickname>Hosein</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6514</playerid>
+					<name>David Wainwright</name>
+					<batsman-name>D Wainwright</batsman-name>
+					<batsman-nickname>Wainwright</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<batsman-name>Matthew Critchley</batsman-name>
+					<batsman-nickname>Matthew Critchley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10029</playerid>
+					<name>Ben Cotton</name>
+					<batsman-name>Ben Cotton</batsman-name>
+					<batsman-nickname>Ben Cotton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<batsman-name>M Footitt</batsman-name>
+					<batsman-nickname>Footitt</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6810</playerid>
+				<nbr>1</nbr>
+				<runs>20</runs>
+				<overs>7.4</overs>
+				<batsman>Chesney Hughes</batsman>
+				<batsman-name>C Hughes</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6804</playerid>
+				<nbr>2</nbr>
+				<runs>32</runs>
+				<overs>12.3</overs>
+				<batsman>Ben Slater</batsman>
+				<batsman-name>Ben Slater</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>7</byes>
+			<wides>1</wides>
+			<noballs>4</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>14</total>
+		</extras>
+		<bowlteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>6732</playerid>
+					<name>Andy Carter</name>
+					<bowler-name>A Carter</bowler-name>
+					<bowler-nickname>Andy Carter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>1</maidens>
+					<runsoff>16</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<bowler-name>M Hogan</bowler-name>
+					<bowler-nickname>Hogan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8304</playerid>
+					<name>Dean Cosker</name>
+					<bowler-name>D Cosker</bowler-name>
+					<bowler-nickname>D Cosker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>22</overs>
+					<maidens>2</maidens>
+					<runsoff>83</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<bowler-name>Meschede</bowler-name>
+					<bowler-nickname>Meschede</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<bowler-name>J Rudolph</bowler-name>
+					<bowler-nickname>Rudolph</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>11</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<bowler-name>G Wagg</bowler-name>
+					<bowler-nickname>Wagg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<bowler-name>W Bragg</bowler-name>
+					<bowler-nickname>Bragg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<bowler-name>J Kettleborough</bowler-name>
+					<bowler-nickname>Kettleborough</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<bowler-name>Ingram</bowler-name>
+					<bowler-nickname>Ingram</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<bowler-name>C Cooke</bowler-name>
+					<bowler-nickname>C Cooke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<bowler-name>Mark Wallace</bowler-name>
+					<bowler-nickname>Mark Wallace</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

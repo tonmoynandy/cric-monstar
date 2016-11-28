@@ -1,0 +1,1079 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14690" >
+		<type>T20</type>
+		<gameDesc>North Zone</gameDesc>
+		<series>Syed Mushtaq Ali Trophy, 2015</series>
+		<matchday>1</matchday>
+		<home>Delhi</home>
+		<away>Services</away>
+		<teamsabbr>DELHI vs SERVICES</teamsabbr>
+		<homeabbr>DELHI</homeabbr>
+		<awayabbr>SERVICES</awayabbr>
+		<homeId>81</homeId>
+		<awayId>250</awayId>
+		<venue>Palam A Stadium, Delhi</venue>
+		<startdate>28 03 2015</startdate>
+		<enddate>28 03 2015</enddate>
+		<toss>
+			<winner>Services</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Delhi won the one-over eliminator</status>
+		<result type="tie">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<MatchReferee>
+			<Name>Bharath Kumar</Name>
+			<Country>Ind</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>04:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150328084630</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Delhi</batteamname>
+		<bwlteamname>Services</bwlteamname>
+		<batteamruns>148</batteamruns>
+		<batteamwkts>9</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Delhi won the one-over eliminator</status>
+		<batsman>
+			<playerid>10373</playerid>
+			<name>Pranshu Vijayran</name>
+			<batsman-name>Pranshu Vijayran</batsman-name>
+			<batsman-nickname>Pranshu Vijayran</batsman-nickname>
+			<runs>0</runs>
+			<balls-faced>0</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>9303</playerid>
+			<name>Irfan Khan</name>
+			<bowler-name>Irfan Khan</bowler-name>
+			<bowler-nickname>Irfan Khan</bowler-nickname>
+			<overs>3</overs>
+			<maidens>0</maidens>
+			<runs>29</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>10369</playerid>
+			<name>Lakhan Singh</name>
+			<bowler-name>Lakhan Singh</bowler-name>
+			<bowler-nickname>Lakhan Singh</bowler-nickname>
+			<overs>1</overs>
+			<maidens>0</maidens>
+			<runs>6</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target></target>
+<lastwicket>
+<playerid>9001</playerid>
+<name>Vikas Tokas</name>
+<player-runs>1</player-runs>
+<player-balls>1</player-balls>
+<runs>148</runs>
+<wicket-nbr>9</wicket-nbr>
+<bowlerid>0</bowlerid>
+<bowlername></bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>3</total>
+		</extras>
+		<prevOvers><![CDATA[. . . . . .<b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . .<b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . .<b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . . . .]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_MUSHTAQ_ALI/DELHI_SERVICES_MAR28/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>148</totalruns>
+		<totalwickets>6</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Services">
+			<players>
+				<player>
+					<playerid>8784</playerid>
+					<name>Pratik Desai</name>
+					<batsman-name>P Desai</batsman-name>
+					<batsman-nickname>Desai</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>15</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Suyal</bowler>
+					<bowlerId>7913</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10369</playerid>
+					<name>Lakhan Singh</name>
+					<batsman-name>Lakhan Singh</batsman-name>
+					<batsman-nickname>Lakhan Singh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Vikas Tokas</bowler>
+					<bowlerId>9001</bowlerId>
+						<fielder>Unmukt Chand</fielder>
+						<fielderId>7904</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10374</playerid>
+					<name>Vikas Hathwala</name>
+					<batsman-name>Vikas Hathwala</batsman-name>
+					<batsman-nickname>Vikas Hathwala</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>50</runs>
+					<balls>41</balls>
+					<fours>4</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Pranshu Vijayran</bowler>
+					<bowlerId>10373</bowlerId>
+						<fielder>Vikas Tokas</fielder>
+						<fielderId>9001</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1832</playerid>
+					<name>Yashpal Singh</name>
+					<batsman-name>Yashpal Singh</batsman-name>
+					<batsman-nickname>Yashpal Singh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>52</runs>
+					<balls>47</balls>
+					<fours>8</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>M Kumar</bowler>
+					<bowlerId>8773</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8787</playerid>
+					<name>Rajat Paliwal</name>
+					<batsman-name>R Paliwal</batsman-name>
+					<batsman-nickname>Paliwal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Pratyush Singh</fielder>
+						<fielderId>10354</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10262</playerid>
+					<name>Deepak Punia</name>
+					<batsman-name>Deepak Punia</batsman-name>
+					<batsman-nickname>Deepak Punia</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9303</playerid>
+					<name>Irfan Khan</name>
+					<batsman-name>Irfan Khan</batsman-name>
+					<batsman-nickname>Irfan Khan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Jagrit Anand</fielder>
+						<fielderId>9042</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8789</playerid>
+					<name>Nakul Verma</name>
+					<batsman-name>N Verma</batsman-name>
+					<batsman-nickname>Verma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8786</playerid>
+					<name>Shadab Nazar</name>
+					<batsman-name>S Nazar</batsman-name>
+					<batsman-nickname>Nazar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9633</playerid>
+					<name>Rahul Kanojia</name>
+					<batsman-name>R Kanojia</batsman-name>
+					<batsman-nickname>Kanojia</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>10368</playerid>
+					<name>Azaruddin Bloch</name>
+					<batsman-name>Azaruddin Bloch</batsman-name>
+					<batsman-nickname>Azaruddin Bloch</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>10369</playerid>
+				<nbr>1</nbr>
+				<runs>18</runs>
+				<overs>2.2</overs>
+				<batsman>Lakhan Singh</batsman>
+				<batsman-name>Lakhan Singh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8784</playerid>
+				<nbr>2</nbr>
+				<runs>26</runs>
+				<overs>3.5</overs>
+				<batsman>Pratik Desai</batsman>
+				<batsman-name>P Desai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1832</playerid>
+				<nbr>3</nbr>
+				<runs>129</runs>
+				<overs>16.5</overs>
+				<batsman>Yashpal Singh</batsman>
+				<batsman-name>Yashpal Singh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8787</playerid>
+				<nbr>4</nbr>
+				<runs>137</runs>
+				<overs>18.1</overs>
+				<batsman>Rajat Paliwal</batsman>
+				<batsman-name>R Paliwal</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10374</playerid>
+				<nbr>5</nbr>
+				<runs>141</runs>
+				<overs>18.3</overs>
+				<batsman>Vikas Hathwala</batsman>
+				<batsman-name>Vikas Hathwala</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9303</playerid>
+				<nbr>6</nbr>
+				<runs>148</runs>
+				<overs>20</overs>
+				<batsman>Irfan Khan</batsman>
+				<batsman-name>Irfan Khan</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>11</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>15</total>
+		</extras>
+		<bowlteam name="Delhi">
+			<players>
+				<player>
+					<playerid>9001</playerid>
+					<name>Vikas Tokas</name>
+					<bowler-name>Vikas Tokas</bowler-name>
+					<bowler-nickname>Vikas Tokas</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7913</playerid>
+					<name>Pawan Suyal</name>
+					<bowler-name>Suyal</bowler-name>
+					<bowler-nickname>Suyal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10373</playerid>
+					<name>Pranshu Vijayran</name>
+					<bowler-name>Pranshu Vijayran</bowler-name>
+					<bowler-nickname>Pranshu Vijayran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>28</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10372</playerid>
+					<name>Kshitiz Sharma</name>
+					<bowler-name>Kshitiz Sharma</bowler-name>
+					<bowler-nickname>Kshitiz Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9204</playerid>
+					<name>Nitish Rana</name>
+					<bowler-name>Nitish Rana</bowler-name>
+					<bowler-nickname>Nitish Rana</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8773</playerid>
+					<name>Milind Kumar</name>
+					<bowler-name>M Kumar</bowler-name>
+					<bowler-nickname>Milind Kumar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10354</playerid>
+					<name>Pratyush Singh</name>
+					<bowler-name>Pratyush Singh</bowler-name>
+					<bowler-nickname>Pratyush Singh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7904</playerid>
+					<name>Unmukt Chand</name>
+					<bowler-name>Chand</bowler-name>
+					<bowler-nickname>Chand</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10379</playerid>
+					<name>Aditya Kaushik</name>
+					<bowler-name>Aditya Kaushik</bowler-name>
+					<bowler-nickname>Aditya Kaushik</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8933</playerid>
+					<name>Vaibhav Rawal</name>
+					<bowler-name>V Rawal</bowler-name>
+					<bowler-nickname>Rawal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9042</playerid>
+					<name>Jagrit Anand</name>
+					<bowler-name>Jagrit Anand</bowler-name>
+					<bowler-nickname>Jagrit Anand</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>148</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Delhi">
+			<players>
+				<player>
+					<playerid>10379</playerid>
+					<name>Aditya Kaushik</name>
+					<batsman-name>Aditya Kaushik</batsman-name>
+					<batsman-nickname>Aditya Kaushik</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>34</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Paliwal</bowler>
+					<bowlerId>8787</bowlerId>
+						<fielder>Azaruddin Bloch</fielder>
+						<fielderId>10368</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7904</playerid>
+					<name>Unmukt Chand</name>
+					<batsman-name>Chand</batsman-name>
+					<batsman-nickname>Chand</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>5</runs>
+					<balls>6</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>S Nazar</bowler>
+					<bowlerId>8786</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9204</playerid>
+					<name>Nitish Rana</name>
+					<batsman-name>Nitish Rana</batsman-name>
+					<batsman-nickname>Nitish Rana</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>48</runs>
+					<balls>42</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Nazar</bowler>
+					<bowlerId>8786</bowlerId>
+						<fielder>Deepak Punia</fielder>
+						<fielderId>10262</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8773</playerid>
+					<name>Milind Kumar</name>
+					<batsman-name>M Kumar</batsman-name>
+					<batsman-nickname>Milind Kumar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>14</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>S Nazar</bowler>
+					<bowlerId>8786</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9042</playerid>
+					<name>Jagrit Anand</name>
+					<batsman-name>Jagrit Anand</batsman-name>
+					<batsman-nickname>Jagrit Anand</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>8</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Deepak Punia</bowler>
+					<bowlerId>10262</bowlerId>
+						<fielder>Vishnu Tiwari</fielder>
+						<fielderId>9635</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8933</playerid>
+					<name>Vaibhav Rawal</name>
+					<batsman-name>V Rawal</batsman-name>
+					<batsman-nickname>Rawal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Lakhan Singh</bowler>
+					<bowlerId>10369</bowlerId>
+						<fielder>Deepak Punia</fielder>
+						<fielderId>10262</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10372</playerid>
+					<name>Kshitiz Sharma</name>
+					<batsman-name>Kshitiz Sharma</batsman-name>
+					<batsman-nickname>Kshitiz Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Lakhan Singh</bowler>
+					<bowlerId>10369</bowlerId>
+						<fielder>Vikas Hathwala</fielder>
+						<fielderId>10374</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10354</playerid>
+					<name>Pratyush Singh</name>
+					<batsman-name>Pratyush Singh</batsman-name>
+					<batsman-nickname>Pratyush Singh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>2</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Lakhan Singh</bowler>
+					<bowlerId>10369</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9001</playerid>
+					<name>Vikas Tokas</name>
+					<batsman-name>Vikas Tokas</batsman-name>
+					<batsman-nickname>Vikas Tokas</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Rajat Paliwal</fielder>
+						<fielderId>8787</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10373</playerid>
+					<name>Pranshu Vijayran</name>
+					<batsman-name>Pranshu Vijayran</batsman-name>
+					<batsman-nickname>Pranshu Vijayran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7913</playerid>
+					<name>Pawan Suyal</name>
+					<batsman-name>Suyal</batsman-name>
+					<batsman-nickname>Suyal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>7904</playerid>
+				<nbr>1</nbr>
+				<runs>14</runs>
+				<overs>2.2</overs>
+				<batsman>Unmukt Chand</batsman>
+				<batsman-name>Chand</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10379</playerid>
+				<nbr>2</nbr>
+				<runs>91</runs>
+				<overs>12.3</overs>
+				<batsman>Aditya Kaushik</batsman>
+				<batsman-name>Aditya Kaushik</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9204</playerid>
+				<nbr>3</nbr>
+				<runs>106</runs>
+				<overs>15.2</overs>
+				<batsman>Nitish Rana</batsman>
+				<batsman-name>Nitish Rana</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9042</playerid>
+				<nbr>4</nbr>
+				<runs>119</runs>
+				<overs>16.5</overs>
+				<batsman>Jagrit Anand</batsman>
+				<batsman-name>Jagrit Anand</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8773</playerid>
+				<nbr>5</nbr>
+				<runs>126</runs>
+				<overs>17.5</overs>
+				<batsman>Milind Kumar</batsman>
+				<batsman-name>M Kumar</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8933</playerid>
+				<nbr>6</nbr>
+				<runs>143</runs>
+				<overs>19.2</overs>
+				<batsman>Vaibhav Rawal</batsman>
+				<batsman-name>V Rawal</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10372</playerid>
+				<nbr>7</nbr>
+				<runs>143</runs>
+				<overs>19.3</overs>
+				<batsman>Kshitiz Sharma</batsman>
+				<batsman-name>Kshitiz Sharma</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10354</playerid>
+				<nbr>8</nbr>
+				<runs>147</runs>
+				<overs>19.5</overs>
+				<batsman>Pratyush Singh</batsman>
+				<batsman-name>Pratyush Singh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9001</playerid>
+				<nbr>9</nbr>
+				<runs>148</runs>
+				<overs>20</overs>
+				<batsman>Vikas Tokas</batsman>
+				<batsman-name>Vikas Tokas</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>3</total>
+		</extras>
+		<bowlteam name="Services">
+			<players>
+				<player>
+					<playerid>8786</playerid>
+					<name>Shadab Nazar</name>
+					<bowler-name>S Nazar</bowler-name>
+					<bowler-nickname>Nazar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>15</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9303</playerid>
+					<name>Irfan Khan</name>
+					<bowler-name>Irfan Khan</bowler-name>
+					<bowler-nickname>Irfan Khan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>29</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10262</playerid>
+					<name>Deepak Punia</name>
+					<bowler-name>Deepak Punia</bowler-name>
+					<bowler-nickname>Deepak Punia</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9633</playerid>
+					<name>Rahul Kanojia</name>
+					<bowler-name>R Kanojia</bowler-name>
+					<bowler-nickname>Kanojia</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8787</playerid>
+					<name>Rajat Paliwal</name>
+					<bowler-name>R Paliwal</bowler-name>
+					<bowler-nickname>Paliwal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>20</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10368</playerid>
+					<name>Azaruddin Bloch</name>
+					<bowler-name>Azaruddin Bloch</bowler-name>
+					<bowler-nickname>Azaruddin Bloch</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>17</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10369</playerid>
+					<name>Lakhan Singh</name>
+					<bowler-name>Lakhan Singh</bowler-name>
+					<bowler-nickname>Lakhan Singh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>6</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8784</playerid>
+					<name>Pratik Desai</name>
+					<bowler-name>P Desai</bowler-name>
+					<bowler-nickname>Desai</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10374</playerid>
+					<name>Vikas Hathwala</name>
+					<bowler-name>Vikas Hathwala</bowler-name>
+					<bowler-nickname>Vikas Hathwala</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1832</playerid>
+					<name>Yashpal Singh</name>
+					<bowler-name>Yashpal Singh</bowler-name>
+					<bowler-nickname>Yashpal Singh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8789</playerid>
+					<name>Nakul Verma</name>
+					<bowler-name>N Verma</bowler-name>
+					<bowler-nickname>Verma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

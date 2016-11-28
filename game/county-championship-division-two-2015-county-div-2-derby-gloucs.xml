@@ -1,0 +1,1966 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14297" >
+		<type>TEST</type>
+		<gameDesc>County Div 2</gameDesc>
+		<series>County Championship Division Two 2015</series>
+		<matchday>4</matchday>
+		<home>Derbyshire</home>
+		<away>Gloucestershire</away>
+		<teamsabbr>DERBY vs GLOUCS</teamsabbr>
+		<homeabbr>DERBY</homeabbr>
+		<awayabbr>GLOUCS</awayabbr>
+		<homeId>144</homeId>
+		<awayId>151</awayId>
+		<venue>County Ground, Derby</venue>
+		<startdate>31 05 2015</startdate>
+		<enddate>03 06 2015</enddate>
+		<toss>
+			<winner>Derbyshire</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Match drawn</status>
+		<result type="draw">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Steve Garratt</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Tim Robinson</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150603171244</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>4</currentinningsno>
+		<batteamname>Derby</batteamname>
+		<bwlteamname>Gloucs</bwlteamname>
+		<batteamruns>189</batteamruns>
+		<batteamwkts>8</batteamwkts>
+		<batteamovers>81</batteamovers>
+		<status>Match drawn</status>
+		<batsman>
+			<playerid>10030</playerid>
+			<name>Tom Taylor*</name>
+			<batsman-name>Tom Taylor</batsman-name>
+			<batsman-nickname>Tom Taylor</batsman-nickname>
+			<runs>1</runs>
+			<balls-faced>4</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>6518</playerid>
+			<name>Billy Godleman</name>
+			<batsman-name>B Godleman</batsman-name>
+			<batsman-nickname>Godleman</batsman-nickname>
+			<runs>64</runs>
+			<balls-faced>228</balls-faced>
+			<fours>9</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>6826</playerid>
+			<name>Chris Dent*</name>
+			<bowler-name>C Dent</bowler-name>
+			<bowler-nickname>Dent</bowler-nickname>
+			<overs>3</overs>
+			<maidens>1</maidens>
+			<runs>5</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8309</playerid>
+			<name>Liam Norwell</name>
+			<bowler-name>Liam Norwell</bowler-name>
+			<bowler-nickname>Liam Norwell</bowler-nickname>
+			<overs>20</overs>
+			<maidens>4</maidens>
+			<runs>49</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>302</target>
+<lastwicket>
+<playerid>6526</playerid>
+<name>Tony Palladino</name>
+<player-runs>5</player-runs>
+<player-balls>45</player-balls>
+<runs>184</runs>
+<wicket-nbr>8</wicket-nbr>
+<bowlerid>6836</bowlerid>
+<bowlername>J Taylor</bowlername>
+</lastwicket>
+		<extras>
+			<byes>8</byes>
+			<wides>2</wides>
+			<noballs>4</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>19</total>
+		</extras>
+		<prevOvers><![CDATA[. . . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . 1 . W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 4 . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . 1 . . ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV2/DERBY_GLOUCS_MAY31_JUN03/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[80.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[80.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[80.4&nbsp;&nbsp;&nbsp;Liam Norwell to Tom Taylor, 1 run]]></line><line><![CDATA[80.3&nbsp;&nbsp;&nbsp;Liam Norwell to Tom Taylor, no run]]></line><line><![CDATA[80.2&nbsp;&nbsp;&nbsp;Liam Norwell to Tom Taylor, no run]]></line><line><![CDATA[80.1&nbsp;&nbsp;&nbsp;Liam Norwell to Tom Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Liam Norwell [19.0-4-48-1] is back into the attack</b>]]></line><line><![CDATA[79.6&nbsp;&nbsp;&nbsp;Dent to Godleman, no run]]></line><line><![CDATA[79.5&nbsp;&nbsp;&nbsp;Dent to Godleman, no run]]></line><line><![CDATA[79.4&nbsp;&nbsp;&nbsp;Dent to Godleman, no run]]></line><line><![CDATA[79.3&nbsp;&nbsp;&nbsp;Dent to Godleman, <b>FOUR</b>]]></line><line><![CDATA[79.2&nbsp;&nbsp;&nbsp;Dent to Godleman, no run]]></line><line><![CDATA[79.1&nbsp;&nbsp;&nbsp;Dent to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[78.6&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, <b>out</b> Bowled!! <b>Palladino b Jack Taylor 5(45)</b>]]></line><line><![CDATA[Jack Taylor to Palladino, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[78.5&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><line><![CDATA[78.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, 1 run]]></line><line><![CDATA[78.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[78.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[78.1&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[77.6&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[77.5&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[77.4&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[77.3&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[77.2&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[77.1&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[76.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[76.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[76.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[76.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[76.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[76.1&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Taylor [14.0-7-18-1] is back into the attack</b>]]></line><line><![CDATA[75.6&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[75.5&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[75.4&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[75.3&nbsp;&nbsp;&nbsp;Dent to Palladino, no run]]></line><line><![CDATA[75.2&nbsp;&nbsp;&nbsp;Dent to Godleman, 1 run]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Dent to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Dent, comes into the attack</b>]]></line><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, 1 run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, <b>FOUR</b>]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, no run]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Liam Norwell to Palladino, 1 run]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Liam Norwell [16.0-3-43-1] is back into the attack</b>]]></line><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Jack Taylor to Palladino, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Taylor [11.0-5-14-1] is back into the attack</b>]]></line><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Payne to Palladino, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, <b>wide</b>]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Payne to Godleman, 1 run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Payne to Godleman, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;C Miles to Palladino, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;C Miles to Palladino, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;C Miles to Palladino, no run]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Payne to Palladino, 2 runs]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Payne to Palladino, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;C Miles to Palladino, 1 run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;C Miles to Palladino, no run]]></line><line><![CDATA[<b>Tony Palladino, right handed bat, comes to the crease</b>]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, <b>out</b> Bowled!! <b>Matthew Critchley b C Miles 12(17) [4s-3]</b>]]></line><line><![CDATA[C Miles to Matthew Critchley, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Payne to Godleman, 2 runs]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Payne [15.0-5-29-3] is back into the attack</b>]]></line><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, <b>FOUR</b>]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, <b>FOUR</b>]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Liam Norwell to Matthew Critchley, no run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Liam Norwell to Matthew Critchley, no run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Liam Norwell to Matthew Critchley, <b>FOUR</b>]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, <b>FOUR</b>]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;C Miles to Matthew Critchley, no run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Liam Norwell to Matthew Critchley, no run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Liam Norwell to Matthew Critchley, no run]]></line><line><![CDATA[<b>Matthew Critchley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, <b>out</b> Bowled!! <b>Hosein b Liam Norwell 11(21) [4s-1]</b>]]></line><line><![CDATA[Liam Norwell to Hosein, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, no run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, 2 runs]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;C Miles to Hosein, 1 run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;C Miles to Hosein, <b>FOUR</b>]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;C Miles to Hosein, no run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;C Miles to Hosein, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;C Miles to Hosein, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;C Miles to Hosein, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Craig Miles [11.0-3-20-1] is back into the attack</b>]]></line><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, 1 run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, 2 runs]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, no run]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, no run]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Liam Norwell to Hosein, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Jack Taylor to Hosein, 1 run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Jack Taylor to Hosein, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Jack Taylor to Hosein, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Jack Taylor to Hosein, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Jack Taylor to Hosein, no run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Jack Taylor to Hosein, no run]]></line><line><![CDATA[<b>Harvey Hosein, right handed bat, comes to the crease</b>]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, <b>out</b> Lbw!! <b>Thakor lbw b Jack Taylor 43(103) [4s-5]</b>]]></line><line><![CDATA[Jack Taylor to Thakor, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 1 run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, <b>FOUR</b>]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 2 runs]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, 1 run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, 1 run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 1 run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Liam Norwell [9.0-1-20-0] is back into the attack</b>]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Payne to Thakor, 1 run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Payne to Godleman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, <b>FOUR</b>]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, leg byes, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, 1 run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Payne [11.0-2-27-3] is back into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 1 run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, 1 run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Jack Taylor to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Jack Taylor to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Taylor, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, <b>FOUR</b>]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, <b>FOUR</b>]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 1 run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, 1 run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, <b>FOUR</b>]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, <b>FOUR</b>]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 2 runs]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, 1 run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Benny Howell to Thakor, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Benny Howell [2.0-1-8-0] is back into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, <b>FOUR</b>]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;C Miles to Thakor, byes, <b>FOUR</b>]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;C Miles to Thakor, 1 run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, 1 run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Liam Norwell to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Liam Norwell [1.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Payne to Godleman, 1 run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;C Miles to Thakor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Payne to Thakor, 1 run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Payne to Thakor, no run]]></line><line><![CDATA[<b>Shiv Thakor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, <b>out</b> Caught by Benny Howell!! <b>Scott Elstone c Benny Howell b Payne 16(25) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Payne to Scott Elstone, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, byes, <b>FOUR</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, <b>FOUR</b>]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, 2 runs]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Craig Miles [6.0-1-13-1] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Payne to Godleman, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Payne [7.0-2-21-2] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Benny Howell to Scott Elstone, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Benny Howell to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Benny Howell to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Benny Howell to Scott Elstone, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Benny Howell to Scott Elstone, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Benny Howell to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Liam Norwell to Scott Elstone, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Liam Norwell to Scott Elstone, <b>FOUR</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Liam Norwell to Scott Elstone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Liam Norwell, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Benny Howell, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Payne to Godleman, leg byes, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;C Miles to Scott Elstone, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Payne to Scott Elstone, no run]]></line><line><![CDATA[<b>Scott Elstone, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Payne to Dilshan, <b>out</b> Bowled!! <b>Dilshan b Payne 6(18) [4s-1]</b>]]></line><line><![CDATA[Payne to Dilshan, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Payne to Dilshan, <b>FOUR</b>]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Payne to Dilshan, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Payne to Godleman, 1 run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;C Miles to Dilshan, 2 runs]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Payne to Godleman, <b>FOUR</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;C Miles to Dilshan, <b>no ball</b>]]></line><line><![CDATA[<b>Tillakaratne Dilshan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, <b>out</b> Caught by Hamish Marshall!! <b>Chesney Hughes c Hamish Marshall b C Miles 12(25) [4s-3]</b>]]></line><line><![CDATA[C Miles to Chesney Hughes, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, leg byes, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, leg byes, 1 run]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, <b>wide</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Payne to Godleman, <b>FOUR</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, <b>FOUR</b>]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;C Miles to Chesney Hughes, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, <b>no ball</b>, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, <b>FOUR</b>]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[<b>Chesney Hughes, left handed bat, comes to the crease</b>]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Payne to Ben Slater, <b>out</b> Lbw!! <b>Ben Slater lbw b Payne 0(2)</b>]]></line><line><![CDATA[Payne to Ben Slater, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Slater and Godleman are at the crease. Ben Slater is on strike. Payne will open the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, <b>FOUR</b>]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, 1 run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, 1 run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, 1 run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, 1 run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Dent, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, leg byes, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Tavare, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matthew Critchley, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 2 runs]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, 1 run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, 1 run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, 1 run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 2 runs]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, 1 run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Scott Elstone to Dent, 1 run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Scott Elstone to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, 1 run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Chesney Hughes to Tavare, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, 1 run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Chesney Hughes to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dent and Tavare are at the crease. Dent is on strike. Chesney Hughes will open the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;C Miles to Dilshan, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, 2 runs]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, 1 run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, 1 run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Craig Miles [6.0-0-25-0] is back into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, 2 runs]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Liam Norwell to Dilshan, 1 run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Liam Norwell to Dilshan, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Liam Norwell to Dilshan, <b>SIX</b>]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Liam Norwell to Dilshan, <b>FOUR</b>]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Liam Norwell to Dilshan, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Liam Norwell to Dilshan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, 1 run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Benny Howell to Dilshan, no run]]></line><line><![CDATA[<b>Tillakaratne Dilshan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Benny Howell to Chesney Hughes, <b>out</b> Caught by Roderick!! <b>Chesney Hughes c Roderick b Benny Howell 9(24) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Benny Howell to Chesney Hughes, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, 1 run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, 2 runs]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Benny Howell to Godleman, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Benny Howell to Chesney Hughes, byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Benny Howell, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Liam Norwell to Godleman, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Payne to Chesney Hughes, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Payne to Godleman, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, <b>FOUR</b>]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Liam Norwell to Chesney Hughes, no run]]></line><line><![CDATA[<b>Chesney Hughes, left handed bat, comes to the crease</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, <b>out</b> Caught by Dent!! <b>Ben Slater c Dent b Liam Norwell 17(42) [4s-2]</b>]]></line><line><![CDATA[Liam Norwell to Ben Slater, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Liam Norwell to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Liam Norwell, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Payne to Godleman, 2 runs]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Payne to Godleman, 2 runs]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, <b>FOUR</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, <b>FOUR</b>]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Payne to Godleman, <b>FOUR</b>]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, 1 run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, 2 runs]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;C Miles to Godleman, <b>FOUR</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;C Miles to Godleman, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Payne to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Payne to Godleman, 1 run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Payne to Ben Slater, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, 1 run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, <b>FOUR</b>]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Payne to Ben Slater, leg byes, 1 run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;C Miles to Godleman, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, 1 run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;C Miles to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Payne to Godleman, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Payne to Ben Slater, 1 run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Payne to Ben Slater, 2 runs]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Payne to Ben Slater, leg byes, 2 runs]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Payne to Ben Slater, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ben Slater and Godleman are at the crease. Ben Slater is on strike. Payne will open the attack</b>]]></line><line><![CDATA[86.4&nbsp;&nbsp;&nbsp;Footitt to Liam Norwell, <b>out</b> Caught by Hosein!! <b>Liam Norwell c Hosein b Footitt 0(4)</b>]]></line><line><![CDATA[Footitt to Liam Norwell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[86.3&nbsp;&nbsp;&nbsp;Footitt to Liam Norwell, no run]]></line><line><![CDATA[86.2&nbsp;&nbsp;&nbsp;Footitt to Liam Norwell, no run]]></line><line><![CDATA[86.1&nbsp;&nbsp;&nbsp;Footitt to Liam Norwell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[85.6&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[85.5&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[85.4&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[85.3&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[85.2&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[<b>Liam Norwell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[85.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, <b>out</b> Caught by (sub)Durston!! <b>Jack Taylor c (sub)Durston b Tom Taylor 120(139) [4s-12 6s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tom Taylor to Jack Taylor, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[84.6&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[84.5&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[84.4&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[84.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><line><![CDATA[84.2&nbsp;&nbsp;&nbsp;Footitt to Payne, 1 run]]></line><line><![CDATA[84.1&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[83.6&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, 1 run]]></line><line><![CDATA[83.5&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[83.4&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 3 runs]]></line><line><![CDATA[83.3&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[83.2&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[83.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[82.6&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[82.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><line><![CDATA[82.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[82.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[82.2&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[82.1&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[81.6&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[81.5&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[81.4&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[81.3&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[81.2&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 1 run]]></line><line><![CDATA[81.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Taylor [18.0-1-74-3] is back into the attack</b>]]></line><line><![CDATA[80.6&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[80.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><line><![CDATA[80.4&nbsp;&nbsp;&nbsp;Footitt to Payne, 1 run]]></line><line><![CDATA[80.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><line><![CDATA[80.2&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 2 runs]]></line><line><![CDATA[80.1&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mark Footitt [21.0-7-52-3] is back into the attack</b>]]></line><line><![CDATA[79.6&nbsp;&nbsp;&nbsp;Dilshan to Payne, no run]]></line><line><![CDATA[79.5&nbsp;&nbsp;&nbsp;Dilshan to Payne, no run]]></line><line><![CDATA[79.4&nbsp;&nbsp;&nbsp;Dilshan to Payne, no run]]></line><line><![CDATA[79.3&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[79.2&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 2 runs]]></line><line><![CDATA[79.1&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[78.6&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, 2 runs]]></line><line><![CDATA[78.5&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[78.4&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 1 run]]></line><line><![CDATA[78.3&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[78.2&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[78.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[77.6&nbsp;&nbsp;&nbsp;Dilshan to Payne, no run]]></line><line><![CDATA[77.5&nbsp;&nbsp;&nbsp;Dilshan to Payne, no run]]></line><line><![CDATA[77.4&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[77.3&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[77.2&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 2 runs]]></line><line><![CDATA[77.1&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tillakaratne Dilshan [5.0-0-24-0] is back into the attack</b>]]></line><line><![CDATA[76.6&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[76.5&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 1 run]]></line><line><![CDATA[76.4&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, 1 run]]></line><line><![CDATA[76.3&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[76.2&nbsp;&nbsp;&nbsp;Tom Taylor to Payne, no run]]></line><line><![CDATA[76.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Taylor [16.0-1-64-3] is back into the attack</b>]]></line><line><![CDATA[75.6&nbsp;&nbsp;&nbsp;Palladino to Payne, no run]]></line><line><![CDATA[75.5&nbsp;&nbsp;&nbsp;Palladino to Payne, no run]]></line><line><![CDATA[75.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[75.3&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[75.2&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, <b>SIX</b>]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, <b>no ball</b>, 1 run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Footitt to Payne, 1 run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Palladino to Payne, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Palladino to Payne, no run]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Palladino to Payne, 1 run]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Palladino to Payne, no run]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Palladino to Payne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Footitt to Payne, 1 run]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, <b>no ball</b>]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Footitt to Payne, no run]]></line><line><![CDATA[<b>David Payne, left handed bat, comes to the crease</b>]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Footitt to C Miles, <b>out</b> Caught by Hosein!! <b>C Miles c Hosein b Footitt 3(4)</b>]]></line><line><![CDATA[Footitt to C Miles, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Footitt to C Miles, 1 run]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Footitt to C Miles, no run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Footitt to C Miles, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Craig Miles, right handed bat, comes to the crease</b>]]></line><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, <b>out</b> Caught by Hosein!! <b>Klinger c Hosein b Footitt 93(174) [4s-7 6s-1]</b>]]></line><line><![CDATA[Footitt to Klinger, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Dilshan to Klinger, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Dilshan to Klinger, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 2 runs]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, 2 runs]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Dilshan to Klinger, 1 run]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Dilshan to Klinger, 1 run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 2 runs]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, 1 run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tony Palladino [15.0-2-55-2] is back into the attack</b>]]></line><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 2 runs]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 2 runs]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Dilshan to Klinger, 1 run]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Dilshan to Klinger, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Dilshan to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 2 runs]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Dilshan to Klinger, 1 run]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Dilshan to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Dilshan to Klinger, 1 run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Dilshan to Klinger, no run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, 1 run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Dilshan to Jack Taylor, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Dilshan to Klinger, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tillakaratne Dilshan, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, no run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 2 runs]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, <b>no ball</b>]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 2 runs]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, 2 runs]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Tom Taylor to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, <b>FOUR</b>]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Taylor [12.0-1-44-3] is back into the attack</b>]]></line><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, leg byes, 1 run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, 1 run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, byes, <b>FOUR</b>]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Footitt to Jack Taylor, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mark Footitt [13.0-5-25-1] is back into the attack</b>]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Palladino to Klinger, 1 run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Thakor to Klinger, 1 run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, 1 run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, leg byes, 1 run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, 2 runs]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Thakor to Klinger, 1 run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, 1 run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Thakor to Jack Taylor, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Thakor to Klinger, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Palladino to Jack Taylor, no run]]></line><line><![CDATA[<b>Jack Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Palladino to Benny Howell, <b>out</b> Caught&Bowled!! <b>Benny Howell c and b Palladino 15(24) [4s-2]</b>]]></line><line><![CDATA[Palladino to Benny Howell, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tony Palladino [9.0-1-44-1] is back into the attack</b>]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Thakor to Benny Howell, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Thakor to Benny Howell, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Thakor to Klinger, 1 run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Thakor to Benny Howell, 1 run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Thakor to Benny Howell, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Thakor to Benny Howell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shiv Thakor [7.0-1-21-0] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, 1 run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, <b>FOUR</b>]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, <b>FOUR</b>]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Footitt to Benny Howell, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Footitt to Benny Howell, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Footitt to Benny Howell, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Footitt to Benny Howell, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Footitt to Benny Howell, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, <b>FOUR</b>]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, 3 runs]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Footitt to Klinger, <b>FOUR</b>]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, 2 runs]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, byes, <b>FOUR</b>]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Tom Taylor to Benny Howell, no run]]></line><line><![CDATA[<b>Benny Howell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, <b>out</b> Lbw!! <b>Geraint Jones lbw b Tom Taylor 0(17)</b>]]></line><line><![CDATA[Tom Taylor to Geraint Jones, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, byes, 1 run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 2 runs]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Footitt to Geraint Jones, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Footitt to Geraint Jones, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Footitt to Geraint Jones, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Footitt to Geraint Jones, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Footitt to Geraint Jones, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Footitt to Geraint Jones, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, leg byes, 1 run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, <b>no ball</b>]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Tom Taylor to Geraint Jones, no run]]></line><line><![CDATA[<b>Geraint Jones, right handed bat, comes to the crease</b>]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Tom Taylor to Hamish Marshall, <b>out</b> Lbw!! <b>Hamish Marshall lbw b Tom Taylor 2(6)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tom Taylor to Hamish Marshall, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Tom Taylor [6.0-0-18-1] is back into the attack</b>]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mark Footitt [7.0-2-16-1] is back into the attack</b>]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Palladino to Hamish Marshall, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Palladino to Hamish Marshall, 2 runs]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Palladino to Hamish Marshall, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Palladino to Hamish Marshall, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Palladino to Hamish Marshall, no run]]></line><line><![CDATA[<b>Hamish Marshall, right handed bat, comes to the crease</b>]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Palladino to Roderick, <b>out</b> Caught by Tom Taylor!! <b>Roderick c Tom Taylor b Palladino 20(49) [4s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Palladino to Roderick, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Matthew Critchley to Klinger, 2 runs]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Matthew Critchley to Klinger, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Matthew Critchley to Klinger, <b>FOUR</b>]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Matthew Critchley to Klinger, <b>SIX</b>]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Matthew Critchley to Klinger, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Matthew Critchley to Roderick, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matthew Critchley, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Palladino to Roderick, 1 run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Palladino to Roderick, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, 1 run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Palladino to Roderick, 1 run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Palladino to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Thakor to Roderick, 1 run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Thakor to Klinger, 3 runs]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Palladino to Roderick, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Palladino to Klinger, 1 run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Palladino to Roderick, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Palladino to Roderick, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Palladino to Roderick, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Thakor to Roderick, 1 run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Thakor to Roderick, 2 runs]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Palladino to Klinger, 2 runs]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Palladino to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tony Palladino [5.0-1-31-0] is back into the attack</b>]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 2 runs]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Thakor to Klinger, 2 runs]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Thakor to Klinger, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Thakor to Klinger, <b>FOUR</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, <b>FOUR</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Thakor to Klinger, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Thakor to Klinger, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Thakor to Roderick, 2 runs]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Thakor to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shiv Thakor, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 2 runs]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 2 runs]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, 2 runs]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Footitt to Roderick, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Footitt to Roderick, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Footitt to Roderick, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Footitt to Roderick, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Footitt to Roderick, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Footitt to Roderick, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Tom Taylor to Klinger, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Tom Taylor to Roderick, leg byes, 1 run]]></line><line><![CDATA[<b>Gareth Roderick, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Tom Taylor to Tavare, <b>out</b> Caught by Godleman!! <b>Tavare c Godleman b Tom Taylor 20(38) [4s-3]</b>]]></line><line><![CDATA[Tom Taylor to Tavare, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Tom Taylor to Tavare, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Tom Taylor to Tavare, <b>no ball</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Tom Taylor to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Taylor, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Footitt to Tavare, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Footitt to Klinger, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Palladino to Tavare, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Palladino to Tavare, <b>FOUR</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Palladino to Tavare, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Palladino to Tavare, <b>no ball</b>]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Palladino to Tavare, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Palladino to Tavare, <b>FOUR</b>]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Palladino to Tavare, <b>no ball</b>]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Palladino to Tavare, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Footitt to Klinger, 2 runs]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Footitt to Klinger, no run]]></line><line><![CDATA[<b>Michael Klinger, right handed bat, comes to the crease</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Footitt to Dent, <b>out</b> Lbw!! <b>Dent lbw b Footitt 14(29) [4s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Footitt to Dent, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Palladino to Dent, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Footitt to Tavare, 2 runs]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Palladino to Dent, <b>no ball</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Palladino to Dent, 2 runs]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Footitt to Tavare, 2 runs]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Footitt to Tavare, <b>no ball</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Footitt to Tavare, <b>no ball</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Palladino to Dent, 2 runs]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Palladino to Dent, <b>FOUR</b>]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Palladino to Dent, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Footitt to Tavare, 2 runs]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Footitt to Dent, 1 run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Footitt to Dent, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Footitt to Dent, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Footitt to Tavare, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Palladino to Dent, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tony Palladino, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Footitt to Tavare, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tavare and Dent are at the crease. Tavare is on strike. Footitt will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Derbyshire</b> (Playing XI): Billy Godleman(c), Ben Slater, Tillakaratne Dilshan, Chesney Hughes, Scott Elstone, Shiv Thakor, Harvey Hosein(w), Matthew Critchley, Tony Palladino, Tom Taylor, Mark Footitt]]></line><line><![CDATA[<b>Gloucestershire</b> (Playing XI): Chris Dent, William Tavare, Michael Klinger, Gareth Roderick(w), Hamish Marshall, Geraint Jones(c), Benny Howell, Jack Taylor, David Payne, Liam Norwell, Craig Miles]]></line><line><![CDATA[<b>Derbyshire have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Gloucestershire</b> (From): Miles Hammond, Chris Dent, Patrick Grieshaber, Cameron Herring, Benny Howell, Geraint Jones(c), Hamish Marshall, Kieran Noema-Barnett, David Payne, Adam Rouse(w), Tom Shrewsbury, William Tavare, Matt Taylor, Ian Cockbain, James Fuller, Tom Hampton, Dan Housego, Michael Klinger, Craig Miles, Liam Norwell, Gareth Roderick, Ian Saxelby, Jack Taylor, Thomas Smith, Peter Handscomb]]></line><line><![CDATA[<b>Derbyshire</b> (From): Wayne Madsen(c), Peter Burgoyne, Greg Cork, Wes Durston, Mark Footitt, Chesney Hughes, Jonathan Marsden, Tom Poynton, Tom Taylor, David Wainwright, Paul Borrington, Jonathan Clare, Ben Cotton, Chris Durham, Scott Elstone, Billy Godleman, Alex Hughes, Tom Knight, Tony Palladino, Ben Slater, Shiv Thakor, Wayne White, Harvey Hosein(w), Hashim Amla, Matthew Critchley]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>329</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>86.4</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Gloucestershire">
+			<players>
+				<player>
+					<playerid>10023</playerid>
+					<name>William Tavare</name>
+					<batsman-name>Tavare</batsman-name>
+					<batsman-nickname>Tavare</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>38</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tom Taylor</bowler>
+					<bowlerId>10030</bowlerId>
+						<fielder>Billy Godleman</fielder>
+						<fielderId>6518</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6826</playerid>
+					<name>Chris Dent</name>
+					<batsman-name>C Dent</batsman-name>
+					<batsman-nickname>Dent</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>29</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>M Footitt</bowler>
+					<bowlerId>6812</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7657</playerid>
+					<name>Michael Klinger</name>
+					<batsman-name>M Klinger</batsman-name>
+					<batsman-nickname>Klinger</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>93</runs>
+					<balls>174</balls>
+					<fours>7</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Footitt</bowler>
+					<bowlerId>6812</bowlerId>
+						<fielder>Harvey Hosein</fielder>
+						<fielderId>10053</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9348</playerid>
+					<name>Gareth Roderick</name>
+					<batsman-name>G Roderick</batsman-name>
+					<batsman-nickname>Roderick</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>20</runs>
+					<balls>49</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Palladino</bowler>
+					<bowlerId>6526</bowlerId>
+						<fielder>Tom Taylor</fielder>
+						<fielderId>10030</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>56</playerid>
+					<name>Hamish Marshall</name>
+					<batsman-name>H Marshall</batsman-name>
+					<batsman-nickname>Hamish Marshall</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Tom Taylor</bowler>
+					<bowlerId>10030</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>165</playerid>
+					<name>Geraint Jones</name>
+					<batsman-name>G Jones</batsman-name>
+					<batsman-nickname>Geraint Jones</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>17</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Tom Taylor</bowler>
+					<bowlerId>10030</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6641</playerid>
+					<name>Benny Howell</name>
+					<batsman-name>B Howell</batsman-name>
+					<batsman-nickname>Benny Howell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>15</runs>
+					<balls>24</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Palladino</bowler>
+					<bowlerId>6526</bowlerId>
+						<fielder>T Palladino</fielder>
+						<fielderId>6526</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6836</playerid>
+					<name>Jack Taylor</name>
+					<batsman-name>J Taylor</batsman-name>
+					<batsman-nickname>Jack Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>120</runs>
+					<balls>139</balls>
+					<fours>12</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tom Taylor</bowler>
+					<bowlerId>10030</bowlerId>
+						<fielder>Wes Durston</fielder>
+						<fielderId>2260</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8005</playerid>
+					<name>Craig Miles</name>
+					<batsman-name>Craig Miles</batsman-name>
+					<batsman-nickname>C Miles</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Footitt</bowler>
+					<bowlerId>6812</bowlerId>
+						<fielder>Harvey Hosein</fielder>
+						<fielderId>10053</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6834</playerid>
+					<name>David Payne</name>
+					<batsman-name>D Payne</batsman-name>
+					<batsman-nickname>Payne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>46</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8309</playerid>
+					<name>Liam Norwell</name>
+					<batsman-name>Liam Norwell</batsman-name>
+					<batsman-nickname>Liam Norwell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Footitt</bowler>
+					<bowlerId>6812</bowlerId>
+						<fielder>Harvey Hosein</fielder>
+						<fielderId>10053</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6826</playerid>
+				<nbr>1</nbr>
+				<runs>27</runs>
+				<overs>8.1</overs>
+				<batsman>Chris Dent</batsman>
+				<batsman-name>C Dent</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10023</playerid>
+				<nbr>2</nbr>
+				<runs>49</runs>
+				<overs>11.3</overs>
+				<batsman>William Tavare</batsman>
+				<batsman-name>Tavare</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9348</playerid>
+				<nbr>3</nbr>
+				<runs>111</runs>
+				<overs>29.1</overs>
+				<batsman>Gareth Roderick</batsman>
+				<batsman-name>G Roderick</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>56</playerid>
+				<nbr>4</nbr>
+				<runs>113</runs>
+				<overs>31.1</overs>
+				<batsman>Hamish Marshall</batsman>
+				<batsman-name>H Marshall</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>165</playerid>
+				<nbr>5</nbr>
+				<runs>119</runs>
+				<overs>35.5</overs>
+				<batsman>Geraint Jones</batsman>
+				<batsman-name>G Jones</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6641</playerid>
+				<nbr>6</nbr>
+				<runs>159</runs>
+				<overs>43.2</overs>
+				<batsman>Benny Howell</batsman>
+				<batsman-name>B Howell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7657</playerid>
+				<nbr>7</nbr>
+				<runs>251</runs>
+				<overs>68.6</overs>
+				<batsman>Michael Klinger</batsman>
+				<batsman-name>M Klinger</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8005</playerid>
+				<nbr>8</nbr>
+				<runs>255</runs>
+				<overs>70.5</overs>
+				<batsman>Craig Miles</batsman>
+				<batsman-name>Craig Miles</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6836</playerid>
+				<nbr>9</nbr>
+				<runs>329</runs>
+				<overs>85.1</overs>
+				<batsman>Jack Taylor</batsman>
+				<batsman-name>J Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8309</playerid>
+				<nbr>10</nbr>
+				<runs>329</runs>
+				<overs>86.4</overs>
+				<batsman>Liam Norwell</batsman>
+				<batsman-name>Liam Norwell</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>9</byes>
+			<wides>0</wides>
+			<noballs>20</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>33</total>
+		</extras>
+		<bowlteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<bowler-name>M Footitt</bowler-name>
+					<bowler-nickname>Footitt</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>24.4</overs>
+					<maidens>7</maidens>
+					<runsoff>60</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>6526</playerid>
+					<name>Tony Palladino</name>
+					<bowler-name>T Palladino</bowler-name>
+					<bowler-nickname>Palladino</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>22</overs>
+					<maidens>4</maidens>
+					<runsoff>76</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>10030</playerid>
+					<name>Tom Taylor</name>
+					<bowler-name>Tom Taylor</bowler-name>
+					<bowler-nickname>Tom Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>21</overs>
+					<maidens>2</maidens>
+					<runsoff>89</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<bowler-name>S Thakor</bowler-name>
+					<bowler-nickname>Thakor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>1</maidens>
+					<runsoff>34</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<bowler-name>Matthew Critchley</bowler-name>
+					<bowler-nickname>Matthew Critchley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<bowler-name>Dilshan</bowler-name>
+					<bowler-nickname>Dilshan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6518</playerid>
+					<name>Billy Godleman</name>
+					<bowler-name>B Godleman</bowler-name>
+					<bowler-nickname>Godleman</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<bowler-name>Ben Slater</bowler-name>
+					<bowler-nickname>Ben Slater</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<bowler-name>C Hughes</bowler-name>
+					<bowler-nickname>Chesney Hughes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<bowler-name>Scott Elstone</bowler-name>
+					<bowler-nickname>Scott Elstone</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<bowler-name>Hosein</bowler-name>
+					<bowler-nickname>Hosein</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>77</totalruns>
+		<totalwickets>2</totalwickets>
+		<totalovers>32</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<batsman-name>Ben Slater</batsman-name>
+					<batsman-nickname>Ben Slater</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>42</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Liam Norwell</bowler>
+					<bowlerId>8309</bowlerId>
+						<fielder>Chris Dent</fielder>
+						<fielderId>6826</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6518</playerid>
+					<name>Billy Godleman</name>
+					<batsman-name>B Godleman</batsman-name>
+					<batsman-nickname>Godleman</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>98</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<batsman-name>C Hughes</batsman-name>
+					<batsman-nickname>Chesney Hughes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>24</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>B Howell</bowler>
+					<bowlerId>6641</bowlerId>
+						<fielder>Gareth Roderick</fielder>
+						<fielderId>9348</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<batsman-name>Dilshan</batsman-name>
+					<batsman-nickname>Dilshan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>28</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<batsman-name>Scott Elstone</batsman-name>
+					<batsman-nickname>Scott Elstone</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<batsman-name>S Thakor</batsman-name>
+					<batsman-nickname>Thakor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<batsman-name>Hosein</batsman-name>
+					<batsman-nickname>Hosein</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<batsman-name>Matthew Critchley</batsman-name>
+					<batsman-nickname>Matthew Critchley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6526</playerid>
+					<name>Tony Palladino</name>
+					<batsman-name>T Palladino</batsman-name>
+					<batsman-nickname>Palladino</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10030</playerid>
+					<name>Tom Taylor</name>
+					<batsman-name>Tom Taylor</batsman-name>
+					<batsman-nickname>Tom Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<batsman-name>M Footitt</batsman-name>
+					<batsman-nickname>Footitt</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6804</playerid>
+				<nbr>1</nbr>
+				<runs>47</runs>
+				<overs>15.3</overs>
+				<batsman>Ben Slater</batsman>
+				<batsman-name>Ben Slater</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6810</playerid>
+				<nbr>2</nbr>
+				<runs>58</runs>
+				<overs>24.1</overs>
+				<batsman>Chesney Hughes</batsman>
+				<batsman-name>C Hughes</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>4</total>
+		</extras>
+		<bowlteam name="Gloucestershire">
+			<players>
+				<player>
+					<playerid>6834</playerid>
+					<name>David Payne</name>
+					<bowler-name>D Payne</bowler-name>
+					<bowler-nickname>Payne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>5</maidens>
+					<runsoff>19</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8005</playerid>
+					<name>Craig Miles</name>
+					<bowler-name>Craig Miles</bowler-name>
+					<bowler-nickname>C Miles</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>2</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8309</playerid>
+					<name>Liam Norwell</name>
+					<bowler-name>Liam Norwell</bowler-name>
+					<bowler-nickname>Liam Norwell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>2</maidens>
+					<runsoff>21</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6641</playerid>
+					<name>Benny Howell</name>
+					<bowler-name>B Howell</bowler-name>
+					<bowler-nickname>Benny Howell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>2</maidens>
+					<runsoff>7</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6826</playerid>
+					<name>Chris Dent</name>
+					<bowler-name>C Dent</bowler-name>
+					<bowler-nickname>Dent</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10023</playerid>
+					<name>William Tavare</name>
+					<bowler-name>Tavare</bowler-name>
+					<bowler-nickname>Tavare</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7657</playerid>
+					<name>Michael Klinger</name>
+					<bowler-name>M Klinger</bowler-name>
+					<bowler-nickname>Klinger</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9348</playerid>
+					<name>Gareth Roderick</name>
+					<bowler-name>G Roderick</bowler-name>
+					<bowler-nickname>Roderick</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>56</playerid>
+					<name>Hamish Marshall</name>
+					<bowler-name>H Marshall</bowler-name>
+					<bowler-nickname>Hamish Marshall</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>165</playerid>
+					<name>Geraint Jones</name>
+					<bowler-name>G Jones</bowler-name>
+					<bowler-nickname>Geraint Jones</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6836</playerid>
+					<name>Jack Taylor</name>
+					<bowler-name>J Taylor</bowler-name>
+					<bowler-nickname>Jack Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>49</totalruns>
+		<totalwickets>0</totalwickets>
+		<totalovers>14</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Gloucestershire">
+			<players>
+				<player>
+					<playerid>6826</playerid>
+					<name>Chris Dent</name>
+					<batsman-name>C Dent</batsman-name>
+					<batsman-nickname>Dent</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>40</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10023</playerid>
+					<name>William Tavare</name>
+					<batsman-name>Tavare</batsman-name>
+					<batsman-nickname>Tavare</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>26</runs>
+					<balls>44</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7657</playerid>
+					<name>Michael Klinger</name>
+					<batsman-name>M Klinger</batsman-name>
+					<batsman-nickname>Klinger</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9348</playerid>
+					<name>Gareth Roderick</name>
+					<batsman-name>G Roderick</batsman-name>
+					<batsman-nickname>Roderick</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>56</playerid>
+					<name>Hamish Marshall</name>
+					<batsman-name>H Marshall</batsman-name>
+					<batsman-nickname>Hamish Marshall</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>165</playerid>
+					<name>Geraint Jones</name>
+					<batsman-name>G Jones</batsman-name>
+					<batsman-nickname>Geraint Jones</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6641</playerid>
+					<name>Benny Howell</name>
+					<batsman-name>B Howell</batsman-name>
+					<batsman-nickname>Benny Howell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6836</playerid>
+					<name>Jack Taylor</name>
+					<batsman-name>J Taylor</batsman-name>
+					<batsman-nickname>Jack Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6834</playerid>
+					<name>David Payne</name>
+					<batsman-name>D Payne</batsman-name>
+					<batsman-nickname>Payne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8309</playerid>
+					<name>Liam Norwell</name>
+					<batsman-name>Liam Norwell</batsman-name>
+					<batsman-nickname>Liam Norwell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8005</playerid>
+					<name>Craig Miles</name>
+					<batsman-name>Craig Miles</batsman-name>
+					<batsman-nickname>C Miles</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>1</total>
+		</extras>
+		<bowlteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<bowler-name>C Hughes</bowler-name>
+					<bowler-nickname>Chesney Hughes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>22</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<bowler-name>Scott Elstone</bowler-name>
+					<bowler-nickname>Scott Elstone</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<bowler-name>Matthew Critchley</bowler-name>
+					<bowler-nickname>Matthew Critchley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6518</playerid>
+					<name>Billy Godleman</name>
+					<bowler-name>B Godleman</bowler-name>
+					<bowler-nickname>Godleman</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<bowler-name>Ben Slater</bowler-name>
+					<bowler-nickname>Ben Slater</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<bowler-name>Dilshan</bowler-name>
+					<bowler-nickname>Dilshan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<bowler-name>S Thakor</bowler-name>
+					<bowler-nickname>Thakor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<bowler-name>Hosein</bowler-name>
+					<bowler-nickname>Hosein</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6526</playerid>
+					<name>Tony Palladino</name>
+					<bowler-name>T Palladino</bowler-name>
+					<bowler-nickname>Palladino</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10030</playerid>
+					<name>Tom Taylor</name>
+					<bowler-name>Tom Taylor</bowler-name>
+					<bowler-nickname>Tom Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<bowler-name>M Footitt</bowler-name>
+					<bowler-nickname>Footitt</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="4">
+		<totalruns>189</totalruns>
+		<totalwickets>8</totalwickets>
+		<totalovers>81</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Derbyshire">
+			<players>
+				<player>
+					<playerid>6804</playerid>
+					<name>Ben Slater</name>
+					<batsman-name>Ben Slater</batsman-name>
+					<batsman-nickname>Ben Slater</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>D Payne</bowler>
+					<bowlerId>6834</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6518</playerid>
+					<name>Billy Godleman</name>
+					<batsman-name>B Godleman</batsman-name>
+					<batsman-nickname>Godleman</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>64</runs>
+					<balls>228</balls>
+					<fours>9</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6810</playerid>
+					<name>Chesney Hughes</name>
+					<batsman-name>C Hughes</batsman-name>
+					<batsman-nickname>Chesney Hughes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>25</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Craig Miles</bowler>
+					<bowlerId>8005</bowlerId>
+						<fielder>Hamish Marshall</fielder>
+						<fielderId>56</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<batsman-name>Dilshan</batsman-name>
+					<batsman-nickname>Dilshan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>18</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>D Payne</bowler>
+					<bowlerId>6834</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7672</playerid>
+					<name>Scott Elstone</name>
+					<batsman-name>Scott Elstone</batsman-name>
+					<batsman-nickname>Scott Elstone</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>25</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Payne</bowler>
+					<bowlerId>6834</bowlerId>
+						<fielder>Benny Howell</fielder>
+						<fielderId>6641</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7868</playerid>
+					<name>Shiv Thakor</name>
+					<batsman-name>S Thakor</batsman-name>
+					<batsman-nickname>Thakor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>103</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>J Taylor</bowler>
+					<bowlerId>6836</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10053</playerid>
+					<name>Harvey Hosein</name>
+					<batsman-name>Hosein</batsman-name>
+					<batsman-nickname>Hosein</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>11</runs>
+					<balls>21</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Liam Norwell</bowler>
+					<bowlerId>8309</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10387</playerid>
+					<name>Matthew Critchley</name>
+					<batsman-name>Matthew Critchley</batsman-name>
+					<batsman-nickname>Matthew Critchley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>17</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Craig Miles</bowler>
+					<bowlerId>8005</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6526</playerid>
+					<name>Tony Palladino</name>
+					<batsman-name>T Palladino</batsman-name>
+					<batsman-nickname>Palladino</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>45</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>J Taylor</bowler>
+					<bowlerId>6836</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10030</playerid>
+					<name>Tom Taylor</name>
+					<batsman-name>Tom Taylor</batsman-name>
+					<batsman-nickname>Tom Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6812</playerid>
+					<name>Mark Footitt</name>
+					<batsman-name>M Footitt</batsman-name>
+					<batsman-nickname>Footitt</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6804</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>0.2</overs>
+				<batsman>Ben Slater</batsman>
+				<batsman-name>Ben Slater</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6810</playerid>
+				<nbr>2</nbr>
+				<runs>22</runs>
+				<overs>5.4</overs>
+				<batsman>Chesney Hughes</batsman>
+				<batsman-name>C Hughes</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>105</playerid>
+				<nbr>3</nbr>
+				<runs>35</runs>
+				<overs>10.5</overs>
+				<batsman>Tillakaratne Dilshan</batsman>
+				<batsman-name>Dilshan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7672</playerid>
+				<nbr>4</nbr>
+				<runs>63</runs>
+				<overs>20.1</overs>
+				<batsman>Scott Elstone</batsman>
+				<batsman-name>Scott Elstone</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7868</playerid>
+				<nbr>5</nbr>
+				<runs>132</runs>
+				<overs>53.2</overs>
+				<batsman>Shiv Thakor</batsman>
+				<batsman-name>S Thakor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10053</playerid>
+				<nbr>6</nbr>
+				<runs>143</runs>
+				<overs>58.4</overs>
+				<batsman>Harvey Hosein</batsman>
+				<batsman-name>Hosein</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10387</playerid>
+				<nbr>7</nbr>
+				<runs>164</runs>
+				<overs>63.4</overs>
+				<batsman>Matthew Critchley</batsman>
+				<batsman-name>Matthew Critchley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6526</playerid>
+				<nbr>8</nbr>
+				<runs>184</runs>
+				<overs>78.6</overs>
+				<batsman>Tony Palladino</batsman>
+				<batsman-name>T Palladino</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>8</byes>
+			<wides>2</wides>
+			<noballs>4</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>19</total>
+		</extras>
+		<bowlteam name="Gloucestershire">
+			<players>
+				<player>
+					<playerid>6834</playerid>
+					<name>David Payne</name>
+					<bowler-name>D Payne</bowler-name>
+					<bowler-nickname>Payne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19</overs>
+					<maidens>6</maidens>
+					<runsoff>36</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8005</playerid>
+					<name>Craig Miles</name>
+					<bowler-name>Craig Miles</bowler-name>
+					<bowler-nickname>C Miles</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17</overs>
+					<maidens>3</maidens>
+					<runsoff>38</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>6641</playerid>
+					<name>Benny Howell</name>
+					<bowler-name>B Howell</bowler-name>
+					<bowler-nickname>Benny Howell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>1</maidens>
+					<runsoff>29</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8309</playerid>
+					<name>Liam Norwell</name>
+					<bowler-name>Liam Norwell</bowler-name>
+					<bowler-nickname>Liam Norwell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>20</overs>
+					<maidens>4</maidens>
+					<runsoff>49</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6836</playerid>
+					<name>Jack Taylor</name>
+					<bowler-name>J Taylor</bowler-name>
+					<bowler-nickname>Jack Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>8</maidens>
+					<runsoff>19</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6826</playerid>
+					<name>Chris Dent</name>
+					<bowler-name>C Dent</bowler-name>
+					<bowler-nickname>Dent</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>1</maidens>
+					<runsoff>5</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10023</playerid>
+					<name>William Tavare</name>
+					<bowler-name>Tavare</bowler-name>
+					<bowler-nickname>Tavare</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7657</playerid>
+					<name>Michael Klinger</name>
+					<bowler-name>M Klinger</bowler-name>
+					<bowler-nickname>Klinger</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9348</playerid>
+					<name>Gareth Roderick</name>
+					<bowler-name>G Roderick</bowler-name>
+					<bowler-nickname>Roderick</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>56</playerid>
+					<name>Hamish Marshall</name>
+					<bowler-name>H Marshall</bowler-name>
+					<bowler-nickname>Hamish Marshall</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>165</playerid>
+					<name>Geraint Jones</name>
+					<bowler-name>G Jones</bowler-name>
+					<bowler-nickname>Geraint Jones</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

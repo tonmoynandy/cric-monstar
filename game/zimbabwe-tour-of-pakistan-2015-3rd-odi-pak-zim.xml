@@ -1,0 +1,1041 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14764" >
+		<type>ODI</type>
+		<gameDesc>3rd ODI</gameDesc>
+		<series>Zimbabwe tour of Pakistan, 2015</series>
+		<matchday>1</matchday>
+		<home>Pakistan</home>
+		<away>Zimbabwe</away>
+		<teamsabbr>PAK vs ZIM</teamsabbr>
+		<homeabbr>PAK</homeabbr>
+		<awayabbr>ZIM</awayabbr>
+		<homeId>3</homeId>
+		<awayId>12</awayId>
+		<venue>Gaddafi Stadium, Lahore</venue>
+		<startdate>31 05 2015</startdate>
+		<enddate>31 05 2015</enddate>
+		<toss>
+			<winner>Pakistan</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>No result</status>
+		<result type="no result">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries>Azhar Ali</manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Ahsan Raza</Name>
+			<Country>Pak</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Russell Tiffin</Name>
+			<Country>Zim</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Ahmed Shahab</Name>
+			<Country>Pak</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Azhar Khan</Name>
+			<Country>Pak</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>11:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150531175811</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Zim</batteamname>
+		<bwlteamname>Pak</bwlteamname>
+		<batteamruns>68</batteamruns>
+		<batteamwkts>0</batteamwkts>
+		<batteamovers>9</batteamovers>
+		<status>No result</status>
+		<batsman>
+			<playerid>436</playerid>
+			<name>Chamu Chibhabha*</name>
+			<batsman-name>Chibhabha</batsman-name>
+			<batsman-nickname>Chibhabha</batsman-nickname>
+			<runs>39</runs>
+			<balls-faced>27</balls-faced>
+			<fours>4</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>179</playerid>
+			<name>Vusi Sibanda</name>
+			<batsman-name>Sibanda</batsman-name>
+			<batsman-nickname>Sibanda</batsman-nickname>
+			<runs>28</runs>
+			<balls-faced>27</balls-faced>
+			<fours>3</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>1051</playerid>
+			<name>Wahab Riaz*</name>
+			<bowler-name>Riaz</bowler-name>
+			<bowler-nickname>Riaz</bowler-nickname>
+			<overs>2</overs>
+			<maidens>0</maidens>
+			<runs>13</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>360</playerid>
+			<name>Mohammad Hafeez</name>
+			<bowler-name>M Hafeez</bowler-name>
+			<bowler-nickname>Hafeez</bowler-nickname>
+			<overs>2</overs>
+			<maidens>0</maidens>
+			<runs>10</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>46</maxovers>
+		<target>281</target>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>1</total>
+		</extras>
+			<Revised>
+				<revisedovers>46</revisedovers>
+				<revisedruns>280</revisedruns>
+				<reason></reason>
+			</Revised>
+		<prevOvers><![CDATA[1 2 1 1 . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 1 1 . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. L1 4 4 . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 2 1 . . 2 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_PAK_ZIM/PAK_ZIM_MAY31/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[This is <b>Sidhant Maheshwari</b>, signing off on behalf of <b>Sriram</b> and my co-commentators, <b>Akshay Maanay</b> and <b>Pradeep</b>. Bye folks!]]></line><line><![CDATA[That's all we have for you from this game and the series. Cricket made a return to Pakistan after 6 years, but the possibility of other teams following Zimbabwe's suit, remains to be seen. Pakistan stay on <b>87 points</b>, 1 point behind Bangladesh. The ideal situation for them to qualify for the 2017 Champions Trophy will be if India beat Bangladesh 3-0 and they win their series against Sri Lanka. If that doesn't happen, their qualification will be in jeopardy. We'll have to wait for those results to see if Pakistan can make it or not. For now, it's goodbye from here.]]></line><line><![CDATA[<b>Azhar Ali</b> is the <b>Man of the Series</b> for amassing <b>227 runs</b> in the series]]></line><line><![CDATA[On the other hand, Zimbabwe showed plenty of pluck. The batsmen acquitted themselves pretty well. Elton Chigumbura made his maiden ODI hundred in the first ODI, before being punished for a slack overrate. Hamilton Masakadza was consistent while Chamu Chibhabha and Sikandar Raza showed promise of a better future. The bowlers were inconsistent, but without a guiding force, they were always going to struggle on such placid pitches.]]></line><line><![CDATA[A pity that the series has ended in the way it did. Zimbabwe looked promising after restricting Pakistan to 296/9. At 68/0 after 9 overs, they would have fancied a chase, considering that they had bolstered their batting line-up. Pakistan were sloppy with the ball, but would have loved for a full game, considering their current ODI status. All in all, it's been a profitable series for the hosts - their first at home since 2009. Azhar Ali continued his rich vein of form, Hafeez and Haris Sohail looked promising while Malik made a good comeback. There was a promising debut for Babar Azam as well. The bowlers were less impressive, but they weren't helped by the pitches.]]></line><line><![CDATA[<b>22:58 Local Time, 17:58 GMT, 23:28 IST:</b> Well, it was inevitable. The third ODI between Pakistan and Zimbabwe has been abandoned. <b>Pakistan win the 3-match series by a 2-0 margin</b>. Hang on for the post-match quotes and presentations.]]></line><line><![CDATA[<b>22:48 Local Time, 17:48 GMT, 23:18 IST:</b> It is still raining and we are nearing the cut-off time as well. Remember, Pakistan need to be amongst the top eight before September 30th, 2015, if they are to feature in the 2017 Champions Trophy. They have a 5-match ODI series coming up against Sri Lanka next.]]></line><line><![CDATA[<b>22:35 Local Time, 17:35 GMT, 23:05 IST:</b> The cut-off time for a 20-over bash is around <b>11:30 PM local</b>. We are running out of time. It is still raining in Lahore.]]></line><line><![CDATA[<b>22:09 Local Time, 17:09 GMT, 22:39 IST:</b> The rain has gotten heavier now. Things are looking bleak at the moment.]]></line><line><![CDATA[<b>21:52 Local Time, 16:52 GMT, 22:22 IST:</b> Oh Dear, the rain has got pretty heavy and the players are walking off. <b>Rain stops play once again.</b> The square has been covered as rain lashes down on the Gaddafi stadium.]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Hafeez to Sibanda, 2 runs, Hafeez gives this one more air, Sibanda goes on the back foot and works it in front of square on the on-side, the batsmen run hard and get back for the second run]]></line><line><![CDATA[It has started to rain again..]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Hafeez to Sibanda, no run, slower and on off, Sibanda lunges forward and blocks]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Hafeez to Sibanda, no run, slower and just outside off, driven back towards the bowler, he makes a half-stop and parries it away towards mid-wicket]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Hafeez to Chibhabha, 1 run, slower and just outside off, driven down towards mid-wicket for a single]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Hafeez to Chibhabha, 2 runs, flighted and on Sibanda's pads, nudged very fine past leg slip for a couple of runs]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Hafeez to Sibanda, 1 run, flighted delivery and on the stumps, driven down towards long-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>21:50 Local Time, 16:50 GMT, 22:20 IST:</b> Right, we have got some good news. The lights are back, the dust storm  is over and out and the rain has stopped. Play is all set to resume.. The new target for Zimbabwe will be <b>281 from 46 overs</b>]]></line><line><![CDATA[<b>21:45 Local Time, 16:45 GMT, 22:15 IST:</b> This is turning from bad to worse. It has started drizzling in Lahore. The entire square has been covered.]]></line><line><![CDATA[<b>21:35 Local Time, 16:35 GMT, 22:05 IST:</b> Oh dear, this is frustrating. One floodlight tower has gone bust once again..]]></line><line><![CDATA[<b>21:24 Local Time, 16:24 GMT, 21:54 IST:</b> We have now started losing overs. If this is reduced to a 20-over match, Zimbabwe's target will be 138.]]></line><line><![CDATA[<b>21:15 Local Time, 16:15 GMT, 21:45 IST:</b> The lights are back at the Gadaffi stadium but the dust storm has well and truly settled down.]]></line><line><![CDATA[<b>21:05 Local Time, 16:05 GMT, 21:35 IST:</b> There's a dust storm as well now. Looks like we will have a significant delay.]]></line><line><![CDATA[There's a power failure at the ground. Just a couple of bulbs are flickering, we will have a <b>delay here</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Riaz to Chibhabha, no run, back of a length and just outside off, dabbed straight to the fielder at backward point]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Riaz to Chibhabha, no run, tad fuller and just outside off, Chibhabha prods across and defends it]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Riaz to Chibhabha, <b>FOUR</b>, classy from Chibhabha, nothing to do with luck here, on a good length and well outside off, Chibhabha leans half forward and drills it past extra cover, the ball races away to the fence in a hurry]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Riaz to Chibhabha, <b>FOUR</b>, <b>lucky and four</b>, on a good length and just outside off, Chibhabha was late on the chop, gets an inside edge that races past the leg-stump and into the fence]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Riaz to Sibanda, leg byes, 1 run, Sibanda gets smacked on his helmet, he completes the run and checks with his protective gear, this was a quick bouncer, Sibanda was down the track and was in no position to play that, he was looking to take evasive action, but the ball hit him on the side of his helmet and rolled away towards long leg]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Riaz to Sibanda, no run, back of a length and in that channel just outside off, punched to the right of point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Hafeez to Chibhabha, no run, Hafeez drifts one onto Chibhabha's pads, turned towards square leg]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Hafeez to Chibhabha, no run, pushed through by Hafeez, Chibhabha goes back and turns it towards mid-wicket]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Hafeez to Sibanda, 1 run, slower and on the stumps, Sibanda takes a step down the track and drives it towards long-on]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Hafeez to Chibhabha, 1 run, flatter and on Chibhabha's pads, nudged away past square leg for a single]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Hafeez to Sibanda, 1 run, this one is given more air, Sibanda presses forward and works it towards mid-wicket. Babar Azam fumbles and allows a single]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Hafeez to Chibhabha, 1 run, tossed up and just outside off, worked towards long-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Hafeez, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[A slip and a leg slip in place]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Riaz to Sibanda, no run, fraction fuller and just outside off, Sibanda prods across and defends it towards mid-on]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Riaz to Sibanda, no run, on a good length and just outside off, Sibanda shuffles across and tucks it towards mid-wicket]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Riaz to Chibhabha, 1 run, opens the face of the bat and punches this back of a length delivery to the left of backward point for a single]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Riaz to Sibanda, 1 run, short of a length and just outside off, worked towards mid-wicket, Malik shies at the bowler's end and misses, concedes an overthrow]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Riaz to Sibanda, 2 runs, back of a length and in that channel outside off, Sibanda nudges it past mid-wicket, the running is good and the batsmen get back for the second run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Riaz to Chibhabha, 1 run, short of a length and angling across Chibhabha, he presses forward and works it in front of square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, <b>FOUR</b>, this is the best of the lot, fraction too full and on the stumps, Sibanda stays in his crease, uses the bottom hand to good effect and whips it through mid-wicket for a boundary]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, no run, Junaid drops one short as Sibanda gave the charge, he sways away from the line and lets it go]]></line><line><![CDATA[Junaid changes to round the wicket]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, 3 runs, too straight from Junaid, length and on his pads, tucked away in front of square on the on-side, the running is good and the batsmen get back for the third run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, 1 run, too straight from Junaid, ends up drifting onto Sibanda's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, 1 run, short of a length and on Chibhabha's hips, tucked away behind square on the on-side for a single]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, <b>FOUR</b>, <b>lovely shot</b>, length ball on Chibhabha's pads, he gets inside the line and flicks it past mid-on, the timing is sweet and the ball races away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, 1 run, short and wide from Anwar Ali, Chibhabha reaches out and slashes it towards third man for a single]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, no run, short of a length and well outside off, punched straight to the fielder at cover-point]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Anwar Ali to Sibanda, 3 runs, fuller length delivery and well outside off, Sibanda gets a good stride forward and punches it through extra cover, the man at mid-off gives chase and keeps them down to three runs]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Anwar Ali to Sibanda, <b>FOUR</b>, <b>lovely shot</b>, width on offer from Anwar Ali, Sibanda comes down the track, gets on top of the bounce and cracks it up and over point, a couple of bounces and over the ropes]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Anwar Ali to Sibanda, no run, length ball on Sibanda's pads, clipped straight to the fielder at mid-wicket]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Anwar Ali to Sibanda, <b>FOUR</b>, <b>cracking shot</b>, width on offer from Anwar Ali, Sibanda gets on top of the bounce and cracks it behind square on the off-side, beats third man running across to his right]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, no run, very full and outside off, Chibhabha gets the toe-end as he looked to drive, the ball rolls away towards the off-side]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, 1 run, almost a catch at mid-on! Sibanda came down the track to a full ball and drilled it towards mid-on, the ball bounces in front of the fielder, he does well to get his body behind the ball, just a single as it rolls away towards mid-off]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, no run, on a good length and well outside off, Sibanda comes down the track and blocks it towards cover]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, 2 runs, Sibanda gets lucky! This was short and just outside off, Sibanda was cramped for room as he looked to play the cut, gets an inside edge and the ball flies over the stumps]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, 1 run, appeal for LBW, but there was an inside edge on that, Chibhabha was shuffling across a long way on the flick, the ball rolled away towards square leg]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, no run, on a good length and just outside off, punched with a straight bat towards mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, 3 runs, once again a bit too straight from Anwar Ali, ends up angling onto Chibhabha's pads, tucked away past square leg for another three]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, <b>FOUR</b>, too straight from Anwar Ali, Chibhabha prods across and flicks it beautifully past mid-wicket, the timing is sweet and the ball races away to the fence]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, 2 runs, back of a length and just outside off, Chibhabha stays behind the line and punches it back past the bowler, he doesn't get a hand on that, the ball races past mid-off for a couple of runs]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, no run, short of a good length and holding its line outside off, punched back towards the bowler]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, no run, fraction too straight from Anwar Ali, Chibhabha shuffles across and flicks it towards mid-wicket]]></line><line><![CDATA[Just one slip in place..]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Anwar Ali to Chibhabha, no run, on a good length and just outside off, Chibhabha presses forward and defends it towards mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Anwar Ali, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[More issues with the sightscreen. We have a break in play..]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, no run, length ball on the stumps, Sibanda prods across and flicks it towards mid-wicket]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, no run, tad fuller and on the off-stump line, Sibanda prods half forward and defends it]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, no run, fuller length delivery and well outside off, driven firmly but straight to mid-off]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, no run, on a good length and just outside off, Sibanda gets half forward and defends it]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Junaid Khan to Chibhabha, 5 runs, that's sloppy from Pakistan, this was full and on Chibhabha's pads, he nudged it in front of mid-wicket and set-off for a quick single. The fielder has a shy at the bowler's end and misses, the umpire got in the way of the two back-up fielders, they miss and the ball races away to the fence]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Junaid Khan to Sibanda, 1 run, short of a length and on Sibanda's pads, he takes a step forward and nudges it behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sibanda and Chibhabha are at the crease. Sibanda is on strike. Junaid Khan will open the attack</b>]]></line><line><![CDATA[Welcome back.. Can Zimbabwe chase down 297? Junaid will open the bowling for Pakistan. Two slips in place..]]></line><line><![CDATA[The spinners, Cremer, Williams and Raza did a decent job. In their 30 overs, the trio conceded 157 runs and picked up 4 wickets. The fast bowlers had a poor day in the office, they leaked runs at the start as well as the end. They will need their batsmen to play sensibly, if they have to chase this down and register a consolation win. Join us back in a few minutes for the run-chase....]]></line><line><![CDATA[Hafeez and Azhar Ali for the second time in the series added a 100+ opening stand. They started off in a positive manner and continued scoring freely. The skipper looked well set for another big score before his knock was cut short by a run-out. Hafeez accelerated after scoring his fifty, but threw it away when he was on 80. After that Pakistan lost a few quick wickets, Babar Azam and Sarfraz then stitched a crucial partnership. The former on his debut, recorded his maiden fifty. Anwar Ali hit a few lusty blows to take the total close to the 300 mark.]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Panyangara to Junaid Khan, <b>FOUR</b>, good end to the innings. A back of a length delivery, Junaid goes back in the crease, heaves it up and over mid-wicket, no one in the deep to protect the fence, ball bounces once before going over the rope]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, 1 run, short delivery, Ali rocks back and pulls to deep mid-wicket, he wanted two but Junaid didn't want to risk it]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Panyangara to Junaid Khan, 1 run, shortens the length, Junaid knocks it wide of cover, hands the strike back to Ali]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, 1 run, low full toss just outside off, Ali tonks it to long-off, only a single available]]></line><line><![CDATA[<b>Junaid Khan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, <b>out</b> Yasir Shah Run Out!! 1 run completed. Yasir perishes for the team's cause. Pakistan might be bowled out here. Full toss outside off, Ali mistimes the loft to long-on, he pushed his partner for the second, Raza released the ball quickly, Panyangara does well to gather it and take the bails off. <b>Yasir Shah run out (S Raza/Panyangara) 0(0)</b>]]></line><line><![CDATA[Panyangara to Anwar Ali, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire called to check a run-out chance. Yasir Shah is the batsman, he is struggling. OUT is the call.]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, <b>FOUR</b>, full toss just outside off, Ali slices it right between backward point and third man, he didn't mean it to get it there, but won't mind the end result]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Yasir Shah, right handed bat, comes to the crease</b>]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Mpofu to Riaz, <b>out</b> Caught by Mutumbami!! Mpofu has his man. However, Riaz will be happy with this knock. It was another slower ball, short and outside off, Riaz goes for the cut, can only manage an outside edge to the keeper, Mutumbami takes it with ease. <b>Riaz c Mutumbami b Mpofu 13(10) [4s-1 6s-1]</b>]]></line><line><![CDATA[Mpofu to Riaz, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Mpofu to Riaz, <b>FOUR</b>, length delivery right in the slot, Riaz goes down on his knee and lifts it over extra cover, it looked as if it was going all the way, but just bounced inside the rope, no chance for the long-off fielder]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Mpofu to Riaz, <b>SIX</b>, massive! Mpofu banged it halfway down the wicket, Riaz was waiting for that, he hangs back and nails the pull in front of square, it was all power from the left-arm fast bowler]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Mpofu to Riaz, no run, slower short ball, Riaz goes for the pull but fails to connect]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Mpofu to Riaz, no run, takes the pace off the delivery, Riaz is early into the slog, fails to make the required connection]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Mpofu to Anwar Ali, 3 runs, slower delivery outside off, Ali opens the bat face and slices it square on the off-side, he got plenty of height but not the distance. Three men converged and the ball eluded them all. In the end, it was Chibhabha who ran back from backward point, dived and saved a run for the team]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, 1 run, too full and just outside off, Ali drills the drive to long-off, Panyangara got a fingertip in his followthrough and took some pace off the ball]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, <b>SIX</b>, freebie from Panyangara and Anwar Ali latches onto it. Nice juicy full toss, Anwar Ali gets under it and hammers it over long-on. Got the elevation and the distance]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Panyangara to Riaz, 1 run, low full toss outside off, Riaz squeezes it to extra cover]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, 1 run, short and at the batsman, Anwar Ali clears his front leg, swivels and pulls to deep backward square leg]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Panyangara to Riaz, 1 run, banged in halfway down the wicket, Riaz pulls on the bounce to long-on]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Panyangara to Riaz, no run, back of a length on off, Riaz knocks it to the left of the bowler, Panyangara tidies up]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Mpofu to Riaz, 1 run, <b>direct-hit and Riaz was out.</b> Short of a length, Riaz drops it in front of backward point, he was never interested in the run, Ali calls for the single, Riaz sets off late and was struggling had the fielder hit directly at the bowler's end]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Mpofu to Riaz, leg byes, <b>FOUR</b>, sprays it onto the pads, Riaz had to get something on it, the ball brushes the thigh pad and beats the man at 45. These are bonus runs for Pakistan]]></line><line><![CDATA[<b>Wahab Riaz, right handed bat, comes to the crease</b>]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Mpofu to Babar Azam, <b>out</b> Bowled!! A fine innings on debut comes to an end. Azam has bailed Pakistan out of trouble with his fifty. It was not a wicket-taking delivery, but Mpofu will not mind it. A full toss outside off, Azam shuffles across, goes for the heave towards cow corner, the inside edge clatters into the stumps. <b>Babar Azam b Mpofu 54(60) [4s-4]</b>]]></line><line><![CDATA[Mpofu to Babar Azam, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Mpofu to Babar Azam, 2 runs, in the air and safe. Slower delivery on off, Azam tries to get underneath it and loft it out of the ground, he doesn't get it anywhere close to the middle, skies it over the bowler's head, long-off and long-on run forward, but it drops between them]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Mpofu to Babar Azam, no run, the bowler and keeper went for a caught behind appeal, but umpire Tiffin is not convinced. <b>Azam is lucky to still be out there.</b> Too full and outside off, Azam tries to squeeze it out, the ball takes the outside edge and goes to the keeper. The umpire thought the ball bounced before going to Mutumbami, but that was not the case.]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Mpofu to Babar Azam, <b>wide</b>, slower ball goes wrong, well wide of off, Azam can't connect with the cut, wide given]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Mpofu to Anwar Ali, 1 run, starts with a yorker around off, Anwar Ali digs it to the vacant mid-wicket region, Mpofu gives chase and keeps it to a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Mpofu [4.0-0-32-0] is back into the attack</b>]]></line><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, 1 run, back of a length on off, Anwar Ali knocks it in front of point, retains strike]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, <b>SIX</b>, fabulous shot! It seemed like a mishit but cleared the fence with ease. The off-speed delivery from Panyangara, Anwar Ali picked it early, presents the full face and lofts it over long-on]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Panyangara to Babar Azam, 1 run, short and width on offer, Azam slaps it in the air to sweeper cover, goes couple of bounces to the fielder]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Panyangara to Babar Azam, no run, Azam decides to give the charge, Panyangara drags the length back, mistimes the flat-batted hit to cover]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Panyangara to Anwar Ali, 1 run, keeps it short and outside off, Anwar Ali glides it to third man]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Panyangara to Babar Azam, 1 run, back of a length around off, Azam steers it to the left of backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tinashe Panyangara [5.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Cremer to Anwar Ali, no run, stifled appeal for lbw, but umpire Tiffin shakes his head and moves away. Tossed up, Anwar Ali kneels down and misses the sweep, is rapped on the pads. However, the ball pitched outside leg]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 1 run, <b>fifty on debut</b> for Babar Azam. He raises his bat and acknowledges the applause from the crowd. Flighted on the stumps, Azam wrists it to long-on and gets to the landmark]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Cremer to Anwar Ali, 1 run, nice loopy delivery, Anwar Ali has enough time to go back and turn it to the vacant mid-wicket region]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 1 run, floated up outside off, Azam drives to sweeper cover]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Cremer to Anwar Ali, 1 run, shortens the length, Anwar Ali has ample time to go back and work it through mid-wicket]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 1 run, tossed up around off, Azam eases it down to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;S Raza to Anwar Ali, <b>FOUR</b>, not the best of deliveries to end one's spell. Full toss just outside off, Anwar Ali plants his foot forward and drills the drive through extra cover, no need to run for those. Raza's figures: <b>10-0-59-3</b>]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flatter and just outside off, Azam dabs it to backward point, quick single taken]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;S Raza to Anwar Ali, 1 run, this one holds up on the pitch, Anwar Ali was early into the shot, checks it and luckily for him it goes to long-off]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, trifle short, Azam goes deep in the crease and pulls in front of square]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;S Raza to Anwar Ali, 1 run, slower, but the length is short, Anwar Ali goes back and nudges it to mid-wicket]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, pushed through around off, Azam knocks it wide of cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, <b>wide</b>, darted down the leg-side, bonus run for Pakistan]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 1 run, Azam does well to keep strike, goes back and nurdles it wide of mid-wicket]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 2 runs, quicker, full and outside off, Azam opens the bat face and drives square of the wicket, Coventry runs to his left from sweeper and keeps the ball in, the batsmen wanted three but decide against it]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, no run, quicker and on the stumps, Azam backs away and cuts to backward point, straight to the fielder]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, <b>FOUR</b>, beautiful shot! It was all elegance from the debutant. Tossed up on off, Azam goes leg-side slightly, lofts it inside out over extra cover, the long-off fielder runs across, dives but can't prevent the boundary]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Cremer to Anwar Ali, 1 run, slower and on the stumps, Anwar Ali works it to square leg and hands the strike back to Azam]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Cremer to Anwar Ali, no run, floated up on off, driven off the inner part back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;S Raza to Anwar Ali, 1 run, pushed through just outside off, Anwar Ali punches towards cover, goes for a quick single. A better throw at the striker's end might have had Azam in trouble]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;S Raza to Anwar Ali, no run, flatter and close to off, Anwar Ali hangs back and knocks it towards cover]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flighted around off, Azam eases the drive to long-off]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, <b>FOUR</b>, drags the length back, it is way too short, Azam is quick to rock back and pull it in front of square, the ball raced across the turf]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, no run, leans forward and works it to the right of the bowler, Raza gets across quickly and fields the ball]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, no run, backs away and cuts to cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 1 run, tossed up on middle and leg, nudged away to deep mid-wicket]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Cremer to Anwar Ali, 1 run, slower, but the line is on leg-stump, Anwar Ali works it to square leg and opens his account]]></line><line><![CDATA[<b>Anwar Ali, right handed bat, comes to the crease</b>]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Cremer to Azam, <b>out</b> Bowled!! Cleaned up! First wicket for Cremer today. That was a very poor shot from Hammad. Nice loopy delivery, Hammad's eyes lit up as he saw the flight on that, cleared his front leg and went for a mighty heave, missed and the ball crashed into middle and leg. Zimbabwe have pulled things back superbly. <b>Azam b Cremer 4(12)</b>]]></line><line><![CDATA[Cremer to Azam, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Cremer to Azam, no run, tossed up around off, Hammad pushes it back to the bowler]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Cremer to Azam, no run, flighted delivery just outside off, Hammad pushes at it, the ball takes the outer half and rolls to backward point]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Cremer to Babar Azam, 1 run, nice floaty delivery, Azam knocks it square on the leg-side, calls for a quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graeme Cremer [7.0-0-40-0] is back into the attack</b>]]></line><line><![CDATA[The batting powerplay has yielded 34 runs and 1 wicket]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;S Raza to Azam, no run, goes on with the angle from round the wicket, Hammad closes the bat face early, the leading edge lobs and drops in front of the cover fielder]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, comes down the track, almost yorks himself, squeezes the drive to mid-off, sharp run taken]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, <b>FOUR</b>, long hop from Raza and he has been dispatched. Short and on the stumps, Azam pulls it square of the wicket, no one protecting the fence at deep square leg]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, no run, comes down the track and works it with soft hands to mid-wicket]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;S Raza to Azam, 1 run, flatter and on off, Hammad punches to extra cover and gets to the other end]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;S Raza to Azam, no run, half tracker outside leg, Hammad stands way outside leg, fails to connect with the sweep]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Sean Williams to Azam, 1 run, slower and on the stumps, turned away gently to the right of mid-wicket]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, knocks it to the right of cover, calls for a quick single and makes it with ease]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, flatter and on the pads, Azam can't connect with the flick, is struck on the pad]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, <b>FOUR</b>, quicker, fuller and just outside leg, Azam stays inside the line and tickles it very fine, the short fine fielder had no chance of stopping that]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Sean Williams to Azam, 1 run, once more Williams fires it in the blockhole, Hammad nudges it to mid-wicket]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Sean Williams to Azam, no run, too full and on middle, Hammad digs it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;S Raza to Azam, 1 run, flighted on the stumps, swept away to deep backward square leg, for a single]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;S Raza to Azam, no run, tossed up on off, driven to the right of the bowler, Williams intercepts from mid-wicket]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;S Raza to Azam, no run, pushed through on middle and leg, Hammad Azam turns it to mid-wicket]]></line><line><![CDATA[<b>Hammad Azam, right handed bat, comes to the crease</b>]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, <b>out</b> Caught by Sean Williams!! Third wicket for Raza. He is having a fine day. Is involved in 4 wickets now. Another soft dismissal for a Pakistani batsmen. Flighted on the stumps, Sarfraz checks his shot and chips it towards mid-wicket, Williams runs forward, dives and takes a good catch. <b>Sarfraz Ahmed c Sean Williams b S Raza 25(23) [4s-3]</b>]]></line><line><![CDATA[S Raza to Sarfraz Ahmed, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, no run, flighted around off, Sarfraz bunts it towards mid-off]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, <b>FOUR</b>, fraction short and on leg-stump, Sarfraz rocks back and pulls square of the wicket, gives the fielder in the deep no chance]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, <b>wide</b>, Raza tries to follow Sarfraz as he is standing outside leg, Sarfraz smartly gets inside the line and lets it go, another extra added to the total]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, 1 run, low full toss on middle, Sarfraz whips it between deep mid-wicket and long-on, only a single available]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, no run, Sarfraz goes outside leg, Williams bowls it quicker and on the stumps, driven off the inner part back to the bowler]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, <b>wide</b>, fired down leg, easy call for the ump]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, 2 runs, slower through the air, Sarfraz works it with soft hands in front of square on the leg-side, called for two immediately and gets it with ease]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, Azam comes down the track, almost yorks himself, squeezes the drive to mid-off]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, 1 run, bit more air on this one, Sarfraz kneels down and sweeps to deep backward square leg]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, no run, Mutumbami goes up for an lbw appeal, but it pitched outside leg, flatter and skids on, Sarfraz misses the flick, is struck on the pads]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, 1 run, Raza tries to follow Sarfraz, who is standing outside leg, drives to mid-off and keeps strike]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, no run, Sarfraz once more stands way from leg, Raza bowls a nice juicy full toss, Sarfraz drives and finds mid-off. He is disappointed with himself]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, <b>FOUR</b>, tossed up on off, Sarfraz kneels down and sweeps it behind square leg, the fielder in the deep was square and had no chance of stopping that]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flighted on the stumps, Azam eases it down to long-on]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, <b>wide</b>, darted down the leg-side, Azam gets inside the line and lets it go, wide called]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, 1 run, Sarfraz stands way outside leg, Raza keeps it full and on leg-stump, driven away to long-on]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flatter and on leg-stump, Azam nurdles it to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now. The <b>batting powerplay</b> has been enforced.]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, once again bowls this flatter outside off, Azam punches it square of the wicket and he will keep the strike]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, 3 runs, quicker and on the pads of the batsman, Sarfraz hangs back and pushes it to the right of mid-wicket, the fielder gives chase and hauls the ball back before the rope, the batsmen take three in the meantime]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, steps out of the crease and whips this fullish delivery on the stumps to the right of long-on]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, 1 run, floated up on middle stump line, Sarfraz leans forward and drives it down to long-on]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, bowls this one quicker just outside off, Azam knocks it to sweeper cover and gets to the other end]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, flatter just outside off, Azam punches it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, no run, shortish and slightly wide outside off, Sarfraz makes room to cut, but hits it straight to the fielder at point]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, no run, touch quicker and on the stumps, Sarfraz pushes it back to the bowler]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, no run, pushed through quciker by Raza, Sarfraz bunts it towards cover]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, nudges this flatter one to deep mid-wicket off the back foot]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, 1 run, drifting on off stump line, Ahmed turns it behind square on the on-side]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run,whips this slowish delivery on off stumpm line towards deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, <b>wide</b>, down the leg-side, Azam leaves and the umpire calls it a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, flatter just outside off, Azam rocks back and punches it to sweeper cover, he will keep the strike]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, comes down the track and pushes this flighted delivery back to the bowler off the inside half of the bat]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, 1 run, drops this one in front of cover and sets off, makes it with ease]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, <b>FOUR</b>, <b>edged and four!</b> This was shortish and wide outside off, Sarfraz goes for the late cut, the ball takes the outside edge and runs away fine, gets four as it crashes into the fence]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, no run, floated up on off, Ahmed leans forward and blocks]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Sean Williams to Sarfraz Ahmed, no run, cuts it to backward point off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;S Raza to Sarfraz Ahmed, 1 run, drives this fullish delivery down to long-on for a single]]></line><line><![CDATA[<b>Sarfraz Ahmed, right handed bat, comes to the crease</b>]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;S Raza to Shoaib Malik, <b>out</b> Shoaib Malik Run Out!! 1 run completed. Pakistan lose their fourth wicket and it's Malik, who has to go now. It was darted quicker on leg stump line, Malik goes deep in the crease and nudges it through square leg. The batsmen decide to take the second run even though it was not there, Mpofu from deep backward square leg runs forward to his left, picks the ball and fires an accurate throw at the striker's end even though he was not properly balanced. Malik was charging in, but the keeper takes the bails off in a flash and catches him short. Great throw by Mpofu there. <b>Shoaib Malik run out (Mpofu/Mutumbami) 3(7)</b>]]></line><line><![CDATA[S Raza to Shoaib Malik, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire has been pressed into service once again to check a run-out decision. Malik is the man in question and he's gone. He is short of his crease. <b>OUT</b> displays on the big screen.]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flatter outside off, Azam knocks it to the right of extra cover, calls for a quick single and makes it easily]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, no run, on the pads this time, Azam turns it towards short fine leg]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;S Raza to Shoaib Malik, 1 run, bunts this delivery on the stumps down to long-on for a single]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, shortish and slightly wide outside off, Azam makes slight room and cuts it to the right of point, who dives across and makes a half stop, parries it towards cover and the batsmen take a single in the meantime]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Sean Williams to Shoaib Malik, no run, slower through the air this time, Malik hangs back and pushes it to cover with soft hands]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, eases this flighted delivery down to long-on]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, Azam steps out of the crease and Williams bowls it quicker and flatter, all Azam could do was block]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Sean Williams to Shoaib Malik, 1 run, too full and on the pads, Malik works it through square leg and gets off the mark with a single]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Sean Williams to Shoaib Malik, no run, clips this tossed up delivery straight to mid-wicket]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, pushed through on middle and leg, Azam nudges it to the right of short fine leg and gets to the other end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;S Raza to Shoaib Malik, no run, bowls it quicker and on the stumps, Malik goes deep in the crease and punches it to mid-wicket]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;S Raza to Shoaib Malik, no run, flatter and just outside off, Malik punches it to cover-point]]></line><line><![CDATA[<b>Shoaib Malik, right handed bat, comes to the crease</b>]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;S Raza to Shafiq, <b>out</b> Caught by Sean Williams!! That's a soft, soft dismissal for Shafiq. Raza gets his second wicket of the innings. It was tossed up on middle and leg, Shafiq takes a step forward and wanted to lift it over mid-wicket, he checks his shot at the last moment and hits it straight to Williams there, who takes it easily. <b>Shafiq c Sean Williams b S Raza 16(25) [4s-1]</b>]]></line><line><![CDATA[S Raza to Shafiq, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;S Raza to Shafiq, no run, gives the charge and looks to whip this delivery on leg stump line through the on-side, fails to connect and wears it on the pad]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, works this delivery on middle stump line to deep square leg for a single]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, no run, not the right length to cut, it was floated up outside off, Azam looks to cut but can't connect, the keeper collects]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, no run, good effort by Sibanda at cover, saved at least a run for his team. It was tossed up on off, Shafiq stays leg-side and drives it to the left of cover, Sibanda dives full length and stops the ball]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, leans forward and drives this flighted delivery outside off to long-off]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, flicks this delivery darted in on off and middle stumnp line straight to mid-wicket]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, pushes this flighted delivery towards short cover, wanted the single there but Shafiq sends him back]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, slower through the air and spinning away around off, Azam defends it into the off-side]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, 1 run, kneels down and half pulls/sweeps this shortish delivery down to deep backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;S Raza to Shafiq, 1 run, Shafiq steps out and Raza follows him with a fuller one, Shafiq did well to work it behind square on the on-side for a single]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, turns this delivery on middle and leg through square leg, the batsmen cross over for a single]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;S Raza to Shafiq, 1 run, eases this flighted delivery down to long-on for a single]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;S Raza to Shafiq, <b>FOUR</b>, <b>lovely shot!</b> It was shortish and slightly wide outside off, Shafiq rocks back and cuts it to the right of backward point, the ball runs away to the fence in a flash]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;S Raza to Shafiq, no run, clips this tossed up delivery straight to mid-wicket]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flatter and turning in on leg stump line, Azam punches it down to long-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, 1 run, tossed up outside off, Azam drives it down to long-off and he will keep the strike]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, drifting in on middle and leg, Azam gently drops it to his left]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, comes forward and looks to drive this flighted delivery, drags it back to the bowler off the inside half of the bat]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Sean Williams to Babar Azam, no run, slower through the air and on off, Azam presses forward in defence]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, 1 run, shortish and wide outside off, Shafiq cuts it to sweeper cover for a single]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, no run, full just outside off, Shafiq drags it to the right of the bowler off the inside half of the bat, mid-wicket runs to his left and prevents the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;S Raza to Shafiq, 1 run, drags this one short after seeing Shafiq kneel down, the batsman adjusts well and pulls it to deep mid-wicket, he will keep the strike]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, flatter outside off, Azam punches it past a diving cover, long-off tidies up in the deep. The batsmen should have come back for the second there, but they are content with a single]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, no run, goes on the back foot and nudges this flatter one to short fine leg]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;S Raza to Shafiq, 1 run, drifting in on middle stump line, Shafiq works it away through square leg for a single]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;S Raza to Babar Azam, 1 run, tossed up just outside off, Azam comes forward and drives it down to long-on to get off the mark in ODI cricket]]></line><line><![CDATA[<b>Babar Azam, right handed bat, comes to the crease</b>]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;S Raza to Hafeez, <b>out</b> Lbw!! Raza strikes first ball. Hafeez doesn't look happy as he walks back, but it looked out to the naked eye. It was the straighter one from Raza from round the wicket, Hafeez was looking to clip it through the on-side and misses, the ball pitched in line and hits him on the back pad, in line with middle and leg, the umpire took some time to think and then raised his finger, much to the delight of the Zimbabweans. <b>Hafeez lbw b S Raza 80(80) [4s-8 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[S Raza to Hafeez, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Sikandar Raza, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, 1 run, darted quicker and just outside off, Hafeez punches it to the left of cover and sets off, the fielder fires a throw at the striker's end, but the batsman was well home]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, no run, once again takes a step forward and Williams drags his length back, Hafeez defends it to the left of the bowler]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, 1 run, comes down the track and Williams bowls a full toss, Shafiq helps it down to long-on and gets to the other end]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, no run, once again bowls it short outside off, Shafiq reaches out and dabs it to backward point]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, 2 runs, drags this one short and on the stumps, Shafiq pulls it through mid-wicket, didn't time it that well but it's good enough for a couple of runs]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, no run, steps out and almost yorks himself, did well to block it to the left of the bowler in the end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, slower from Cremer, Hafeez rocks back and looks to punch it through the on-side, mistimes it off the inside half of the bat back to the bowler]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Cremer to Hafeez, <b>FOUR</b>, drifting on middle and leg, Hafeez kneels down and sweeps it behind square on the on-side, the fielder at square leg dives to his right to try and stop that, can't get a hand on it and it races away]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, flatter once again and spinning away outside off, Hafeez cuts it straight to backward point]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, flighted delivery just outside off, Hafeez pushes it towards short cover]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Cremer to Hafeez, <b>FOUR</b>, shortish and wide outside off, Hafeez cuts it to the right of backward point, sweeper runs to his left, slides to stop the ball but the ball rolls back onto the rope]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, opens the face of the bat and guides it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, no run, flatter and on off, Shafiq drives it to the left of the bowler, Williams gets across and stops the ball]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, 1 run, goes on the bounce to the fielder. Fraction short, on middle, Hafeez pulls it in the air, the fielder from long-on runs forward, dives and takes it on the volley. That was a good effort]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, no run, pushed through on the stumps, Hafeez flicks it to mid-wicket, the fielder makes a fumble but the batsmen don't risk a run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, no run, comes down the track and drives it back to the bowler]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, no run, quicker, fired onto the stumps, Hafeez turns it gently to short mid-wicket]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, 1 run, tossed up around off, Shafiq push-drives it to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Cremer to Shafiq, 1 run, bit too straight, on middle and leg, Shafiq nudges it to mid-wicket and retains strike]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Cremer to Shafiq, no run, drops it short outside off, Shafiq cuts and picks out cover, fourth time he has picked that fielder out]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Cremer to Shafiq, no run, slower and around off, Shafiq leans forward and knocks it to cover]]></line><line><![CDATA[Some problem with the ball. Umpire Ahsan Raza is cutting a bit of thread that has come off. A slip comes in for Shafiq now...]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Cremer to Shafiq, no run, flighted outside off, Shafiq leans forward and pushes it to cover]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Cremer to Shafiq, no run, tossed up on middle stump line, Shafiq gently drives to short cover]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 1 run, drags this one well short and wide outside off, Hafeez reaches out and cuts it to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, 1 run, drifting on the pads, Hafeez turns it towards mid-wicket and sets off for a quick single, makes it easily in the end]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, no run, darted quicker and on middle and leg, Hafeez goes back in the crease and nudges it to the right of mid-wicket]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, 1 run, backs away and cuts this shortish delivery outside off to sweeper cover]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Sean Williams to Shafiq, no run, pushed through quicker on off, Shafiq leans forward and blocks]]></line><line><![CDATA[A slip in place for Shafiq]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, 1 run, comes down the track and lofts this flighted delivery on the bounce to long-off, only a single available]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Sean Williams to Hafeez, no run, slower on the stumps, Hafeez defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sean Williams, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[<b>Asad Shafiq, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Cremer to Hafeez, <b>out</b> Azhar Ali Run Out!! The Pakistani captain departs without reaching yet another fifty. This was floated up just outside off, Hafeez pushes it gently in front of short cover and calls for a quick single, Raza quickly runs forward, picks the ball and fires a direct-hit at the striker's end. Ali was struggling to make his ground and didn't even dive, falls 4 short of his fifty. Zimbabwe though will be happy to see his back. <b>Azhar Ali run out (S Raza) 46(59) [4s-4 6s-1]</b>]]></line><line><![CDATA[Cremer to Hafeez, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire has been pressed into service to check a run-out decision. Azhar Ali is the man in question. He looks short of his crease, he is gone and <b>OUT</b> shows up on the big screen.]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 2 runs, floated up outside off, Ali loft-drives it over a leaping short cover, long-off runs to his left to stop the ball and the batsmen come back for the second]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, 1 run, tossed up and spinning in on middle, Ali drills the drive past the non-striker for a single]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, no run, flighted delivery outside off, Ali opens the face of the bat and dabs it towards short third man]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 1 run, short and spinning away further from outside off, Hafeez goes on the back foot and cuts it to sweeper cover]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, <b>SIX</b>, <b>that's a freebie from Cremer!</b> This was a juicy full toss from Cremer, Hafeez kneels down and slog sweeps it over the deep mid-wicket fence for his first maximum of the day]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, 1 run, glides this widish delivery outside off to third man, he will keep the strike]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, no run, drops this good length delivery into the off-side and sets off, Azhar Ali sends him back as the fielder from backward point quickly ran to his right to stop the ball]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, <b>FOUR</b>, poor ball from Masakadza, it was banged in short and on middle and leg, Hafeez stays back and pulls it behind square on the on-side, the ball runs away to the fence in no time]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, no run, on a good length and just outside off, Hafeez leans forward and pushes it to cover]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, 2 runs, <b>100 of the partnership</b> comes up with these two runs. It was once again short and wide outside off, Hafeez plays it late and sends it towards the squarish third man region, third man runs to his right and tidies up. The batsmen take a couple in the meantime]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, 2 runs, Hafeez gets to his <b>25th ODI fifty</b> with this couple. It was shortish and wide outside off, Hafeez reaches out and guides it towards the squarish third man region, gets back for the second easily]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, no run, flatter and spinning away outside off, Ali dabs it behind square on the off-side, can't get the single away as the ball rolls away to short third man]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 1 run, tossed up outside off, Hafeez drives it to sweeper cover off the front foot]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 2 runs, once again Cremer drags it short and well wide outside off, Hafeez cuts it to the right of backward point, who dives to his right but can't stop the ball. The batsmen take two before the ball is hunted down in the deep]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, flatter outside off, Hafeez cuts it to backward point]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Cremer to Hafeez, <b>FOUR</b>, good effort by Sibanda at deep mid-wicket, but he can't prevent the boundary. It was short and on the stumps, Hafeez rocks back and pulls it towards deep mid-wicket, Sibanda dives full length to his left, gets a hand on the ball but can't prevent it from reaching the fence]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, shortish and spinning away outside off, Hafeez dabs it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, 1 run, on a length and just outside off, steered down towards third man for a single]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, 2 runs, short and just outside off, Hafeez swivels across on the pull, doesn't get hold of the shot but gets wnough to get it wide of mid-wicket, Hafeez gets back for the second run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;H Masakadza to Azhar Ali, 1 run, full and on the stumps, driven back towards the bowler. He slides and gets a hand onto it, deflects it away towards mid-on]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;H Masakadza to Azhar Ali, no run, on a good length and just outside off, driven back towards the bowler]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;H Masakadza to Hafeez, 1 run, too straight from Masakadza, ends up drifting onto Hafeez's pads, nudged past mid-wicket for a single]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;H Masakadza to Azhar Ali, 1 run, fuller length delivery and on Azhar's pads, clipped away behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamilton Masakadza, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[<b>Drinks</b> are on the field now]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, Cremer tosses one on Hafeez's pads, he looks to sweep and is struck on the pads]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, flighted delivery and just outside off, Hafeez goes back and defends it]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, pushed through by Cremer, Hafeez dabs it to the left of backward point, the fielder fumbles but there's a man backing up at short third man]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, slower and just outside off, punched back towards the bowler]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, 1 run, flighted delivery and just outside off, Azhar makes room and cuts it square behind point for a single]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 1 run, Cremer goes wide outside off as Hafeez gave the charge, he ends up dragging it towards long-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Chibhabha to Hafeez, 1 run, fuller length delivery and just outside off, worked away in front of square on the on-side for a single]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 1 run, slower ball from Chibhabha, Azhar gets well forward and drives it towards long-on]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Chibhabha to Hafeez, 1 run, tad fuller and just outside off, punched in front of mid-off for a quick single]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 1 run, length ball on the stumps, worked towards short fine leg for a single]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, short of a good length and on the off-stump line, flicked towards mid-on]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, <b>wide</b>, Chibhabha slips one well down the leg-side, Azhar looks to help it on its way and misses, called as a wide]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Chibhabha to Hafeez, 1 run, fuller length delivery and on the stumps, whipped away towards long-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, no run, pushed through by Cremer, Azhar makes room and slices it to the right of short third man]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, no run, fraction shorter and well outside off, Azhar makes room, opens the face of the bat and runs it to short third man]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, no run, tossed up and wider outside off, Azhar gets well forward and defends it towards the off-side]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, 2 runs, the leg-break from Cremer, but he has dropped it way too short, chopped away behind square on the off-side for a brace]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, no run, slower and just outside off, Azhar lunges forward and pushes it to the right of point]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 1 run, tossed up and well outside off, Hafeez leans forward and drives it to deep cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, <b>FOUR</b>, <b>lovely shot</b>, too full and too wide from Chibhabha, Azhar gets forward and drills it past mid-off, the man out there dives, but the ball beats him to the fence]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Chibhabha to Hafeez, 1 run, on a good length and well outside off, worked towards long-on for a single]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 1 run, back of a length and angling across the right-hander, dabbed down towards third man for a single]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, poor ball from Chibhabha, slips one well down leg-side, flicked away straight to the fielder at short fine leg]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, <b>FOUR</b>, this is good batting from Azhar, Chibhabha spotted the batsman coming down the track and banged it short, Azhar is quick to swivel across and pulls it high and over mid-wicket, one bounce and over the ropes]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, on a good length and just outside off, driven towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Cremer to Hafeez, <b>FOUR</b>, poor ball from Cremer, dropped one short and well outside off, Hafeez reaches out and cracks it square behind point for a boundary, ruins the over for Cremer]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 2 runs, tossed up and well outside leg, Hafeez goes down on his knees, rolls his wrists and sweeps it past square leg, the fielder dives over the ball and allows a couple of runs]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Cremer to Azhar Ali, 1 run, Cremer drops one short and just outside off, Azhar makes room and cuts it square on the off-side for a single]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Cremer to Hafeez, 1 run, this one is given more air, eased down towards long-off for a single]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, tossed up and well outside off, Hafeez gets a good stride forward and drives it towards cover]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Cremer to Hafeez, no run, flighted delivery and well outside off, Hafeez backs away and cracks it straight to the fielder at cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graeme Cremer, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, on a good length and holding its line outside off, Azhar looks to dab it towards third man and misses]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Chibhabha to Hafeez, 1 run, too straight from Chibhabha, worked away behind square on the on-side for a single]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 1 run, short of a length and just outside off, Azhar comes down the track and punches it to mid-on, calls for a quick single and beats the throw from the fielder]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, on a good length and in that corridor outside off, Azhar looks to play with soft hands, the ball rolls away towards the keeper]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, short of a length and well outside off, Azhar comes down the track and mistimes it back towards the bowler]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, Chibhabha keeps it full and well outside off, driven straight to the fielder at mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, 2 runs, back of a length and angling into Hafeez's pads, whipped away in front of square on the on-side for a couple of runs]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, on a good length and well outside off, Hafeez looks to drive and gets an inside edge towards mid-off]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, fuller length delivery and well outside off, driven straight to the fielder at point]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, 1 run, short of a length and well outside off, Azhar runs it down towards third man for a single]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, back of a length and well outside off, punched straight to point]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, fuller length delivery and just outside off, Azhar shuffles across and blocks it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 1 run, back of a length and well outside off, punched off the back foot and to the left of mid-off for a single]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Chibhabha to Hafeez, 1 run, on a good length and just outside off, driven in front of mid-off for another quick single]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 1 run, back of a length and just outside off, Azhar steps down the track and works it in front of mid-on, calls for a quick single and makes it even as he dropped his bat]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, on a good length and holding its line on off, Azhar was early into the flick, gets a leading edge that just drops in front of the bowler]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, 2 runs, fuller length delivery and well outside off, Azhar reaches out and slaps it square behind point. Third man gets across and keeps them down to a couple of runs]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Chibhabha to Azhar Ali, no run, on a good length and in that channel outside off, Azhar presses across and defends it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chamu Chibhabha, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, 1 run, back of a length and well outside off, Azhar runs it down towards third man for a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, on a good length and holding its line outside off, left alone]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, 1 run, back of a length and well outside off, steered away towards third man for a single]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, short of a length and well outside off, steered away straight to the fielder at backward point]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, 1 run, tad fuller and just outside off, Azhar takes a step down the track and works it behind square on the on-side for a single]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, on a good length and just outside off, Azhar leans half-forward and defends it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, 1 run, width on offer from Mpofu, sliced away square on the off-side for a single]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, no run, tad fuller and well outside off, Azhar pushes it towards backward point]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, no run, on a good length and in that corridor outside off, he is slightly squared up and gets a thick edge towards backward point]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, <b>FOUR</b>, short of a length and well outside off, Azhar waits on it and dabs it past third man - who was inside the ring, another boundary for Azhar]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, <b>SIX</b>, <b>lovely shot</b>, Azhar is looking positive, shimmies down the track, makes room and scythes it up and over point, the ball sails over the ropes for a maximum]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, no run, fuller length delivery and just outside off, Azhar covers the line, lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, short of a length and well outside off, dabbed straight to the fielder at backward point]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, tad fuller and on off, driven firmly but straight to the fielder at mid-on]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, 1 run, on a good length and well outside off, steered away with an open face behind square on the off-side. Panyangara took a tumble on his followthrough]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, tad fuller and just outside off, defended back towards the bowler]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, back of a length and just outside off, Azhar stays behind the line and punches it towards cover]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, 1 run, a direct hit might have had Hafeez in trouble, replays suggest he made his ground with the dive, he pushed a length ball to the left of mid-wicket and called for a quick single. The fielder was quick on the ball and had a shy at the bowler's end, missed the stumps]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, 1 run, on a good length and on the stumps, driven to the left of mid-wicket, the fielder dives and parries it away towards mid-on]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, <b>FOUR</b>, that's easily done by Hafeez, fraction too short and well outside off, Hafeez is quick to rock back and pulls it past mid-wicket, he doesn't need to run for those]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, Mpofu keeps it full and on the stumps, driven towards mid-on]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, 1 run, tad fuller and holding its line outside off, Azhar prods forward and gets a thick edge towards third man]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, 2 runs, poor line from Mpofu, full and well outside leg, flicked away behind square on the on-side for a couple of runs]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Mpofu to Azhar Ali, no run, short of a length and well outside off, punched off the back foot towards cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, fuller length delivery and just outside off, Hafeez gets a good stride forward in defence]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, lovely delivery from Panyangara, pitched up and in that channel outside off, draws Hafeez forward into the push, beats the outside edge]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, no run, Panyangara shortens his length and angles this one across Hafeez, left alone]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, 1 run, pitched up and on the stumps, punched to the left of mid-on for a single]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, Panyangara shortens his length outside off, Azhar presses across and whips it straight to the fielder at mid-wicket]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, on a good length and a hint of shape back into Azhar, he covers the line, lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, the off-cutter from Mpofu, Hafeez gets half forward and defends it]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, Mpofu slips in the slower delivery, the ball stopped slightly on Hafeez, he prods forward and blocks]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, on a good length and just outside off, Hafeez prods half-forward and defends it]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, <b>FOUR</b>, <b>cracking shot</b>, leg-stump half-volley from Mpofu, Hafeez shuffles inside the line and flicks it uppishly, gets it wide of mid-wicket and races away to the fence]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, on a good length and well outside off, Hafeez leans forward and defends it towards mid-off]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, fuller length delivery and on the stumps, Hafeez prods across and defends it towards the on-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, Panyangara shortens his length and gets this one to angle back into Azhar, beats his flick and rolls away off the thigh pad towards square leg]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, short of a length and angling into Azhar, nudged towards square leg]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, fuller length delivery and in that channel outside off, Azhar covers the line, lifts his bat and lets it go]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, tad fuller and just outside off, Azhar shimmies across and defends it towards mid-on]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, no run, on a good length and just outside off, Azhar presses across and defends it towards the off-side]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Panyangara to Azhar Ali, <b>FOUR</b>, <b>lovely shot</b>, this was full and wide outside off, Azhar clears his left leg, makes room and launches it over extra cover, almost went all the way, bounces just in front of the ropes]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Free-Hit</b>]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Panyangara to Hafeez, <b>no ball</b>, 1 run, length ball on Hafeez's pads, worked away behind square on the on-side, Panyangara has overstepped though]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tinashe Panyangara, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, 3 runs, this is not a good start from Mpofu, he slips onto Hafeez's pads once again, flicked away in front of square on the on-side. Kaia gives a spirited chase and keeps them down to three runs]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, fuller length delivery and just outside off, Hafeez prods forward and defends it towards cover]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, <b>FOUR</b>, <b>lovely shot</b>, too straight from Mpofu, ends up drifting onto Hafeez's pads, whipped away in front of square on the on-side for a boundary]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, fuller length delivery and shaping away from outside off, left alone]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, no run, on a good length and just outside off, Hafeez presses half-forward and defends it]]></line><line><![CDATA[Now there's problems with the sightscreen]]></line><line><![CDATA[Looks like Mpofu injured himself while walking back to his bowling mark. He slumped suddenly, got up gingerly and walked back to his bowling mark.. Might have got into contact with Hafeez as he went for the second run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Mpofu to Hafeez, 2 runs, gentle loosener from Mpofu, drifts one onto Hafeez's pads, whipped away behind square on the on-side for a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hafeez and Azhar Ali are at the crease. Hafeez is on strike. Mpofu will open the attack</b>]]></line><line><![CDATA[Babar Azam gets his maiden ODI cap and is hugged by his teammates. Similar is the case of Roy Kaia, the Zimbabwean debutant.]]></line><line><![CDATA[<b>Masakadza:</b> 'Looks like a belter, we need to bowl well and restrict them. Lots to play for us today. Couple of changes, Mpofu is back and Roy Kaia will make his ODI debut.']]></line><line><![CDATA[<b>Azhar Ali:</b> 'We will bat first. Looks a good wicket, there was no dew in the last match, we would like to make a big score. Things are going well. Babar Azam will make his debut today. It's been amazing, the crowd, can't explain, I haven't played here before, the crowd has been exceptional.']]></line><line><![CDATA[<b>Pitch Report:</b> 'Another lovely batting surface. The bounce should be even and it should come onto the batsmen. Win the toss and bat first', reckons <b>Rameez Raja</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Zimbabwe</b> (Playing XI): Vusi Sibanda, Chamu Chibhabha, Hamilton Masakadza(c), Sean Williams, Sikandar Raza, Richmond Mutumbami(w), Charles Coventry, Graeme Cremer, Tinashe Panyangara, Roy Kaia, Chris Mpofu]]></line><line><![CDATA[<b>Pakistan</b> (Playing XI): Azhar Ali(c), Mohammad Hafeez, Asad Shafiq, Babar Azam, Shoaib Malik, Sarfraz Ahmed(w), Hammad Azam, Anwar Ali, Wahab Riaz, Junaid Khan, Yasir Shah]]></line><line><![CDATA[There's news coming in that <b>Babar Azam</b> will make his debut. <b>Junaid Khan</b> has also been included in the Pakistani XI. Haris Sohail and Mohammad Sami will sit this one out. For Zimbabwe, <b>Roy Kaia</b> makes his debut as well. <b>Mpofu</b> too comes back into the side and Vitori and Mupariwa miss out.]]></line><line><![CDATA[<b>Pakistan have won the toss and have opted to bat</b>]]></line><line><![CDATA[We'll have the toss and the teams in a short while. Stay tuned.]]></line><line><![CDATA[Zimbabwe too have problems of their own. Their batters have clicked from time to time, but they have failed to match the batting quality of their opponents. Their bowling though has been very disappointing. Barring one or two bowlers, their bowlers have failed to put up a good show. Their death bowling especially, remains a big concern for the visitors. It will be interesting to see how they go about their jobs today.]]></line><line><![CDATA[Pakistan might have comprehensively beaten their opponents in the previous two ODIs, but their bowling still remains a concern. It is their batting that has clicked throughout. If it was Shoaib Malik's ton and fifties from the rest of the batsman that helped them put up a mammoth total in the first ODI, it was Azhar Ali's century that got them home in the second ODI.]]></line><line><![CDATA[Credit must go to the Zimbabwe cricket team as well. Despite the attack, they decided to complete their tour of Pakistan. The home team already have an unassailable 2-0 lead in the series. Zimbabwe could have decided against playing the final game, but they decided to finish the tour as planned after security assurances from the PCB.]]></line><line><![CDATA[International cricket returned to Pakistan after a gap of 6 years and just when it looked like that the country is heading towards some sort of normalcy, a suicide attack was attempted outside the Gaddafi stadium during the second ODI. Even though the attack was foiled, thanks to the heroics of a cop, this incident will make it hard for the PCB to try and bring more international teams to tour Pakistan.]]></line><line><![CDATA[<b>Preview</b><br/><br/>Despite a foiled suicide attack outside the Gadaffi stadium during the second ODI, Zimbabwe have agreed to complete the Pakistan tour by playing the last of the three-match ODI series on Sunday. Security will be further beefed up even as Pakistan, who have clinched their first series win in two years, will look to seal a 3-0 clean-sweep.<br/><br/>Riding on Shoaib Malik's ton in the first ODI and skipper Azhar Ali's hundred in the second game, the hosts managed to win their first two matches despite the fact that the bowlers were not up to the mark. Haris Sohail and Mohammad Hafeez were also amongst the runs with the former registering back-to-back half-centuries. Pakistan will be hoping that the batsmen can extend their good run while they will also want the bowlers to pull up their socks and come up with a disciplined performance.<br/><br/>The Zimbabweans fought hard in both games through fine centuries from Elton Chigumbura and Sikandar Raza, but they could not out-bat Pakistan on tracks that have been ideal for the batsmen. Both Chamu Chibhabha and Hamilton Masakadza also found form, which augers well for the batting order. Meanwhile, the visitors will be hoping for Vusi Sibanda and Sean Williams, who have struggled in the ODIs, to get going. Like their Pakistan counterparts, the Zimbabwe bowlers have also not had an easy time in the first two games and will be hoping for some respite.<br/><br/>Date: 31 May 2015<br/><br/>Venue: Gadaffi stadium, Lahore<br/><br/>Start time: 16:00 local<br/><br/>Weather: Mostly cloudy with with a high of 40 degrees<br/><br/>Team News:<br/><br/>Pakistan:<br/><br/>The hosts were unchanged in the second match and they are likely to stick to the same team for the third game as well. However, they did re-jig their batting order for the second match by asking Sarfraz Ahmed to open and sending Asad Shafiq at number 4. It remains to be seen if Pakistan persist with this strategy or get Mohammad Hafeez, Haris Sohail and Shoaib Malik back to their usual positions.<br/><br/>Probable XI: Azhar Ali (c), Mohammad Hafeez, Shoaib Malik, Haris Sohail, Asad Shafiq, Sarfraz Ahmed (wk), Hammad Azam, Anwar Ali, Wahab Riaz, Mohammad Sami, Yasir Shah<br/><br/>Zimbabwe:<br/><br/>The visitors will again be without the services of their regular skipper Chigumbura, who is serving a two-match ban for a slow over-rate offence in the first match. Masakadza, who captained in his absence, announced four changes for the previous match. Prosper Utseya (illness), Craig Ervine (injury) and Chris Mpofu were the ones who missed the second match along with Chigumbura, while Charles Coventry, Graeme Cremer, Chamu Chibhabha and Tawanda Mupariwa featured in the eleven. Among them, Chibhabha will retain his place, having scored a fine 99, while it remains to be seen if Zimbabwe bring back Utseya and Ervine.<br/><br/>Probable XI: Chamu Chibhabha, Vusi Sibanda, Hamilton Masakadza (c), Sean Williams, Richmond Mutumbami(wk), Sikandar Raza, Prosper Utseya, Graeme Cremer, Tawanda Mupariwa, Brian Vitori, Tinashe Panyangara<br/><br/>Quotes:<br/><br/>I wanted to mould myself according to how the game has changed. Hopefully, I can continue with this form even longer:<br/><br/>- Azhar Ali is eager to come up with another big knock.<br/><br/>We don't get to play that many games, so the guys have to rally and pull something out the hat<br/><br/>- Zimbabwe stand-in skipper Hamilton Masakadza hopes his team can finish off on a high.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Zimbabwe</b> (From): Vusi Sibanda, Chamu Chibhabha, Hamilton Masakadza(c), Sean Williams, Sikandar Raza, Richmond Mutumbami(w), Charles Coventry, Graeme Cremer, Tinashe Panyangara, Tawanda Mupariwa, Brian Vitori, Prosper Utseya, Chris Mpofu, Roy Kaia, Craig Ervine]]></line><line><![CDATA[<b>Pakistan</b> (From): Azhar Ali(c), Sarfraz Ahmed(w), Mohammad Hafeez, Asad Shafiq, Haris Sohail, Shoaib Malik, Hammad Azam, Anwar Ali, Wahab Riaz, Mohammad Sami, Yasir Shah, Ahmed Shehzad, Imad Wasim, Mohammad Rizwan, Babar Azam, Junaid Khan]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>296</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>50</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Pakistan">
+			<players>
+				<player>
+					<playerid>360</playerid>
+					<name>Mohammad Hafeez</name>
+					<batsman-name>M Hafeez</batsman-name>
+					<batsman-nickname>Hafeez</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>80</runs>
+					<balls>80</balls>
+					<fours>8</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>S Raza</bowler>
+					<bowlerId>9354</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6633</playerid>
+					<name>Azhar Ali</name>
+					<batsman-name>Azhar Ali</batsman-name>
+					<batsman-nickname>Azhar Ali</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>59</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Sikandar Raza</fielder>
+						<fielderId>9354</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6481</playerid>
+					<name>Asad Shafiq</name>
+					<batsman-name>Shafiq</batsman-name>
+					<batsman-nickname>Shafiq</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>25</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Raza</bowler>
+					<bowlerId>9354</bowlerId>
+						<fielder>Sean Williams</fielder>
+						<fielderId>441</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8359</playerid>
+					<name>Babar Azam</name>
+					<batsman-name>Babar Azam</batsman-name>
+					<batsman-nickname>Babar Azam</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>54</runs>
+					<balls>60</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Mpofu</bowler>
+					<bowlerId>428</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>33</playerid>
+					<name>Shoaib Malik</name>
+					<batsman-name>S Malik</batsman-name>
+					<batsman-nickname>Shoaib Malik</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Chris Mpofu</fielder>
+						<fielderId>428</fielderId>
+						<fielder2>Richmond Mutumbami</fielder2>
+						<fielderId2>9352</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>881</playerid>
+					<name>Sarfraz Ahmed</name>
+					<batsman-name>S Ahmed</batsman-name>
+					<batsman-nickname>Sarfraz Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>25</runs>
+					<balls>23</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Raza</bowler>
+					<bowlerId>9354</bowlerId>
+						<fielder>Sean Williams</fielder>
+						<fielderId>441</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6272</playerid>
+					<name>Hammad Azam</name>
+					<batsman-name>H Azam</batsman-name>
+					<batsman-nickname>Azam</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>12</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Cremer</bowler>
+					<bowlerId>278</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1052</playerid>
+					<name>Anwar Ali</name>
+					<batsman-name>A Ali</batsman-name>
+					<batsman-nickname>Anwar Ali</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>38</runs>
+					<balls>23</balls>
+					<fours>2</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<batsman-name>Riaz</batsman-name>
+					<batsman-nickname>Riaz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mpofu</bowler>
+					<bowlerId>428</bowlerId>
+						<fielder>Richmond Mutumbami</fielder>
+						<fielderId>9352</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8064</playerid>
+					<name>Yasir Shah</name>
+					<batsman-name>Yasir Shah</batsman-name>
+					<batsman-nickname>Yasir Shah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Sikandar Raza</fielder>
+						<fielderId>9354</fielderId>
+						<fielder2>Tinashe Panyangara</fielder2>
+						<fielderId2>3465</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7900</playerid>
+					<name>Junaid Khan</name>
+					<batsman-name>Junaid Khan</batsman-name>
+					<batsman-nickname>Junaid Khan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>2</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6633</playerid>
+				<nbr>1</nbr>
+				<runs>115</runs>
+				<overs>20</overs>
+				<batsman>Azhar Ali</batsman>
+				<batsman-name>Azhar Ali</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>360</playerid>
+				<nbr>2</nbr>
+				<runs>134</runs>
+				<overs>25.1</overs>
+				<batsman>Mohammad Hafeez</batsman>
+				<batsman-name>M Hafeez</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6481</playerid>
+				<nbr>3</nbr>
+				<runs>151</runs>
+				<overs>29.4</overs>
+				<batsman>Asad Shafiq</batsman>
+				<batsman-name>Shafiq</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>33</playerid>
+				<nbr>4</nbr>
+				<runs>158</runs>
+				<overs>31.5</overs>
+				<batsman>Shoaib Malik</batsman>
+				<batsman-name>S Malik</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>881</playerid>
+				<nbr>5</nbr>
+				<runs>196</runs>
+				<overs>37.3</overs>
+				<batsman>Sarfraz Ahmed</batsman>
+				<batsman-name>S Ahmed</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6272</playerid>
+				<nbr>6</nbr>
+				<runs>211</runs>
+				<overs>40.4</overs>
+				<batsman>Hammad Azam</batsman>
+				<batsman-name>H Azam</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8359</playerid>
+				<nbr>7</nbr>
+				<runs>256</runs>
+				<overs>46.4</overs>
+				<batsman>Babar Azam</batsman>
+				<batsman-name>Babar Azam</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1051</playerid>
+				<nbr>8</nbr>
+				<runs>284</runs>
+				<overs>48.6</overs>
+				<batsman>Wahab Riaz</batsman>
+				<batsman-name>Riaz</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8064</playerid>
+				<nbr>9</nbr>
+				<runs>289</runs>
+				<overs>49.2</overs>
+				<batsman>Yasir Shah</batsman>
+				<batsman-name>Yasir Shah</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>7</wides>
+			<noballs>1</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="Zimbabwe">
+			<players>
+				<player>
+					<playerid>428</playerid>
+					<name>Chris Mpofu</name>
+					<bowler-name>Mpofu</bowler-name>
+					<bowler-nickname>Mpofu</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>50</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3465</playerid>
+					<name>Tinashe Panyangara</name>
+					<bowler-name>Panyangara</bowler-name>
+					<bowler-nickname>Panyangara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>47</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>436</playerid>
+					<name>Chamu Chibhabha</name>
+					<bowler-name>Chibhabha</bowler-name>
+					<bowler-nickname>Chibhabha</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>278</playerid>
+					<name>Graeme Cremer</name>
+					<bowler-name>Cremer</bowler-name>
+					<bowler-nickname>Cremer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>56</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>425</playerid>
+					<name>Hamilton Masakadza</name>
+					<bowler-name>H Masakadza</bowler-name>
+					<bowler-nickname>H Masakadza</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>15</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>441</playerid>
+					<name>Sean Williams</name>
+					<bowler-name>Sean Williams</bowler-name>
+					<bowler-nickname>Sean Williams</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>42</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9354</playerid>
+					<name>Sikandar Raza</name>
+					<bowler-name>S Raza</bowler-name>
+					<bowler-nickname>S Raza</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>59</runsoff>
+					<wickets>3</wickets>
+					<wides>4</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>179</playerid>
+					<name>Vusi Sibanda</name>
+					<bowler-name>Sibanda</bowler-name>
+					<bowler-nickname>Sibanda</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9352</playerid>
+					<name>Richmond Mutumbami</name>
+					<bowler-name>Mutumbami</bowler-name>
+					<bowler-nickname>Mutumbami</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3460</playerid>
+					<name>Charles Coventry</name>
+					<bowler-name>C Coventry</bowler-name>
+					<bowler-nickname>Charles Coventry</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10404</playerid>
+					<name>Roy Kaia</name>
+					<bowler-name>Roy Kaia</bowler-name>
+					<bowler-nickname>Roy Kaia</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>68</totalruns>
+		<totalwickets>0</totalwickets>
+		<totalovers>9</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Zimbabwe">
+			<players>
+				<player>
+					<playerid>179</playerid>
+					<name>Vusi Sibanda</name>
+					<batsman-name>Sibanda</batsman-name>
+					<batsman-nickname>Sibanda</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>28</runs>
+					<balls>27</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>436</playerid>
+					<name>Chamu Chibhabha</name>
+					<batsman-name>Chibhabha</batsman-name>
+					<batsman-nickname>Chibhabha</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>39</runs>
+					<balls>27</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>425</playerid>
+					<name>Hamilton Masakadza</name>
+					<batsman-name>H Masakadza</batsman-name>
+					<batsman-nickname>H Masakadza</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>441</playerid>
+					<name>Sean Williams</name>
+					<batsman-name>Sean Williams</batsman-name>
+					<batsman-nickname>Sean Williams</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9354</playerid>
+					<name>Sikandar Raza</name>
+					<batsman-name>S Raza</batsman-name>
+					<batsman-nickname>S Raza</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9352</playerid>
+					<name>Richmond Mutumbami</name>
+					<batsman-name>Mutumbami</batsman-name>
+					<batsman-nickname>Mutumbami</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>3460</playerid>
+					<name>Charles Coventry</name>
+					<batsman-name>C Coventry</batsman-name>
+					<batsman-nickname>Charles Coventry</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>278</playerid>
+					<name>Graeme Cremer</name>
+					<batsman-name>Cremer</batsman-name>
+					<batsman-nickname>Cremer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>3465</playerid>
+					<name>Tinashe Panyangara</name>
+					<batsman-name>Panyangara</batsman-name>
+					<batsman-nickname>Panyangara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>10404</playerid>
+					<name>Roy Kaia</name>
+					<batsman-name>Roy Kaia</batsman-name>
+					<batsman-nickname>Roy Kaia</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>428</playerid>
+					<name>Chris Mpofu</name>
+					<batsman-name>Mpofu</batsman-name>
+					<batsman-nickname>Mpofu</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>1</total>
+		</extras>
+		<bowlteam name="Pakistan">
+			<players>
+				<player>
+					<playerid>7900</playerid>
+					<name>Junaid Khan</name>
+					<bowler-name>Junaid Khan</bowler-name>
+					<bowler-nickname>Junaid Khan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1052</playerid>
+					<name>Anwar Ali</name>
+					<bowler-name>A Ali</bowler-name>
+					<bowler-nickname>Anwar Ali</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>21</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<bowler-name>Riaz</bowler-name>
+					<bowler-nickname>Riaz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>360</playerid>
+					<name>Mohammad Hafeez</name>
+					<bowler-name>M Hafeez</bowler-name>
+					<bowler-nickname>Hafeez</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>10</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6633</playerid>
+					<name>Azhar Ali</name>
+					<bowler-name>Azhar Ali</bowler-name>
+					<bowler-nickname>Azhar Ali</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8359</playerid>
+					<name>Babar Azam</name>
+					<bowler-name>Babar Azam</bowler-name>
+					<bowler-nickname>Babar Azam</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6481</playerid>
+					<name>Asad Shafiq</name>
+					<bowler-name>Shafiq</bowler-name>
+					<bowler-nickname>Shafiq</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>33</playerid>
+					<name>Shoaib Malik</name>
+					<bowler-name>S Malik</bowler-name>
+					<bowler-nickname>Shoaib Malik</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>881</playerid>
+					<name>Sarfraz Ahmed</name>
+					<bowler-name>S Ahmed</bowler-name>
+					<bowler-nickname>Sarfraz Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6272</playerid>
+					<name>Hammad Azam</name>
+					<bowler-name>H Azam</bowler-name>
+					<bowler-nickname>Azam</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8064</playerid>
+					<name>Yasir Shah</name>
+					<bowler-name>Yasir Shah</bowler-name>
+					<bowler-nickname>Yasir Shah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

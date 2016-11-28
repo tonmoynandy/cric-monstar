@@ -1,0 +1,1054 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14373" >
+		<type>T20</type>
+		<gameDesc>South Group</gameDesc>
+		<series>NatWest t20 Blast, 2015</series>
+		<matchday>1</matchday>
+		<home>Sussex</home>
+		<away>Middlesex</away>
+		<teamsabbr>SUS vs MDX</teamsabbr>
+		<homeabbr>SUS</homeabbr>
+		<awayabbr>MDX</awayabbr>
+		<homeId>41</homeId>
+		<awayId>74</awayId>
+		<venue>County Ground, Hove, Sussex</venue>
+		<startdate>29 05 2015</startdate>
+		<enddate>29 05 2015</enddate>
+		<toss>
+			<winner>Middlesex</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Middlesex won by 42 runs</status>
+		<result type="win">
+			<winningteam>Middlesex</winningteam>
+			<wonbyruns>42</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Nigel Cowley</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Stephen Gale</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>18:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150529210951</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>SUS</batteamname>
+		<bwlteamname>MDX</bwlteamname>
+		<batteamruns>179</batteamruns>
+		<batteamwkts>9</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Middlesex won by 42 runs</status>
+		<batsman>
+			<playerid>9531</playerid>
+			<name>Oliver Robinson</name>
+			<batsman-name>O Robinson</batsman-name>
+			<batsman-nickname>O Robinson</batsman-nickname>
+			<runs>3</runs>
+			<balls-faced>7</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>556</playerid>
+			<name>Michael Yardy</name>
+			<batsman-name>M Yardy</batsman-name>
+			<batsman-nickname>Yardy</batsman-nickname>
+			<runs>16</runs>
+			<balls-faced>9</balls-faced>
+			<fours>2</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<bowler>
+			<playerid>9203</playerid>
+			<name>Kyle Abbott*</name>
+			<bowler-name>Kyle Abbott</bowler-name>
+			<bowler-nickname>Kyle Abbott</bowler-nickname>
+			<overs>4</overs>
+			<maidens>1</maidens>
+			<runs>14</runs>
+			<wickets>5</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6662</playerid>
+			<name>Toby Roland-Jones</name>
+			<bowler-name>Roland-Jones</bowler-name>
+			<bowler-nickname>Roland-Jones</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>46</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>222</target>
+<lastwicket>
+<playerid>7860</playerid>
+<name>Tymal Mills</name>
+<player-runs>0</player-runs>
+<player-balls>1</player-balls>
+<runs>161</runs>
+<wicket-nbr>9</wicket-nbr>
+<bowlerid>9203</bowlerid>
+<bowlername>Kyle Abbott</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>2</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>3</total>
+		</extras>
+		<prevOvers><![CDATA[W W . . . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 . 1 1 W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>W W . 4 . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. Wd 1 1 6 . 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_NATWEST_T20/SUS_MDX_MAY29/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Roland-Jones to Yardy, <b>FOUR</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Roland-Jones to Yardy, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Roland-Jones to Yardy, <b>SIX</b>]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Roland-Jones to Piolet, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Roland-Jones to Yardy, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Roland-Jones to Yardy, <b>wide</b>]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Roland-Jones to Yardy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Toby Roland-Jones [3.0-0-33-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Kyle Abbott to Yardy, 1 run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Kyle Abbott to Yardy, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Kyle Abbott to Yardy, <b>FOUR</b>]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Kyle Abbott to Yardy, no run]]></line><line><![CDATA[<b>Michael Yardy, left handed bat, comes to the crease</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Tymal Mills, <b>out</b> Caught by Roland-Jones!! <b>Tymal Mills c Roland-Jones b Kyle Abbott 0(1)</b>]]></line><line><![CDATA[Kyle Abbott to Tymal Mills, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Tymal Mills, right handed bat, comes to the crease</b>]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Kyle Abbott to O Robinson, <b>out</b> Bowled!! <b>O Robinson b Kyle Abbott 2(7)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Kyle Abbott to O Robinson, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Steffan Piolet, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;James Harris to Will Beer, <b>out</b> Caught by Eoin Morgan!! <b>Will Beer c Eoin Morgan b James Harris 2(4)</b>]]></line><line><![CDATA[James Harris to Will Beer, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;James Harris to O Robinson, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;James Harris to Will Beer, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;James Harris to Will Beer, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;James Harris to O Robinson, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;James Harris to Will Beer, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Kyle Abbott to O Robinson, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Kyle Abbott to O Robinson, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Kyle Abbott to O Robinson, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Kyle Abbott to O Robinson, no run]]></line><line><![CDATA[<b>Oliver Robinson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Jordan, <b>out</b> Caught by Eoin Morgan!! <b>Jordan c Eoin Morgan b Kyle Abbott 35(23) [4s-2 6s-1]</b>]]></line><line><![CDATA[Kyle Abbott to Jordan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Will Beer, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Kyle Abbott to L Wright, <b>out</b> Caught by Compton!! <b>L Wright c Compton b Kyle Abbott 91(47) [4s-8 6s-5]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Kyle Abbott to L Wright, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Kyle Abbott [2.0-0-9-1] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;James Harris to L Wright, 1 run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;James Harris to L Wright, <b>FOUR</b>]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;James Harris to L Wright, <b>FOUR</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;James Harris to Jordan, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;James Harris to Jordan, 2 runs]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;James Harris to Jordan, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Harris [2.0-0-21-2] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Roland-Jones to Jordan, 1 run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Roland-Jones to Jordan, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Roland-Jones to Jordan, <b>SIX</b>]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, <b>FOUR</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Roland-Jones to Jordan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Toby Roland-Jones [2.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Stirling to Jordan, 2 runs]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Stirling to Jordan, <b>FOUR</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Franklin to L Wright, 1 run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Franklin to L Wright, <b>SIX</b>]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Franklin to L Wright, <b>SIX</b>]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Franklin to L Wright, <b>FOUR</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Franklin to Jordan, 1 run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Franklin to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Stirling to Jordan, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Stirling to Jordan, <b>FOUR</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Franklin to Jordan, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Franklin to Jordan, 2 runs]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Franklin to L Wright, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Franklin to L Wright, <b>SIX</b>]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Franklin to Jordan, 1 run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Franklin to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Stirling to Jordan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Franklin to L Wright, 2 runs]]></line><line><![CDATA[<b>Chris Jordan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Franklin to Harry Finch, <b>out</b> Caught by Eoin Morgan!! <b>Harry Finch c Eoin Morgan b Franklin 5(9)</b>]]></line><line><![CDATA[Franklin to Harry Finch, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Franklin to Harry Finch, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Franklin to Harry Finch, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Franklin to L Wright, 1 run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Franklin to Harry Finch, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Franklin, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Stirling to Harry Finch, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Stirling to Harry Finch, 2 runs]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Stirling to Harry Finch, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Stirling to Harry Finch, 1 run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Stirling to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Paul Stirling, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Nathan Sowter to L Wright, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Nathan Sowter to L Wright, <b>FOUR</b>]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Nathan Sowter to L Wright, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Nathan Sowter to L Wright, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Nathan Sowter to L Wright, <b>FOUR</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Nathan Sowter to L Wright, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nathan Sowter, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;James Harris to Harry Finch, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;James Harris to L Wright, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;James Harris to L Wright, no run]]></line><line><![CDATA[<b>Harry Finch, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;James Harris to Cachopa, <b>out</b> Caught by Nathan Sowter!! <b>Cachopa c Nathan Sowter b James Harris 16(9) [4s-4]</b>]]></line><line><![CDATA[James Harris to Cachopa, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;James Harris to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;James Harris to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Roland-Jones to Cachopa, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Roland-Jones to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Roland-Jones to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Roland-Jones to Cachopa, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Roland-Jones to Cachopa, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Toby Roland-Jones [1.0-0-11-0] is back into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;James Harris to Cachopa, <b>FOUR</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;James Harris to Cachopa, <b>no ball</b>]]></line><line><![CDATA[<b>Craig Cachopa, right handed bat, comes to the crease</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;James Harris to M Jayawardene, <b>out</b> Caught by Eoin Morgan!! <b>M Jayawardene c Eoin Morgan b James Harris 5(5) [4s-1]</b>]]></line><line><![CDATA[James Harris to M Jayawardene, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;James Harris to M Jayawardene, <b>FOUR</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;James Harris to L Wright, 1 run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;James Harris to L Wright, <b>FOUR</b>]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;James Harris to L Wright, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Harris, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Kyle Abbott to M Jayawardene, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Kyle Abbott to M Jayawardene, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Kyle Abbott to L Wright, 1 run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Kyle Abbott to M Jayawardene, 1 run]]></line><line><![CDATA[<b>Mahela Jayawardene, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Chris Nash, <b>out</b> Bowled!! <b>Chris Nash b Kyle Abbott 3(6)</b>]]></line><line><![CDATA[Kyle Abbott to Chris Nash, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Kyle Abbott to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, 1 run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Roland-Jones to Chris Nash, 1 run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, 1 run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, <b>SIX</b>]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Roland-Jones to Chris Nash, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Roland-Jones to L Wright, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Toby Roland-Jones, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Kyle Abbott to Chris Nash, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Kyle Abbott to L Wright, 1 run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Kyle Abbott to L Wright, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Kyle Abbott to L Wright, <b>FOUR</b>]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Kyle Abbott to Chris Nash, 1 run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Kyle Abbott to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Nash and L Wright are at the crease. Chris Nash is on strike. Kyle Abbott will open the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Jordan to Franklin, 2 runs]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Jordan to Franklin, <b>FOUR</b>]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Jordan to Malan, 1 run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Jordan to Malan, 2 runs]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Jordan to Franklin, 1 run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Jordan to Malan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;O Robinson to Franklin, 2 runs]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;O Robinson to Malan, 1 run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;O Robinson to Malan, <b>SIX</b>]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;O Robinson to Malan, <b>FOUR</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;O Robinson to Malan, 2 runs]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;O Robinson to Franklin, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Jordan to Malan, 2 runs]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Jordan to Franklin, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Jordan to Malan, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Jordan to Franklin, 1 run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Jordan to Malan, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Jordan to Franklin, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [2.0-0-29-0] is back into the attack</b>]]></line><line><![CDATA[<b>James Franklin, left handed bat, comes to the crease</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;O Robinson to Eoin Morgan, <b>out</b> Caught by Jordan!! <b>Eoin Morgan c Jordan b O Robinson 0(1)</b>]]></line><line><![CDATA[O Robinson to Eoin Morgan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Eoin Morgan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;O Robinson to Stirling, <b>out</b> Bowled!! <b>Stirling b O Robinson 88(47) [4s-10 6s-4]</b>]]></line><line><![CDATA[O Robinson to Stirling, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;O Robinson to Stirling, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;O Robinson to Malan, 1 run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;O Robinson to Malan, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;O Robinson to Stirling, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;O Robinson to Stirling, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson [2.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Piolet to Malan, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Piolet to Malan, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Piolet to Malan, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Piolet to Malan, 2 runs]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Piolet to Malan, 2 runs]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Piolet to Malan, <b>wide</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Piolet to Malan, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, <b>FOUR</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, 1 run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, leg byes, 1 run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, <b>FOUR</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tymal Mills [2.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Piolet to Stirling, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Piolet to Malan, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Piolet to Malan, <b>FOUR</b>]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Piolet to Malan, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Piolet to Malan, 2 runs]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Piolet to Malan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steffan Piolet [1.0-0-16-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Will Beer to Stirling, <b>SIX</b>]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Will Beer to Malan, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Will Beer to Stirling, 1 run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Will Beer to Malan, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Will Beer to Malan, <b>SIX</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Will Beer to Malan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Will Beer [2.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jordan to Malan, 1 run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>FOUR</b>]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jordan to Malan, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>FOUR</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>FOUR</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [1.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Piolet to Stirling, <b>FOUR</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Piolet to Stirling, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Piolet to Stirling, <b>SIX</b>]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Piolet to Stirling, <b>FOUR</b>]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Piolet to Malan, 1 run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Piolet to Stirling, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steffan Piolet, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Will Beer to Stirling, 1 run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Will Beer to Malan, 1 run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Will Beer to Malan, <b>SIX</b>]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Will Beer to Stirling, 1 run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Will Beer to Malan, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Will Beer to Malan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Yardy to Stirling, <b>FOUR</b>]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Yardy to Stirling, 2 runs]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Yardy to Malan, 1 run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Yardy to Malan, 2 runs]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Yardy to Malan, <b>FOUR</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Yardy to Stirling, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Will Beer to Stirling, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Will Beer to Malan, 1 run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Will Beer to Malan, 2 runs]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Will Beer to Malan, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Will Beer to Malan, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Will Beer to Stirling, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Will Beer, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Yardy to Stirling, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Yardy to Malan, 1 run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Yardy to Stirling, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Yardy to Stirling, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Yardy to Stirling, <b>SIX</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Yardy to Stirling, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Yardy [1.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>FOUR</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Jordan to Stirling, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Jordan to Stirling, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Jordan to Malan, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>wide</b>]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Jordan to Malan, <b>FOUR</b>]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Jordan to Stirling, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, <b>FOUR</b>]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, <b>SIX</b>]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;O Robinson to Stirling, 2 runs]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;O Robinson to Stirling, <b>FOUR</b>]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;O Robinson to Malan, 1 run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;O Robinson to Stirling, 1 run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;O Robinson to Stirling, <b>FOUR</b>]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;O Robinson to Stirling, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, 1 run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, <b>FOUR</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Tymal Mills to Stirling, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, 1 run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Tymal Mills to Malan, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tymal Mills, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;O Robinson to Stirling, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;O Robinson to Malan, 1 run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;O Robinson to Malan, <b>FOUR</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;O Robinson to Malan, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;O Robinson to Stirling, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;O Robinson to Stirling, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Yardy to Malan, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Yardy to Stirling, 1 run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Yardy to Malan, 1 run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Yardy to Stirling, 1 run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Yardy to Malan, 1 run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Yardy to Malan, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Malan and Stirling are at the crease. Malan is on strike. Yardy will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Sussex</b> (Playing XI): Chris Nash, Luke Wright(c), Mahela Jayawardene, Craig Cachopa(w), Harry Finch, Will Beer, Michael Yardy, Chris Jordan, Oliver Robinson, Tymal Mills, Steffan Piolet]]></line><line><![CDATA[<b>Middlesex</b> (Playing XI): Paul Stirling, Dawid Malan, Nick Compton, Eoin Morgan(c), James Franklin, Joe Burns, John Simpson(w), Toby Roland-Jones, Kyle Abbott, Nathan Sowter, James Harris]]></line><line><![CDATA[<b>Middlesex have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Middlesex</b> (From): Nick Compton, James Franklin, James Harris, Eoin Morgan(c), Ravi Patel, Toby Roland-Jones, John Simpson(w), Neil Dexter, Steven Finn, Dawid Malan, Paul Stirling, Kyle Abbott, Joe Burns]]></line><line><![CDATA[<b>Sussex</b> (From): Will Beer, Ben Brown(w), Harry Finch, Luke Wright(c), Mahela Jayawardene, Chris Liddle, Matt Machan, Tymal Mills, Chris Nash, Steffan Piolet, Oliver Robinson, Michael Yardy]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>221</totalruns>
+		<totalwickets>2</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Middlesex">
+			<players>
+				<player>
+					<playerid>6660</playerid>
+					<name>Dawid Malan</name>
+					<batsman-name>D Malan</batsman-name>
+					<batsman-nickname>Malan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>115</runs>
+					<balls>64</balls>
+					<fours>14</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<batsman-name>Stirling</batsman-name>
+					<batsman-nickname>Stirling</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>88</runs>
+					<balls>47</balls>
+					<fours>10</fours>
+					<sixes>4</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<batsman-name>E Morgan</batsman-name>
+					<batsman-nickname>Eoin Morgan</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Chris Jordan</fielder>
+						<fielderId>6532</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>419</playerid>
+					<name>James Franklin</name>
+					<batsman-name>Franklin</batsman-name>
+					<batsman-nickname>Franklin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6568</playerid>
+					<name>Nick Compton</name>
+					<batsman-name>N Compton</batsman-name>
+					<batsman-nickname>Compton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8121</playerid>
+					<name>Joe Burns</name>
+					<batsman-name>J Burns</batsman-name>
+					<batsman-nickname>Burns</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6653</playerid>
+					<name>John Simpson</name>
+					<batsman-name>J Simpson</batsman-name>
+					<batsman-nickname>Simpson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6662</playerid>
+					<name>Toby Roland-Jones</name>
+					<batsman-name>Roland-Jones</batsman-name>
+					<batsman-nickname>Roland-Jones</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9203</playerid>
+					<name>Kyle Abbott</name>
+					<batsman-name>Kyle Abbott</batsman-name>
+					<batsman-nickname>Kyle Abbott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>10409</playerid>
+					<name>Nathan Sowter</name>
+					<batsman-name>Nathan Sowter</batsman-name>
+					<batsman-nickname>Nathan Sowter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6580</playerid>
+					<name>James Harris</name>
+					<batsman-name>J Harris</batsman-name>
+					<batsman-nickname>James Harris</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1114</playerid>
+				<nbr>1</nbr>
+				<runs>187</runs>
+				<overs>16.5</overs>
+				<batsman>Paul Stirling</batsman>
+				<batsman-name>Stirling</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>624</playerid>
+				<nbr>2</nbr>
+				<runs>187</runs>
+				<overs>16.6</overs>
+				<batsman>Eoin Morgan</batsman>
+				<batsman-name>E Morgan</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Sussex">
+			<players>
+				<player>
+					<playerid>556</playerid>
+					<name>Michael Yardy</name>
+					<bowler-name>M Yardy</bowler-name>
+					<bowler-nickname>Yardy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<bowler-name>O Robinson</bowler-name>
+					<bowler-nickname>O Robinson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7860</playerid>
+					<name>Tymal Mills</name>
+					<bowler-name>T Mills</bowler-name>
+					<bowler-nickname>Tymal Mills</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<bowler-name>C Jordan</bowler-name>
+					<bowler-nickname>Jordan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>47</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2268</playerid>
+					<name>Will Beer</name>
+					<bowler-name>W Beer</bowler-name>
+					<bowler-nickname>Will Beer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6677</playerid>
+					<name>Steffan Piolet</name>
+					<bowler-name>S Piolet</bowler-name>
+					<bowler-nickname>Piolet</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>33</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<bowler-name>C Nash</bowler-name>
+					<bowler-nickname>Chris Nash</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<bowler-name>L Wright</bowler-name>
+					<bowler-nickname>L Wright</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<bowler-name>M Jayawardene</bowler-name>
+					<bowler-nickname>M Jayawardene</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<bowler-name>Cachopa</bowler-name>
+					<bowler-nickname>Cachopa</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9314</playerid>
+					<name>Harry Finch</name>
+					<bowler-name>H Finch</bowler-name>
+					<bowler-nickname>Harry Finch</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>179</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Sussex">
+			<players>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<batsman-name>C Nash</batsman-name>
+					<batsman-nickname>Chris Nash</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<batsman-name>L Wright</batsman-name>
+					<batsman-nickname>L Wright</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>91</runs>
+					<balls>47</balls>
+					<fours>8</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder>Nick Compton</fielder>
+						<fielderId>6568</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<batsman-name>M Jayawardene</batsman-name>
+					<batsman-nickname>M Jayawardene</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Harris</bowler>
+					<bowlerId>6580</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<batsman-name>Cachopa</batsman-name>
+					<batsman-nickname>Cachopa</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>16</runs>
+					<balls>9</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Harris</bowler>
+					<bowlerId>6580</bowlerId>
+						<fielder>Nathan Sowter</fielder>
+						<fielderId>10409</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9314</playerid>
+					<name>Harry Finch</name>
+					<batsman-name>H Finch</batsman-name>
+					<batsman-nickname>Harry Finch</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Franklin</bowler>
+					<bowlerId>419</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<batsman-name>C Jordan</batsman-name>
+					<batsman-nickname>Jordan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>35</runs>
+					<balls>23</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2268</playerid>
+					<name>Will Beer</name>
+					<batsman-name>W Beer</batsman-name>
+					<batsman-nickname>Will Beer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Harris</bowler>
+					<bowlerId>6580</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<batsman-name>O Robinson</batsman-name>
+					<batsman-nickname>O Robinson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6677</playerid>
+					<name>Steffan Piolet</name>
+					<batsman-name>S Piolet</batsman-name>
+					<batsman-nickname>Piolet</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7860</playerid>
+					<name>Tymal Mills</name>
+					<batsman-name>T Mills</batsman-name>
+					<batsman-nickname>Tymal Mills</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Kyle Abbott</bowler>
+					<bowlerId>9203</bowlerId>
+						<fielder>Toby Roland-Jones</fielder>
+						<fielderId>6662</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>556</playerid>
+					<name>Michael Yardy</name>
+					<batsman-name>M Yardy</batsman-name>
+					<batsman-nickname>Yardy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>9</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>2275</playerid>
+				<nbr>1</nbr>
+				<runs>18</runs>
+				<overs>2.2</overs>
+				<batsman>Chris Nash</batsman>
+				<batsman-name>C Nash</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>101</playerid>
+				<nbr>2</nbr>
+				<runs>29</runs>
+				<overs>3.5</overs>
+				<batsman>Mahela Jayawardene</batsman>
+				<batsman-name>M Jayawardene</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10064</playerid>
+				<nbr>3</nbr>
+				<runs>49</runs>
+				<overs>5.3</overs>
+				<batsman>Craig Cachopa</batsman>
+				<batsman-name>Cachopa</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9314</playerid>
+				<nbr>4</nbr>
+				<runs>73</runs>
+				<overs>8.5</overs>
+				<batsman>Harry Finch</batsman>
+				<batsman-name>H Finch</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>776</playerid>
+				<nbr>5</nbr>
+				<runs>157</runs>
+				<overs>16.1</overs>
+				<batsman>Luke Wright</batsman>
+				<batsman-name>L Wright</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6532</playerid>
+				<nbr>6</nbr>
+				<runs>157</runs>
+				<overs>16.2</overs>
+				<batsman>Chris Jordan</batsman>
+				<batsman-name>C Jordan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2268</playerid>
+				<nbr>7</nbr>
+				<runs>161</runs>
+				<overs>17.6</overs>
+				<batsman>Will Beer</batsman>
+				<batsman-name>W Beer</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9531</playerid>
+				<nbr>8</nbr>
+				<runs>161</runs>
+				<overs>18.1</overs>
+				<batsman>Oliver Robinson</batsman>
+				<batsman-name>O Robinson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7860</playerid>
+				<nbr>9</nbr>
+				<runs>161</runs>
+				<overs>18.2</overs>
+				<batsman>Tymal Mills</batsman>
+				<batsman-name>T Mills</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>2</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>3</total>
+		</extras>
+		<bowlteam name="Middlesex">
+			<players>
+				<player>
+					<playerid>9203</playerid>
+					<name>Kyle Abbott</name>
+					<bowler-name>Kyle Abbott</bowler-name>
+					<bowler-nickname>Kyle Abbott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>1</maidens>
+					<runsoff>14</runsoff>
+					<wickets>5</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6662</playerid>
+					<name>Toby Roland-Jones</name>
+					<bowler-name>Roland-Jones</bowler-name>
+					<bowler-nickname>Roland-Jones</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>46</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6580</playerid>
+					<name>James Harris</name>
+					<bowler-name>J Harris</bowler-name>
+					<bowler-nickname>James Harris</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>39</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>10409</playerid>
+					<name>Nathan Sowter</name>
+					<bowler-name>Nathan Sowter</bowler-name>
+					<bowler-nickname>Nathan Sowter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>15</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<bowler-name>Stirling</bowler-name>
+					<bowler-nickname>Stirling</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>419</playerid>
+					<name>James Franklin</name>
+					<bowler-name>Franklin</bowler-name>
+					<bowler-nickname>Franklin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6660</playerid>
+					<name>Dawid Malan</name>
+					<bowler-name>D Malan</bowler-name>
+					<bowler-nickname>Malan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6568</playerid>
+					<name>Nick Compton</name>
+					<bowler-name>N Compton</bowler-name>
+					<bowler-nickname>Compton</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<bowler-name>E Morgan</bowler-name>
+					<bowler-nickname>Eoin Morgan</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8121</playerid>
+					<name>Joe Burns</name>
+					<bowler-name>J Burns</bowler-name>
+					<bowler-nickname>Burns</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6653</playerid>
+					<name>John Simpson</name>
+					<bowler-name>J Simpson</bowler-name>
+					<bowler-nickname>Simpson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

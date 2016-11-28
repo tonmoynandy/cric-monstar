@@ -1,0 +1,135 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Pakistan</name>
+	<graph>
+		<id>wag_1787</id>
+		<name>Ahmed Shehzad</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_1787_Ahmed_Shehzad.png</url>
+	</graph>
+	<graph>
+		<id>wag_130</id>
+		<name>Younis Khan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_130_Younis_Khan.png</url>
+	</graph>
+	<graph>
+		<id>wag_8299</id>
+		<name>Haris Sohail</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_8299_H_Sohail.png</url>
+	</graph>
+	<graph>
+		<id>wag_274</id>
+		<name>Misbah-ul-Haq</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_274_Misbah.png</url>
+	</graph>
+	<graph>
+		<id>wag_9524</id>
+		<name>Sohaib Maqsood</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_9524_S_Maqsood.png</url>
+	</graph>
+	<graph>
+		<id>wag_1992</id>
+		<name>Umar Akmal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_1992_U_Akmal.png</url>
+	</graph>
+	<graph>
+		<id>wag_142</id>
+		<name>Shahid Afridi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_142_Afridi.png</url>
+	</graph>
+	<graph>
+		<id>wag_1051</id>
+		<name>Wahab Riaz</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_1051_Riaz.png</url>
+	</graph>
+	<graph>
+		<id>wag_8064</id>
+		<name>Yasir Shah</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_8064_Yasir_Shah.png</url>
+	</graph>
+	<graph>
+		<id>wag_1120</id>
+		<name>Sohail Khan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_1120_S_Khan.png</url>
+	</graph>
+	<graph>
+		<id>wag_7621</id>
+		<name>Mohammad Irfan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_3_7621_Irfan.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>India</name>
+	<graph>
+		<id>wag_576</id>
+		<name>Rohit Sharma</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_576_Rohit.png</url>
+	</graph>
+	<graph>
+		<id>wag_1446</id>
+		<name>Shikhar Dhawan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_1446_Dhawan.png</url>
+	</graph>
+	<graph>
+		<id>wag_1413</id>
+		<name>Virat Kohli</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_1413_Kohli.png</url>
+	</graph>
+	<graph>
+		<id>wag_413</id>
+		<name>Suresh Raina</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_413_Raina.png</url>
+	</graph>
+	<graph>
+		<id>wag_265</id>
+		<name>MS Dhoni</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_265_Dhoni.png</url>
+	</graph>
+	<graph>
+		<id>wag_587</id>
+		<name>Ravindra Jadeja</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_587_R_Jadeja.png</url>
+	</graph>
+	<graph>
+		<id>wag_1447</id>
+		<name>Ajinkya Rahane</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_1447_A_Rahane.png</url>
+	</graph>
+	<graph>
+		<id>wag_1593</id>
+		<name>Ravichandran Ashwin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_1593_Ashwin.png</url>
+	</graph>
+	<graph>
+		<id>wag_7909</id>
+		<name>Mohammed Shami</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_PAK_FEB15/gph_wag_12858_2_7909_Shami.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

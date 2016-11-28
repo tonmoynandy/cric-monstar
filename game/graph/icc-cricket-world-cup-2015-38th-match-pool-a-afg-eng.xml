@@ -1,0 +1,95 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>England</name>
+	<graph>
+		<id>wag_6734</id>
+		<name>Alex Hales</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_9_6734_A_Hales.png</url>
+	</graph>
+	<graph>
+		<id>wag_385</id>
+		<name>Ian Bell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_9_385_Bell.png</url>
+	</graph>
+	<graph>
+		<id>wag_6500</id>
+		<name>James Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_9_6500_James_Taylor.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Afghanistan</name>
+	<graph>
+		<id>wag_7614</id>
+		<name>Javed Ahmadi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_7614_Ahmadi.png</url>
+	</graph>
+	<graph>
+		<id>wag_3008</id>
+		<name>Nawroz Mangal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_3008_Nawroz.png</url>
+	</graph>
+	<graph>
+		<id>wag_8278</id>
+		<name>Afsar Zazai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_8278_Zazai.png</url>
+	</graph>
+	<graph>
+		<id>wag_9846</id>
+		<name>Nasir Jamal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_9846_Nasir_Jamal.png</url>
+	</graph>
+	<graph>
+		<id>wag_3011</id>
+		<name>Samiullah Shenwari</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_3011_Shenwari.png</url>
+	</graph>
+	<graph>
+		<id>wag_3016</id>
+		<name>Shafiqullah Shafiq</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_3016_Shafiqullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_3007</id>
+		<name>Mohammad Nabi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_3007_Nabi.png</url>
+	</graph>
+	<graph>
+		<id>wag_8375</id>
+		<name>Najibullah Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_8375_Najibullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_3001</id>
+		<name>Hamid Hassan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AFG_ENG_MAR13/gph_wag_12892_96_3001_Hamid.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

@@ -1,0 +1,1046 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14636" >
+		<type>T20</type>
+		<gameDesc>43rd Match</gameDesc>
+		<series>Indian T20 League 2015</series>
+		<matchday>1</matchday>
+		<home>Chennai</home>
+		<away>Mumbai</away>
+		<teamsabbr>CHN vs MUM</teamsabbr>
+		<homeabbr>CHN</homeabbr>
+		<awayabbr>MUM</awayabbr>
+		<homeId>58</homeId>
+		<awayId>62</awayId>
+		<venue>MA Chidambaram Stadium, Chennai</venue>
+		<startdate>08 05 2015</startdate>
+		<enddate>08 05 2015</enddate>
+		<toss>
+			<winner>Chennai</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Mumbai won by 6 wkts</status>
+		<result type="win">
+			<winningteam>Mumbai</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>6</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Chris Gaffaney</Name>
+			<Country>NZ</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Nandan</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Krishnaraj Srinath</Name>
+			<Country>Ind</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Rajendra Jadeja</Name>
+			<Country>Ind</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>14:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150508174751</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>MUM</batteamname>
+		<bwlteamname>CHN</bwlteamname>
+		<batteamruns>159</batteamruns>
+		<batteamwkts>4</batteamwkts>
+		<batteamovers>19.2</batteamovers>
+		<status>Mumbai won by 6 wkts</status>
+		<batsman>
+			<playerid>6311</playerid>
+			<name>Ambati Rayudu*</name>
+			<batsman-name>Rayudu</batsman-name>
+			<batsman-nickname>Rayudu</batsman-nickname>
+			<runs>34</runs>
+			<balls-faced>19</balls-faced>
+			<fours>1</fours>
+			<sixes>3</sixes>
+		</batsman>
+		<batsman>
+			<playerid>9647</playerid>
+			<name>Hardik Pandya</name>
+			<batsman-name>H Pandya</batsman-name>
+			<batsman-nickname>Pandya</batsman-nickname>
+			<runs>21</runs>
+			<balls-faced>8</balls-faced>
+			<fours>0</fours>
+			<sixes>3</sixes>
+		</batsman>
+		<bowler>
+			<playerid>242</playerid>
+			<name>Dwayne Bravo*</name>
+			<bowler-name>DJ Bravo</bowler-name>
+			<bowler-nickname>Dwayne Bravo</bowler-nickname>
+			<overs>2.2</overs>
+			<maidens>0</maidens>
+			<runs>16</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8281</playerid>
+			<name>Pawan Negi</name>
+			<bowler-name>Negi</bowler-name>
+			<bowler-nickname>Negi</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>34</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>159</target>
+<lastwicket>
+<playerid>576</playerid>
+<name>Rohit Sharma</name>
+<player-runs>18</player-runs>
+<player-balls>22</player-balls>
+<runs>125</runs>
+<wicket-nbr>4</wicket-nbr>
+<bowlerid>242</bowlerid>
+<bowlername>DJ Bravo</bowlername>
+</lastwicket>
+		<extras>
+			<byes>1</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>2</total>
+		</extras>
+		<prevOvers><![CDATA[1 6 2 1 1 6 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>W 1 1 . 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 . 6 6 B1 6 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_T20_LEAGUE/CHN_MUM_MAY08/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[So, that brings an end to proceedings. MUM have won their last 5 games, CHN lost their first game at home since April 2013. The IPL keeps giving us unusual stats everyday. And the action continues as we have a double-header coming up tomorrow. First, KOL face PUN at the Eden Gardens and then, DEL lock horns against HYD at Raipur. Do join us for those games. Until then, take care and Adios!]]></line><line><![CDATA[Below are some of the best <b>tweets</b> related to this game...]]></line><line><![CDATA[<b>Aakash Chopra:</b> Acceptance is the first step towards improvement...MSD quite candid in accepting that it was a tactical error. Fielding let #CHN down #Rare]]></line><line><![CDATA[<b>Russel Arnold:</b> Well done @mipaltan it's getting better and better #IPL2015]]></line><line><![CDATA[<b>Mohandas Menon:</b> #CHN's first defeat at home since 15 April 2013 after 10 won games (Note: CHN did not play at Chennai in 2014) #CHNvMUM #IPL]]></line><line><![CDATA[<b>Harsha Bhogle:</b> On his way out, Rohit Sharma seemed to signal a change in the order. Can see why with Pandya in! There's the game!]]></line><line><![CDATA[<b>Sarang Bhalerao:</b> Negi and Suchith have classical left-arm spinners' action. So good to watch #CHNvMUM]]></line><line><![CDATA[<b>Pandya:</b> "I was batting very well in the nets. It is good that they had the faith and sent me ahead of Bhajji Pa. The side boundaries are long and it was easier to clear the straight boundary, than the side ones. The ball was coming to me and I grabbed whatever came my way."]]></line><line><![CDATA[<b>Hardik Pandya</b> is the <b>Man of the Match</b> for his <b>8-ball 21</b> and <b>three catches</b>.]]></line><line><![CDATA[<b>Rohit:</b> "It was Hardik Pandya (when asked whom he was pointing to when he was walking back after getting out). He strikes the ball pretty well. It was between him and Bhajji, but he is a proper batsman. We wanted to win this badly, no matter in what situation we were in. We wanted to stay calm in the middle and take it till the end. We lost a couple of wickets in the middle, but I am very happy with the way we finished off. Special mention to Rayudu and Hardik (Pandya). It was a good bowling effort, but there is still room for improvement. We dropped a couple of catches, but I thought to restrict them to 158 was a good effort. We were determined to change it around and come back positively (referring to the first 4 losses)."]]></line><line><![CDATA[<b>Dhoni:</b> "To some extent I was pushed to take that decision (on giving Negi the 19th over). Our fast bowlers didn't bowl well today. Mohit went for runs, Nehra went for runs, so I was forced to make that decision. It was a tactical error in the end. No worries, it is good exposure. The fast bowlers need to step up. Yes, we have the purple cap, but we still need to improve. It is bound to happen, it is such a long tournament. It was one off day in the field. It is important to win games and especially the ones like these, but it happens, you lose some close ones."]]></line><line><![CDATA[Earlier, Negi and MS Dhoni strung together a fine partnership to lift the home team to a good score. On a track, where it was difficult to play through the line, Negi showcased a wide range of shots to counter MUM's bowlers. Suchith turned out to be the most economical bowler for MUM. ]]></line><line><![CDATA[Hardik Pandya's pyrotechnics in the slog overs piloted MUM to a thrilling win. With this victory, MUM have ended CHN's winning streak at home that saw them win 10 games in a row. In a game full of fluctuating fortunes, CHN seemed to be in front, with their spin trio stifling the opposition ranks. However, Pandya walloped Pawan Negi for three sixes in the penultimate over to change the course of the game. It has to be remembered that Lendl Simmons and Parthiv Patel also played their parts with a fine opening stand. <br/>]]></line><line><![CDATA[What a thriller! The match swung like a pendulum and it needed the young Pandya and Rayudu to take MUM home. CHN's 10 match winning streak at home has come to an end. Both teams shake hands as CHN make their way out of the field.]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rayudu, <b>FOUR</b>, <b>MUM continue their winning streak.</b> The fortress has been breached. Slower delivery outside off, Rayudu goes for a swipe across the line, the ball takes the top-edge and goes down fine. Third man was inside the ring and he had no chance of stopping that]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Dwayne Bravo to Pandya, 1 run, <b>dropped!</b> Some of the best CHN fielders are spilling them. The off-cutter from Bravo, Pandya goes for a slog towards cow corner, the top-edge skies towards deep mid-wicket, Jadeja runs forward, gets both hands but ends up dropping it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[That was a huge gamble from Dhoni that didn't come off. Negi went for 25 runs and might have just lost the game for CHN. Bravo has the herculean task of defending 5 runs in the final over]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Negi to Rayudu, <b>SIX</b>, fabulous shot! Great use of the feet. Rayudu dances down the wicket to this flighted delivery, gets to the pitch of the ball and lofts it handsomely straight back over the bowler's head for the 4th six of the over.]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Negi to Pandya, byes, 1 run, fired in full and on the stumps, Pandya fails to dig it out, the ball misses the leg-stump by a whisker, Dhoni can't gather it and the batsmen sneak in a bye]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Negi to Pandya, <b>SIX</b>, <b>third six of the over.</b> Pandya has made MUM the favorites now. Pushed through, fuller and on the stumps, Pandya gets his front leg out of the way and sends it soaring over long-on. That went a long distance]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Negi to Pandya, <b>SIX</b>, fantastic shot! Flatter and just outside off, Pandya flat-bats it over long-off. It was hit hard and flat, got plenty of wood to clear Faf near the rope]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Negi to Pandya, no run, needless shot, tries the reverse sweep, misses it by a mile]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Negi to Pandya, <b>SIX</b>, super shot! Dhoni was heard saying, "no, no, no that is not where you have to bowl". Flighted on the stumps, Pandya clears his front leg and smacks it over long-on for a maximum. Great start to the over]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pawan Negi [3.0-0-10-0] is back into the attack</b>]]></line><line><![CDATA[MUM need 30 runs off 2 overs. Rayudu is the key for them. Dhoni has opted for spin. Negi to bowl the crucial penulitmate over]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Dwayne Bravo to Pandya, 1 run, slower delivery on the stumps, Pandya flicks it over the square leg umpire for a single]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rayudu, 1 run, slower ball that is dragged short, Rayudu walks down the wicket and guides it to short third man]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rayudu, no run, Rayudu skips out of the crease, Bravo fires it full and around off, Rayudu can't dig it out and the ball whizzes past the off-stump]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Dwayne Bravo to Pandya, 1 run, off-cutter and drifting onto the pads, Pandya flicks it to deep square leg]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rayudu, 1 run, good length ball on the stumps, Rayudu punches it past the non-striker and down to long-on]]></line><line><![CDATA[<b>Hardik Pandya, right handed bat, comes to the crease</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rohit, <b>out</b> Caught by Raina!! A scratchy innings from Rohit comes to an end. Bravo has finally got his man. It was once again the slower delivery that does the trick, Rohit goes for a wild heave towards cow corner, gets it nowhere close to the middle, skies it to long-on, Raina keeps calm and takes it easily. With this wicket, Bravo has now equalled Nehra for the most number of wickets this season. <b>Rohit c Raina b Dwayne Bravo 18(22)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Dwayne Bravo to Rohit, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[The equation now reads <b>34 from 18</b>. Bravo will bowl 2 overs, who will Dhoni turn to bowl the other one?]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Nehra to Rayudu, <b>SIX</b>, poor bowling from Nehra. It has not been his day. Another friendly full toss around off, Rayudu says thank you very much and smashes it over long-on. Bravo looks as the ball sails over him. <b>17 runs off the over</b>]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Nehra to Rohit, 1 run, yorker outside off, Rohit stays leg-side of the ball and jams it towards cover]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Nehra to Rayudu, 1 run, another low full toss, Rayudu drives it down to long-off]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Nehra to Rayudu, 2 runs, <b>almost a stunner from Baz.</b> That would have been a terrific catch. Low full toss outside off, Rayudu goes inside out, hits it in the air towards extra cover, McCullum leaps up and gets one hand, but it doesn't stick. Those are the ones that have to stick]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Nehra to Rayudu, <b>SIX</b>, timely hit! MUM needed that as it had been a while since they got a boundary. It was the off-speed delivery, Rayudu picked it early, went down on his knee and hammered it over long-on for a maximum]]></line><line><![CDATA[Nehra changes to round the wicket]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Nehra to Rohit, 1 run, full and attacking the stumps, Rohit backs away and squeezes it to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ashish Nehra [2.0-0-28-0] is back into the attack</b>]]></line><line><![CDATA[How costly could that drop turn out to be? Rohit is a dangerous man and giving him a life is something that CHN would rue]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rohit, 1 run, too full, a slower delivery outside off, Rohit jams it towards short third man and keeps strike]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rohit, 2 runs, <b>dropped!</b> Would you believe it? The people in the crowd certainly don't as Faf is the man who has spilled one. It was the slower delivery just outside off, Rohit goes for the big shot, miscues it to long-off, Faf settles under it at long-off, tries to reverse cup, but the ball hits the palm and pops out. He is disappointed]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rayudu, 1 run, off-cutter outside off, Rayudu fetches it from there and heaves it to deep mid-wicket]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rohit, 1 run, too full and outside off, Rohit squeezes the drive square of the wicket, for a single]]></line><line><![CDATA[The crowd are chanting "Bravo, Bravo". We all know he is a crowd favorite]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rayudu, 1 run, no pace on the ball, Rayudu lofts it inside out over cover, long-off cleans up running to his left]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Dwayne Bravo to Rohit, 1 run, starts with a cutter, Rohit comes half-forward and nurdles it to short fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dwayne Bravo, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[The required rate has jumped up to above 11. MUM need <b>58 from 30 balls</b> and Bravo, who has 16 sticks in the tournament is yet to bowl. Jadeja finishes his spell with figures: <b>4-0-27-0</b>. As I type that, Bravo comes on..]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 1 run, tossed up around off, Rohit leans into the drive to long-off]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 2 runs, quicker and on the stumps, Rohit flicks between deep mid-wicket and long-on for a brace]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rayudu, 1 run, flighted outside off, Rayudu skips out of the crease and drives to long-off]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 1 run, turn for Jadeja, Rohit leans forward and closes the bat face early, the ball takes the outside edge and rolls to short third man]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rayudu, 1 run, again, the length is short, but the ball does not come onto the bat, Rayudu had to wait for ages to play the pull to mid-wicket]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 1 run, shortens the length around off, Rohit taps it in front of backward point, Rayudu calls for a quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for a <b>strategic break</b>. In the last 4 overs, MUM have scored 10 runs and lost 3 wickets. If they lose the game from here, they have only themselves to blame. Coming back to the Pollard dismissal, Raina showed great presence of mind after dropping the catch. He lay flat on the ground so that Bravo could have a clear view of the stumps.]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Negi to Rayudu, no run, every dot ball is greeted with a cheer from the crowd. Negi sees the batsman advance and drags the length back, Rayudu can only defend to the off-side. Another tidy over from Negi]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Negi to Rayudu, no run, quicker and on the stumps, Rayudu takes a step out and knocks it back to Negi]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Negi to Rayudu, no run, flighted around off, Rayudu pushes it to the left of the bowler]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Negi to Rohit, 1 run, slows this up considerably, gets it to drift into the batsman, Rohit chips the drive uppishly wide of cover]]></line><line><![CDATA[Still a slip in place]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Negi to Rayudu, 1 run, nicely tossed up on off, Rayudu drives to long-off]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Negi to Rohit, 1 run, flatter and on the stumps, Rohit hangs back and nudges it to the right of mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 1 run, quicker, fuller and outside off, Rohit drives to sweeper cover and retains strike]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, no run, arm-ball around off, Rohit knocks it to the off-side, he wanted the single but is sent back in the nick of time]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rayudu, 1 run, floated up just outside off, Rayudu shimmies down the wicket and lofts it inside out over cover, Faf hares across to his left from long-off and keeps it to a single]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 1 run, tossed up outside off, Rohit comes on the front foot and eases it wide of cover]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rayudu, 1 run, flighted just outside off, Rayudu drives down to long-off]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Rohit, 1 run, Rohit leans forward and drives to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ambati Rayudu, right handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Ravindra Jadeja [2.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Negi to Rohit, <b>out</b> Pollard Run Out!! MUM are digging their own grave. Three wickets in the space of two overs. Tossed up outside off, Rohit drives and gets a thick outside edge, Raina at slip dives to his right and gets a hand, the ball does not stick and rolls towards backward point, Pollard called for the run, Bravo swooped in and fired a direct hit catching Pollard short of the crease. That's a brilliant bit of work from the West Indian to get his mate out. Dhoni did well to leave the ball go onto hit the stumps. <b>Pollard run out (Dwayne Bravo) 1(4)</b>]]></line><line><![CDATA[Negi to Rohit, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire called in to check for a run-out. Pollard is in trouble. He is OUT!]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Negi to Rohit, no run, slower and around off, Rohit presses forward and blocks to the off-side]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Negi to Pollard, 1 run, flatter and on the stumps, Pollard punches down to long-on]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Negi to Pollard, no run, CHN are fired up now. Pollard pushes it to the right of the bowler, Negi gets across quickly and keeps the batsmen at their respective ends]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Negi to Pollard, no run, tossed up on off, Pollard comes down the track and knocks it back to the bowler]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Negi to Pollard, no run, flat on the stumps, turned to short mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pawan Negi [1.0-0-6-0] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Ashwin to Rohit, no run, bit quicker and close to off, Rohit gets behind the line and defends to the off-side. Ashwin finishes an excellent spell, he has brought back CHN with those 2 wickets, his figures: <b>4-0-17-2</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Ashwin to Rohit, no run, floated up on off, Rohit crouches low and turns it towards short mid-wicket]]></line><line><![CDATA[<b>Kieron Pollard, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Ashwin to Simmons, <b>out</b> Caught by Dwayne Smith!! CHN are back in the game in a matter of three balls. A needless shot from Simmons. MUM have lost both their openers now. Floated up nicely around off, Simmons goes down on one knee and slog sweeps, miscues it completely and picks out deep mid-wicket, Smith hung onto it with his body. That was reckless from Simmons as MUM had just lost Parthiv. <b>Simmons c Dwayne Smith b Ashwin 38(31) [4s-3 6s-2]</b>]]></line><line><![CDATA[Ashwin to Simmons, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, slower and just outside off, Simmons pushes it to cover]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Ashwin to Rohit, 1 run, low full toss just outside off, Rohit leans forward and eases it to long-on, Ashwin is not happy with that delivery]]></line><line><![CDATA[<b>Rohit Sharma, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, <b>out</b> Caught by du Plessis!! Ashwin strikes! Is this the opening CHN were looking for? Only time will tell. A fine innings from Parthiv comes to an end. Ashwin starts round the wicket, tosses it up around off, Parthiv kneels down and slog sweeps it straight down the throat of long-on, Faf didn't move a muscle to take that. A well judged catch. <b>Parthiv Patel c du Plessis b Ashwin 45(32) [4s-6]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Ashwin to Parthiv Patel, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Parthiv Patel, 1 run, too full and on middle, Parthiv digs it out to long-on, for a single]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Parthiv Patel, no run, tries to repeat the previous shot, but misses it by some distance. Good take by Dhoni as the ball kept a tad low]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Parthiv Patel, <b>FOUR</b>, lovely shot! Tossed up delivery just outside off, Parthiv kneels down and sweeps, split the fielders at deep backward square and deep mid-wicket to perfection]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Simmons, 1 run, flighted on middle, Simmons wanted to go inside out, he hits it a lot straighter than he would have liked, on the bounce to long-off]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Parthiv Patel, 1 run, Parthiv goes deep in the crease, converts it into a short delivery and pulls to deep mid-wicket]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Parthiv Patel, 2 runs, Parthiv backs away to the leg-side and Jadeja fires it on the stumps, drilled wide of long-off, Bravo runs to his right and throws to the bowler, a better throw would have had Simmons in trouble]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravindra Jadeja [1.0-0-6-0] is back into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, slower through the air and outside off, Simmons has nothing to do with it, left alone]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, pushed through outside off, Simmons plays the late cut straight to backward point]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, 1 run, goes for a big heave towards cow corner, drags it off the inner half to backward square leg]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, no run, fired full and on the stumps, squeezed back to the bowler]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, no run, what happened there? Flighted delivery on the stumps, Parthiv goes down on one knee, gets inside the line and misses the sweep, the ball goes over the stumps. That missed everything as Dhoni didn't collect it as well]]></line><line><![CDATA[Ashwin goes round the wicket]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Ashwin to Simmons, 1 run, tossed up outside off, Simmons drops it in front of cover and takes an easy single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravichandran Ashwin [2.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Negi to Simmons, 1 run, goes on with the angle from round the wicket, Simmons presses forward and defends, the ball squirts off the inside edge to backward square leg. Dhoni gives chase and keeps the duo down to a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Negi to Parthiv Patel, 1 run, short and outside off, Parthiv cuts square of the wicket, for a single]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Negi to Parthiv Patel, no run, flighted around off, Parthiv kneels down and misses the sweep, the ball was not far from the off-pole. Even MS failed to gather the ball]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Negi to Parthiv Patel, 2 runs, sensible batting, Parthiv right back in the crease, opens the bat face and runs it down to third man, Ash tidies up]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Negi to Parthiv Patel, no run, Parthiv wrists it to the left of the bowler, Negi gets across and makes a half stop]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Negi to Parthiv Patel, 2 runs, little short and just outside off, Parthiv goes back and punches in the air, Mohit dives over the ball and allows the batsmen to pick up two]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pawan Negi, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[<b>Time-out</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Simmons, <b>FOUR</b>, darted outside off, Simmons uses the pace on the ball, opens the bat face and steers it to the left of backward point, Ashwin just jogs behind the ball and collects it from the fence]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Simmons, no run, another shout for lbw, but once again umpire Nandan says not-out. This was fired in on the stumps, Simmons stays in the crease, is hit on the pad first before he cuts to backward point. The umpire didn't spot that and <b>Simmons is lucky to still be out there.</b>]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Simmons, no run, stifled appeal for lbw, but it was going down. The arm-ball that skids on, Simmons misses the nudge through the on-side, but the ball would have missed leg-stump]]></line><line><![CDATA[A slip in place]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Parthiv Patel, 1 run, tossed up on middle, Parthiv drives along the ground to long-on]]></line><line><![CDATA[A leg slip in place for Parthiv]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Simmons, 1 run, flatter and on off, Simmons backs away and punches to sweeper cover]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Simmons, no run, quicker and around off, Simmons mistimes the drive towards cover, Faf dives to his right and fields the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravindra Jadeja, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, no run, Ashwin goes round the wicket, pushes it through outside off, Parthiv cuts and finds backward point. He will feel he missed out there]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Ashwin to Simmons, 1 run, touch quicker and just outside off, Simmons drops it in front of backward point, for a single]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Ashwin to Simmons, <b>SIX</b>, what a shot! That is a one-handed six from Simmons. Flighted outside off, Simmons reaches out, he was deceived in the flight, but still goes through with the shot, he clears the long-off rope. The bottom hand came off as he played that]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, slower and outside off, Simmons is early into the cut, he is beaten]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, 3 runs, Ashwin drops it short, Parthiv rocks back and pulls to deep mid-wicket, Smith had to run a long way, he gets there and stops it with his boot, saved a run for the team]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Ashwin to Simmons, 1 run, flighted on off and middle, Simmons eases it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravichandran Ashwin [1.0-0-3-0] is back into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Nehra to Simmons, 1 run, direct-hit would have been interesting. Fullish and around off, Simmons pushes it towards cover and takes on Baz, he had to hurry as McCullum swooped in and fired at the bowler's end, he failed to hit the target though. <b>Simmons was struggling there</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Nehra to Simmons, no run, short of length around off, Simmons stays on the back foot and taps it to point]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Nehra to Simmons, <b>FOUR</b>, Simmons walks across his sticks, exposes his leg-stump, Nehra looks to target that and bowls a full delivery, but Simmons gets his bat down and flicks it fine, the fielder was square and had no chance of stopping that]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Nehra to Simmons, no run, back of a length on off, Simmons hangs back and knocks it to the left of the bowler]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Nehra to Simmons, <b>FOUR</b>, Nehra is going for plenty. Simmons showing he can play the touch game as well, on a length just outside off, Simmons uses the pace of the bowler and glides it right between short third man and backward point]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Nehra to Simmons, <b>SIX</b>, fantastic shot! Simmons gets into the act now. He wants to have some of the CHN bowling as well, he shimmies down the track, converts it into a length delivery and hammers it straight back over the sightscreen for the first maximum of the innings]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, <b>FOUR</b>, this is superb batting from the MUM wicket-keeper. The field was set on the off-side, he walks down the wicket and tonks it over mid-on, couple of bounces and into the fence]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, no run, pitched up just outside off, Parthiv middles the drive, picks out mid-off to perfection]]></line><line><![CDATA[Mohit switches to round the wicket]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, 2 runs, nice use of the wrist, too straight, on off and middle, Parthiv flicks his wrist and clips it through mid-wicket for a couple]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, <b>FOUR</b>, fabulous shot! He is looking in good touch once more. The slower delivery from Mohit, Parthiv picked it up early and caresses the drive through extra cover, Faf gives chase from mid-off, but comes second]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Simmons, 1 run, it would take some placement to beat the packed off-side field. Shortish and outside off, Simmons cuts towards backward point, Jadeja dives to his right and makes a half stop]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, 1 run, slower delivery just outside off, Parthiv push-drives to mid-off and sets off for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Nehra to Simmons, 2 runs, an expensive first over from Nehra, 13 runs came off it. Pitched up and angled across off, Simmons pushes at it and the outside edge rolls away behind point, once again Jaddu mops up near the rope]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Nehra to Simmons, 2 runs, full toss outside off, Simmons leans into the drive, eases it past cover, Jaddu stationed at deep backward point tidies up]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Nehra to Parthiv Patel, 1 run, <b>dropped!</b> Negi puts down a tough chance. That would have been a great catch. Back of a length around off, Parthiv flicks it in the air towards mid-wicket, Negi moves quickly forward and to his right, dives full length and gets both hands, the ball pops out, he tries to take it on the second attempt, but all in vain]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Nehra to Parthiv Patel, <b>FOUR</b>, back-to-back boundaries and Nehra has a worried look. Short and outside off, allowed Parthiv to free his arms, the wicket-keeper cuts it up and over backward point for a boundary]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Nehra to Parthiv Patel, <b>FOUR</b>, poor follow up delivery from Nehra. Bangs it short and on the stumps, Parthiv is quick to transfer his weight and pull it to the deep backward square leg fence]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Nehra to Parthiv Patel, no run, straightaway goes past the outside edge. He has a smile on his face and has a word with Parthiv. Fullish and shaping away, lured Parthiv into the drive before beating the edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ashish Nehra, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[Only one over for Ashwin, Nehra on]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Simmons, no run, short and outside off, Simmons cuts and finds backward point, either side of Jaddu and that would have been Simmons' first boundary]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, 1 run, pitched up just outside off, Parthiv drives to the left of mid-off, runs as he played that. Picks up an easy single]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Simmons, 1 run, Baz once again electric in the field. Slightly short and outside off, Simmons goes back and steers it towards short third man, McCullum dives to his right and saves three runs]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, 1 run, short and width provided, Parthiv cracks it square of the wicket on the off-side, there is protection in the deep though]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, <b>FOUR</b>, lovely shot! That should give him the confidence. Back of a length outside off, Parthiv stands tall and punches through extra cover, beat the two fielders giving chase]]></line><line><![CDATA[A slip in place]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Parthiv Patel, no run, good length ball just outside off, Parthiv stays in the crease and punches to extra cover, Negi gets his body behind the ball and stops it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohit Sharma, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[Not Nehra, but Mohit to share the new ball with Ash]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, flighted just outside off, Simmons presses forward and defends solidly]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, nicely tossed up delivery outside off, Simmons covers his sticks and lets it pass]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Ashwin to Simmons, <b>wide</b>, darted down the leg-side, Simmons lets it go and gets a wide from the umpire]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, 1 run, skids on after pitching, Parthiv was making room, he is cramped but manages to knock it to long-on]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Ashwin to Parthiv Patel, no run, slightly short and outside off, Parthiv hangs back and cuts to cover-point, straight to the fielder]]></line><line><![CDATA[Only a slip in place for Parthiv]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Ashwin to Simmons, 1 run, tossed up outside off, Simmons stretches forward and mistimes the drive to mid-off, the fielder was on the edge of the ring and that allowed the duo to take the single]]></line><line><![CDATA[A slip and leg slip in place..]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Ashwin to Simmons, no run, flatter and around off, Simmons pushes it to the right of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Simmons and Parthiv Patel are at the crease. Simmons is on strike. Ashwin will open the attack</b>]]></line><line><![CDATA[Welcome back.. The last two games at the Chepauk, CHN have defended totals below 150. Can they defend for one more time? Ashwin back in the team and is going to open the bowling. Dhoni is getting his field right. Simmons and Parthiv have to provide a good start, if MUM are to overhaul this target.]]></line><line><![CDATA[For the visitors, Suchith bowled with good control. Marchant de Lange too proved his worth by bowling an economical spell up front. In this crucial tie, MUM's batsmen need to soak the pressure to chase down the target and usurp CHN in their own den. ]]></line><line><![CDATA[On the back of handy contributions by Brendon McCullum, Pawan Negi and MS Dhoni, CHN reached a good score. In fact, McCullum gave them a rousing start. However, after clobbering Vinay Kumar all over the park, McCullum threw his wicket away in the same over. Once McCullum was dismissed, MUM's bowlers were able to keep the lid on the scoring rate to some extent. Just in the nick of time though, Negi landed decisive blows to power the hosts' total.<br/>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;de Lange to Dhoni, <b>out</b> Negi Run Out!! Negi is run-out trying to sneak in a bye. However, the young man has played a gem of an innings. Back of a length just outside off, Dhoni goes for a wild swing, is nowhere close to the ball, tries to take on Parthiv, but Negi is found short by a direct-hit. <b>Negi run out (Parthiv Patel) 36(17) [4s-4 6s-1]</b>]]></line><line><![CDATA[de Lange to Dhoni, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;de Lange to Negi, 3 runs, <b>another one put down</b>. McClenaghan the culprit this time. It was short and outside off, Negi goes for the upper cut, gets a top-edges that skies to the left of short third man, McClenaghan runs back and to his left, the ball goes right through his hands. Simmons tidies up and saves a run for the team]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;de Lange to Negi, 2 runs, <b>dropped!</b> Suchith has spilled it. In fact, he didn't even get a fingertip. Slower delivery on the stumps, Negi heaves it across the line, gets plenty of elevation but not the distance, Suchith settles under it and can't hold on. He was afraid of the rope as he was very close to them. He does well to not let the ball cross the ad cushions]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;de Lange to Dhoni, 1 run, fires it full and on the stumps, Dhoni makes room and drills it to long-on]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;de Lange to Dhoni, <b>FOUR</b>, poor delivery with the fine leg inside the ring. Slower delivery on leg-stump, Dhoni gets inside the line and glances it fine, no chance for the fielder to stop that as the ball races away to the fence]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;de Lange to Negi, 1 run, Negi backs away to the leg-side, de Lange keeps it up and close to the batsman, mistimed hoick to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Marchant de Lange [3.0-1-19-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Vinay to Negi, 1 run, fuller and outside off, Negi can't get underneath it, drives it to long-off and keeps strike]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Vinay to Dhoni, 1 run, oh Dhoni has missed out there. Vinay bowls a nice juicy full toss, Dhoni goes for the mighty heave across the line, inside edges it onto the pad, the ball rolls adjacent to the wicket and Negi calls for the run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Vinay to Negi, 1 run, wide yorker from Vinay, Negi squeezes it to extra cover and registers his <b>highest IPL score</b>]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Vinay to Negi, <b>FOUR</b>, Negi continues to entertain the crowd. It was short and asking for trouble, Negi stays back and slaps it over extra cover, the ball races away to the fence]]></line><line><![CDATA[Vinay switches to round the wicket]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Vinay to Dhoni, 1 run, fullish and outside off, Dhoni drills it down to long-off, he hit that hard but picked out the fielder]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Vinay to Dhoni, <b>SIX</b>, superb start to the penultimate over of the innings. It was not all that short, but Dhoni was quick to pick up the length, he goes back and plays the short-arm pull over deep square leg. What power in those forearms!]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Vinay Kumar [2.0-0-19-1] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;McClenaghan to Dhoni, 1 run, short of length just outside off, Dhoni shuffles across and flicks it uppishly to short fine, ball bounces in front of Simmons, who fires a throw at the bowler's end, <b>Dhoni was a goner had that hit</b>. He was not even in the picture]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;McClenaghan to Dhoni, no run, McClenaghan goes up for a caught behind appeal, nothing from Parthiv. It was the slower delivery outside off, Dhoni misses the steer to third man and is beaten. There was no sound as the ball passed the bat]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;McClenaghan to Negi, 1 run, again, McClenaghan keeps it short, Negi is waiting for that, he pulls it off the middle but straight to deep square leg]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;McClenaghan to Negi, 2 runs, dug in midway down the pitch, Negi forehands the pull in front of square for a brace. Roger Federer would have been proud of that forehand]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;McClenaghan to Negi, <b>SIX</b>, massive! He might be a little man, but Negi packs a punch. McClenaghan stays round the wicket and delivers a length delivery, Negi clears his front leg and heaves it high and over deep mid-wicket for a maximum]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;McClenaghan to Dhoni, 1 run, McClenaghan continues round the wicket to Dhoni, back of a length around off, knocked towards cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;de Lange to Negi, <b>FOUR</b>, hammered! This is even better. Pitched up just outside off, Negi doesn't bother to get behind the line, drills the drive past the diving extra cover fielder. The ball reached the fence in no time. After not conceding a run off the bat in his first 2 overs, de Lange gives away 13 in a single over]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;de Lange to Negi, <b>FOUR</b>, that is a very good shot. Fuller and outside off, Negi makes a bit of room and slices it over extra cover, the ball bounces couple of times before reaching the fence]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;de Lange to Negi, no run, full and around leg-stump, Negi moves away and misses the heave. That was not far away from the leg-pole, de Lange had his hands in the air]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;de Lange to Negi, <b>FOUR</b>, an unsual shot from Negi. Short and outside off, Negi backs away to the leg-side and slaps it behind point, beat the fielder at third man with ease]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;de Lange to Negi, no run, takes the pace off the ball, short of length as well, Negi swipes across the line and is beaten for pace]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;de Lange to Negi, <b>wide</b>, short and down leg, Negi can't tickle it away, an extra added to the total]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;de Lange to Dhoni, 1 run, back of a length on off, Dhoni taps it to the unmanned mid-wicket region, for a single. de Lange runs across and tidies up]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Marchant de Lange [2.0-1-5-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;McClenaghan to Negi, 2 runs, short and hurrying onto the batsman, Negi mistimes the pull to mid-wicket, hares back for the second as the fielder from the deep had a lot of ground to cover]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;McClenaghan to Dhoni, 1 run, banged in halfway down the wicket, Dhoni hops up and drops it to the off-side, calls for a quick single and gets it with ease. Good response from Negi]]></line><line><![CDATA[Back round the wicket to Dhoni]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;McClenaghan to Negi, 1 run, slanting into the pads, Negi nurdles it square on the leg-side and opens his account]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;McClenaghan to Negi, no run, McClenaghan over the wicket, short of length around off, Negi pokes at it feebly and is beaten]]></line><line><![CDATA[<b>Pawan Negi, left handed bat, comes to the crease</b>]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;McClenaghan to du Plessis, <b>out</b> Caught by Simmons!! Simmons once again hangs onto a splendid catch. This is a big wicket for MUM as the partnership was just starting to up the ante. The slower delivery around off, du Plessis walks across the stumps and plays the lap shot, he almost cleared the fielder at short fine, but Simmons times his jump - going back - to perfection and takes it with both hands. He was in the air when he took that. In fact, from the replays, Simmons went with both hands, but the ball got stuck in his right hand. <b>du Plessis c Simmons b McClenaghan 17(16) [6s-1]</b>]]></line><line><![CDATA[McClenaghan to du Plessis, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;McClenaghan to Dhoni, 1 run, McClenaghan starts from round the wicket, keeps it back of a length, Dhoni runs it down to third man with an open bat face]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mitchell McClenaghan [2.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, 1 run, fires it wide outside off, Dhoni squeezes it to the left of extra cover. Suchith outbowls his senior spin partner, he ends with figures: <b>4-0-21-1</b>]]></line><line><![CDATA[A change of gloves for MS. Humid conditions taking a toll on the CHN skipper.]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to du Plessis, 1 run, full toss on the pads, du Plessis nudges it to deep backward square leg]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to du Plessis, no run, flatter and just outside off, du Plessis makes room and doesn't time the punch, hits it back to the bowler]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, 1 run, Suchith throws it wide outside off, Dhoni reaches out, goes hard on the drive, mistimes it past the diving bowler]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, 2 runs, tossed up around off, Dhoni uses his feet and mistimes the big hit wide of long-on, easy two]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, no run, Dhoni goes down on one knee and tries to paddle, laps it onto the pad, the ball rolls back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jagadeesha Suchith [3.0-0-16-1] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, 1 run, skips out of the crease, takes it on the full and drives it down to long-on. Harbhajan finishes his spell, not as impressive as the last game, his figures read: <b>4-0-36-1</b>]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, <b>FOUR</b>, Dhoni has played Harbhajan well today. Flighted delivery on off, Dhoni dances down the wicket and heaves it over mid-wicket. Though not off the middle, he will take the end result]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, 1 run, tossed up on off, du Plessis kneels down and sweeps to deep mid-wicket]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, <b>SIX</b>, superb shot! It was just short in length and Faf was onto it in a flash, he rocks back and pulls it wide of long-on, he got enough wood for the ball to clear the rope]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, no run, slower and around off, du Plessis comes down the track and turns it softly to mid-wicket]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, 2 runs, trifle short and just outside off, du Plessis goes back and punches to deep extra cover, de Lange had to make a lot of ground, he gets there with a slide and keeps it to a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Time-out</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Pandya to du Plessis, 1 run, off-speed delivery outside off, du Plessis waits for the ball and steers it to third man]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Pandya to Dhoni, 1 run, short of length delivery that hurries onto Dhoni, who inside-edges it onto the thigh pad, the ball dribbles towards backward square]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Pandya to du Plessis, 1 run, back of a length on off, du Plessis flicks it in front of square on the leg-side, for a single]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Pandya to Dhoni, 1 run, short and width on offer, Dhoni cracks the cut behind point, the fielder from third man tidies up running to his right]]></line><line><![CDATA[Parthiv up to the stumps now]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Pandya to Dhoni, no run, on a length just outside off, Dhoni drives on the up to mid-off, straight to the fielder]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Pandya to Dhoni, no run, good length ball just outside off, Dhoni goes for the drive, the ball stops on him and takes the splice of the bat and balloons towards mid-wicket, Vinay runs forward but it lands just before him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hardik Pandya, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, 1 run, excellent running, these two are very quick between the wickets, pushed through close to off, Dhoni drops it wide of cover and takes off, Suchith runs to his left and fires a throw to PP, but Faf had made it in comfortably]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, 1 run, du Plessis presses forward and works it with the turn to square leg]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, 1 run, Harbhajan not afraid of tossing it up, Dhoni nudges it to deep square leg, wanted two but settles with one as the fielder gets to the ball quickly]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, <b>SIX</b>, fabulous shot! Dhoni wants to stamp his authority. Flighted delivery on off, Dhoni shimmies down the wicket, gets to the pitch of the ball and lofts it handsomely over long-on for a maximum]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, 1 run, touch quicker and just outside off, du Plessis dabs it to the vacant point region for a single]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, no run, the off-break that spins back in, du Plessis shuffles across and taps it to the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[A leg slip in place]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, no run, flighted on off, Dhoni pushes it back to the bowler]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, no run, Suchith sees the batsman advance and drags the length back slightly, the ball turns a bit as well, Dhoni adjusts and knocks it to cover]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, no run, tossed up around off, Dhoni comes down the track and turns it gently towards mid-wicket]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to du Plessis, 1 run, much slower than the previous deliveries, du Plessis leans forward and works it to backward square leg]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dhoni, 1 run, slower and on the stumps, Dhoni goes deep in the crease and nurdles it behind square on the leg-side]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to du Plessis, 1 run, pushed through around off, du Plessis shuffles across and eases it past the diving cover-point fielder, the man from sweeper cover backs up]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, no run, this one is given more air, Dhoni presses forward and turns it towards the on-side]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, no run, tossed up and on Dhoni's pads, turned towards square leg]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, 1 run, Harbhajan drifts one onto du Plessis' pads, nudged behind square on the on-side for a single]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Harbhajan to du Plessis, no run, flighted delivery and just outside off, du Plessis goes back and defends it with a straight bat]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Harbhajan to Dhoni, 1 run, slightly shorter and wider outside off, Dhoni makes room and punches it square on the off-side for a single]]></line><line><![CDATA[<b>MS Dhoni, right handed bat, comes to the crease</b>]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Harbhajan to Dwayne Smith, <b>out</b> Caught by Pandya!! CHN are finding Pandya with perfection. This was tossed up slower and just outside off, invites Smith into the slog sweep, he gets down on his knees and sweeps it hard and flat. Pandya sets himself up and holds onto the catch at deep mid-wicket. The spinners are pulling things back for MUM. <b>Dwayne Smith c Pandya b Harbhajan 27(34) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Harbhajan to Dwayne Smith, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dwayne Smith, 1 run, slower and just outside off, Smith presses across and works it down towards long-on]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dwayne Smith, no run, tossed up and just outside off, Smith prods forward and defends it]]></line><line><![CDATA[<b>Faf du Plessis, right handed bat, comes to the crease</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Raina, <b>out</b> Caught by Pandya!! Excellent running catch from Pandya at deep mid-wicket. Suchith has struck a huge blow for MUM. Raina gave the charge, Suchith held the length back a fraction, Raina had to lunge forward as he looked to whip it towards mid-wicket, ends up dragging the ball in front of square. Pandya had a fair distance to cover, he runs across to his right and completes the catch. CHN have lost two big guns now. <b>Raina c Pandya b Jagadeesha Suchith 10(10) [4s-1]</b>]]></line><line><![CDATA[Jagadeesha Suchith to Raina, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Raina, no run, tossed up and just outside off, Raina lunges forward and defends it]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Raina, <b>FOUR</b>, that's classy from Raina, comes down the track, gets to the pitch of the ball, presents the full face of the bat and lofts it back over the bowler's head for a boundary]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dwayne Smith, 1 run, pushed through by Suchith, Smith lunges forward and gets an inside edge behind square on the on-side, just a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jagadeesha Suchith [1.0-0-7-0] is back into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Harbhajan to Dwayne Smith, 1 run, this one is given more air, driven down towards long-on for a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Harbhajan to Dwayne Smith, 2 runs, top-edge and safe! This was slower and shorter from Harbhajan, Smith was early on the pull, gets a top-edge but there's no one at short fine leg, Smith gets away with a brace]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Harbhajan to Raina, 1 run, Harbhajan slows this one outside off, but there's some width there, Raina makes room and punches it towards sweeper cover for a single]]></line><line><![CDATA[A slip for Raina]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Harbhajan to Dwayne Smith, 1 run, tossed up and on the stumps, Smith goes back and works it in front of square on the on-side]]></line><line><![CDATA[A leg-slip in place]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Harbhajan to Dwayne Smith, <b>FOUR</b>, Smith goes for the reverse sweep, doesn't get hold of the shot, manages a top-edge that races away past Simmons at short third man]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Harbhajan to Raina, 1 run, Raina shimmies down the track to a well flighted delivery and drives it past cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Harbhajan Singh, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Vinay to Raina, 1 run, tad fuller and just outside off, Raina looks to drive and gets an inside edge, the ball rolls to the left of mid-wicket and Raina scampers across for a quick single]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Vinay to Dwayne Smith, 1 run, full and a hint of nip back into Smith, punched down towards long-on for a single]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Vinay to Dwayne Smith, no run, the bouncer from Vinay, Smith ducks under it and lets it go]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Vinay to Raina, 1 run, hint of width on offer, Raina steers it away towards third man for a single]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Vinay to Raina, no run, on a good length and angling across Raina, he looks to dab it down towards third man, gets a bottom edge and the ball rolls away towards Parthiv]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Vinay to Raina, 2 runs, short and on the stumps, Raina swivels across, rolls his wrists and pulls it behind square on the on-side. McClenaghan gets across from long leg, puts in the slide and saves a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Smith has faced 12 balls from de Lange and hasn't scored a run as yet. Looks like he wants to play his overs out]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, <b>maiden over from de Lange</b>, on a good length and just outside off, blocked towards cover]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, tad fuller and just outside off, Smith presses forward and defends it towards cover]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, width on offer from de Lange, Smith throws the kitchen sink at that and is beaten by a long way]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, the bouncer from de Lange, Smith looks to pull and is beaten by a long way]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, short of a length and just outside off, no room for Smith to play the cut, he arcs back and chops it to the left of point where Pollard makes a tumbling stop]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, on a good length and just outside off, Smith presses forward and defends it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Marchant de Lange [1.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Vinay to Raina, no run, on a good length and just outside off, Raina punches it towards mid-off and set off for a quick single, sent back in time by Dwayne Smith. The fielder has a shy at the stumps and misses by a long way]]></line><line><![CDATA[<b>Suresh Raina, left handed bat, comes to the crease</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Vinay to Brendon McCullum, <b>out</b> Caught by Pandya!! McCullum fails to make the most of a good start once again. This was short and asking to be smacked. McCullum rocked back on the pull, didn't bother to keep it down, the timing was good but the placement wasn't, straight into the palms of Pandya at deep mid-wicket. Vinay has his revenge. <b>Brendon McCullum c Pandya b Vinay 23(11) [4s-3 6s-1]</b>]]></line><line><![CDATA[Vinay to Brendon McCullum, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Vinay to Brendon McCullum, <b>FOUR</b>, hat-trick of boundaries for McCullum, too straight from Vinay, McCullum looks to whip and gets an inside edge past square leg, there's plenty of bat on that and the ball races away to the fence]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Vinay to Brendon McCullum, <b>FOUR</b>, that's another boundary for McCullum, short of a length and well outside off, McCullum slapped it square on the off-side, it was in the air but well wide of the fielder at cover-point]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Vinay to Brendon McCullum, <b>FOUR</b>, <b>lovely shot</b>, width on offer from Vinay, McCullum gets on top of the bounce and cuts it high and over cover-point for a boundary]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Vinay to Brendon McCullum, 2 runs, McCullum is riding his luck here, this was short and outside off, extra bounce for Vinay, McCullum couldn't get hold of the cut, gets it high off the bat, but has enough to clear the fielder at backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The keeper is up to the stumps]]></line><line><![CDATA[<b>Vinay Kumar, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Brendon McCullum, 1 run, the slider from Suchith, came back with the angle, McCullum was lunging forward on the defensive push, gets an inside edge and the ball rolls away wide of mid-wicket]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Brendon McCullum, no run, flighted delivery and on the stumps, McCullum prods across and turns it towards the on-side]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dwayne Smith, 1 run, slower and on Smith's pads, worked behind square on the on-side for a single]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dwayne Smith, no run, pushed through by Suchith, Smith goes back and nudges it towards mid-on]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Dwayne Smith, <b>FOUR</b>, Suchith drops another one short and well down leg-side, pulled away behind square on the on-side for a boundary]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Jagadeesha Suchith to Brendon McCullum, 1 run, <b>Harbhajan has dropped a sitter</b>, this was a poor ball from Suchith, short and well outside leg, McCullum rocked back on the pull, hit it hard and straight to backward square leg, straight in and straight out, Rohit isn't impressed]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jagadeesha Suchith, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, no run, another bouncer from McClenaghan, this one angled across the right hander, Smith was late on the pull and missed]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, no run, short of a length and just outside off, Smith stays behind the line and defends it towards the off-side]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, <b>FOUR</b>, this goes finer and third man has no chance again, width on offer from McClenaghan, Smith goes hard on the cut, gets a thick edge and towards third man, back-to-back fours for Smith]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, <b>FOUR</b>, it's already turning out to be an expensive over, width on offer from McClenaghan, Smith throws his bat at that and gets it behind Pollard at backward point, beats the man running across from third man]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;McClenaghan to Brendon McCullum, 1 run, short and angling away from outside off, McCullum hops across, gets on top of the bounce and cuts it towards third man, goes to the fielder on the bounce]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;McClenaghan to Brendon McCullum, <b>SIX</b>, McCullum gets going! Charges down the track, McClenaghan drops it short and just outside off, McCullum sets himself up and pulls it high and over the long-on fence for a maximum]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, on a good length and just outside off, Smith gets half-forward and defends it towards cover-point]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, back of a length and in that channel outside off, Smith stands tall and punches it towards cover-point]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, change of pace from de Lange, Smith spots it early and blocks it]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, much better from de Lange, tad fuller and just outside off, Smith prods forward and defends it towards cover]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, <b>5 wides</b>, that's a poor ball from de Lange, bangs it short and on the stumps, it sails high and over the batsman's head. Parthiv Patel leaps and gets a hand onto it, but the ball still rolls away to the fence]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, short and angling down leg-side, Smith gets inside the line and looks to help it on its way, misses it completely]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;de Lange to Dwayne Smith, no run, short of a length and just outside off, Smith stays back and pushes it towards cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Marchant de Lange, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;McClenaghan to Brendon McCullum, no run, fuller length delivery and in that channel outside off, McCullum closes the face of the bat and drives it back towards the bowler. He bends low and manages to make a half-stop, the ball deflects away towards mid-on]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, 1 run, tad fuller and in that channel outside off, Smith waits on it, plays with an open face and guides it behind square on the off-side for a single]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, no run, width on offer from McClenaghan, Smith cracks it square and to the left of backward point. Pollard moves across quickly and makes the stop]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, no run, back of a length and in that channel outside off, Smith stays behind the line and defends it towards cover]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, no run, the bumper from McClenaghan, Smith drops his wrists and ducks underneath the ball, went sailing through to the keeper]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;McClenaghan to Dwayne Smith, 2 runs, Smith is off and running, back of a length and in that channel outside off, Smith stands tall and punches it through extra cover. The fielder at mid-off chases and keeps them down to a brace]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dwayne Smith and Brendon McCullum are at the crease. Dwayne Smith is on strike. McClenaghan will open the attack</b>]]></line><line><![CDATA[A slip is in place..]]></line><line><![CDATA[It's time for action. Can Mumbai sans Lasith Malinga stop CHN's winning streak at home? Rohit leads the team huddle. The two CHN openers are out in the middle. We are set for the start of Match 43.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Mumbai</b> (Playing XI): Lendl Simmons, Parthiv Patel(w), Rohit Sharma(c), Ambati Rayudu, Kieron Pollard, Hardik Pandya, Harbhajan Singh, Jagadeesha Suchith, Vinay Kumar, Mitchell McClenaghan, Marchant de Lange]]></line><line><![CDATA[<b>Chennai</b> (Playing XI): Dwayne Smith, Brendon McCullum, Suresh Raina, Faf du Plessis, MS Dhoni(w/c), Dwayne Bravo, Ravindra Jadeja, Ravichandran Ashwin, Pawan Negi, Mohit Sharma, Ashish Nehra]]></line><line><![CDATA[<b>Dhoni:</b> "We will bat first. So far in the tournament whenever we have won the toss we have batted first. We have been playing well. It is important to keep moving forward and improving. We have one change, instead of Ishwar Pandey, <b>Ashwin</b> comes in."]]></line><line><![CDATA[<b>Rohit:</b> "We would have batted first. The wicket gets slower as the game progressess. We have to bowl well. Every game is important for us, the last game we played is something that we wanted, everybody played well and put their hands up. <b>Marchant de Lange</b> comes in for Lasith Malinga. He has been with us since last year and bowls with a lot of pace."]]></line><line><![CDATA[<b>Chennai have won the toss and have opted to bat</b>]]></line><line><![CDATA[This is going to be a big game folks! So, tighten your seat belts for an exciting encounter as we update you with the team changes and captain comments in a little while. The toss is not too far away. Stay tuned!]]></line><line><![CDATA[<b>Head-to-head:</b> In 19 previous occasions, CHN have won 10 games while MUM have clinched 9 wins.]]></line><line><![CDATA[<b>Weather Update:</b> It's been a baking day in the city famously known as the "Detroit of India". No showers are predicted with temperatures hovering around a high of 30 degree Celsius during the course of play.]]></line><line><![CDATA[<b>Team News:</b>]]></line><line><![CDATA[It will be a tricky call for Dhoni as he needs to find a spot for Ashwin in place of Negi and Jaddu. Going by form, Jadeja might have to sit out but captain cool backs his senior players and Negi will consider himself extremely lucky if he gets the nod from MSD.]]></line><line><![CDATA[<b>MUM will miss out on the services of Lasith Malinga</b> who has to sit out for this game following Tamil Nadu government's ban on Sri Lankan citizens into its territory. One among Ben Hilfenhaus and Marchant de Lange are expected to take his spot. They might be tempted to go in with an extra spinner given the conditions in Chennai. Hardik Pandya, who replaced Unmukt Chand in the last game, might well have to make way for an extra batsman.]]></line><line><![CDATA[Mumbai, despite having a disastrous start, bounced back strongly as they managed to clinch five wins in their last six games. Lendl Simmons and Parthiv Patel have been successful in providing good starts since the departure of Aaron Finch. The middle order looks settled with Rohit, Rayudu and Pollard making necessary contributions. Mitchell McClenaghan has been a valuable asset to the team and hasn't disappointed thus far. Bhajji and Suchith managed 71 dot balls in 31 overs since they have combined and the duo would be hoping to make a mark at the spin-friendly conditions at Chepauk.]]></line><line><![CDATA[CHN, the table toppers, have 14 points and they need one last mighty effort to secure a guaranteed spot in the playoffs. Dwayne Smith, Brendon McCullum and Suresh Raina have been brilliant at the top and all three played with fearless intent throughout. The middle order and spin bowling has been a slight disappointment as they failed to sustain the good work after the initial few games. MSD will be relieved as his go-to man, Ashwin, will make a comeback for this game after suffering a finger injury which kept him out for 3 games.]]></line><line><![CDATA[<b>18:50 Local Time, 13:20 GMT:</b> CHN have played 5 games in Chennai this season and are yet to lose a game. Mumbai will be well aware of this fact and it will take a gigantic effort to outclass the incomparable CHN in their own den. Mumbai haven't lost a game since 25th April and seems like they have begun to peak just at the right time. Will they extend their winning streak or will CHN blemish MUM's chances of making it to the playoffs? All that will be answered as we take you through the coverage of the 43rd game of the Indian Premier League where Mumbai will be taking on Chennai at Chepauk.]]></line><line><![CDATA[<b>Preview</b><br/><br/>It is business as usual for Chennai in the IPL. They are on top of the table and are growing from strength to strength heading into the clash against Mumbai. They have not lost a match in their Chepauk fortress and another victory will seal their spot in the Playoffs.<br/><br/>Mumbai, on the other hand, are in the middle of a mid-table scramble for the remaining spots in the Playoffs. They have won four consecutive matches and they are peaking at the right time. A win against Chennai will put them in pole position for a spot in the last four.<br/><br/>Venue: MA Chidambaram Stadium, Chennai<br/><br/>Date: May 8, 2015<br/><br/>Time: 20:00 IST<br/><br/>Weather: Partly cloudy with a low of 28 degrees Celsius<br/><br/><b>Team news</b><br/><br/><b>Chennai</b><br/><br/>They were exceptional with the ball and in the field during their clash against Bangalore. However, if it was not for Suresh Raina's 52, the team would have been bowled out for a lesser score. MS Dhoni will be hoping that the batting shows consistency as the tournament progresses. There is still some uncertainty regarding the fitness of R Ashwin and they will be hoping that he recovers quickly.<br/><br/>Probable XI: 1 Dwayne Smith, 2 Brendon McCullum, 3 Suresh Raina, 4 Faf du Plessis, 5 MS Dhoni (c and wk), 6 Dwayne Bravo, 7 Ravindra Jadeja, 8 Pawan Negi/R Ashwin, 9 Mohit Sharma, 10 Ishwar Pandey, 11 Ashish Nehra<br/><br/><b>Mumbai</b><br/><br/>The team has shown admirable fighting spirit and is making an upward surge after a poor start. The lower-middle order guided the team over the line against Delhi and skipper Rohit Sharma will be happy with the depth. However, heading into the match, they will be without Lasith Malinga who cannot play in Chennai. With their ace spearhead out, the new ball might be taken by either Marchant de Lange or Ben Hilfenhaus.<br/><br/>Probable XI: 1 Lendl Simmons, 2 Parthiv Patel (wk), 3 Rohit Sharma (c), 4 Hardik Pandya/Unmukt Chand, 5 Ambati Rayudu, 6 Kieron Pollard, 7 Harbhajan Singh, 8 J Suchith, 9 R Vinay Kumar, 10 Mitchell McClenaghan, 11 Ben Hilfenhaus/Marchant de Lange<br/><br/><b>Stats</b><br/><br/>- Ravindra Jadeja needs one wicket to become the fifth Chennai bowler to take 50 wickets in IPL.<br/><br/>- In four matches between Chennai and Mumbai at the Chepauk, the scoreline is 2-2. CHN won the first two encounters while Mumbai have won the last two encounters in Chennai.<br/><br/><b>Quotes</b><br/><br/>"I need to score a few more runs to count myself as a allrounder." - Harbhajan Singh is determined to contribute with the bat for Mumbai.<br/><br/>"In Chennai, it's about the two teams and how they handle the heat. That's one aspect every team has to counter and I feel we have done that well over the years." - Suresh Raina says that visiting teams have to combat the heat factor if they have to win in Chennai.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Mumbai</b> (From): Lendl Simmons, Parthiv Patel(w), Rohit Sharma(c), Corey Anderson, Ambati Rayudu, Kieron Pollard, Harbhajan Singh, Hardik Pandya, Jagadeesha Suchith, Vinay Kumar, Mitchell McClenaghan, Ben Hilfenhaus, Colin Munro, Aditya Tare, Jasprit Bumrah, Marchant de Lange, Pawan Suyal, Shreyas Gopal, Pragyan Ojha, Abhimanyu Mithun, Aiden Blizzard, Akshay Wakhare, Nitish Rana, Siddhesh Lad, Unmukt Chand]]></line><line><![CDATA[<b>Chennai</b> (From): Dwayne Smith, Brendon McCullum, Suresh Raina, Faf du Plessis, MS Dhoni(c/w), Dwayne Bravo, Pawan Negi, Ravindra Jadeja, Mohit Sharma, Ashish Nehra, Ishwar Pandey, Baba Aparajith, Matt Henry, Mithun Manhas, Samuel Badree, Ronit More, Michael Hussey, Rahul Sharma, Kyle Abbott, Ankush Bains, Irfan Pathan, Pratyush Singh, Andrew Tye, Eklavya Dwivedi, Ravichandran Ashwin]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>158</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Chennai">
+			<players>
+				<player>
+					<playerid>255</playerid>
+					<name>Dwayne Smith</name>
+					<batsman-name>Dwayne Smith</batsman-name>
+					<batsman-nickname>Dwayne Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>34</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Harbhajan</bowler>
+					<bowlerId>75</bowlerId>
+						<fielder>Hardik Pandya</fielder>
+						<fielderId>9647</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<batsman-name>B McCullum</batsman-name>
+					<batsman-nickname>Brendon McCullum</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>23</runs>
+					<balls>11</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Vinay</bowler>
+					<bowlerId>1449</bowlerId>
+						<fielder>Hardik Pandya</fielder>
+						<fielderId>9647</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>413</playerid>
+					<name>Suresh Raina</name>
+					<batsman-name>Raina</batsman-name>
+					<batsman-nickname>Raina</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>10</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Jagadeesha Suchith</bowler>
+					<bowlerId>10357</bowlerId>
+						<fielder>Hardik Pandya</fielder>
+						<fielderId>9647</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7825</playerid>
+					<name>Faf du Plessis</name>
+					<batsman-name>du Plessis</batsman-name>
+					<batsman-nickname>du Plessis</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>16</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>McClenaghan</bowler>
+					<bowlerId>7624</bowlerId>
+						<fielder>Lendl Simmons</fielder>
+						<fielderId>599</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>265</playerid>
+					<name>MS Dhoni</name>
+					<batsman-name>Dhoni</batsman-name>
+					<batsman-nickname>Dhoni</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>39</runs>
+					<balls>32</balls>
+					<fours>2</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8281</playerid>
+					<name>Pawan Negi</name>
+					<batsman-name>Negi</batsman-name>
+					<batsman-nickname>Negi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>36</runs>
+					<balls>17</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Parthiv Patel</fielder>
+						<fielderId>74</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>242</playerid>
+					<name>Dwayne Bravo</name>
+					<batsman-name>DJ Bravo</batsman-name>
+					<batsman-nickname>Dwayne Bravo</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>587</playerid>
+					<name>Ravindra Jadeja</name>
+					<batsman-name>R Jadeja</batsman-name>
+					<batsman-nickname>Ravindra Jadeja</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1593</playerid>
+					<name>Ravichandran Ashwin</name>
+					<batsman-name>Ashwin</batsman-name>
+					<batsman-nickname>Ashwin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8181</playerid>
+					<name>Mohit Sharma</name>
+					<batsman-name>Mohit Sharma</batsman-name>
+					<batsman-nickname>Mohit Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>269</playerid>
+					<name>Ashish Nehra</name>
+					<batsman-name>Nehra</batsman-name>
+					<batsman-nickname>Nehra</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>201</playerid>
+				<nbr>1</nbr>
+				<runs>44</runs>
+				<overs>4.5</overs>
+				<batsman>Brendon McCullum</batsman>
+				<batsman-name>B McCullum</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>413</playerid>
+				<nbr>2</nbr>
+				<runs>64</runs>
+				<overs>8.4</overs>
+				<batsman>Suresh Raina</batsman>
+				<batsman-name>Raina</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>255</playerid>
+				<nbr>3</nbr>
+				<runs>65</runs>
+				<overs>9.1</overs>
+				<batsman>Dwayne Smith</batsman>
+				<batsman-name>Dwayne Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7825</playerid>
+				<nbr>4</nbr>
+				<runs>104</runs>
+				<overs>15.2</overs>
+				<batsman>Faf du Plessis</batsman>
+				<batsman-name>du Plessis</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8281</playerid>
+				<nbr>5</nbr>
+				<runs>158</runs>
+				<overs>20</overs>
+				<batsman>Pawan Negi</batsman>
+				<batsman-name>Negi</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<bowlteam name="Mumbai">
+			<players>
+				<player>
+					<playerid>7624</playerid>
+					<name>Mitchell McClenaghan</name>
+					<bowler-name>McClenaghan</bowler-name>
+					<bowler-nickname>McClenaghan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8119</playerid>
+					<name>Marchant de Lange</name>
+					<bowler-name>M de Lange</bowler-name>
+					<bowler-nickname>de Lange</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>1</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>6</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10357</playerid>
+					<name>Jagadeesha Suchith</name>
+					<bowler-name>Jagadeesha Suchith</bowler-name>
+					<bowler-nickname>Jagadeesha Suchith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>21</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1449</playerid>
+					<name>Vinay Kumar</name>
+					<bowler-name>Vinay</bowler-name>
+					<bowler-nickname>Vinay</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>33</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>75</playerid>
+					<name>Harbhajan Singh</name>
+					<bowler-name>Harbhajan</bowler-name>
+					<bowler-nickname>Harbhajan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>36</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9647</playerid>
+					<name>Hardik Pandya</name>
+					<bowler-name>H Pandya</bowler-name>
+					<bowler-nickname>Pandya</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>4</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>599</playerid>
+					<name>Lendl Simmons</name>
+					<bowler-name>L Simmons</bowler-name>
+					<bowler-nickname>Simmons</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>74</playerid>
+					<name>Parthiv Patel</name>
+					<bowler-name>Parthiv Patel</bowler-name>
+					<bowler-nickname>Parthiv Patel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<bowler-name>Rohit</bowler-name>
+					<bowler-nickname>Rohit</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6311</playerid>
+					<name>Ambati Rayudu</name>
+					<bowler-name>Rayudu</bowler-name>
+					<bowler-nickname>Rayudu</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>657</playerid>
+					<name>Kieron Pollard</name>
+					<bowler-name>K Pollard</bowler-name>
+					<bowler-nickname>Pollard</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>159</totalruns>
+		<totalwickets>4</totalwickets>
+		<totalovers>19.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Mumbai">
+			<players>
+				<player>
+					<playerid>599</playerid>
+					<name>Lendl Simmons</name>
+					<batsman-name>L Simmons</batsman-name>
+					<batsman-nickname>Simmons</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>38</runs>
+					<balls>31</balls>
+					<fours>3</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder>Dwayne Smith</fielder>
+						<fielderId>255</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>74</playerid>
+					<name>Parthiv Patel</name>
+					<batsman-name>Parthiv Patel</batsman-name>
+					<batsman-nickname>Parthiv Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>45</runs>
+					<balls>32</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder>Faf du Plessis</fielder>
+						<fielderId>7825</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<batsman-name>Rohit</batsman-name>
+					<batsman-nickname>Rohit</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>22</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>DJ Bravo</bowler>
+					<bowlerId>242</bowlerId>
+						<fielder>Suresh Raina</fielder>
+						<fielderId>413</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>657</playerid>
+					<name>Kieron Pollard</name>
+					<batsman-name>K Pollard</batsman-name>
+					<batsman-nickname>Pollard</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Dwayne Bravo</fielder>
+						<fielderId>242</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6311</playerid>
+					<name>Ambati Rayudu</name>
+					<batsman-name>Rayudu</batsman-name>
+					<batsman-nickname>Rayudu</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>34</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9647</playerid>
+					<name>Hardik Pandya</name>
+					<batsman-name>H Pandya</batsman-name>
+					<batsman-nickname>Pandya</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>21</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>75</playerid>
+					<name>Harbhajan Singh</name>
+					<batsman-name>Harbhajan</batsman-name>
+					<batsman-nickname>Harbhajan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>10357</playerid>
+					<name>Jagadeesha Suchith</name>
+					<batsman-name>Jagadeesha Suchith</batsman-name>
+					<batsman-nickname>Jagadeesha Suchith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1449</playerid>
+					<name>Vinay Kumar</name>
+					<batsman-name>Vinay</batsman-name>
+					<batsman-nickname>Vinay</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7624</playerid>
+					<name>Mitchell McClenaghan</name>
+					<batsman-name>McClenaghan</batsman-name>
+					<batsman-nickname>McClenaghan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8119</playerid>
+					<name>Marchant de Lange</name>
+					<batsman-name>M de Lange</batsman-name>
+					<batsman-nickname>de Lange</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>74</playerid>
+				<nbr>1</nbr>
+				<runs>84</runs>
+				<overs>10.1</overs>
+				<batsman>Parthiv Patel</batsman>
+				<batsman-name>Parthiv Patel</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>599</playerid>
+				<nbr>2</nbr>
+				<runs>85</runs>
+				<overs>10.4</overs>
+				<batsman>Lendl Simmons</batsman>
+				<batsman-name>L Simmons</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>657</playerid>
+				<nbr>3</nbr>
+				<runs>86</runs>
+				<overs>12</overs>
+				<batsman>Kieron Pollard</batsman>
+				<batsman-name>K Pollard</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>576</playerid>
+				<nbr>4</nbr>
+				<runs>125</runs>
+				<overs>17.1</overs>
+				<batsman>Rohit Sharma</batsman>
+				<batsman-name>Rohit</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>0</legbyes>
+			<penalty>0</penalty>
+			<total>2</total>
+		</extras>
+		<bowlteam name="Chennai">
+			<players>
+				<player>
+					<playerid>1593</playerid>
+					<name>Ravichandran Ashwin</name>
+					<bowler-name>Ashwin</bowler-name>
+					<bowler-nickname>Ashwin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>17</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8181</playerid>
+					<name>Mohit Sharma</name>
+					<bowler-name>Mohit Sharma</bowler-name>
+					<bowler-nickname>Mohit Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>19</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>269</playerid>
+					<name>Ashish Nehra</name>
+					<bowler-name>Nehra</bowler-name>
+					<bowler-nickname>Nehra</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>587</playerid>
+					<name>Ravindra Jadeja</name>
+					<bowler-name>R Jadeja</bowler-name>
+					<bowler-nickname>Ravindra Jadeja</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8281</playerid>
+					<name>Pawan Negi</name>
+					<bowler-name>Negi</bowler-name>
+					<bowler-nickname>Negi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>242</playerid>
+					<name>Dwayne Bravo</name>
+					<bowler-name>DJ Bravo</bowler-name>
+					<bowler-nickname>Dwayne Bravo</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2.2</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>255</playerid>
+					<name>Dwayne Smith</name>
+					<bowler-name>Dwayne Smith</bowler-name>
+					<bowler-nickname>Dwayne Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<bowler-name>B McCullum</bowler-name>
+					<bowler-nickname>Brendon McCullum</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>413</playerid>
+					<name>Suresh Raina</name>
+					<bowler-name>Raina</bowler-name>
+					<bowler-nickname>Raina</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7825</playerid>
+					<name>Faf du Plessis</name>
+					<bowler-name>du Plessis</bowler-name>
+					<bowler-nickname>du Plessis</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>265</playerid>
+					<name>MS Dhoni</name>
+					<bowler-name>Dhoni</bowler-name>
+					<bowler-nickname>Dhoni</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

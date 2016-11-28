@@ -1,0 +1,125 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>New Zealand</name>
+	<graph>
+		<id>wag_1457</id>
+		<name>Martin Guptill</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_1457_M_Guptill.png</url>
+	</graph>
+	<graph>
+		<id>wag_201</id>
+		<name>Brendon McCullum</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_201_B_McCullum.png</url>
+	</graph>
+	<graph>
+		<id>wag_6326</id>
+		<name>Kane Williamson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_6326_Williamson.png</url>
+	</graph>
+	<graph>
+		<id>wag_521</id>
+		<name>Ross Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_521_Ross_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_1064</id>
+		<name>Grant Elliott</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_1064_Elliott.png</url>
+	</graph>
+	<graph>
+		<id>wag_8982</id>
+		<name>Corey Anderson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_8982_CJ_Anderson.png</url>
+	</graph>
+	<graph>
+		<id>wag_1396</id>
+		<name>Luke Ronchi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_1396_Ronchi.png</url>
+	</graph>
+	<graph>
+		<id>wag_205</id>
+		<name>Daniel Vettori</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_205_Vettori.png</url>
+	</graph>
+	<graph>
+		<id>wag_1057</id>
+		<name>Tim Southee</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_13_1057_Southee.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Bangladesh</name>
+	<graph>
+		<id>wag_612</id>
+		<name>Tamim Iqbal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_612_Tamim.png</url>
+	</graph>
+	<graph>
+		<id>wag_1583</id>
+		<name>Imrul Kayes</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_1583_I_Kayes.png</url>
+	</graph>
+	<graph>
+		<id>wag_8233</id>
+		<name>Soumya Sarkar</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_8233_Soumya_Sarkar.png</url>
+	</graph>
+	<graph>
+		<id>wag_1121</id>
+		<name>Mahmudullah</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_1121_Mahmudullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_544</id>
+		<name>Shakib Al Hasan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_544_Shakib.png</url>
+	</graph>
+	<graph>
+		<id>wag_394</id>
+		<name>Mushfiqur Rahim</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_394_Rahim.png</url>
+	</graph>
+	<graph>
+		<id>wag_8231</id>
+		<name>Sabbir Rahman</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_8231_S_Rahman.png</url>
+	</graph>
+	<graph>
+		<id>wag_8018</id>
+		<name>Nasir Hossain</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_8018_Nasir_Hossain.png</url>
+	</graph>
+	<graph>
+		<id>wag_1736</id>
+		<name>Rubel Hossain</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/NZ_BAN_MAR13/gph_wag_12891_6_1736_Rubel.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

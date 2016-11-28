@@ -1,0 +1,1102 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12866" >
+		<type>ODI</type>
+		<gameDesc>12th Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>Afghanistan</home>
+		<away>Sri Lanka</away>
+		<teamsabbr>AFG vs SL</teamsabbr>
+		<homeabbr>AFG</homeabbr>
+		<awayabbr>SL</awayabbr>
+		<homeId>96</homeId>
+		<awayId>5</awayId>
+		<venue>University Oval, Dunedin</venue>
+		<startdate>22 02 2015</startdate>
+		<enddate>22 02 2015</enddate>
+		<toss>
+			<winner>Sri Lanka</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Sri Lanka won by 4 wkts</status>
+		<result type="win">
+			<winningteam>Sri Lanka</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>4</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Chris Gaffaney</Name>
+			<Country>NZ</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Richard Illingworth</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Johanes Cloete</Name>
+			<Country>RSA</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Chris Broad</Name>
+			<Country>Eng</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>22:00</starttimeGMT>
+		<prevDayPerGMT>true</prevDayPerGMT>
+		<actualendGMT>20150222054332</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>SL</batteamname>
+		<bwlteamname>AFG</bwlteamname>
+		<batteamruns>236</batteamruns>
+		<batteamwkts>6</batteamwkts>
+		<batteamovers>48.2</batteamovers>
+		<status>Sri Lanka won by 4 wkts</status>
+		<batsman>
+			<playerid>2281</playerid>
+			<name>Thisara Perera*</name>
+			<batsman-name>T Perera</batsman-name>
+			<batsman-nickname>T Perera</batsman-nickname>
+			<runs>47</runs>
+			<balls-faced>26</balls-faced>
+			<fours>6</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<batsman>
+			<playerid>6470</playerid>
+			<name>Jeevan Mendis</name>
+			<batsman-name>J Mendis</batsman-name>
+			<batsman-nickname>J Mendis</batsman-nickname>
+			<runs>9</runs>
+			<balls-faced>17</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>3007</playerid>
+			<name>Mohammad Nabi*</name>
+			<bowler-name>Nabi</bowler-name>
+			<bowler-nickname>Nabi</bowler-nickname>
+			<overs>5.2</overs>
+			<maidens>0</maidens>
+			<runs>28</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>3001</playerid>
+			<name>Hamid Hassan</name>
+			<bowler-name>Hamid</bowler-name>
+			<bowler-nickname>Hamid</bowler-nickname>
+			<overs>9</overs>
+			<maidens>0</maidens>
+			<runs>45</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>233</target>
+<lastwicket>
+<playerid>101</playerid>
+<name>Mahela Jayawardene</name>
+<player-runs>100</player-runs>
+<player-balls>120</player-balls>
+<runs>178</runs>
+<wicket-nbr>6</wicket-nbr>
+<bowlerid>3001</bowlerid>
+<bowlername>Hamid</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>1</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<prevOvers><![CDATA[1 4 . 2 2 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 4 1 1 . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 2 2 4 2 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>Wd2 . 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/AFG_SL_FEB22/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[Sri Lanka have opened their account in the tournament. However, this is certainly not a satisfying win as Afghanistan ran them very close. That's it from this game. We enjoyed bringing it to you. Switch tabs to get all the action from the India-South Africa match at the MCG. Take care. Goodbye!]]></line><line><![CDATA[Here are a few <b>tweets</b>]]></line><line><![CDATA[<b>Russel Arnold</b>: Few years on people will look back N say "hundred vs Afghan" but all will forget D true value/importance/class.. One of D best @MahelaJay]]></line><line><![CDATA[<b>Nathan Bracken</b>: Great performance by @ACBofficials. Almost there. So many promising signs]]></line><line><![CDATA[<b>Rajneesh Gupta</b>: Most hundreds in World Cup:6-Sachin Tendulkar 5-Ricky Ponting 4-Mark Waugh 4-Sourav Ganguly 4-MAHELA JAYAWARDENA #cwc15 #SLvsAFG]]></line><line><![CDATA[<b>Gautam Bhimani</b>: Magnificent fight from @ACBofficials but in the end the power and experience of Perera just built on that @MahelaJay special #SLvAFG]]></line><line><![CDATA[<b>Mazher Arshad</b>: Only 2nd time in ODI history that both openers are dismissed for Golden Ducks in ODI. Prev instance: Zimbabwe vs WI at Georgetown 2006.]]></line><line><![CDATA[<b>Mathews</b>: "Relieved, but I thought Afghanistan put us under a lot of pressure and we had to fight really hard  until the last ball was bowled. To be honest, we need to raise our standards to compete against the top teams. It was a see-saw kind of a game. They started off brilliantly and then we pulled it back. They had been putting pressure right throughout the game and they have been playing brilliant cricket. So, credit should go to them. I was actually struggling to time the ball, but I knew that I had to stick there with Mahela to get some kind of partnership going and then for Thisara to come in and blast those 47 runs was unbelievable. We try and use Dimuth (Karunaratne) as a floater. When a wicket falls early on, we try and use him up the order. We've got heaps of experience, we have got Dilshan, Sangakkara and Mahela, so we can utilise them in pressure situations."]]></line><line><![CDATA[<b>Nabi</b>: "We started very well, but we were 30-40 runs short on that pitch. We bowled well for the first 10-15 overs and put pressure on the Sri Lankan guys. Also, I think we missed a few run-outs at the start. It's quite tough in a tight game and the boys played really well. Maybe, they batted well and again proved that they were a big team. The way Jayawardene and Mathews played, with discipline and did not take pressure and also they took the game away from us. Hopefully, we will play well in the next game. Dawlat, Hamid and Shapoor bowled brilliantly. Hopefully, they will be fit for the next game."]]></line><line><![CDATA[By removing both set batsmen in a space of 3 runs, Afghanistan came back strongly into the game. Thisara Perera and Jeevan Mendis survived a few close moments and Perera in particular, attacked the bowling to transfer the pressure back on Afghanistan's bowlers. The duo also recorded Sri Lanka's best ever 7th wicket stand in World Cups and eventually got them past the line with 10 balls to spare. Hamid was the pick of the bowlers with three wickets, while Shapoor and Dawlat bagged one each.]]></line><line><![CDATA[Chasing 233, Afghanistan removed both openers, Thirimanne and Dilshan for first-ball ducks - this was only the second time in ODIs that both openers were dismissed for golden ducks. Sangakkara too went very early, despite getting lucky with a couple of run-out chances. Jayawardene shared a small partnership with Karunaratne before the latter threw it away. Captain Mathews then combined well with Jayawardene and shared a 126-run stand for the 5th wicket. Jayawardene recorded his <b>19th ODI hundred</b> - also his 4th hundred in World Cups - in the process. However, Mathews fell 6 runs short of a fifty and soon was followed by Jayawardene, who gifted his wicket away to Hamid and walked off in disbelief.]]></line><line><![CDATA[<b>Jayawardene</b>: "Yeah, I think we probably dodged a bullet today. All credit to Afghanistan, I thought they batted really well in tough conditions. And upfront bowled beautifully. They bowled upto the batsmen, got a bit of movement and put us under a lot of pressure. Big relief, yes! They got the pace, they got a bit of movement as well and if there is something in the wicket, they are a handful and have played a lot of international cricket. It's not a big gap between the top countries and the others. In that situation I wasn't worrying about the other end, I just wanted to make sure that I batted 50 overs, but the disappointing fact was I couldn't finish the game off. Angelo (Mathews) batted really well for that partnership and Thisara (Perera) came and finished it off for us. All in all it was a good effort, but we have a bit of work to do. It was a bit of a wait after the first game, now we have two quick games coming up which is probably a good thing for us rather than sitting around."]]></line><line><![CDATA[<b>Jayawardene</b> is the <b>Man of the Match</b>]]></line><line><![CDATA[A heartbreaking result for Afghanistan. They came so close but couldn't seal the game. With the top three gone for next to nothing, they would have fancied their chances, but Jayawardene used his experience to bail Sri Lanka out of trouble.]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Nabi to T Perera, <b>FOUR</b>, that's it! <b>Sri Lanka have avoided an embarrassing loss</b>. Short and outside off stump, Perera rocks back and muscles it hard over extra-cover for a one-bounce four. This is a fine innings from the all-rounder, who was picked ahead of Nuwan Kulasekara]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Nabi to T Perera, no run, outside off stump this time, Perera backs away and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Nabi to J Mendis, <b>2 wides</b>, the captain fires this fast and down the leg-side, Mendis tries to help it on its way but misses. The keeper fumbles and they take an extra run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi [5.0-0-22-0] is back into the attack</b>]]></line><line><![CDATA[This is a record 7th wicket stand for Sri Lanka in World Cups.]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Hamid to T Perera, 2 runs, slower delivery on the leg stump, Perera flicks it to mid-wicket]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Hamid to T Perera, <b>FOUR</b>, slower ball short and outside off stump, Perera rocks back and cuts well, beats backward point and beats the man at sweeper as well. Sri Lanka are just a hit away now. That brings up the fifty partnership as well]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Hamid to T Perera, 2 runs, this is excellent cricket from the duo. As soon as he dug out the yorker towards mid-on, he raced calling 'two, two, two.' Mid-on was on the boundary and Mendis was quick to return back for the second]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Hamid to T Perera, 2 runs, a misfield at mid-wicket, Shapoor is the man, gives Sri Lanka a couple of runs. Short of a length delivery on the leg stump, Perera mistimes the pull, the fielder dives to his left, but doesn't stop the ball]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Hamid to J Mendis, 1 run, this time Mendis taps it to cover-point and sets off]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Hamid to J Mendis, no run, short of length delivery outside off stump, Mendis attempts an ugly dab as he tries to guide it to third man, he was off balance while trying to meet the ball, luckily for him, it didn't kiss the bat]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Drama! The umpire rules Mendis out caught behind after a long thought. Mendis shakes his head and reviews straightaway. In fact, the keeper hardly went up in his appeal. Snicko is absolutely dead as Rameez Raja would say. The decision has been overturned.]]></line><line><![CDATA[<b>Hamid Hassan [8.0-0-34-3] is back into the attack</b>]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to T Perera, no run, fine yorker, Perera digs it out]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to T Perera, no run, slower delivery outside off, Perera pokes at it away from the body in an attempt to guide it to third man, the keeper dives forward and he takes it on the bounce. He was unsure, but the square leg umpire, who had a great view said that it was a bump ball]]></line><line><![CDATA[Has that carried to the keeper? Not out says the umpire.]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to J Mendis, 1 run, almost a yorker, driven down to long-on]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to T Perera, 1 run, a fine yorker just outside off stump, Perera digs it out to point]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to T Perera, <b>FOUR</b>, full and outside off stump, Perera slices it over backward point and the man at sweeper had no chance. 10 runs have come off the first two balls]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to T Perera, <b>SIX</b>, no Dawlat, no! Can't bowl full tosses to this bloke, he'll smash you all day. It's a high full toss as well, Perera picked it early, waited for it to come and muscled it very hard. The ball goes flat over mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [8.0-0-32-1] is back into the attack</b>]]></line><line><![CDATA[Sri Lanka have scored 19 runs in the last two overs. That should ease the nerves a bit. Just 26 needed off 4 overs now.]]></line><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Shapoor to T Perera, 1 run, short of length delivery outside off stump, Perera taps it to point for a sharp run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Shapoor to T Perera, 2 runs, in the air again and it's safe again! Short and wide outside off stump, Perera slashes hard and ends up slicing it, the fielder at third man almost over-runs the ball but he manages to stop it]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Shapoor to T Perera, 2 runs, great effort from Stanikzai at mid-wicket. Short and on the stumps, Perera pulls very hard, the fielder dives to his right and saves two, he has a shy at the bowler's end and a direct-hit would have been very tight for Mendis]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Shapoor to T Perera, no run, uppish but doesn't carry this time. Short of a length, flat-batted hard, but it doesn't reach the fielder at mid-off]]></line><line><![CDATA[Mahela Jayawardene has not taken off his pads yet.]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Shapoor to T Perera, <b>FOUR</b>, edgeddddd but safe! That's so unlucky for the bowler. Short of a length delivery, Perera swings across the line, gets a thick edge that flies over the keeper, who jumps high to grab the ball]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Shapoor to J Mendis, 1 run, just taps the good length delivery to cover-point for an easy single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [9.0-1-38-1] is back into the attack</b>]]></line><line><![CDATA[Sri Lanka needed 36 off the last 5 overs.]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Mirwais to J Mendis, 1 run, slower delivery outside off stump, Mendis walks forward and guides it down to third man]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Mirwais to T Perera, 1 run, fuller in length, drilled down to long-on]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Mirwais to T Perera, <b>FOUR</b>, he's slapped that hard! This lad can hit the ball hard. Short and outside off stump, Perera rocks back and smashes it very hard, this time sweeper had no chance]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Mirwais to T Perera, 2 runs, punched powerfully off the back foot to the right of extra-over, the man at sweeper runs to his left and tidies up]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Mirwais to T Perera, no run, short of length delivery outside off stump, punched towards cover]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Mirwais to J Mendis, 1 run, good length delivery on the off stump, Mendis taps it to cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Hamid to J Mendis, 1 run, high full toss, Mendis goes late on the punch and it goes off the outside half of the bat to third man]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Hamid to J Mendis, no run, slower ball down the leg-side, Mendis edges the glance, the ball just bounces in front of the diving keeper]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Hamid to J Mendis, no run, good length delivery outside off stump, Mendis defends]]></line><line><![CDATA[Round the wicket now]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Hamid to J Mendis, 2 runs, driven along the ground to mid-off, who dives and makes a half-stop]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Hamid to J Mendis, no run, dabbed towards point]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Hamid to J Mendis, no run, good length delivery on the off stump, Mendis fends it into the on-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Mirwais to T Perera, no run, in the airrrrr and just short of mid-off]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Mirwais to T Perera, no run, good length, Perera pushes it to mid-off]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Mirwais to J Mendis, 1 run, short of length delivery outside off stump, punched to sweeper cover]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Mirwais to J Mendis, no run, fullish delivery outside off stump, Mendis taps it to point]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Mirwais to J Mendis, no run, flicked to mid-wicket, attempts a single but sent back]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Mirwais to T Perera, 1 run, full from Ashraf, drilled down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mirwais Ashraf [6.1-0-20-0] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Hamid to J Mendis, no run, on the off stump, defended]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Hamid to T Perera, 1 run, a touch fuller in length on the off stump, Perera turns it to mid-wicket]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Hamid to T Perera, no run, <b>loud shout for LBW</b>, not given. Good call, it was too high. Good length delivery angling into the left-hander, Perera misses the flick and gets hit above the knee-roll]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Hamid to T Perera, <b>FOUR</b>, short and outside off stump, Perera rocks back and cuts fiercely past backward point, off the mark in style]]></line><line><![CDATA[<b>Thisara Perera, left handed bat, comes to the crease</b>]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, <b>out</b> Caught by Nawroz!! Oh no! What have you done Mahela? He can't believe his eyes! It's a nothing ball and a nothing shot. Is there is a twist in the tale? Short and outside off stump, Jayawardene guides it uppishly but he hits this straight to third man, who takes an easy catch. Mahela is absolutely gutted. He was trying to play it finer, but hit it too well. <b>M Jayawardene c Nawroz b Hamid 100(120) [4s-8 6s-1]</b>]]></line><line><![CDATA[Hamid to M Jayawardene, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, good length delivery on the off stump, Jayawardene turns it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [6.0-0-26-2] is back into the attack</b>]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Shapoor to J Mendis, no run, leading edge but it's very soft and it rolls to cover. Full and on the leg stump, Mendis goes early into the flick]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, that's it! <b>19th ODI hundred</b> for Jayawardene. This is also his <b>4th World Cup hundred</b>. Friendly ball from Zadran, Jayawardene glances it down to fine leg. Jayawardene hardly celebrates. Doesn't even take his helmet off. Just pumps his fist and gets on with iit. Jeevan Mendis congratulates him]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, good length delivery outside off stump, Jayawardene drives it to cover]]></line><line><![CDATA[<b>Jeevan Mendis, left handed bat, comes to the crease</b>]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Shapoor to Mathews, <b>out</b> Mathews Run Out!! Needless from Mathews and he knows it. Short of a length delivery just outside off stump, Mathews turns it just beside the pitch towards short mid-wicket, the fielder rushes in, grabs the ball and fires a direct-hit at the bowler's end to catch Mathews short. End of a fine 126-run partnership. <b>Mathews run out (Nabi) 44(81) [4s-2]</b>]]></line><line><![CDATA[Shapoor to Mathews, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[It's a direct-hit and Mathews is short of his crease. Brilliant bit of fielding gives Afghanistan the breakthrough.]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, short of length delivery outside off stump, Jayawardene guides it to third man. 99 now]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Shapoor to Mathews, 1 run, in the airrrrr and just short of mid-off. It's a toughie! The fielder wasn't sure whether to dive forward or lean back to stop the ball. In the end he gets into a bit of a tangle and he fumbles the ball. Full and outside off stump, Mathews drills it very hard, it just bounces in front of Mangal, who tried to stop the ball with his fingers pointing up]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Mathews, 1 run, bit of extra bounce on this short of length delivery, Mathews turns it to square leg]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Mathews, no run, full and in the slot, Mathews drives well, bhut picks out the man at cover]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, width on offer outside off stump, guided away to third man]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, short of length again, Jayawardene taps it into the off-side]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, back of a length, defended down the wicket]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, short of length delivery just nipping away outside off stump, Jayawardene looks to flick, but the ball nips away very late and opens up the batsman, it was so close to the edge, but it just brushed the trouser on its way to the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Huge shout for caught behind, not given. Jayawardene points to his hip, but Afghanistan have sent it upstairs. No problems with the no-ball. Jayawardene was right, the ball just flicked the trouser en route to the keeper. Nothing on Snicko as well. So Afghanistan have lost their only review.]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, back of a length outside off stump, Mathews defends off the back foot]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, short of length delivery on the off stump, Jayawardene turns it to backward square leg]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, Jayawardene looks for a drop-and-run single, but Mathews says no]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, back of a length on the off stump, Jayawardene defends off the back foot]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Shapoor to Mathews, 1 run, short of length delivery outside off stump, Mathews pushes it to cover for takes off]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Shapoor to Mathews, <b>FOUR</b>, Mathews picks up his second boundary. Full and in the slot, Mathews leans forward and punches it off the front foot, mid-off dives to his right but the ball escapes]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Mathews, 1 run, almost a yorker, Mathews squeezes it out to deep square leg]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, fullish again from Zadran, driven to mid-on]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Mathews, 1 run, overpitched, driven along the ghround to sweeper cover]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, allows the short of length delivery to come and drives it down to sweeper cover]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, low full toss on the off stump, Jayawardene flicks it to mid-wicket]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, <b>SIX</b>, oh he's lofted that high in the air and it's gone all the way. He's into the 90s now. Full and just around the off stump, Jayawardene lifts it over mid-wicket and it just clears the boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, short of length delivery outside off stump, Jayawardene taps it to deep cover]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Shapoor to Mathews, 1 run, fullish delivery outside off stump, Mathews defends it to cover and sets off]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, just opens the face of the bat and guides it down to third man]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Shapoor to Mathews, 1 run, short of length delivery outside off stump, Mathews taps it to cover-point]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, driven crisply by Jayawardene but Hamid Hassan makes a fine save at mid-off sliding to his left]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, round the wicket, fuller length delivery just outside off stump, Jayawardene mistimes the drive to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [6.0-1-24-1] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, short of length delivery outside off stump, Jayawardene guides it down to third man]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Mathews, 1 run, <b>100 partnership</b> comes up. Short of a length delivery just outside off stump, Mathews taps it towards backward point and sets off]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Mathews, no run, stays in the crease and defends the short of length delivery into the off-side]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, short of length just outside off stump, worked away through square leg]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, full and on the leg stump, Jayawardene flicks it to mid-wicket]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 2 runs, short of length delivery outside off stump, Jayawardene guides it to the right of third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [5.0-0-15-1] is back into the attack</b>]]></line><line><![CDATA[<b>Batting powerplay</b> has been enforced.]]></line><line><![CDATA[<b>Drinks</b> are on the field now. Mahela Jayawardene has used his experience and played a great hand here for Sri Lanka. He has been very patient, but when the bad ball has come, he has not been shy to send it to the boundary. Captain Angelo Mathews too has given good support and the duo have added almost 100 runs for the 5th wicket. Afghanistan have to be disciplined with their bowling.]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, short of length delivery just outside off stump, Mathews defends]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Mirwais to Mathews, <b>FOUR</b>, oh that's a dreadful line! Full and down the leg-side, easy pickings for the batsman, Mathews uses the pace on the ball and just glances it past the man at short fine leg]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, no width whatsoever from Ashraf, Mathews defends from the crease]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, on the off stump, Mathews defends it to mid-wicket]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, 1 run, straying onto the pads, Jayawardene flicks it through backward square leg]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, gentle length ball on the off stump, Jayawardene offers a compact forward defence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, on the off stump, Jayawardene drives it down to long-on]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 2 runs, too straight, so easily flicked along the ground to deep mid-wicket for a couple]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, flicks it just wide of mid-wicket and takes off for a sharp run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, punched off the back foot to mid-wicket]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, gets across the stumps to this flighted delivery and flicks it to backward square leg]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, flighted delivery on the off stump, driven along the ground to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi [4.0-0-16-0] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, carefully flicks the fuller length delivery to mid-wicket]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, outside off stump, tapped towards point]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, full and outside off stump, Jayawardene looks for the off-drive, but gets an inside edge that rolls to mid-wicket]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Mirwais to Mathews, 1 run, flicks the slower ball towards mid-on and takes off for a sharp run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, leans slightly forward and plays this gently from the crease]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, good length delivery from Mirwais, defended]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mirwais Ashraf [4.1-0-14-0] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Hamid to Mathews, leg byes, 1 run, short of length delivery down the leg-side, Mathews misses the flick and it rolls off the thigh pad to fine leg]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Hamid to Mathews, no run, keeps it tight around the off stump, Mathews defends well off the back foot]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Hamid to Mathews, no run, on a length and outside off stump, Mathews defends off the back foot]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, Mathews was on the front foot to drive this fuller length delivery but he ended up slicing it uppishly through cover-point]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Hamid to Mathews, 1 run, shortish and outside off stump, Mathews looks to cut, the ball goes off the bottom of the bat to third man]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, full and outside off stump, Jayawardene drives it wide of mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [5.0-0-23-2] is back into the attack</b>]]></line><line><![CDATA[With the sun coming out, the pitch has eased out and batting is a lot easier now. These two are doing it easily.]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, again on the pads, tucked to backward square leg]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, leg-stump line, easily worked to square leg]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, stays in the crease and defends]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, flatter delivery on the leg stump, punched into the on-side]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, on the off stump, Mathews defends off the front foot]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, gets across the stumps and flicks the flighted delivery to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, so easily done! Just waits for the ball to come and turns it at the last moment to square leg and keeps strike]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, flighted delivery on the stumps, blocked]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, on the leg stump, Mathews pushes it to long-on]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, tapped square of the wicket on the off-side]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, <b>FOUR</b>, this is brilliant batting from Jayawardene. Overpitched outside off stump, Jayawardene leans forward and drives it sweetly along the ground through extra-cover]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, <b>FOUR</b>, short ball on the leg stump, asking to be hit, there is a man at short fine leg, Jayawardene goes deep in the crease and pulls it to the right of the man at 45 and beats deep backward square leg as well]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, on the off stump, turned to square leg]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, driven past the diving bowler to long-on]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, spinning back into the right-hander, Mathews misses the glances and gets hit on the pad]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Nabi to Mathews, 2 runs, a sharp run. Just knocks it into the vacant mid-wicket region and races back for the second]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, leans forward and tucks the flatter delivery to backward square leg]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, no run, tossed up just outside off stump, Jayawardene flicks it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, full and outside off stump, Jayawardene drives it along the ground to long-off]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, tapped through cover-point]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 2 runs, deft touch! Shenwari bowls one on the leg stump, Mathews glances it very fine to fine leg for a couple of runs]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, low full toss outside off stump, Jayawardene drives along the ground to deep extra-cover]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, flighted delivery on the stumps, defended]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, <b>FOUR</b>, bad ball and it got the treatment it deserved. Short and way down the leg-side, Jayawardene swivels and helps it fine on its way. The ball goes well wide of the man at short fine leg, who had no chance]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, full and on the leg stump, drilled down to long-on]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, no run, on the leg stump, nudged into the on-side]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 2 runs, wonderful batting! Short and wide outside off stump, Jayawardene doesn't try to over hit the ball, just delays the cut and places it between backward point and short third man. That brings up the <b>fifty partnership</b> as well]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, down the leg side, tucked away to backward square leg]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, flatter and just outside off stump, punched to mid-on]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, floated up just outside off stump, Mathews turns it gently into the on-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi [1.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, tossed up on the off stump, Jayawardene defends well off the front foot]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, cuts away to deep point as the length was too short]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, squeezed out to long-on]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, goes on with the arm, Mathews milks it square of the wicket on the leg-side]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, <b>fifty, 78th in ODIs</b> for Jayawardene and a crucial one for Sri Lanka. Slider on middle and leg, he nudges it wide of mid-wicket]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, too full and on the stumps, Mathews digs it out to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, <b>FOUR</b>, Shapoor drifts onto Mahela's pads and pays the price. It is bread and butter for the Sri Lankan veteran, he leans forward and flicks it uppishly behind square, beats the two fielders in the deep to perfection]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Shapoor to Mathews, 1 run, back of a length just outside off, Mathews punches it wide of cover]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, tucks the short of length delivery to short mid-wicket, Mahela shouts a loud "no" for the single]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, on a length just outside off, Mathews push-drives it to mid-off]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, shuffles across and turns it gently to short mid-wicket]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, back of a length around off, Mathews bunts it in front of cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, eases the drive down to long-off]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Shenwari to Mathews, no run, defended down the wicket]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, <b>a better throw and Mahela would have been on his way.</b> He tucks it towards mid-wicket, takes a couple of steps down the wicket before stopping, Mathews went through with it, but the throw was at the bowler's end, Jayawardene had to put in the dive. A direct hit would have had him, fourth run-out chance that Afghanistan have missed]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, floated up outside off, Jayawardene drives and finds cover]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, glances it to short fine leg, Shapoor dives and stops the ball. He does not want to get up, holds his knee and stays down. Now slowly gets up and limps across to his position]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Shenwari to Mathews, 1 run, tossed up just outside off, driven down to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Shapoor to Mathews, 1 run, short of length on off, Mathews tucks it to the right of mid-wicket and sets off for a brisk run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, pitched up outside off, Jayawardene drives it to sweeper cover]]></line><line><![CDATA[He signals for a replacement and the substitute brings out a handful of willows. Mahela selects one and gets on with things.]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, Jayawardene's bat is into two pieces now. He defended it back to the bowler, the ball hits right in the middle and it just broke. Same way as Michael Carberry broke his bat in the 2014 Ashes Down Under]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, bit of extra bounce, Jayawardene fends it with soft hands, the ball pops up and drops into the off-side]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 2 runs, fuller and just outside off, Jayawardene leans into the drive to deep extra cover]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, shortish and outside off, Jayawardene cuts it hard and straight to backward point, he should have placed it better]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Shenwari to Mathews, no run, tossed up close to off, Mathews defends it to the off-side]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Shenwari to Mathews, no run, quicker and outside off, Mathews misses out on the cut. The ball beats the outside edge]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, pushed through on the stumps, Jayawardene milks it to deep square leg]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, repeat of the previous ball, once again picks out the cover fielder, this time a dive was needed to field the ball]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, floated up outside off, Jayawardene push-drives it to the left of the bowler, the fielder from cover tidies up]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, straight roller outside off, Jayawardene leaves it alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, fuller and around off, Mathews presses it to short cover after coming forward]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, short of length on off, Mathews bunts it in front of cover]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, back of a length on off, Mathews gets behind the line and knocks it to mid-on]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, 1 run, short of length on off, Jayawardene drops it to the off-side, Mathews calls for a quick single, Mahela had to hurry, but the fielder fails to gather the ball]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, <b>FOUR</b>, class! A textbook cover drive from Jayawardene. Everything right about the shot. Full and outside off, Jayawardene leans forward and caresses the drive through extra cover, the timing was sublime]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Shapoor to M Jayawardene, no run, Shapoor sticks with the round the wicket angle, too full and outside off, Jayawardene squeezes the drive to cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [3.0-1-10-1] is back into the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Shenwari to Mathews, no run, drives it to the left of the bowler, Shenwari dives acrobatically and stops the ball]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 1 run, worked away towards mid-wicket]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, superb effort by Mangal, tad short and outside off, Jayawardene cuts it off the outside edge towards short third man, Mangal dives to his left and makes a one handed save]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, flighted on off, Jayawardene defends it down the wicket]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, 2 runs, fraction short, Jayawardene goes deep in the crease and cuts it behind square, comes back for the second before the ball is hunted down]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Shenwari to M Jayawardene, no run, slower and around off, Jayawardene taps it to backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Samiullah Shenwari, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Stanikzai to M Jayawardene, 1 run, fuller and on off, Jayawardene eases it down to long-off and retains strike]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Stanikzai to M Jayawardene, <b>FOUR</b>, bad ball and deserved the treatment. It was a half tracker, Jayawardene had all the time in the world to pick his spot, he swivels and pulls it in front of square]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Stanikzai to M Jayawardene, no run, works it towards mid-wicket, where the fielder does well to keep the batsmen at their respective ends]]></line><line><![CDATA[The keeper is standing up to the stumps]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Stanikzai to Mathews, 1 run, touch too straight, Mathews tickles it down to fine leg]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Stanikzai to Mathews, no run, short and outside off, Mathews cracks the cut straight to cover]]></line><line><![CDATA[<b>Asghar Stanikzai, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[Now, Mirwais has a problem with his back. He is walking off the park. Stanikzai to complete the over.]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, leg byes, 1 run, slanting onto leg-stump, Jayawardene shuffles across and fails to connect with the flick, the ball runs off the pads to fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, short of length around off, Mathews goes on his toes and pats it to the off-side]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, fuller and on the fourth stump, Mathews drives it with laden feet to mid-off]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, back of a length just outside off, Mathews punches it without much timing to mid-off]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, good length ball on off, Mathews taps it to the off-side]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, good length ball around off, Mathews prods forward and knocks it to the right of Shapoor]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Shapoor to Mathews, no run, starts from round the sticks, fuller and on off, Mathews comes forward and pushes it to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [2.0-0-10-1] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, short and outside off, Jayawardene cuts it straight to backward point]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, fullish and close to off, blocked off the front foot]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Mirwais to Mathews, 1 run, on the off-stump line, Mathews leans forward and nurdles it to deep square leg]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Mirwais to Mathews, 2 runs, stands tall and punches the short of length to the left of mid-off, Stanikzai gives chase and keeps it to a double]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, fuller and on off, Mathews presses forward and knocks it to cover]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, back of a length around off, Mathews bunts it to the left of the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Time for a <b>drinks</b> break! It has been all Afghanistan till now. But, can they keep going? They started well with the bat as well, but couldn't sustain through the 50 overs. For Sri Lanka, a lot will depend on this pair. If they can get them to touching distance of the target, then the likes of Thisara and Mendis can flex their muscles.]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, no run, leans forward and glances it to short fine leg]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, nudges it behind square leg for a single]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Nabi to Mathews, no run, defended down the wicket]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, eased down to long-on off the front foot]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Nabi to Mathews, 1 run, works it with the turn to backward square leg]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Nabi to M Jayawardene, 1 run, pushes it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, 1 run, that is Mahela's <b>1000th run in World Cups</b>. Full and on off, Jayawardene eases it to the left of mid-on]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Mirwais to Mathews, 1 run, fuller and on off, Mathews shuffles across in his crease and gets an inside edge to backward square leg]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, 1 run, drags the length back, Jayawardene rides the bounce and to third man]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, wicket-to-wicket stuff from Mirwais, Jayawardene inches forward and defends back to the bowler]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, just outside off, Jayawardene lifts his bat and lets it go]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, short of length on leg-stump, Jayawardene misses the clip and wears it on the thigh pad]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Hamid to Mathews, no run, angled in on off and middle, Mathews taps it from the crease to the on-side]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Hamid to Mathews, no run, on a length close to off, Mathews presses it to cover after coming forward]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Hamid to Mathews, <b>no ball</b>, beamer! Umpire calls it a no-ball straightaway, Mathews was surprised and does well to keep it out]]></line><line><![CDATA[Hamid and Shapoor exchange a shoe. And it is only the left boot. So, it was the shoe that was causing the problem. That though is something bizzare that I have seen on a cricket field.]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, shortish and outside off, Jayawardene cuts it in the air to square third man]]></line><line><![CDATA[Hamid has shortened his run-up!]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, back of a length on off, Jayawardene gets right behind the line and blocks. Hamid once again goes down holding his ankle and slowly makes his way back to his run-up]]></line><line><![CDATA[Hamid is down and holding his ankle. Hopefully, it is nothing serious as he has been a key bowler. He is fine and continues bowling]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Hamid to Mathews, 1 run, again, the length is touch short, Mathews flashes it down to third man]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, fraction short and outside off, Jayawardene late cuts it to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, on a length close to off, defended back to the bowler]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, shortens the length, Mathews misses the nudge and the ball thuds into the thigh pad]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Mirwais to Mathews, no run, back of a length on off, Mathews hangs back and blocks it to the on-side]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, 1 run, Mathews was almost sold down the river. <b>Direct hit and it would have been curtains for the Sri Lankan skipper</b>. In fact, the single was on and Mathews was just late to take off. Jayawardene turns this to the right of mid-wicket and sets off, Mathews had not take a start, Nabi runs across and shies at the striker's end, Mathews dived but that would have not saved him]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, gets behind the line and taps it to the off-side]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, angling in from outside off, Jayawardene defends off the inside part to the on-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Angelo Mathews, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, <b>out</b> Caught by Nawroz!! <b>50th ODI wicket for Hamid!</b> Just when things were starting to look comfortable for Sri Lanka, they lose a wicket. It was a nothing shot really from Karunaratne, looks to steer it third man and edges it to first slip, Mangal dives to his left, juggles a couple of times before latching onto it. <b>D Karunaratne c Nawroz b Hamid 23(32) [4s-3]</b>]]></line><line><![CDATA[Hamid to D Karunaratne, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, <b>FOUR</b>, the runs are starting to flow, third four in five balls. It was short and width on offer, Karunaratne cuts and gets an under edge wide of the slip fielder]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, touch short and close to off, Jayawardene chops it to square third man]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, fuller and just outside off, Jayawardene push-drives it to mid-off]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, shortens the length outside off, left alone]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, <b>FOUR</b>, friendly full toss and MJ says thank you very much. It was on leg-stump as well, Jayawardene leans forward and flicks it behind square to pick up a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Mirwais to D Karunaratne, <b>FOUR</b>, edged and safe! The slip was taken off just the previous ball. It would have gone straight to first slip. In the corridor of uncertainty, Karunaratne pokes at it and the outside edge runs down to the third man fence]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, 1 run, too straight, on off and middle, Jayawardene nurdles it to deep backward square leg]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Mirwais to D Karunaratne, 1 run, angled across off, Karunaratne helps it down to third man]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, 1 run, pitched up on off, Jayawardene wrists it wide of mid-on for a single]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, fuller and around off, Jayawardene shuffles across and works it to mid-on]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Mirwais to M Jayawardene, no run, too full and around off, Jayawardene squeezes the drive to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mirwais Ashraf, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, cramps the batsman for room, Karunaratne looks to force it off the back foot, mistimes it to down the wicket]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, back of a length on off, Karunaratne drops it in front of cover, wants the single but MJ sends him back]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, stays inside the crease and steers it down to third man]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, short of length just outside off, Jayawardene covers his stumps and ignores it]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, again, pitched up on off, Jayawardene bunts it off the front foot to mid-on]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 2 runs, full and on off, Jayawardene leans nicely forward and clips it through mid-wicket, Shapoor gives chase and keeps them to two]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, good length ball on middle, Karunaratne allows it to come and then knocks it to the on-side]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, Karunaratne camps on the back foot and works it to mid-wicket]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, good early call and he gets the quick single easily, taps it in front of mid-on and takes off immediately]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, on a length just outside off, Jayawardene lifts his bat and lets it go]]></line><line><![CDATA[Second slip has been moved to gully..]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, back of a length on off, Jayawardene stays back and pats it to the on-side]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, peach! That is just unplayable. It could have troubled any batsman. Nips back in from short of length, Jayawardene was pushing forward to defend, the ball cuts him into half and beats the inside edge. There was some extra bounce as well]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, back of a length on off, Karunaratne stays inside the line and tucks it to short mid-wicket]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, two in two! He could have let it go. It was short of length and well wide of off, Karunaratne feels at it away from the body and is beaten]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, beauty! Angled in from round the wicket and it just holds its line, Karunaratne played for the angle and is beaten neck and crop]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, short from Hamid, Karunaratne fetches it from outside off and mistimes the pull to short mid-wicket, his bat face turned and hence foiled the timing]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, no run, short of length on off, Karunaratne gets right behind it and defends to the bowler]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, fuller and on off, Jayawardene wrists it to the right of mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 1 run, short and outside off, Jayawardene waits for it in the crease and cuts it to third man]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, tight line from Dawlat, just in and around off-stump, Jayawardene has nothing to do with as he leaves it alone]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, drags the length back, Jayawardene watches it sail past him]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, no run, better this time, fuller and close to off, Jayawardene hoists his bat up and lets it pass]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, <b>FOUR</b>, wrong line from Dawlat, on the leg-stump, the man of Jayawardene's quality rarely misses out on those, he tickles it fine and beats the fielder in the deep]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to M Jayawardene, 2 runs, fuller and on off, Jayawardene leans forward and flicks it stylish through square, the duo run two before the ball is hunted down]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, <b>FOUR</b>, nice shot! Hamid drops it short and on the stumps, Karunaratne was onto it in a flash, rocks back and pulls it in front of square, the ball scooted away to the fence]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, 1 run, strays onto middle and leg, Jayawardene nurdles it to backward square leg and opens his account]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Hamid to M Jayawardene, no run, fuller and around off, Jayawardene moves forward and blocks it to the off-side]]></line><line><![CDATA[<b>Mahela Jayawardene, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Hamid to Sangakkara, <b>out</b> Bowled!! This is just fantastic stuff from Afghanistan. Hamid tried to do a cartwheel, doesn't get it right. But, the celebration doesn't matter, the wicket does and it is a big one. Sri Lanka are in deep trouble now as their premier batsman has been cleaned up. It was a good length ball that angled in, Sangakkara was beaten for pace, he gets an inside edge and the ball crashes into middle-stump. <b>Sangakkara b Hamid 7(13) [4s-1]</b>]]></line><line><![CDATA[Hamid to Sangakkara, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Hamid to Sangakkara, no run, back of a length outside off, Sangakkara stands tall and punches it towards cover, Shenwari once again saves some runs for his team with a fine diving stop]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Hamid to D Karunaratne, 1 run, starts from round the wicket, slants it in, Karunaratne gets inside the line and tucks it behind square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, no run, angled across off, Sangakkara shoulders arms]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, 3 runs, too straight, on off and middle, Karunaratne shuffles across and whips it through mid-wicket, Hamid gives chase and pulls it in just before the fence]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, shortens the length on off, Karunaratne goes back and knocks it to the left of Dawlat]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, <b>wide</b>, teases the batsman with a wide one outside off, Karunaratne goes chasing after and luckily he doesn't reach it]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, on a length close to off, Karunaratne taps it to right of the bowler]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, back of a length on off, Karunaratne gets behind the line and defends it to the on-side]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, slanted across the left-hander, Karunaratne lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Shapoor to Sangakkara, <b>FOUR</b>, short and outside off, Sangakkara jumps up and cuts it over backward point, he never looked to keep it down the ground, that boundary should calm some nerves]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Shapoor to Sangakkara, no run, <b>run-out missed!</b> Sanga was gone for all money. Najib was in a dilemma whether to run and break the stumps or throw the ball onto the stumps, in the end he failed to hit the target. Sangakkara had given up and wasn't even in the picture. Short of a length on off, Sangakkara drops it with soft hands in front of point, takes a couple of steps down the wicket, Karunaratne also responds before sending him back. By the time he decided to go back, Najib had the ball in his hand, he runs forward and under-arms it, but misses the sticks. Shapoor is not pleased with that miss, he has a few words for Najib]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Shapoor to Sangakkara, no run, back of a length on off, Sangakkara rolls his wrists and turns it to square leg]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, 3 runs, fuller and straight on middle, Karunaratne leans forward and flicks it elegantly to the left of mid-on, Stanikzai runs behind the ball, slides and hauls it in just before the rope]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, no run, fraction short and outside off, Karunaratne cracks it to backward point, either side and he would have picked up a boundary]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, no run, back of a length on off, Karunaratne hangs back and taps it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, 1 run, errs in line, drifts onto leg-stump, Karunaratne whips it to fine leg for a single]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, good length ball on off, Karunaratne presses forward and knocks it to the left of Dawlat]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, loose shot that from Karunaratne, it was short and wide, he goes at it half-heartedly and the ball fizzes past the outside edge]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, tight line from Dawlat, on the off-stump, Karunaratne gets behind it and defends back to the bowler]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to D Karunaratne, no run, on a length close to off, Karunaratne is half-forward and bunts it in front of cover]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, 1 run, fuller and just outside off, Sangakkara drives it wide of mid-off and scampers across for quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, no run, digs it in halfway down the wicket Karunaratne goes on his toes and drops it to the off-side]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, no run, good length ball close to off, Karunaratne presses forward and defends solidly to cover]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, no run, touch short and close to off, Karunaratne mistimes the cut towards cover, it was too close to playing the cut]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Shapoor to D Karunaratne, 2 runs, back of a length on middle and leg, Karunaratne clips it through square leg, hares across for the second]]></line><line><![CDATA[<b>Dimuth Karunaratne, left handed bat, comes to the crease</b>]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Shapoor to Dilshan, <b>out</b> Caught by Zazai!! Wow! Shapoor goes on a celebratory run. It was a terrific delivery. He made use of his height and sent Dilshan packing for a duck. A short of length that climbs steeply, Dilshan has a waft at it and gets an outside edge, the keeper takes it over the head. This just gets better for Afghanistan. <b>Dilshan c Zazai b Shapoor 0(1)</b>]]></line><line><![CDATA[Shapoor to Dilshan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Shapoor to Sangakkara, 1 run, short of length on middle, Sangakkara gets inside the line and tucks it to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, 1 run, <b>direct hit and Sanga was gone!</b> He wanted the single to get off the mark, he risked his wicket for it. On a length close to off, Sangakkara taps it off the inside part to the left of the bowler, Dawlat runs across, picks up the ball and fires a wayward throw at the bowler's end, Sanga could have been 3-4 meters short of the crease]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, no run, pitched up outside off, Sangakkara gets a good stride forward and creams the drive, Shenwari dives to his right at cover and saves a certain boundary]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, no run, bit of inward movement, Sangakkara wrists it in the air, wide of the bowler, Dawlat dived but could not reach it]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, no run, Dawlat is making the ball talk, nips this back into the left-hander, Sangakkara is cramped for room, he gets an inside edge onto the pad and the ball trickles away past the off-stump]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Sangakkara, no run, in the channel around off, Sangakkara covers the sticks and lets it go]]></line><line><![CDATA[<b>Kumar Sangakkara, left handed bat, comes to the crease</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Thirimanne, <b>out</b> Lbw!! What a start for Afghanistan! Thiri goes for a golden duck. He contemplated reviewing, but Dilshan thought it was not worth it. Perfect delivery from Dawlat Zadran. Pitched on leg and shapes away, Thirimanne plays inside the line and is struck on the back pad, the ball would have hit off-stump. Umpire Illingworth raised his finger in a flash. <b>Thirimanne lbw b Dawlat Zadran 0(1)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Dawlat Zadran to Thirimanne, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Thirimanne and Dilshan are at the crease. Thirimanne is on strike. Dawlat Zadran will open the attack</b>]]></line><line><![CDATA[Drama! Thirimanne has been given out LBW!]]></line><line><![CDATA[The players are out in the centre. Thirimanne marks his guard. Dilshan will be his partner. Dawlat Zadran will open the attack. He has two slips to assist him..]]></line><line><![CDATA[Welcome back.. Sri Lanka did well to pull things after the 88-run stand between Stankizai and Shenwari. Afghanistan will be ruining the fact that they could not capitalise on the start. However, it is now upto their bowlers to try and make a match of it.]]></line><line><![CDATA[A disastrous batting powerplay - in which they scored just 10 runs and lost two key wickets - meant they lost their way. The lower-order then dropped anchor, before losing wickets in a hurry as they tried to accelerate in the death overs. Mathews and Malinga picked three wickets each, but Lakmal (10-1-36-2) was the pick of the bowlers. 233 should not be a stiff challenge for Sri Lanka, but Afghanistan have a good pace attack. Take a break and join us back in a short while for the run chase.]]></line><line><![CDATA[Again, as coach Andy Moles said, Afghanistan batted well for 30 odd overs and lost the plot thereafter. Although they lost openers Mangal and Ahmadi in quick succession after a decent start, Stanikzai and Shenwari steadied Afghanistan with a fine fifty-plus partnership. Stanikzai also registered a fifty in the process - his 5th in ODIs. However, he threw his wicket away and Shenwari too followed him soon.]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Malinga to Zazai, <b>out</b> Caught by Herath!! Afghanistan are bowled out for 232, Malinga ends with three. Slower delivery outside off stump, Zazai goes across the stumps and attempts a slog, gets a thick outside edge, Herath runs back and to his right from short third man to complete the catch. Dilshan was also approaching the ball from backward point and they almost collided. <b>Zazai c Herath b Malinga 19(38) [4s-1]</b>]]></line><line><![CDATA[Malinga to Zazai, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Malinga to Zazai, <b>FOUR</b>, that is a powerful blow from Zazai. Full and in the slot, Zazai takes his front leg out of the way and drives very hard, sends it between mid-off and extra-cover and it races away]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, slower delivery just outside off stump, Zazai slogs and misses]]></line><line><![CDATA[Looks like Shapoor has injured his knee while trying to take the run. The physio is attending to him. He's one of their key bowlers. He's ready to go now.]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Malinga to Shapoor, 1 run, full delivery on the stumps, Shapoor defends it to mid-off and sets off for a run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran, left handed bat, comes to the crease</b>]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Mathews to Hamid, <b>out</b> Caught by J Mendis!! Two-in-two for Mathews and Sri Lanka. Good length delivery on the leg stump, Hamid goes hard at the slog, but mistimes it completely, it goes very square than he anticipated, deep square leg ran forward to complete a good catch. <b>Hamid c J Mendis b Mathews 0(1)</b>]]></line><line><![CDATA[Mathews to Hamid, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Hamid Hassan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Mathews to Dawlat Zadran, <b>out</b> Bowled!! He was moving too much in the crease and this time he exposes all the sticks. Nothing but a good length delivery from Mathews, Zadran doesn't get behind the line and swings his bat, misses and the ball hits the top of off stump. <b>Dawlat Zadran b Mathews 4(5) [4s-1]</b>]]></line><line><![CDATA[Mathews to Dawlat Zadran, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Mathews to Dawlat Zadran, no run, Zadran backs away too much and fails to reach out to this full ball outside off stump]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Mathews to Dawlat Zadran, <b>FOUR</b>, edged and just past the keeper. Fullish and outside off stump, Zadran swings hard, the ball goes off the toe-end of the bat, Sanga tries to grab it with his right hand but it went well wide of him]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Mathews to Dawlat Zadran, no run, attempts a lazy dab without feet movement and gets beaten]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Mathews to Zazai, 1 run, short and wide outside off stump, Zazai cuts very well, but there is a man at deep point and it goes straight to him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Angelo Mathews [6.0-0-36-1] is back into the attack</b>]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Malinga to Dawlat Zadran, no run, Zadran gets behind the line and defends]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Malinga to Zazai, 1 run, shortish and on the leg stump, Zazai pulls it to fine leg]]></line><line><![CDATA[<b>Dawlat Zadran, right handed bat, comes to the crease</b>]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Malinga to Mirwais, <b>out</b> Caught by Lakmal!! Second wicket for Malinga. Change of pace again from Malinga, Ashraf goes early into the slog, the ball takes the top edge, fine leg was pushed back after that boundary earlier in the over and it turned out to be a great move and as it went to him. Lakmal doesn't drop those. <b>Mirwais c Lakmal b Malinga 28(32) [4s-1 6s-2]</b>]]></line><line><![CDATA[Malinga to Mirwais, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Malinga to Mirwais, no run, another slower ball, this time Ashraf goes very early into the slog and misses]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Malinga to Mirwais, <b>FOUR</b>, slower ball low full toss, Ashraf swings across the line, he was surprised a bit by the lack of pace but managed to send it past the diving short fine leg fielder]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Malinga to Zazai, 1 run, slower delivery to start the over, Zazai turns it to short fine leg. In fact, the ball bounced extra and went off the glove]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lasith Malinga [8.0-1-30-1] is back into the attack</b>]]></line><line><![CDATA[Lakmal finishes a fine spell, he finishes with figures: <b>10-1-36-2</b>]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, no run, full and outside off stump, Ashraf drills it towards long-off, short cover dives to his right and intercepts]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, <b>SIX</b>, this is unfair! The batsman swings in one direction, but the ball goes in a different direction and that too it's an edge. Full and on the off stump, Ashraf slogs, gets a leading edge, bizarrely it flies over the keeper and goes all the way]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Lakmal to Zazai, 1 run, full and on the leg stump, Zazai flicks it to deep mid-wicket]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Lakmal to Zazai, <b>wide</b>, he's trying that widish yorker, but he's not getting the radar right. It's way outside off stump again]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run, good length delivery on the off stump, Zazai flicks it to mid-wicket]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Lakmal to Zazai, <b>wide</b>, this is way outside off stump, easy call for the umpire]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, 1 run, uppish drive, but it goes on the bounce to mid-off, who was very deep]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, no run, short and outside off stump, Ashraf pulls and misses]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;T Perera to Zazai, 2 runs, would you believe it? That ball has landed right in front of three converging fielders. Zazai mistimes the loft high in the air, Mahela ran in from long-on, deep mid-wicket ran to his left, while Mathews ran from the infield. Somehow, the ball found the empty space just wide of mid-wicket]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;T Perera to Mirwais, 1 run, full and outside off stump, Ashraf looks to off-drive, but the ball takes the inside half of the bat and rolls to long-on]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;T Perera to Zazai, 1 run, low full toss on the off stump, Zazai drives it down to mid-on]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;T Perera to Zazai, no run, good length delivery angling into the right-hander, Zazai defends]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;T Perera to Mirwais, 1 run, low full toss outside off stump, Ashraf drives it to deep cover]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;T Perera to Mirwais, <b>SIX</b>, it's a top edge but it's gone all the way. Short and on the leg stump, Ashraf tries to pull, but gets lucky with the edge and it flies over fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run, short of length delivery on the off stump, Zazai gets a soft leading edge that rolls back to the bowler]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, 1 run, Ashraf tries to flick the length ball but gets an inside edge onto pad, the ball rolls to mid-wicket]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Lakmal to Zazai, 1 run, around off and middle, Zazai turns it to fine leg]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, 1 run, short of length delivery, Ashraf flicks it to deep mid-wicket]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, no run, a tentative poke away from the body from Ashraf and he gets beaten comprehensively. Good length ball outside off stump, the late away-movement foxed the batsman on that occasion]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Suranga Lakmal [8.0-1-23-2] is back into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;T Perera to Zazai, no run, short of length delivery outside off stump, Zazai defends off the back foot]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;T Perera to Mirwais, 1 run, full from Perera, Ashraf drives it to mid-on]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;T Perera to Zazai, 1 run, Zazai sends it along the ground to mid-on]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;T Perera to Mirwais, 1 run, in the airrrrr and the ball just manages to evade Karunaratne. Short and outside off stump, Ashraf mistimes the pull, deep backward square leg rushes it but the ball drops in front of him]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;T Perera to Mirwais, no run, this time he jams the low full onto his front foot as he looks to drive]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;T Perera to Mirwais, no run, bumper steeply rising on the batsman, oh it's hit the right thumb and it's going to be painful. Ashraf jumped and tried to fend but the ball hit the glove]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Afghanistan have eaten up 35 dot balls in the last 8 overs.]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Mathews to Mirwais, 1 run, back of a length outside off stump, Ashraf pulls it to backward square leg]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Mathews to Mirwais, leg byes, 2 runs, short and down the leg-side again, Ashraf helps it down to fine leg. In fact, the umpire reckons it went off the thigh pad]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Mathews to Zazai, 1 run, short of length on the off stump, Zazai defends and gets an inside edge to short mid-wicket]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Mathews to Zazai, <b>wide</b>, short of length delivery down the leg-side, Zazai misses the flick]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Mathews to Mirwais, 1 run, wrists this along the ground to mid-wicket]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Mathews to Mirwais, no run, back of a length just outside off stump, defended]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Mathews to Mirwais, no run, shortish and outside off stump, Ashraf cuts it into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Angelo Mathews [5.0-0-32-1] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;T Perera to Zazai, no run, right on the off stump, blocked off the front foot]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;T Perera to Mirwais, 1 run, good length delivery outside off stump, Ashraf crashes it square of the wicket on the off-side]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;T Perera to Mirwais, no run, shortish and outside off stump, Ashraf looks for the cut but misses]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;T Perera to Zazai, 1 run, short of length delivery outside off stump, Zazai taps it to cover-point for a sharp run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;T Perera to Mirwais, 1 run, on a length and outside off stump, punched to deep cover]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;T Perera to Mirwais, no run, stands tall and defends the short of length delivery into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Thisara Perera [7.0-0-37-1] is back into the attack</b>]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Herath to Zazai, no run, flighted delivery just outside off stump, Zazai blocks again]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Herath to Mirwais, 1 run, on the off stump, Ashraf defends and gets an inside edge to square leg]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Herath to Mirwais, no run, fullish outside off stump, pushed towards cover]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Herath to Mirwais, no run, Mirwais comes on the front foot and blocks the flighted delivery]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Herath to Mirwais, no run, flatter outside off stump, Mirwais pushes it to point]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Herath to Mirwais, no run, flighted delivery just outside off stump, Mirwais defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rangana Herath [9.0-0-40-1] is back into the attack</b>]]></line><line><![CDATA[Disastrous <b>batting powerplay</b> for Afghanistan. They could score just 10 runs and lost two key wickets.]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, slower delivery on the off stump, Zazai defends off the front foot]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, bouncer on the stumps, Zazai ducks under it and lets it go]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, covers the off stump and defends the length ball well]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, good length just outside off stump, Zazai defends it to cover-point]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, change of pace again from Malinga, Zazai defends]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Malinga to Zazai, <b>wide</b>, slower ball bumper goes wrong and goes down the leg-side]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, leading edgeeeee but it doesn't carry to the man at cover. Short of a length delivery from Malinga, Zazai closes the face of the bat early as he tries to flick, luckily for him he didn't get enough wood]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Lakmal to Mirwais, no run, short of length delivery from Lakmal, Ashraf defends]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Lakmal to Zazai, 1 run, a direct-hit would have been curtains for Mirwais. Zazai taps it to point and sets off, Karunaratne runs to his left and has a shy at the stumps at the striker's end but misses. That ball almost shaved the stumps]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Lakmal to Zazai, 2 runs, full and outside off stump, Zazai leans forward and drives it along the ground to deep extra-cover]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run, gently nudged into the on-side]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run, short of length delivery on the off stump, Zazai defends from the crease]]></line><line><![CDATA[<b>Mirwais Ashraf, right handed bat, comes to the crease</b>]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Lakmal to Najibullah, <b>out</b> Caught by T Perera!! That's an easy catch for Perera. Full and in the slot, Najibullah went for the big shot but mistimed it, the ball went high in the air, mid-off runs forward and takes the dolly. Afghanistan are losing their way quickly here. They need to bat out the 50 overs. <b>Najibullah c T Perera b Lakmal 10(15) [6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Lakmal to Najibullah, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, slower delivery from Malinga, Zazai keeps it out]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, nudged into the on-side]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, short and outside off stump, left alone]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Malinga to Zazai, no run, leans forward and defends the fuller length delivery to cover]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Malinga to Najibullah, 1 run, full and down the leg-side, Najibullah flicks it to long leg]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Malinga to Zazai, 1 run, slower ball low full toss, Zazai just about manages to keep it out and sends it to fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Lakmal to Najibullah, no run, optimistic shout for LBW. This full ball swings back in a touch, Najibullah misses the flick and is hit the pad. The ball was going down the leg-side though. That was a fine over from Lakmal]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Lakmal to Najibullah, no run, short and outside off stump, Najibullah drops his wrists and lets it go]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Lakmal to Najibullah, no run, full and outside off stump, Najibullah swings and misses]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Lakmal to Zazai, leg byes, 1 run, Zazai fails to flick the short of length delivery, the ball rolls off the thigh pad to backward square leg]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run, steeply rising short ball, Zazai hops and defends]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Lakmal to Zazai, no run, just a hint of shape away on this good length delivery, Zazai shoulders arms]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Suranga Lakmal [6.0-0-20-1] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Malinga to Najibullah, no run, half-shout for caught behind. Good length delivery angling away from the left-hander, Najibullah pokes away from the body and gets away with it]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Malinga to Najibullah, <b>wide</b>, well wide of off stump, Najibullah chases the ball and misses. The umpire doesn't like the width on that]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Malinga to Najibullah, no run, slower delivery on the off stump, Najibullah defends]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Malinga to Zazai, <b>2 wides</b>, sprays this down the leg-side, Sanga tried his best to stop the ball but couldn't]]></line><line><![CDATA[<b>Afsar Zazai, right handed bat, comes to the crease</b>]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Malinga to Nabi, <b>out</b> Bowled!! This was on the cards. With field restrictions and batsmen trying to get quick runs, Malinga always has a great chance of picking up a few wickets in the powerplay. Slower delivery on the leg stump, not quite a yorker, Nabi slogs early and misses it completely. The ball rattles the leg stump. Mathews is pumped as he jumps in joy. <b>Nabi b Malinga 21(27) [4s-2 6s-1]</b>]]></line><line><![CDATA[Malinga to Nabi, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Malinga to Nabi, no run, waits for the slower ball to come and guides it to the left of backward point, Nabi thinks about a run but Dilshan has a shy at the striker's end, but Nabi makes his ground]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Malinga to Nabi, no run, another slower ball from Malinga, Nabi defends]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Malinga to Nabi, no run, slower delivery on the off stump, Nabi watchfully defends off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lasith Malinga [5.0-1-24-0] is back into the attack</b>]]></line><line><![CDATA[<b>Batting powerplay</b> has been enforced.]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;T Perera to Najibullah, no run, slower delivery from Perera, Zadran misses the flick, the ball hits him high on the pad]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;T Perera to Najibullah, no run, short of length delivery just outside off stump, Najibullah taps it to point, Nabi wants a run but Najibullah says no]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;T Perera to Nabi, 1 run, sweetly timed drive from Nabi, straight to long-off though]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;T Perera to Najibullah, 1 run, pokes at this length ball away from the body, another outside edge that goes to third man]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;T Perera to Nabi, 1 run, good length delivery outside off stump, Nabi defends with an angled bat and the ball takes the edge, before rolling down to third man]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;T Perera to Najibullah, 1 run, short of length delivery outside off stump, Najibullah cuts it to deep backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Herath to Nabi, no run, slider on the leg stump, nudged into the on-side]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Herath to Najibullah, 1 run, flatter delivery from Herath, Najibullah taps it to cover-point]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Herath to Najibullah, <b>SIX</b>, that's a fine connection from Najibullah! Flighted from Herath, Najibullah gets down on one knee and slog-sweeps it with the spin over deep mid-wicket]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Herath to Najibullah, no run, steps out and drives the flighted delivery to the right of Herath, who dives to his right to stop the ball]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Herath to Nabi, 1 run, tossed up outside off stump, Nabi drives it to long-off]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Herath to Nabi, no run, advances and absolutely smashes the flighted delivery, the fielder at extra-cover does well to stop the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;T Perera to Najibullah, no run, short of length delivery outside off stump, Zadran taps it into the off-side]]></line><line><![CDATA[<b>Najibullah Zadran, left handed bat, comes to the crease</b>]]></line><line><![CDATA[<b>Drinks</b> are on the field now. Stanikzai and Shenwari batted well to add 88 runs for the third wicket, but Sri Lanka have managed to remove both in quick succession. Afghanistan have to be careful from here and they can't afford to throw wickets away.]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;T Perera to Shenwari, <b>out</b> Caught by Mathews!! Afghanistan lose another set batsman. Not what they wanted. It was fullish and in the slot, Shenwari got greeedy and tried to play a gallery shot and in the end, he hit it straight to mid-off, who swallowed the ball easily. <b>Shenwari c Mathews b T Perera 38(70) [4s-5]</b>]]></line><line><![CDATA[T Perera to Shenwari, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;T Perera to Nabi, 1 run, back of a length outside off stump, Nabi punches it to deep backward point]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, good length delivery just outside off stump, Nabi defends it to point]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;T Perera to Nabi, <b>SIX</b>, oh what a shot! Short again from Perera, Nabi rocks back and absolutely smashes the pull shot over the mid-wicket boundary]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;T Perera to Nabi, <b>FOUR</b>, Nabi advances down the track, Perera shortens his length, Nabi goes through with slap and sends it between mid-off and extra-cover. It was in the air for a while, but it was in the gap]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, flighted delivery on the off stump, defended]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Herath to Shenwari, <b>FOUR</b>, it's too full, it's in the slot and Shenwari doesn't miss out. He waits for the ball to come and slogs it wide of long-on and it almost goes all the way]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Herath to Shenwari, <b>wide</b>, tries the slider but sprays it down the leg-side]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, flatter and outside off stump, punched to cover]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, on the off stump, Shenwari defends]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, yorker outside off stump, Shenwari tries to drive hard but mistimes it towards short extra-cover]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, on the leg stump, defended into the on-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, full outside off stump, Nabi shoulders arms]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, on a length and outside off stump, Nabi looks to drive on the rise but mistimes it to mid-off]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, in the air for a while, but doesn't carry to Dilshan at point. Fullish and outside off stump, Nabi pushes away from the body and gets away with it]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;T Perera to Nabi, <b>wide</b>, way outside off stump, easy call for the umpire]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, short of length delivery outside off stump, punched to cover]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, defends the good length delivery to point, where Dilshan dives to his right and stops the ball]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;T Perera to Nabi, no run, Nabi covers the off stump and allows the good length delivery to go through to Sanga]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Thisara Perera [4.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, flighted delivery just outside off stump, Shenwari defends off the front foot]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Herath to Nabi, 1 run, this time he works it easily to backward square leg]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Herath to Nabi, no run, flighted delivery on the off stump, Nabi defends and gets an inside edge that rolls into the on-side]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, a big sweep across the line from Shenwari, he timed it well but backward square leg tidied up]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, defended from the crease]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Herath to Nabi, 1 run, advances and slogs the flighted delivery to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, no run, full on the leg stump, Shenwari turns it to short mid-wicket and thinks about a run but Nabi says no]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;J Mendis to Nabi, 1 run, poor line from Mendis, an easy single on offer at square leg]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;J Mendis to Nabi, <b>FOUR</b>, Malinga dives again, but the ball escapes this time. Nabi gets low down on one knee and paddles the flighted delivery along the ground through short fine leg]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, 1 run, on the pads, Shenwari gently glances the ball, Malinga does well to dive to his right at short fine leg to stop the ball]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, no run, very full from Mendis, Shenwari defends well]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, no run, down the leg-side, tickled to short fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Herath to Nabi, no run, gets right behind the line of this comes on the front foot and defends well]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Herath to Nabi, no run, on the off stump, blocked]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, tossed up outside off stump, driven down to long-off]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Herath to Nabi, leg byes, 1 run, darted down the leg-side, Nabi misses the flick and the ball rolls off the pad to short fine leg]]></line><line><![CDATA[There is a man at slip now]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, flatter delivery on the off stump, Shenwari taps it to cover]]></line><line><![CDATA[<b>Mohammad Nabi, right handed bat, comes to the crease</b>]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Herath to Stanikzai, <b>out</b> Caught by J Mendis!! In the air and he's hit it straight down the throat of the man at long-on. End of a fine innings and a fine 88-run partnership. Sri Lanka have managed to get the breakthrough they wanted. Flighted delivery from Herath, Stanikzai advances and tries to go big, but the bat turns in hands and in the end he offers a simple catch to Mendis. <b>Stanikzai c J Mendis b Herath 54(57) [4s-5 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Herath to Stanikzai, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, no run, fullish and just outside off stump, punched back to the bowler]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, no run, on the leg stump, Shenwari defends]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, 2 runs, tries the reverse sweep, luckily for him, he gets an bottom edge. Otherwise, he would have been out plumb LBW. The ball rolls to third man]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, 1 run, flighted delivery on the stumps, Stanikzai flicks it to square leg]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, no run, a teasing flighted delivery from Mendis, it was bowled very slow through the air, the batsman was tempted to go for the big shot but left it alone]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, no run, flighted delivery on the off stump, defended to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 1 run, gently works it to square leg]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Herath to Stanikzai, no run, slider on the leg stump, blocked]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 2 runs, looks to defend off the front foot, the ball rolls off the outside edge to third man]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Herath to Stanikzai, <b>FOUR</b>, dances down the wicket, gets to the pitch of the ball and muscles it straight down the ground, long-on had no chance. That is his <b>5th ODI fifty</b> as well. He raises his bat and acknowledges the applause from the crowd and his teammates]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, too full, nudged through square leg]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, flighted delivery from Herath, defended]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rangana Herath [4.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, 1 run, leans forward and milks it to backward square leg]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, 1 run, wrong 'un and Stanikzai picked it off the turf, he goes back and works it to deep mid-wicket]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, no run, slower and on off, Stanikzai hangs back and turns it to short mid-wicket, straight to the fielder]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;J Mendis to Shenwari, 1 run, works it through mid-wicket for a single]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, 1 run, short and outside off, Stanikzai slaps it in front of square for a single]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;J Mendis to Stanikzai, no run, punched back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jeevan Mendis, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Malinga to Shenwari, no run, slower ball on off, Shenwari is neither forward nor back as he knocks it to cover]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Malinga to Shenwari, no run, back of a length on off, Shenwari stays back and bunts it to the off-side]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Malinga to Stanikzai, 1 run, bit more bounce on this occasion, Stanikzai jabs at it and the outside edge rolls down to third man]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Malinga to Stanikzai, <b>wide</b>, sprays it down leg, Stanikzai can't connect with the tickle, easy call for the ump]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Malinga to Stanikzai, no run, shortens the length just outside off, Stanikzai shuffles across and has a poke at it, is beaten!]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Malinga to Stanikzai, <b>FOUR</b>, on a length just outside off, Stanikzai stays in the crease and looks to defend, takes the outside edge and runs away to the third man fence]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Malinga to Stanikzai, no run, change of pace and it was not the yorker, Stanikzai goes for an old might slog, gets a toe-end which goes on the bounce to Sanga]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Free hit coming up!</b>]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Malinga to Stanikzai, <b>no ball</b>, not the best of starts for Malinga in his second spell, oversteps and bangs it in halfway down the wicket, Stanikzai lets it go through to Sanga]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Lasith Malinga [4.0-1-17-0] is back into the attack</b>]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, flighted on off, Shenwari comes on the front foot and blocks it down the wicket]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, lunges forward and defends it to short cover]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, the slider from Herath, goes right back and misses the nudge through the on-side, is rapped on the pads. The impact is on leg-stump. The tracker shows that it was millimeters away from not being umpire's call. Sri Lanka have lost their only review]]></line><line><![CDATA[Sri Lanka are reviewing an lbw. It is a legal delivery. There doesn't seem to be any bat involved. Was it sliding down leg? It is hitting leg-stump, but Hawk-Eye says it is umpire's call. So, Shenwari survives]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, crisp drive which is hit straight to the cover fielder]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, <b>FOUR</b>, it was a calculated shot from Shenwari, kneels down and fetches it from outside off, top-edges the sweep over backward square, there was on one in the deep to save the boundary]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, comes on the front foot and knocks it to the right of point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Mathews to Shenwari, 1 run, presses forward, opens the bat face and runs it down to square third man]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, good length ball on off, Shenwari defends it to the left of the bowler]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 1 run, on a length close to off, Stanikzai looks to defend, the inside edge runs to backward square leg]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, <b>5 wides</b>, well it looked like it came off the pad, but the umpire doesn't think so, Mathews splays one down leg, Stanikzai misses the glance. The ball kissed the pad, but the umpire didn't spot it]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Mathews to Shenwari, 1 run, dabbed down to third man with an angled bat]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Mathews to Shenwari, <b>FOUR</b>, edged and safe! There was a slip fielder and the ball eludes him. Shenwari pushes at it and the outside edge goes wide of Mahela at wide slip]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 1 run, shortish and just outside off, Stanikzai walks forward and cuts it to square third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Angelo Mathews [4.0-0-19-1] is back into the attack</b>]]></line><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, slightly quicker and on the stumps, Shenwari hangs back and taps it to the on-side]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, presses forward and knocks it in fron tof short cover]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 1 run, eased down to long-off]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, nice floaty delivery, Shenwari drops it to the off-side, looks up at his partner and sets off]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, blocked back to the bowler]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 1 run, throws this up on off, Stanikzai comes down the track, looks to drive inside out, the ball takes the inside edge and rolls down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, 1 run, again, the length is short, Stanikzai tucks it to mid-wicket, where the fielder is on the rope]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, back of a length close to off, Stanikzai gets behind the line and knocks it to cover]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, shortens the length and gets bit more bounce, Stanikzai looks to defend after shuffling across, the ball zips past the outside edge]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, on a length and in the channel around off, Stanikzai misses the forward defensive and the ball beats theoutside edge]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, <b>FOUR</b>, super shot! It was a gift though from Perera, short and outside off, Stanikzai rides the bounce and cuts it to the left of backward point, no chance for third man to stop it]]></line><line><![CDATA[The physio is called out immediately. Some spray is being applied. He is ready to go..]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, extra bounce and Stanikzai is pinged on the gloves, he was moving forward to defend. The ball bounces more and raps him on the bottom glove. He wriggles in pain, throws his bat down and takes his gloves off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, pushes it towards cover and wants the run, Stanikzai says "no"]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 1 run, pushed through, Stanikzai gets back and nurdles wide of mid-wicket]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Herath to Stanikzai, no run, presents the full face and blocks it to the off-side]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, arm-ball that skids on, Shenwari goes deep in the crease and works it to mid-wicket]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, nice loopy delivery, Shenwari drops it wide of cover and wants the single, Stanikzai sends him back]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Herath to Shenwari, no run, flighted on off, Shenwari leans forward and defends to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, <b>FOUR</b>, cracking shot! Short and plenty of room on offer, Stanikzai jumps up and cuts it in the air to the left of sweeper cover, Karunaratne runs across, dives and fails to stop the ball]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;T Perera to Shenwari, 1 run, too straight, on middle, Shenwari shuffles across and glances it off the inner half to fine leg. He would have been a goner had he missed that]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, 1 run, fuller and close to off, Stanikzai presses it to sweeper cover off the front foot]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, tucks the batsman for room, bunted to the right of the bowler]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, on a length well wide of off, Stanikzai has nothing to do with it]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, no run, back of a length around off, Stanikzai stands tall and punches it to point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The <b>drinks</b> trolley arrives on the field! Afghanistan have done well to keep the scoreboard ticking and they have lost only two. If they can continue at this rate, then they should put up a competitive total on the board.]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 1 run, tossed up just outside off, Stanikzai skips out of the crease and drives to deep extra cover. They don't take the second this time]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Herath to Shenwari, 1 run, leans forward and works it with soft hands to short mid-wicket]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 1 run, drifts down leg, nurdled away to deep backward square leg]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Herath to Stanikzai, 2 runs, comes down the track and takes it on the full, Stanikzai drives it to deep extra cover for a couple. The call for second was late, but they make it with ease]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Herath to Stanikzai, no run, flighted on off, defended down the wicket]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Herath to Stanikzai, no run, quicker and on the stumps, Stanikzai knocks it to mid-on after coming forward]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rangana Herath, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, back of a length outside off, Shenwari shuffles across and lets it go]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, bit of extra bounce, Shenwari does well to play it with loose bottom hands, taps it in front of point]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, shortish and just outside off, Shenwari arches back and allows it to sail through to Sanga]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, good length ball on off, Shenwari presses forward and defends back to the bowler]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, back of a length around off, Shenwari knocks it to short cover]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, 1 run, short of length on off, Stanikzai works it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The physio is out in the middle, he is working on Stanikzai's back. The batsman had dived in and he did rather awkwardly. He is ready now and takes strike]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 1 run, length ball on off, Stanikzai goes back and nurdles it behind square on the leg-side for a single]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 2 runs, takes a step out of the crease, shuffles across as well, nudges it towards mid-wicket, called for two and gets it comfortably. Stanikzai dived to make his ground]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, Mathews saw the batsman walk down the wicket and dragged his length back, blocked to the off-side]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, on a length shapes back in, Stanikzai inside edges it onto the pad, ball rolls to the off-side]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, good length ball around off, Stanikzai knocks it towards cover]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 2 runs, length ball just outside off, Stanikzai heaves it over mid-on, he got plenty of height but not the distance, Lakmal gives chase and keeps it inside the rope]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, on a length close to off, Shenwari covers his sticks and leaves it alone. That was well left!]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;T Perera to Shenwari, <b>FOUR</b>, that was a better shot from Shenwari, if the ball is pitched up these Afghan batsmen are not afraid to go after it, Shenwari comes forward and drives it in the air, wide of mid-off, beats a desperate dive from the fielder]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, back of a length on off, Shenwari bunts it to the right of Dilshan at point]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;T Perera to Shenwari, no run, shortens the length outside off, Shenwari looked to play at it, but let it go at the last instant]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;T Perera to Shenwari, <b>FOUR</b>, fuller and on the stumps, Shenwari hits it through the line, the bat turns in his hands and the ball comes off the inside part, beats mid-on to his left and runs away to the fence]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;T Perera to Stanikzai, 1 run, short of length on off, Stanikzai tucks it to the unmanned mid-wicket region for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Thisara Perera, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, good length ball on off, Shenwari knocks it down the wicket]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, leg byes, 1 run, strays onto the pads, Stanikzai fails to connect with the clip, ball dribbles off the pads to the left of Sanga]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Mathews to Shenwari, 1 run, goes wide of the crease, angles it in on middle and leg, Shenwari glances it down to fine leg]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, Shenwari is happy to defend, blocks another one towards cover]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, takes the pace off the ball, Shenwari looks to defend with the bat away from the body, gets an inside edge to square leg]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 1 run, short delivery, Stanikzai swivels and pulls it to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, no run, full and attacking the stumps, Shenwari blocks with the bat and pad close together]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Lakmal to Stanikzai, 1 run, shortish and just outside off, Stanikzai cuts it to the right of third man, no real timing on that shot]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, 1 run, fuller and on the fourth stump, Shenwari eases it between cover and point, calls early for the single]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, no run, good length ball on off and middle, defended to mid-on]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, no run, slides one onto the pads, Shenwari can't lay bat on the ball, it brushes the pad and rolls to the left of Sanga]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, no run, back of a length close to off, Shenwari gets behind the line and taps it to cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Mathews to Shenwari, 1 run, too straight, on middle stump, Shenwari nudges it in front of deep square leg, he wanted two but the fielder got there quickly]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, that is poor from the two batsmen, there was a single and they don't take it. Shenwari guides it to the left of backward point with an angled bat, Dilshan makes a fumble and still they don't go through with the run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, again, the length from Mathews is full and around the off-stump, Shenwari knocks it back to the bowler]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Mathews to Shenwari, no run, fuller and straightens a touch, Shenwari does not push hard at that, the outside edge rolls towards gully]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, 1 run, shortens the length, Stanikzai rides the bounce and steers it to third man]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, <b>SIX</b>, where did that come from? Just out of the blue, Stanikzai sends it into the stands. Length delivery on off, Stanikzai kneels down and slogs it over deep mid-wicket. A spectator takes a one-handed catch, he might have just won a million New Zealand dollars]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, no run, pitched up just outside off, Shenwari push-drives it to short cover]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Lakmal to Shenwari, no run, fullish and on off, Shenwari stays in the crease and turns it to mid-wicket. That came off the inside part of the bat]]></line><line><![CDATA[<b>Samiullah Shenwari, right handed bat, comes to the crease</b>]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, <b>out</b> Caught by Herath!! Ahmadi has thrown it away! A needless shot from him. He keeps staring at the wicket after the catch is completed. Short delivery on off, Ahmadi was in no position to play the pull, he top-edges it to the left of mid-wicket, Herath calls for it, runs across and reverse cups it safely. <b>Ahmadi c Herath b Lakmal 24(23) [4s-4]</b>]]></line><line><![CDATA[Lakmal to Ahmadi, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, no run, length ball on the stumps, Ahmadi defends it to mid-on with the straightest of bats]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, 2 runs, good length ball angling in, Ahmadi works through mid-wicket, where there are acres of empty space available]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, no run, on a length and holds its line, Ahmadi jams it onto the boot, the ball rolls towards cover. He was cramped for room there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, on a length just outside off, Stanikzai covers the sticks and shoulders arms]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, <b>FOUR</b>, almost another one! Stanikzai shuffles across and walks down the wicket, the ball nips back in, he looks to force it through the off-side, the inside edge goes over the stumps and beats Sanga to his left]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, angled in on middle and leg, Stanikzai fails to connect with the flick, is rapped on the pads. The ball was going over the stumps]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, fuller and around off, Stanikzai is half-forward and defending towards cover-point]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Mathews to Stanikzai, no run, on a length and homing away, Stanikzai was in a dilemma whether to leave or play, the ball runs away off the face of thebat to Sanga]]></line><line><![CDATA[<b>Asghar Stanikzai, right handed bat, comes to the crease</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Mathews to Nawroz, <b>out</b> Caught by Thirimanne!! Soft dismissal! Mathews brings himself on and strikes with his first delivery. It was a 119kph slower ball, he had the field set for that as well, Mangal presses forward and pushes at it, checks his shot and finds short cover to perfection. <b>Nawroz c Thirimanne b Mathews 10(30) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Mathews to Nawroz, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Angelo Mathews, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, <b>FOUR</b>, another well played shot! Too full and on the stumps, almost a yorker, Ahmadi squeezes it through cover, the timing was so good that it beats Herath's chase from mid-on]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, <b>FOUR</b>, superb shot! It travelled to the fence in no time. Pitched up delivery on off, Ahmadi presents the full face of the bat and drives it through the line, it was in the air and to the left of Lakmal, who does not get a hand to it]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, no run, short of length on off, Ahmadi camps back and knocks it down the wicket]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, leg byes, 1 run, drifts onto the pads, Mangal gets inside the line and can't connect, it thuds off the thigh pad to fine leg]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, jags back in sharply, Mangal is stuck in the crease, he ekes out an inside edge onto the pad and the ball dribbles to the off-side]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, 1 run, short of length on middle, Ahmadi tucks it to the vacant mid-wicket region and picks up an easy single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Malinga to Nawroz, <b>FOUR</b>, nice shot! It was an overpitched delivery and Mangal puts it away, he comes on the front foot and creams the drive between extra cover and mid-off, the timing on that takes it to the fence]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, back of a length on off, Mangal stays back and bunts it to the right of cover]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, slower ball which is full, Mangal pushes it towards mid-off]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Malinga to Nawroz, <b>wide</b>, bumper on middle and leg, Mangal ducks under, wided for the height]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, almost a yorker, Mangal toe-ends it back down the wicket]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, on a length close to off, Mangal is neither forward nor back as he taps it to the off-side]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, opens the bat face and guides the back of a length delivery to backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, no run, every now and then, Ahmadi tries to do something unusual, advances down the wicket and swings wildly, the ball shapes away and beats the outside edge. It was on the stumps, but the bounce took it over the sticks]]></line><line><![CDATA[Another gully fielder in place now]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, 1 run, in the air and wide of the fielder, fuller and around off, Mangal goes for the expansive drive, the ball takes the outside edge and flies to the right of the gully fielder]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, 1 run, another one that is a tad too straight, Ahmadi nurdles it down to fine leg]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, 1 run, nips back in from short of length, Mangal jumps up and tucks it behind square on the leg-side for a single]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, <b>dropped</b>! MJ puts down a tough chance, but you expect him to take those. Lakmal is disappointed, he turns and marches back to his run-up. It was a touch short and moving away outside off, Mangal feels for it away from the body, the outside edge flies to the right of second slip, Mahela dives, gets both hands but couldn't hold on]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, 1 run, bit of extra bounce for Lakmal, Ahmadi does well to play it with soft hands, dabs it past the diving gully fielder]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, on a length just outside off, Mangal lifts his bat and lets it go]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, that is the line and length that Malinga needs to hit consistently, good length ball in the corridor around off, Mangal pokes at it tentatively and is beaten]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, 3 runs, once again provides the batsman room, Ahmadi frees his arms and slaps it through cover and point, Karunaratne does well to stop it just before the rope]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, an expected comeback from Malinga, slower ball yorker on off, Ahmadi manages to get his bat down and jam it towards the slip cordon]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, <b>FOUR</b>, short and plenty of room on offer, Ahmadi pounces onto it, he hangs on the back foot and cracks the cut through cover-point, even the heavy outfield can't stop it from reaching the rope]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, <b>FOUR</b>, shortish and outside off, Ahmadi waits for it in the crease, looks to steer it, the ball takes the outer half and runs away between second slip and gully. The third man fielder was pretty square]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, 2 runs, that was a nice shot, length delivery on off and middle, Mangal comes forward, presents the full face of the blade and drives it on-the-up past the non-striker, the heavy outfield does not take the ball to the fence]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, short ball, Mangal arches back and moves away from the line of the delivery]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, tucks the batsman for room, Mangal stays in the crease and taps it in front of mid-wicket]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, on a length and curling away outside off, Mangal goes fishing at it away from the body and is beaten. This time off the outside edge]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, swing in the air, it seemed to be shaping away but holds its line, Mangal goes for an ambitious drive and is beaten off the inside edge. He was playing for the away going delivery]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, now Lakmal tests the batsman out with a bumper, Mangal gets his head out of the way and lets it pass]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Malinga to Nawroz, 1 run, good length ball around off, Mangal presses it to vacant cover and calls for a single]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, another lifter, Mangal has enough time to duck under it and lets it sail over him]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, bumper follows the off-speed delivery, the line is well wide of off, Mangal gets away from the line of the delivery]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, slower ball and almost a yorker, right on the stumps, Mangal spotted it well and turns it gently towards mid-wicket]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, on a length just outside off, Mangal moves forward and drives it with an open bat face to backward point]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Malinga to Nawroz, no run, shortens the length close to off, Mangal plays inside the line and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, no run, what was that? Ahmadi gives the charge and looks to go big. The ball swings away and beats the outside edge, it was not far away from the off-stump either. Probably he had enough of blocking]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Lakmal to Ahmadi, no run, keeps it nice and full on off, Ahmadi presses forward and defends to cover]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, 1 run, fuller and around off, Mangal drives with laden feet, the outside edge is found and the ball runs down to third man]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, hint of inward movement, Mangal is stuck in the crease, gets an inside edge onto the pad and the ball rolls to the on-side]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, back of a length just outside off, Mangal opens the bat face and runs it to backward point]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Lakmal to Nawroz, no run, starts with a short of length, Mangal stands tall and taps it in front of point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Suranga Lakmal, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, <b>maiden</b> to start with and almost a wicket as well. It was not all that short, Ahmadi went for the steer down to third man, chops it past the off-stump, Sanga moves to his left and fields the ball]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, shortens the length outside off, Ahmadi hangs back and dabs it to point]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, full and attacking the stumps, Ahmadi is half-forward and defending to the right of the bowler. He did well to present the full face of the bat]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, still the length is a tad short, Ahmadi stays in the crease and guides it to Dilshan at backward point]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, bit of movement for Malinga, it shapes away from short of length, Ahmadi is opened up a touch as he knocks it to the off-side]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Malinga to Ahmadi, no run, back of a length on off, Ahmadi gets right behind the line and defends it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ahmadi and Nawroz are at the crease. Ahmadi is on strike. Malinga will open the attack</b>]]></line><line><![CDATA[Afghanistan openers make their way out to the middle. Malinga is already on top of the mark. Jeevan Mendis starts off the countdown. Senanayake says let the battle begin. Mathews on the attack, he has three slips in place.]]></line><line><![CDATA[The teams line-up for the national anthems. It is the Sri Lankan anthem which is played out first, followed by Afghanistan's anthem. There are plenty of people donning the Sri Lankan jersey in the ground.]]></line><line><![CDATA[<b>Pitch Report:</b> "New Zealand bowled out Scotland for 142 on this very surface and that is the reason Sri Lanka have opted to bowl. It has browned a bit, but there is still a good covering of grass. I think it will play a little bit better, but it will still be very tough early on. Quite short boundaries, the outfield looks very nice. We had a bit of rain last night, so it's lushed up a little. It might not be as quick as it normally is and it will be tough for the first 10-15 overs with the bat," reckons <b>Simon Doull</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Afghanistan</b> (Playing XI): Nawroz Mangal, Javed Ahmadi, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi(c), Najibullah Zadran, Afsar Zazai(w), Mirwais Ashraf, Dawlat Zadran, Hamid Hassan, Shapoor Zadran]]></line><line><![CDATA[<b>Sri Lanka</b> (Playing XI): Lahiru Thirimanne, Tillakaratne Dilshan, Kumar Sangakkara(w), Mahela Jayawardene, Angelo Mathews(c), Dimuth Karunaratne, Jeevan Mendis, Thisara Perera, Rangana Herath, Lasith Malinga, Suranga Lakmal]]></line><line><![CDATA[<b>Sri Lanka have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Mathews:</b> "We had a lot of time to prepare ourselves for this game, to work on the areas that we need to improve and we have been training so hard for the past few days. I will have a <b>bowl</b> first. It swings a little bit early on and we are playing four seamers so we will look to exploit the conditions. This has always been a wicket that swings and seams a little bit. One change, Nuwan Kulasekara is out, Thisara Perera comes in."]]></line><line><![CDATA[<b>Nabi:</b> "Yeah, from the last four months he (Andy Moles, coach) has joined us, he has helped us prepare well. We also wanted to bowl first because last night there was rain and the wicket was covered. There is a bit of grass as well and also the weather is cold. Hopefully, we will bat well. We have prepared well and worked on our plans. The boys have worked hard. We have one change, Aftab is not playing, Dawlat is playing today."]]></line><line><![CDATA[We know that the ball swings around at the University Oval and with a bit of moisture because of the overnight rain, it wouldn't be surprising to see teams opting to bowl first. The toss is not too far away. Lot's more coming up. Stay tuned...]]></line><line><![CDATA[<b>Afghanistan</b>]]></line><line><![CDATA[On the other hand, Mohammad Nabi's men could not live up to the expectations against Bangladesh as Mashrafe Mortaza and Co. registered an easy win over Afghanistan in Canberra. Bangladesh won the toss and opted to bat, but Afghanistan were impressive with the ball, until they met Mushfiqur Rahim and Shakib Al Hasan as the duo added over 100 runs for the 5th wicket. However, the Afghans closed out the innings in grand style as Bangladesh lost their last 6 wickets for just 34 runs to be bowled out for 267. In their run chase, Afghanistan were reduced to 3/3 in no time and from that point, could never really keep up with the asking rate. Eventually, Bangladesh bowled them out for 162 to enjoy a 105-run win.]]></line><line><![CDATA[Speaking after the match Coach <b>Andy Moles</b> stressed on the importance for competing hard throughout the game. "One of the issues we've had is that we do well with bat and ball for 35 overs and it's that extra 15 overs where we need to work on our concentration levels, our discipline, our execution and it's something we have spoken about regularly," Moles said.]]></line><line><![CDATA[<b>Sri Lanka</b>]]></line><line><![CDATA[The 2011 runners-up did not have a great start to their campaign as they lost badly to New Zealand in the tournament opener. After opting to bowl first, Angelo Mathews' bowlers found it tough to control Brendon McCullum, Kane Williamson and Corey Anderson as the trio scored fifties to help the Black Caps post a massive total on the board. In reply, apart from Lahiru Thirimanne, none of the Sri Lankan batsmen could make valuable contributions and eventually, they went on to lose by a massive margin of 98 runs.]]></line><line><![CDATA[Sri Lanka, who have played here twice before, are tagged as favourites to win this contest and captain <b>Angelo Mathews</b> has said that his side has prepared well and is not taking Afghanistan lightly. "We have worked extremely hard in the past few days to prepare ourselves for this game because we have to take it very seriously. We can't be complacent and we are well-prepared for the challenge."]]></line><line><![CDATA[We are at the University Oval in Dunedin today for this Group A encounter between Afghanistan and Sri Lanka. Both teams lost their first game of the tournament and will be keen to open their account today. First things first. There was a lot of rain on Saturday in Dunedin, but the weather has cleared up and the radar looks good for today. So, we don't have to worry about or entertain thoughts of a washout.]]></line><line><![CDATA[<b>Preview:</b><br/><br/>Sri Lanka started their campaign on an abject note against New Zealand in the opening game of ICC Cricket World Cup 2015. That 98-run loss will be rankling them and Afghanistan will be bracing themselves for the backlash. Sri Lanka will have to win, and convincingly at that, against Afghanistan to regain confidence and assert themselves as contenders for the World Cup. The one-week break would have helped the team regain composure but Afghanistan will be no pushovers.<br/><br/>Mohammad Nabi, the captain, and coach Andy Moles have emphasised on various occasions that Afghanistan are not there to just compete but to try and win games. Like their opponents, Afghanistan too come in to this game on the back of a 105-run loss against Bangladesh. The batsmen came a cropper after a decent bowling effort and Afghanistan will be gunning to prove that they are ready to fight against the big teams.<br/><br/><b>Venue:</b> University Oval, Dunedin<br/><br/><b>Date:</b> February 22, 2015<br/><br/><b>Time:</b> 0330 HRS IST<br/><br/><b>Weather and pitch conditions:</b><br/><br/>If the previous game at Dunedin is anything to go by, expect some help for the seamers. New Zealand bowled Scotland out for a low total but lost as many as 7 wickets in chase of a lowly 142. The short boundaries will also aid the big hitters. It is expected to be a sunny Sunday and neither team will mind that.<br/><br/><b>Team news:</b><br/><br/><b>Sri Lanka</b><br/><br/>Nuwan Kulasekara might be replaced by youngster Dushmantha Chameera for Sri Lanka. Kulasekara went for 78 runs in his eight overs in the game against New Zealand but the rest are likely to retain their place. <br/><br/><b>Probable XI:</b> Tillakaratne Dilshan, Lahiru Thirimanne, Kumar Sangakkara(w), Mahela Jayawardene, Angelo Mathews(c), Dimuth Karunaratne, Jeevan Mendis, Dushmantha Chameera, Suranga Lakmal, Rangana Herath, Lasith Malinga<br/><br/><b>Afghanistan</b><br/><br/>Afghanistan might look at tinkering their batting order after an abysmal collapse but are likely to go in with the same eleven that played Bangladesh.<br/><br/><b>Probable XI:</b> Afsar Zazai(w), Javed Ahmadi, Nawroz Mangal, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi(c), Najibullah Zadran, Mirwais Ashraf, AftabAlam, Shapoor Zadran, Hamid Hassan<br/><br/><b>Watch out for:</b><br/><br/>Seventeen-year old <b>Usman Ghani</b> played confidently in the warm-up game against India. He will like the short boundaries at Dunedin and could be the key for Afghanistan to get off to a good start while batting.<br/><br/><b>Lasith Malinga</b> will be a tricky bowler to face for newcomers. Tracking the ball will be a challenge for Afghanistan as the Sri Lankan's pacer's slingy action is nothing close to what you'd face in practice. He has blown away many a side once he finds rhythm and Sri Lanka will be hoping that he finds it against Afghanistan.<br/><br/><b>Quotes</b><br/><br/>You can't take them lightly because they can upset a team, and they've got nothing to lose. They'll just come out here and try to be positive and aggressive - <b>Angelo Mathews</b> guards against complacency]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Sri Lanka</b> (From): Lahiru Thirimanne, Tillakaratne Dilshan, Kumar Sangakkara(w), Mahela Jayawardene, Dimuth Karunaratne, Angelo Mathews(c), Jeevan Mendis, Nuwan Kulasekara, Rangana Herath, Lasith Malinga, Suranga Lakmal, Thisara Perera, Dinesh Chandimal, Sachithra Senanayake, Dushmantha Chameera]]></line><line><![CDATA[<b>Afghanistan</b> (From): Javed Ahmadi, Afsar Zazai(w), Nawroz Mangal, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi(c), Najibullah Zadran, Mirwais Ashraf, Aftab Alam, Hamid Hassan, Shapoor Zadran, Usman Ghani, Gulbadin Naib, Dawlat Zadran, Nasir Jamal]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>232</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>49.4</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<batsman-name>Ahmadi</batsman-name>
+					<batsman-nickname>Ahmadi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>23</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Lakmal</bowler>
+					<bowlerId>1785</bowlerId>
+						<fielder>Rangana Herath</fielder>
+						<fielderId>277</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<batsman-name>Nawroz</batsman-name>
+					<batsman-nickname>Nawroz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>30</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mathews</bowler>
+					<bowlerId>1629</bowlerId>
+						<fielder>Lahiru Thirimanne</fielder>
+						<fielderId>6243</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3004</playerid>
+					<name>Asghar Stanikzai</name>
+					<batsman-name>Stanikzai</batsman-name>
+					<batsman-nickname>Stanikzai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>54</runs>
+					<balls>57</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Herath</bowler>
+					<bowlerId>277</bowlerId>
+						<fielder>Jeevan Mendis</fielder>
+						<fielderId>6470</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<batsman-name>Shenwari</batsman-name>
+					<batsman-nickname>Shenwari</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>38</runs>
+					<balls>70</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Perera</bowler>
+					<bowlerId>2281</bowlerId>
+						<fielder>Angelo Mathews</fielder>
+						<fielderId>1629</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<batsman-name>Nabi</batsman-name>
+					<batsman-nickname>Nabi</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>21</runs>
+					<balls>27</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<batsman-name>Najibullah</batsman-name>
+					<batsman-nickname>Najibullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Lakmal</bowler>
+					<bowlerId>1785</bowlerId>
+						<fielder>Thisara Perera</fielder>
+						<fielderId>2281</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<batsman-name>Zazai</batsman-name>
+					<batsman-nickname>Zazai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>19</runs>
+					<balls>38</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder>Rangana Herath</fielder>
+						<fielderId>277</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3013</playerid>
+					<name>Mirwais Ashraf</name>
+					<batsman-name>Mirwais</batsman-name>
+					<batsman-nickname>Mirwais</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>28</runs>
+					<balls>32</balls>
+					<fours>1</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Malinga</bowler>
+					<bowlerId>111</bowlerId>
+						<fielder>Suranga Lakmal</fielder>
+						<fielderId>1785</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<batsman-name>Dawlat Zadran</batsman-name>
+					<batsman-nickname>Dawlat Zadran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Mathews</bowler>
+					<bowlerId>1629</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<batsman-name>Hamid</batsman-name>
+					<batsman-nickname>Hamid</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mathews</bowler>
+					<bowlerId>1629</bowlerId>
+						<fielder>Jeevan Mendis</fielder>
+						<fielderId>6470</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<batsman-name>Shapoor</batsman-name>
+					<batsman-nickname>Shapoor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>3008</playerid>
+				<nbr>1</nbr>
+				<runs>34</runs>
+				<overs>8.1</overs>
+				<batsman>Nawroz Mangal</batsman>
+				<batsman-name>Nawroz</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7614</playerid>
+				<nbr>2</nbr>
+				<runs>40</runs>
+				<overs>9.4</overs>
+				<batsman>Javed Ahmadi</batsman>
+				<batsman-name>Ahmadi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3004</playerid>
+				<nbr>3</nbr>
+				<runs>128</runs>
+				<overs>27.1</overs>
+				<batsman>Asghar Stanikzai</batsman>
+				<batsman-name>Stanikzai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3011</playerid>
+				<nbr>4</nbr>
+				<runs>157</runs>
+				<overs>32.5</overs>
+				<batsman>Samiullah Shenwari</batsman>
+				<batsman-name>Shenwari</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3007</playerid>
+				<nbr>5</nbr>
+				<runs>169</runs>
+				<overs>35.4</overs>
+				<batsman>Mohammad Nabi</batsman>
+				<batsman-name>Nabi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8375</playerid>
+				<nbr>6</nbr>
+				<runs>175</runs>
+				<overs>38.1</overs>
+				<batsman>Najibullah Zadran</batsman>
+				<batsman-name>Najibullah</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3013</playerid>
+				<nbr>7</nbr>
+				<runs>221</runs>
+				<overs>47.4</overs>
+				<batsman>Mirwais Ashraf</batsman>
+				<batsman-name>Mirwais</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8029</playerid>
+				<nbr>8</nbr>
+				<runs>227</runs>
+				<overs>48.5</overs>
+				<batsman>Dawlat Zadran</batsman>
+				<batsman-name>Dawlat Zadran</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3001</playerid>
+				<nbr>9</nbr>
+				<runs>227</runs>
+				<overs>48.6</overs>
+				<batsman>Hamid Hassan</batsman>
+				<batsman-name>Hamid</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8278</playerid>
+				<nbr>10</nbr>
+				<runs>232</runs>
+				<overs>49.4</overs>
+				<batsman>Afsar Zazai</batsman>
+				<batsman-name>Zazai</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>16</wides>
+			<noballs>1</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>23</total>
+		</extras>
+		<bowlteam name="Sri Lanka">
+			<players>
+				<player>
+					<playerid>111</playerid>
+					<name>Lasith Malinga</name>
+					<bowler-name>Malinga</bowler-name>
+					<bowler-nickname>Malinga</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9.4</overs>
+					<maidens>1</maidens>
+					<runsoff>41</runsoff>
+					<wickets>3</wickets>
+					<wides>6</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>1785</playerid>
+					<name>Suranga Lakmal</name>
+					<bowler-name>Lakmal</bowler-name>
+					<bowler-nickname>Lakmal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>36</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1629</playerid>
+					<name>Angelo Mathews</name>
+					<bowler-name>Mathews</bowler-name>
+					<bowler-nickname>Mathews</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>41</runsoff>
+					<wickets>3</wickets>
+					<wides>6</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2281</playerid>
+					<name>Thisara Perera</name>
+					<bowler-name>T Perera</bowler-name>
+					<bowler-nickname>T Perera</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>54</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>277</playerid>
+					<name>Rangana Herath</name>
+					<bowler-name>Herath</bowler-name>
+					<bowler-nickname>Herath</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>41</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6470</playerid>
+					<name>Jeevan Mendis</name>
+					<bowler-name>J Mendis</bowler-name>
+					<bowler-nickname>J Mendis</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6243</playerid>
+					<name>Lahiru Thirimanne</name>
+					<bowler-name>Thirimanne</bowler-name>
+					<bowler-nickname>Thirimanne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<bowler-name>Dilshan</bowler-name>
+					<bowler-nickname>Dilshan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<bowler-name>Sangakkara</bowler-name>
+					<bowler-nickname>Sangakkara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<bowler-name>M Jayawardene</bowler-name>
+					<bowler-nickname>M Jayawardene</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7952</playerid>
+					<name>Dimuth Karunaratne</name>
+					<bowler-name>D Karunaratne</bowler-name>
+					<bowler-nickname>D Karunaratne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>236</totalruns>
+		<totalwickets>6</totalwickets>
+		<totalovers>48.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Sri Lanka">
+			<players>
+				<player>
+					<playerid>6243</playerid>
+					<name>Lahiru Thirimanne</name>
+					<batsman-name>Thirimanne</batsman-name>
+					<batsman-nickname>Thirimanne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Dawlat Zadran</bowler>
+					<bowlerId>8029</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>105</playerid>
+					<name>Tillakaratne Dilshan</name>
+					<batsman-name>Dilshan</batsman-name>
+					<batsman-nickname>Dilshan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shapoor</bowler>
+					<bowlerId>3015</bowlerId>
+						<fielder>Afsar Zazai</fielder>
+						<fielderId>8278</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<batsman-name>Sangakkara</batsman-name>
+					<batsman-nickname>Sangakkara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>7</runs>
+					<balls>13</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Hamid</bowler>
+					<bowlerId>3001</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7952</playerid>
+					<name>Dimuth Karunaratne</name>
+					<batsman-name>D Karunaratne</batsman-name>
+					<batsman-nickname>D Karunaratne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>23</runs>
+					<balls>32</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Hamid</bowler>
+					<bowlerId>3001</bowlerId>
+						<fielder>Nawroz Mangal</fielder>
+						<fielderId>3008</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<batsman-name>M Jayawardene</batsman-name>
+					<batsman-nickname>M Jayawardene</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>100</runs>
+					<balls>120</balls>
+					<fours>8</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Hamid</bowler>
+					<bowlerId>3001</bowlerId>
+						<fielder>Nawroz Mangal</fielder>
+						<fielderId>3008</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1629</playerid>
+					<name>Angelo Mathews</name>
+					<batsman-name>Mathews</batsman-name>
+					<batsman-nickname>Mathews</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>44</runs>
+					<balls>81</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Mohammad Nabi</fielder>
+						<fielderId>3007</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6470</playerid>
+					<name>Jeevan Mendis</name>
+					<batsman-name>J Mendis</batsman-name>
+					<batsman-nickname>J Mendis</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>17</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2281</playerid>
+					<name>Thisara Perera</name>
+					<batsman-name>T Perera</batsman-name>
+					<batsman-nickname>T Perera</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>47</runs>
+					<balls>26</balls>
+					<fours>6</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>277</playerid>
+					<name>Rangana Herath</name>
+					<batsman-name>Herath</batsman-name>
+					<batsman-nickname>Herath</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>111</playerid>
+					<name>Lasith Malinga</name>
+					<batsman-name>Malinga</batsman-name>
+					<batsman-nickname>Malinga</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1785</playerid>
+					<name>Suranga Lakmal</name>
+					<batsman-name>Lakmal</batsman-name>
+					<batsman-nickname>Lakmal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6243</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>0.1</overs>
+				<batsman>Lahiru Thirimanne</batsman>
+				<batsman-name>Thirimanne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>105</playerid>
+				<nbr>2</nbr>
+				<runs>2</runs>
+				<overs>1.2</overs>
+				<batsman>Tillakaratne Dilshan</batsman>
+				<batsman-name>Dilshan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>104</playerid>
+				<nbr>3</nbr>
+				<runs>18</runs>
+				<overs>5.3</overs>
+				<batsman>Kumar Sangakkara</batsman>
+				<batsman-name>Sangakkara</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7952</playerid>
+				<nbr>4</nbr>
+				<runs>51</runs>
+				<overs>11.6</overs>
+				<batsman>Dimuth Karunaratne</batsman>
+				<batsman-name>D Karunaratne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1629</playerid>
+				<nbr>5</nbr>
+				<runs>177</runs>
+				<overs>40.3</overs>
+				<batsman>Angelo Mathews</batsman>
+				<batsman-name>Mathews</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>101</playerid>
+				<nbr>6</nbr>
+				<runs>178</runs>
+				<overs>41.2</overs>
+				<batsman>Mahela Jayawardene</batsman>
+				<batsman-name>M Jayawardene</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>3</wides>
+			<noballs>1</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>6</total>
+		</extras>
+		<bowlteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<bowler-name>Dawlat Zadran</bowler-name>
+					<bowler-nickname>Dawlat Zadran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<bowler-name>Shapoor</bowler-name>
+					<bowler-nickname>Shapoor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>48</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<bowler-name>Hamid</bowler-name>
+					<bowler-nickname>Hamid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>3013</playerid>
+					<name>Mirwais Ashraf</name>
+					<bowler-name>Mirwais</bowler-name>
+					<bowler-nickname>Mirwais</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8.1</overs>
+					<maidens>0</maidens>
+					<runsoff>31</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<bowler-name>Nabi</bowler-name>
+					<bowler-nickname>Nabi</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>5.2</overs>
+					<maidens>0</maidens>
+					<runsoff>28</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3004</playerid>
+					<name>Asghar Stanikzai</name>
+					<bowler-name>Stanikzai</bowler-name>
+					<bowler-nickname>Stanikzai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0.5</overs>
+					<maidens>0</maidens>
+					<runsoff>6</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<bowler-name>Shenwari</bowler-name>
+					<bowler-nickname>Shenwari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>32</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<bowler-name>Nawroz</bowler-name>
+					<bowler-nickname>Nawroz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<bowler-name>Ahmadi</bowler-name>
+					<bowler-nickname>Ahmadi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<bowler-name>Najibullah</bowler-name>
+					<bowler-nickname>Najibullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<bowler-name>Zazai</bowler-name>
+					<bowler-nickname>Zazai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

@@ -1,0 +1,2086 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14277" >
+		<type>TEST</type>
+		<gameDesc>County Div 2</gameDesc>
+		<series>County Championship Division Two 2015</series>
+		<matchday>3</matchday>
+		<home>Essex</home>
+		<away>Kent</away>
+		<teamsabbr>ESS vs KENT</teamsabbr>
+		<homeabbr>ESS</homeabbr>
+		<awayabbr>KENT</awayabbr>
+		<homeId>152</homeId>
+		<awayId>150</awayId>
+		<venue>County Ground, Chelmsford</venue>
+		<startdate>19 04 2015</startdate>
+		<enddate>22 04 2015</enddate>
+		<toss>
+			<winner>Essex</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Essex won by 5 wkts</status>
+		<result type="win">
+			<winningteam>Essex</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>5</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Paul Baldwin</Name>
+			<Country>Ger</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Neil Mallender</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150421125110</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>4</currentinningsno>
+		<batteamname>Ess</batteamname>
+		<bwlteamname>KENT</bwlteamname>
+		<batteamruns>193</batteamruns>
+		<batteamwkts>5</batteamwkts>
+		<batteamovers>51.3</batteamovers>
+		<status>Essex won by 5 wkts</status>
+		<batsman>
+			<playerid>1914</playerid>
+			<name>James Foster*</name>
+			<batsman-name>J Foster</batsman-name>
+			<batsman-nickname>Foster</batsman-nickname>
+			<runs>80</runs>
+			<balls-faced>103</balls-faced>
+			<fours>9</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<batsman>
+			<playerid>583</playerid>
+			<name>Jesse Ryder</name>
+			<batsman-name>Ryder</batsman-name>
+			<batsman-nickname>Ryder</batsman-nickname>
+			<runs>17</runs>
+			<balls-faced>16</balls-faced>
+			<fours>2</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<bowler>
+			<playerid>8336</playerid>
+			<name>Ivan Thomas*</name>
+			<bowler-name>I Thomas</bowler-name>
+			<bowler-nickname>Thomas</bowler-nickname>
+			<overs>10.3</overs>
+			<maidens>3</maidens>
+			<runs>37</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6552</playerid>
+			<name>Mitchell Claydon</name>
+			<bowler-name>M Claydon</bowler-name>
+			<bowler-nickname>Claydon</bowler-nickname>
+			<overs>14</overs>
+			<maidens>2</maidens>
+			<runs>55</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>193</target>
+<lastwicket>
+<playerid>10102</playerid>
+<name>James Porter</name>
+<player-runs>14</player-runs>
+<player-balls>85</player-balls>
+<runs>132</runs>
+<wicket-nbr>5</wicket-nbr>
+<bowlerid>7992</bowlerid>
+<bowlername>Matt Coles</bowlername>
+</lastwicket>
+		<extras>
+			<byes>15</byes>
+			<wides>3</wides>
+			<noballs>8</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>31</total>
+		</extras>
+		<prevOvers><![CDATA[. 1 4 L4 . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 . . . 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>2 6 4 . . 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 . 1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV2/ESS_KENT_APR19_APR22/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Thomas to Ryder, 1 run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Thomas to Ryder, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Thomas to Ryder, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas [10.0-3-30-1] is back into the attack</b>]]></line><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>FOUR</b>]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>FOUR</b>]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>SIX</b>]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Claydon to Foster, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;D Stevens to Foster, 1 run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;D Stevens to Ryder, 1 run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;D Stevens to Ryder, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Stevens [13.0-6-37-0] is back into the attack</b>]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Claydon to Foster, leg byes, <b>FOUR</b>]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>FOUR</b>]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Claydon to Ryder, 1 run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Claydon to Ryder, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;M Coles to Foster, <b>FOUR</b>]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;M Coles to Foster, <b>FOUR</b>]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;M Coles to Foster, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Claydon to Foster, 1 run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;M Coles to Ryder, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;M Coles to Ryder, <b>FOUR</b>]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;M Coles to Ryder, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;M Coles to Ryder, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;M Coles to Foster, 1 run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Claydon to Ryder, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Claydon to Ryder, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Claydon to Foster, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>no ball</b>, 2 runs]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Claydon to Foster, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jesse Ryder, left handed bat, comes to the crease</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;M Coles to James Porter, <b>out</b> Bowled!! <b>James Porter b M Coles 14(85) [4s-1]</b>]]></line><line><![CDATA[M Coles to James Porter, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;M Coles to Foster, 1 run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Claydon to James Porter, <b>no ball</b>]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, <b>FOUR</b>]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Claydon to James Porter, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mitchell Claydon [9.0-2-18-3] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;M Coles to Foster, 2 runs]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;M Coles to James Porter, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Thomas to Foster, 2 runs]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Thomas to Foster, <b>FOUR</b>]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Thomas to Foster, 2 runs]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;M Coles to Foster, 1 run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;M Coles to Foster, 2 runs]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Thomas to Foster, 1 run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Coles [5.0-1-14-0] is back into the attack</b>]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Thomas to Foster, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Thomas to James Porter, 1 run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas [6.0-2-20-1] is back into the attack</b>]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;D Stevens to Foster, <b>FOUR</b>]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;D Stevens to Foster, 2 runs]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;D Stevens to Foster, <b>FOUR</b>]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;D Stevens to Foster, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Stevens [12.0-6-25-0] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Claydon to Foster, leg byes, 1 run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Claydon to Foster, 2 runs]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>no ball</b>]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, byes, 5 runs]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;D Stevens to Foster, <b>FOUR</b>]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, byes, <b>FOUR</b>]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Claydon to Foster, 3 runs]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Claydon to Foster, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Claydon to Foster, <b>FOUR</b>]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Claydon to Foster, no run]]></line><line><![CDATA[<b>James Foster, right handed bat, comes to the crease</b>]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, <b>out</b> Caught by Cowdrey!! <b>Daniel Lawrence c Cowdrey b Claydon 3(17)</b>]]></line><line><![CDATA[Claydon to Daniel Lawrence, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;A Riley to Daniel Lawrence, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;A Riley to Daniel Lawrence, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;A Riley to Daniel Lawrence, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;A Riley to Daniel Lawrence, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;A Riley to Daniel Lawrence, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;A Riley to Daniel Lawrence, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Adam Riley, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, 1 run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;D Stevens to Daniel Lawrence, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;D Stevens to Daniel Lawrence, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;D Stevens to Daniel Lawrence, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;D Stevens to James Porter, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Claydon to Daniel Lawrence, no run]]></line><line><![CDATA[<b>Daniel Lawrence, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, <b>out</b> Caught by M Coles!! <b>Mickleburgh c M Coles b Claydon 23(46) [4s-5]</b>]]></line><line><![CDATA[Claydon to Mickleburgh, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, 1 run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Claydon to James Porter, <b>no ball</b>]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Claydon to James Porter, no run]]></line><line><![CDATA[<b>James Porter, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, <b>out</b> Caught by S Billings!! <b>Nicholas Browne c S Billings b Claydon 25(43) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Claydon to Nicholas Browne, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Mitchell Claydon, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, 1 run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, byes, <b>FOUR</b>]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, byes, 2 runs]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Stevens [2.0-0-8-0] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, 2 runs]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas [3.0-1-17-1] is back into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Coles [2.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, 2 runs]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, <b>wide</b>]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, <b>wide</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, <b>FOUR</b>]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;D Stevens to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Stevens, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, 1 run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, 3 runs]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[<b>Jaik Mickleburgh, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Thomas to Westley, <b>out</b> Bowled!! <b>Westley b Thomas 0(3)</b>]]></line><line><![CDATA[Thomas to Westley, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, 2 runs]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, <b>wide</b>]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, 2 runs]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, <b>FOUR</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nicholas Browne and Westley are at the crease. Nicholas Browne is on strike. M Coles will open the attack</b>]]></line><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;David Masters to A Riley, <b>out</b> Lbw!! <b>A Riley lbw b David Masters 5(19) [4s-1]</b>]]></line><line><![CDATA[David Masters to A Riley, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas, right handed bat, comes to the crease</b>]]></line><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, <b>out</b> Caught by Nicholas Browne!! <b>Claydon c Nicholas Browne b Greg Smith 14(30) [4s-2]</b>]]></line><line><![CDATA[Greg Smith to Claydon, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, <b>FOUR</b>]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;David Masters to Claydon, 3 runs]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;David Masters to Claydon, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;David Masters to A Riley, 1 run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;David Masters to A Riley, <b>FOUR</b>]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;David Masters to Claydon, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Masters [11.0-2-36-3] is back into the attack</b>]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Napier to Claydon, <b>FOUR</b>]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Greg Smith to A Riley, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, 1 run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Napier to Claydon, 1 run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[<b>Adam Riley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Napier to M Coles, <b>out</b> Caught by James Porter!! <b>M Coles c James Porter b Napier 2(20)</b>]]></line><line><![CDATA[Napier to M Coles, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Napier to M Coles, <b>wide</b>]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, <b>out</b> Lbw!! <b>S Northeast lbw b Greg Smith 77(124) [4s-10]</b>]]></line><line><![CDATA[Greg Smith to S Northeast, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Napier to S Northeast, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Napier [5.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, 1 run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 1 run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;James Porter to M Coles, 1 run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;James Porter to M Coles, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;James Porter to M Coles, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;James Porter to M Coles, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Coles, left handed bat, comes to the crease</b>]]></line><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, <b>out</b> Caught by Panesar!! <b>S Billings c Panesar b Greg Smith 6(26) [4s-1]</b>]]></line><line><![CDATA[Greg Smith to S Billings, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;James Porter to S Billings, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;James Porter to S Billings, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;James Porter to S Billings, <b>FOUR</b>]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;James Porter to S Billings, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;James Porter to S Billings, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, 1 run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;James Porter to S Billings, no run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;James Porter to S Billings, no run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;James Porter to S Billings, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 2 runs]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Porter [7.0-1-25-1] is back into the attack</b>]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, 1 run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, leg byes, 1 run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, 1 run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Greg Smith to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Greg Smith, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[<b>Sam Billings, right handed bat, comes to the crease</b>]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Ryder to D Stevens, <b>out</b> Caught by Foster!! <b>D Stevens c Foster b Ryder 36(36) [4s-5 6s-1]</b>]]></line><line><![CDATA[Ryder to D Stevens, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Ryder to D Stevens, <b>SIX</b>]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Ryder to D Stevens, 2 runs]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Napier to S Northeast, leg byes, 2 runs]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Napier to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Ryder to D Stevens, 3 runs]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, 1 run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Napier to S Northeast, 1 run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, 1 run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Ryder to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jesse Ryder [2.0-0-11-0] is back into the attack</b>]]></line><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Napier to S Northeast, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;David Masters to D Stevens, 2 runs]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;David Masters to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 1 run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;David Masters to D Stevens, 1 run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Napier to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Napier to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Napier, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;David Masters to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;James Porter to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;James Porter to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;David Masters to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[<b>Darren Stevens, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, <b>out</b> Caught by Foster!! <b>Cowdrey c Foster b David Masters 0(1)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[David Masters to Cowdrey, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 2 runs]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;James Porter to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Fabian Cowdrey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;David Masters to Key, <b>out</b> Caught by Foster!! <b>Key c Foster b David Masters 14(33) [4s-1]</b>]]></line><line><![CDATA[David Masters to Key, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 3 runs]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Porter [4.0-1-8-1] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;David Masters to Key, 2 runs]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 2 runs]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Ryder to S Northeast, 1 run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;David Masters to Key, 2 runs]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;David Masters to Key, 2 runs]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;David Masters to Key, <b>FOUR</b>]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Ryder to S Northeast, <b>FOUR</b>]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, 2 runs]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jesse Ryder, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 2 runs]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;David Masters to Key, 1 run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;James Porter to S Northeast, 2 runs]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;James Porter to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 1 run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[<b>Sam Northeast, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, <b>out</b> Caught by Foster!! <b>Bell-Drummond c Foster b David Masters 4(14) [4s-1]</b>]]></line><line><![CDATA[David Masters to Bell-Drummond, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;David Masters to Key, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, <b>FOUR</b>]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;James Porter to Key, 2 runs]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[<b>Robert Key, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;James Porter to Denly, <b>out</b> Caught by Daniel Lawrence!! <b>Denly c Daniel Lawrence b James Porter 0(3)</b>]]></line><line><![CDATA[James Porter to Denly, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;James Porter to Denly, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;James Porter to Denly, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Porter, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bell-Drummond and Denly are at the crease. Bell-Drummond is on strike. David Masters will open the attack</b>]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;M Coles to Panesar, <b>out</b> Bowled!! <b>Panesar b M Coles 11(10) [4s-2]</b>]]></line><line><![CDATA[M Coles to Panesar, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;M Coles to Panesar, <b>FOUR</b>]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;M Coles to Panesar, <b>FOUR</b>]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;M Coles to Panesar, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;M Coles to Panesar, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Claydon to Panesar, 1 run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Claydon to Panesar, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Claydon to Panesar, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Claydon to Panesar, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Claydon to Panesar, no run]]></line><line><![CDATA[<b>Monty Panesar, left handed bat, comes to the crease</b>]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, <b>out</b> Caught by Cowdrey!! <b>Mickleburgh c Cowdrey b Claydon 46(108) [4s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Claydon to Mickleburgh, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;M Coles to David Masters, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 3 runs]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;M Coles to David Masters, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;M Coles to David Masters, no run]]></line><line><![CDATA[<b>David Masters, right handed bat, comes to the crease</b>]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;M Coles to Napier, <b>out</b> Caught by S Northeast!! <b>Napier c S Northeast b M Coles 57(40) [4s-7 6s-1]</b>]]></line><line><![CDATA[M Coles to Napier, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;M Coles to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Claydon to Napier, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Claydon to Napier, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Claydon to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;M Coles to Napier, 1 run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;M Coles to Napier, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;M Coles to Napier, <b>FOUR</b>]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;M Coles to Napier, 2 runs]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;M Coles to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Claydon to Napier, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 2 runs]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;M Coles to Napier, 1 run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;M Coles to Napier, <b>FOUR</b>]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;M Coles to Napier, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;M Coles to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Coles [10.0-5-20-2] is back into the attack</b>]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, 2 runs]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Claydon to Mickleburgh, 2 runs]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Claydon to Napier, <b>no ball</b>, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Claydon to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mitchell Claydon [3.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;D Stevens to Napier, 1 run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;D Stevens to Napier, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;D Stevens to Napier, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;D Stevens to Napier, <b>FOUR</b>]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Thomas to Napier, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Thomas to Napier, <b>FOUR</b>]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Thomas to Napier, <b>SIX</b>]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, 3 runs]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Thomas to Napier, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;D Stevens to Napier, 1 run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;D Stevens to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, 2 runs]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Thomas to Napier, 1 run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Thomas to Napier, <b>FOUR</b>]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Thomas to Napier, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Thomas to Napier, 2 runs]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Thomas to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;D Stevens to Napier, 3 runs]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;D Stevens to Napier, <b>FOUR</b>]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;D Stevens to Napier, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Thomas to Napier, 3 runs]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Thomas to Napier, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;D Stevens to Napier, 1 run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;D Stevens to Napier, <b>FOUR</b>]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;D Stevens to Napier, no run]]></line><line><![CDATA[<b>Graham Napier, right handed bat, comes to the crease</b>]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, <b>out</b> Caught by M Coles!! <b>Greg Smith c M Coles b D Stevens 0(17)</b>]]></line><line><![CDATA[D Stevens to Greg Smith, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;D Stevens to Greg Smith, no run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Thomas to Greg Smith, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Thomas to Greg Smith, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Thomas to Greg Smith, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Thomas to Greg Smith, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, 1 run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, <b>out</b> Caught by Cowdrey!! <b>James Porter c Cowdrey b D Stevens 3(21)</b>]]></line><line><![CDATA[D Stevens to James Porter, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Stevens [6.0-1-22-2] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Thomas to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas [6.0-1-9-1] is back into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;M Coles to James Porter, 1 run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;M Coles to James Porter, 2 runs]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, leg byes, 1 run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;M Coles to James Porter, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;D Stevens to James Porter, no run]]></line><line><![CDATA[<b>James Porter, right handed bat, comes to the crease</b>]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;D Stevens to Ryder, <b>out</b> Bowled!! <b>Ryder b D Stevens 12(10) [4s-3]</b>]]></line><line><![CDATA[D Stevens to Ryder, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;D Stevens to Ryder, <b>FOUR</b>]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;D Stevens to Ryder, <b>FOUR</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;D Stevens to Ryder, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;D Stevens to Ryder, <b>FOUR</b>]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;M Coles to Ryder, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;M Coles to Ryder, no run]]></line><line><![CDATA[<b>Jesse Ryder, left handed bat, comes to the crease</b>]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;M Coles to Foster, <b>out</b> Caught&Bowled!! <b>Foster c and b M Coles 3(15)</b>]]></line><line><![CDATA[M Coles to Foster, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, <b>FOUR</b>]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;M Coles to Foster, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 3 runs]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;D Stevens to Foster, 2 runs]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;D Stevens to Mickleburgh, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;D Stevens to Foster, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;D Stevens to Foster, no run]]></line><line><![CDATA[<b>James Foster, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;D Stevens to Daniel Lawrence, <b>out</b> Lbw!! <b>Daniel Lawrence lbw b D Stevens 10(15)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[D Stevens to Daniel Lawrence, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Darren Stevens, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Thomas to Daniel Lawrence, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Thomas to Daniel Lawrence, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Thomas to Daniel Lawrence, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, 3 runs]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, 3 runs]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;M Coles to Mickleburgh, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, 3 runs]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Thomas to Daniel Lawrence, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, 3 runs]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, 2 runs]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;M Coles to Daniel Lawrence, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Thomas to Mickleburgh, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Thomas to Daniel Lawrence, 1 run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Thomas to Daniel Lawrence, no run]]></line><line><![CDATA[<b>Daniel Lawrence, right handed bat, comes to the crease</b>]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, <b>out</b> Bowled!! <b>Nicholas Browne b Thomas 11(23) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Thomas to Nicholas Browne, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Jaik Mickleburgh, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;M Coles to Westley, <b>out</b> Caught by Denly!! <b>Westley c Denly b M Coles 5(20) [4s-1]</b>]]></line><line><![CDATA[M Coles to Westley, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;M Coles to Westley, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;M Coles to Westley, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, leg byes, 1 run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;M Coles to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Coles, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, 1 run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Claydon to Westley, <b>FOUR</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, 3 runs]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, 3 runs]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Thomas to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, leg byes, 1 run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, <b>FOUR</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Thomas to Westley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ivan Thomas, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Claydon to Nicholas Browne, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Claydon to Westley, 1 run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Claydon to Westley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Westley and Nicholas Browne are at the crease. Westley is on strike. Claydon will open the attack</b>]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;James Porter to Thomas, <b>out</b> Caught by Daniel Lawrence!! <b>Thomas c Daniel Lawrence b James Porter 0(26)</b>]]></line><line><![CDATA[James Porter to Thomas, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;James Porter to A Riley, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Napier to Thomas, no run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Napier to A Riley, 1 run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Napier to A Riley, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Napier to A Riley, no run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Napier to A Riley, 2 runs]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Napier to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;James Porter to A Riley, 1 run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;James Porter to A Riley, no run]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;James Porter to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Napier to Thomas, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Napier to Thomas, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Napier to A Riley, 1 run]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Napier to A Riley, no run]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Napier to A Riley, <b>FOUR</b>]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Napier to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Napier [9.0-2-26-0] is back into the attack</b>]]></line><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;James Porter to Thomas, byes, <b>FOUR</b>]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;James Porter to Thomas, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Porter [15.0-5-37-1] is back into the attack</b>]]></line><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;David Masters to A Riley, 2 runs]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;David Masters to A Riley, <b>FOUR</b>]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;David Masters to A Riley, 2 runs]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Ryder to Thomas, leg byes, 2 runs]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Ryder to Thomas, no run]]></line><line><![CDATA[<b>Ivan Thomas, right handed bat, comes to the crease</b>]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Ryder to D Stevens, <b>out</b> Lbw!! <b>D Stevens lbw b Ryder 50(90) [4s-8 6s-1]</b>]]></line><line><![CDATA[Ryder to D Stevens, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;David Masters to A Riley, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;David Masters to D Stevens, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Adam Riley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Ryder to Claydon, <b>out</b> Caught by Westley!! <b>Claydon c Westley b Ryder 7(15) [4s-1]</b>]]></line><line><![CDATA[Ryder to Claydon, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Ryder to Claydon, no run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Ryder to Claydon, no run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Ryder to D Stevens, 1 run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jesse Ryder [15.0-3-42-3] is back into the attack</b>]]></line><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;David Masters to D Stevens, 1 run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;David Masters to Claydon, 1 run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;David Masters to Claydon, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;David Masters to Claydon, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;David Masters to Claydon, <b>no ball</b>]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;David Masters to Claydon, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Masters [11.0-3-26-1] is back into the attack</b>]]></line><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, <b>SIX</b>]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Napier to Claydon, <b>FOUR</b>]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Napier to Claydon, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, 1 run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Napier to Claydon, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, 1 run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Greg Smith to Claydon, no run]]></line><line><![CDATA[<b>Mitchell Claydon, left handed bat, comes to the crease</b>]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, <b>out</b> Caught by Mickleburgh!! <b>M Coles c Mickleburgh b Greg Smith 8(21) [4s-1]</b>]]></line><line><![CDATA[Greg Smith to M Coles, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, 1 run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Napier to M Coles, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, 1 run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Napier to M Coles, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Napier to M Coles, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, <b>wide</b>]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Napier to M Coles, 1 run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, 1 run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, <b>FOUR</b>]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Greg Smith to M Coles, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Coles, left handed bat, comes to the crease</b>]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, <b>out</b> Caught by Nicholas Browne!! <b>S Billings c Nicholas Browne b Greg Smith 20(40) [4s-3]</b>]]></line><line><![CDATA[Greg Smith to S Billings, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, 2 runs]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Napier to S Billings, 3 runs]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Greg Smith to D Stevens, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Greg Smith to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Greg Smith, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Napier to S Billings, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, byes, 1 run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Ryder to D Stevens, 1 run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Ryder to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Napier to D Stevens, byes, 1 run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, <b>FOUR</b>]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Napier to D Stevens, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Napier to S Billings, leg byes, 1 run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Napier to S Billings, <b>FOUR</b>]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Napier to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Graham Napier, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Ryder to S Billings, 1 run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Ryder to S Billings, <b>FOUR</b>]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;James Porter to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;James Porter to D Stevens, 2 runs]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Ryder to S Billings, no run]]></line><line><![CDATA[<b>Sam Billings, right handed bat, comes to the crease</b>]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, <b>out</b> Bowled!! <b>Cowdrey b Ryder 18(49) [4s-1]</b>]]></line><line><![CDATA[Ryder to Cowdrey, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Ryder to D Stevens, 1 run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;James Porter to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;James Porter to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Ryder to D Stevens, 1 run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Ryder to D Stevens, <b>FOUR</b>]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Ryder to D Stevens, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, 1 run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Ryder to D Stevens, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jesse Ryder [9.0-2-20-2] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;David Masters to D Stevens, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, 2 runs]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Darren Stevens, right handed bat, comes to the crease</b>]]></line><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, <b>out</b> Caught by Nicholas Browne!! <b>Bell-Drummond c Nicholas Browne b David Masters 30(84) [4s-4]</b>]]></line><line><![CDATA[David Masters to Bell-Drummond, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, 3 runs]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, <b>FOUR</b>]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, <b>FOUR</b>]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;David Masters to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Masters [8.0-2-19-0] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, 1 run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, 1 run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, <b>FOUR</b>]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;James Porter to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Porter [6.0-2-18-1] is back into the attack</b>]]></line><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, 3 runs]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, 2 runs]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Ryder to Cowdrey, no run]]></line><line><![CDATA[<b>Fabian Cowdrey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, <b>out</b> Caught by Greg Smith!! <b>S Northeast c Greg Smith b Ryder 6(13)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Ryder to S Northeast, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;David Masters to S Northeast, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;David Masters to S Northeast, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, 3 runs]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, 2 runs]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, 2 runs]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Ryder to S Northeast, no run]]></line><line><![CDATA[<b>Sam Northeast, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Ryder to Key, <b>out</b> Lbw!! <b>Key lbw b Ryder 18(36) [4s-3]</b>]]></line><line><![CDATA[Ryder to Key, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Ryder to Key, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Ryder to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;David Masters to Key, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;David Masters to Key, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;David Masters to Key, 2 runs]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;David Masters to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Masters [4.0-1-7-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Ryder to Key, 1 run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Ryder to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;James Porter to Key, 1 run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;James Porter to Key, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Ryder to Key, leg byes, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Ryder to Key, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Ryder to Key, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Ryder to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, 2 runs]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, <b>FOUR</b>]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;James Porter to Key, <b>FOUR</b>]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, 2 runs]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;James Porter to Key, <b>FOUR</b>]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;James Porter to Key, no run]]></line><line><![CDATA[<b>Robert Key, right handed bat, comes to the crease</b>]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;James Porter to Denly, <b>out</b> Caught by Foster!! <b>Denly c Foster b James Porter 3(10)</b>]]></line><line><![CDATA[James Porter to Denly, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;James Porter to Denly, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;James Porter to Denly, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;David Masters to Denly, 1 run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;David Masters to Denly, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;David Masters to Denly, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, <b>FOUR</b>]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;James Porter to Bell-Drummond, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;James Porter to Denly, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;James Porter to Denly, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Porter, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;David Masters to Denly, 1 run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;David Masters to Denly, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;David Masters to Bell-Drummond, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Bell-Drummond and Denly are at the crease. Bell-Drummond is on strike. David Masters will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Essex</b> (Playing XI): Tom Westley, Nicholas Browne, Jaik Mickleburgh, Daniel Lawrence, Jesse Ryder, James Foster(w/c), Greg Smith, Graham Napier, David Masters, Monty Panesar, James Porter]]></line><line><![CDATA[<b>Kent</b> (Playing XI): Daniel Bell-Drummond, Joe Denly, Robert Key(c), Sam Northeast, Fabian Cowdrey, Darren Stevens, Sam Billings(w), Matt Coles, Mitchell Claydon, Ivan Thomas, Adam Riley]]></line><line><![CDATA[<b>Essex have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Kent</b> (From): Robert Key(c), Adam Ball, Sam Billings(w), Mitchell Claydon, Joe Denly, Calum Haggett, Charlie Hartley, Brendan Nash, Darren Stevens, Sam Northeast, Daniel Bell-Drummond, Alex Blake, Fabian Cowdrey, David Griffiths, Ben Harmison, Matt Hunn, Adam Riley, Ivan Thomas]]></line><line><![CDATA[<b>Essex</b> (From): James Foster(c/w), Nicholas Browne, Rehan Hassan, Jaik Mickleburgh, Monty Panesar, Henry Ramsden, Owais Shah, Shaun Tait, Reece Topley, Tom Westley, David Masters, Graham Napier, Mark Pettini, Jesse Ryder, Greg Smith, Kishen Velani]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>193</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>68.5</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Kent">
+			<players>
+				<player>
+					<playerid>7856</playerid>
+					<name>Daniel Bell-Drummond</name>
+					<batsman-name>D Bell-Drummond</batsman-name>
+					<batsman-nickname>Bell-Drummond</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>84</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>Nicholas Browne</fielder>
+						<fielderId>9388</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1995</playerid>
+					<name>Joe Denly</name>
+					<batsman-name>J Denly</batsman-name>
+					<batsman-nickname>Denly</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>10</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1915</playerid>
+					<name>Robert Key</name>
+					<batsman-name>R Key</batsman-name>
+					<batsman-nickname>Key</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>36</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Ryder</bowler>
+					<bowlerId>583</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7996</playerid>
+					<name>Sam Northeast</name>
+					<batsman-name>Sam Northeast</batsman-name>
+					<batsman-nickname>S Northeast</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>13</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ryder</bowler>
+					<bowlerId>583</bowlerId>
+						<fielder>Greg Smith</fielder>
+						<fielderId>6815</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8570</playerid>
+					<name>Fabian Cowdrey</name>
+					<batsman-name>F Cowdrey</batsman-name>
+					<batsman-nickname>Cowdrey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>49</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Ryder</bowler>
+					<bowlerId>583</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8000</playerid>
+					<name>Darren Stevens</name>
+					<batsman-name>Darren Stevens</batsman-name>
+					<batsman-nickname>D Stevens</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>50</runs>
+					<balls>90</balls>
+					<fours>8</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Ryder</bowler>
+					<bowlerId>583</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7990</playerid>
+					<name>Sam Billings</name>
+					<batsman-name>Sam Billings</batsman-name>
+					<batsman-nickname>S Billings</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>20</runs>
+					<balls>40</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Greg Smith</bowler>
+					<bowlerId>6815</bowlerId>
+						<fielder>Nicholas Browne</fielder>
+						<fielderId>9388</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7992</playerid>
+					<name>Matt Coles</name>
+					<batsman-name>Matt Coles</batsman-name>
+					<batsman-nickname>M Coles</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>21</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Greg Smith</bowler>
+					<bowlerId>6815</bowlerId>
+						<fielder>Jaik Mickleburgh</fielder>
+						<fielderId>6519</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6552</playerid>
+					<name>Mitchell Claydon</name>
+					<batsman-name>M Claydon</batsman-name>
+					<batsman-nickname>Claydon</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>15</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ryder</bowler>
+					<bowlerId>583</bowlerId>
+						<fielder>Tom Westley</fielder>
+						<fielderId>6528</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7998</playerid>
+					<name>Adam Riley</name>
+					<batsman-name>Adam Riley</batsman-name>
+					<batsman-nickname>A Riley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>30</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8336</playerid>
+					<name>Ivan Thomas</name>
+					<batsman-name>I Thomas</batsman-name>
+					<batsman-nickname>Thomas</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>26</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder>Daniel Lawrence</fielder>
+						<fielderId>10385</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1995</playerid>
+				<nbr>1</nbr>
+				<runs>10</runs>
+				<overs>3.3</overs>
+				<batsman>Joe Denly</batsman>
+				<batsman-name>J Denly</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1915</playerid>
+				<nbr>2</nbr>
+				<runs>39</runs>
+				<overs>14.3</overs>
+				<batsman>Robert Key</batsman>
+				<batsman-name>R Key</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7996</playerid>
+				<nbr>3</nbr>
+				<runs>49</runs>
+				<overs>18.1</overs>
+				<batsman>Sam Northeast</batsman>
+				<batsman-name>Sam Northeast</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7856</playerid>
+				<nbr>4</nbr>
+				<runs>72</runs>
+				<overs>28.6</overs>
+				<batsman>Daniel Bell-Drummond</batsman>
+				<batsman-name>D Bell-Drummond</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8570</playerid>
+				<nbr>5</nbr>
+				<runs>87</runs>
+				<overs>34.5</overs>
+				<batsman>Fabian Cowdrey</batsman>
+				<batsman-name>F Cowdrey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7990</playerid>
+				<nbr>6</nbr>
+				<runs>125</runs>
+				<overs>46.6</overs>
+				<batsman>Sam Billings</batsman>
+				<batsman-name>Sam Billings</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7992</playerid>
+				<nbr>7</nbr>
+				<runs>142</runs>
+				<overs>54.3</overs>
+				<batsman>Matt Coles</batsman>
+				<batsman-name>Matt Coles</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6552</playerid>
+				<nbr>8</nbr>
+				<runs>168</runs>
+				<overs>58.6</overs>
+				<batsman>Mitchell Claydon</batsman>
+				<batsman-name>M Claydon</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8000</playerid>
+				<nbr>9</nbr>
+				<runs>169</runs>
+				<overs>60.2</overs>
+				<batsman>Darren Stevens</batsman>
+				<batsman-name>Darren Stevens</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8336</playerid>
+				<nbr>10</nbr>
+				<runs>193</runs>
+				<overs>68.5</overs>
+				<batsman>Ivan Thomas</batsman>
+				<batsman-name>I Thomas</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>6</byes>
+			<wides>1</wides>
+			<noballs>2</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>15</total>
+		</extras>
+		<bowlteam name="Essex">
+			<players>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<bowler-name>D Masters</bowler-name>
+					<bowler-nickname>David Masters</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>3</maidens>
+					<runsoff>39</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<bowler-name>James Porter</bowler-name>
+					<bowler-nickname>James Porter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17.5</overs>
+					<maidens>6</maidens>
+					<runsoff>39</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>583</playerid>
+					<name>Jesse Ryder</name>
+					<bowler-name>Ryder</bowler-name>
+					<bowler-nickname>Ryder</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>18</overs>
+					<maidens>5</maidens>
+					<runsoff>43</runsoff>
+					<wickets>5</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<bowler-name>G Napier</bowler-name>
+					<bowler-nickname>Napier</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>2</maidens>
+					<runsoff>34</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6815</playerid>
+					<name>Greg Smith</name>
+					<bowler-name>Greg Smith</bowler-name>
+					<bowler-nickname>Greg Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6528</playerid>
+					<name>Tom Westley</name>
+					<bowler-name>T Westley</bowler-name>
+					<bowler-nickname>Westley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<bowler-name>N Browne</bowler-name>
+					<bowler-nickname>Nicholas Browne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<bowler-name>J Mickleburgh</bowler-name>
+					<bowler-nickname>Mickleburgh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<bowler-name>Daniel Lawrence</bowler-name>
+					<bowler-nickname>Daniel Lawrence</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<bowler-name>J Foster</bowler-name>
+					<bowler-nickname>Foster</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>512</playerid>
+					<name>Monty Panesar</name>
+					<bowler-name>Panesar</bowler-name>
+					<bowler-nickname>Panesar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>164</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>46.5</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Essex">
+			<players>
+				<player>
+					<playerid>6528</playerid>
+					<name>Tom Westley</name>
+					<batsman-name>T Westley</batsman-name>
+					<batsman-nickname>Westley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>20</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Matt Coles</bowler>
+					<bowlerId>7992</bowlerId>
+						<fielder>Joe Denly</fielder>
+						<fielderId>1995</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<batsman-name>N Browne</batsman-name>
+					<batsman-nickname>Nicholas Browne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>23</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>I Thomas</bowler>
+					<bowlerId>8336</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<batsman-name>J Mickleburgh</batsman-name>
+					<batsman-nickname>Mickleburgh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>108</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Claydon</bowler>
+					<bowlerId>6552</bowlerId>
+						<fielder>Fabian Cowdrey</fielder>
+						<fielderId>8570</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<batsman-name>Daniel Lawrence</batsman-name>
+					<batsman-nickname>Daniel Lawrence</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Darren Stevens</bowler>
+					<bowlerId>8000</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<batsman-name>J Foster</batsman-name>
+					<batsman-nickname>Foster</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>3</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Matt Coles</bowler>
+					<bowlerId>7992</bowlerId>
+						<fielder>Matt Coles</fielder>
+						<fielderId>7992</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>583</playerid>
+					<name>Jesse Ryder</name>
+					<batsman-name>Ryder</batsman-name>
+					<batsman-nickname>Ryder</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>10</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Darren Stevens</bowler>
+					<bowlerId>8000</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<batsman-name>James Porter</batsman-name>
+					<batsman-nickname>James Porter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>21</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Darren Stevens</bowler>
+					<bowlerId>8000</bowlerId>
+						<fielder>Fabian Cowdrey</fielder>
+						<fielderId>8570</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6815</playerid>
+					<name>Greg Smith</name>
+					<batsman-name>Greg Smith</batsman-name>
+					<batsman-nickname>Greg Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>17</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Darren Stevens</bowler>
+					<bowlerId>8000</bowlerId>
+						<fielder>Matt Coles</fielder>
+						<fielderId>7992</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<batsman-name>G Napier</batsman-name>
+					<batsman-nickname>Napier</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>57</runs>
+					<balls>40</balls>
+					<fours>7</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Matt Coles</bowler>
+					<bowlerId>7992</bowlerId>
+						<fielder>Sam Northeast</fielder>
+						<fielderId>7996</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<batsman-name>D Masters</batsman-name>
+					<batsman-nickname>David Masters</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>512</playerid>
+					<name>Monty Panesar</name>
+					<batsman-name>Panesar</batsman-name>
+					<batsman-nickname>Panesar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>10</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Matt Coles</bowler>
+					<bowlerId>7992</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6528</playerid>
+				<nbr>1</nbr>
+				<runs>18</runs>
+				<overs>6.6</overs>
+				<batsman>Tom Westley</batsman>
+				<batsman-name>T Westley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9388</playerid>
+				<nbr>2</nbr>
+				<runs>18</runs>
+				<overs>7.1</overs>
+				<batsman>Nicholas Browne</batsman>
+				<batsman-name>N Browne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10385</playerid>
+				<nbr>3</nbr>
+				<runs>34</runs>
+				<overs>13.1</overs>
+				<batsman>Daniel Lawrence</batsman>
+				<batsman-name>Daniel Lawrence</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1914</playerid>
+				<nbr>4</nbr>
+				<runs>47</runs>
+				<overs>18.4</overs>
+				<batsman>James Foster</batsman>
+				<batsman-name>J Foster</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>583</playerid>
+				<nbr>5</nbr>
+				<runs>60</runs>
+				<overs>21.5</overs>
+				<batsman>Jesse Ryder</batsman>
+				<batsman-name>Ryder</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10102</playerid>
+				<nbr>6</nbr>
+				<runs>67</runs>
+				<overs>26.6</overs>
+				<batsman>James Porter</batsman>
+				<batsman-name>James Porter</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6815</playerid>
+				<nbr>7</nbr>
+				<runs>69</runs>
+				<overs>32.2</overs>
+				<batsman>Greg Smith</batsman>
+				<batsman-name>Greg Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1870</playerid>
+				<nbr>8</nbr>
+				<runs>149</runs>
+				<overs>44.2</overs>
+				<batsman>Graham Napier</batsman>
+				<batsman-name>G Napier</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6519</playerid>
+				<nbr>9</nbr>
+				<runs>153</runs>
+				<overs>45.1</overs>
+				<batsman>Jaik Mickleburgh</batsman>
+				<batsman-name>J Mickleburgh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>512</playerid>
+				<nbr>10</nbr>
+				<runs>164</runs>
+				<overs>46.5</overs>
+				<batsman>Monty Panesar</batsman>
+				<batsman-name>Panesar</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>0</wides>
+			<noballs>2</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Kent">
+			<players>
+				<player>
+					<playerid>6552</playerid>
+					<name>Mitchell Claydon</name>
+					<bowler-name>M Claydon</bowler-name>
+					<bowler-nickname>Claydon</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>8336</playerid>
+					<name>Ivan Thomas</name>
+					<bowler-name>I Thomas</bowler-name>
+					<bowler-nickname>Thomas</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>4</maidens>
+					<runsoff>36</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7992</playerid>
+					<name>Matt Coles</name>
+					<bowler-name>Matt Coles</bowler-name>
+					<bowler-nickname>M Coles</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13.5</overs>
+					<maidens>5</maidens>
+					<runsoff>48</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8000</playerid>
+					<name>Darren Stevens</name>
+					<bowler-name>Darren Stevens</bowler-name>
+					<bowler-nickname>D Stevens</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>2</maidens>
+					<runsoff>47</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7856</playerid>
+					<name>Daniel Bell-Drummond</name>
+					<bowler-name>D Bell-Drummond</bowler-name>
+					<bowler-nickname>Bell-Drummond</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1995</playerid>
+					<name>Joe Denly</name>
+					<bowler-name>J Denly</bowler-name>
+					<bowler-nickname>Denly</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1915</playerid>
+					<name>Robert Key</name>
+					<bowler-name>R Key</bowler-name>
+					<bowler-nickname>Key</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7996</playerid>
+					<name>Sam Northeast</name>
+					<bowler-name>Sam Northeast</bowler-name>
+					<bowler-nickname>S Northeast</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8570</playerid>
+					<name>Fabian Cowdrey</name>
+					<bowler-name>F Cowdrey</bowler-name>
+					<bowler-nickname>Cowdrey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7990</playerid>
+					<name>Sam Billings</name>
+					<bowler-name>Sam Billings</bowler-name>
+					<bowler-nickname>S Billings</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7998</playerid>
+					<name>Adam Riley</name>
+					<bowler-name>Adam Riley</bowler-name>
+					<bowler-nickname>A Riley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>163</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>51</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Kent">
+			<players>
+				<player>
+					<playerid>7856</playerid>
+					<name>Daniel Bell-Drummond</name>
+					<batsman-name>D Bell-Drummond</batsman-name>
+					<batsman-nickname>Bell-Drummond</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>14</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1995</playerid>
+					<name>Joe Denly</name>
+					<batsman-name>J Denly</batsman-name>
+					<batsman-nickname>Denly</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder>Daniel Lawrence</fielder>
+						<fielderId>10385</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1915</playerid>
+					<name>Robert Key</name>
+					<batsman-name>R Key</batsman-name>
+					<batsman-nickname>Key</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>33</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7996</playerid>
+					<name>Sam Northeast</name>
+					<batsman-name>Sam Northeast</batsman-name>
+					<batsman-nickname>S Northeast</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>77</runs>
+					<balls>124</balls>
+					<fours>10</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Greg Smith</bowler>
+					<bowlerId>6815</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8570</playerid>
+					<name>Fabian Cowdrey</name>
+					<batsman-name>F Cowdrey</batsman-name>
+					<batsman-nickname>Cowdrey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8000</playerid>
+					<name>Darren Stevens</name>
+					<batsman-name>Darren Stevens</batsman-name>
+					<batsman-nickname>D Stevens</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>36</runs>
+					<balls>36</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ryder</bowler>
+					<bowlerId>583</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7990</playerid>
+					<name>Sam Billings</name>
+					<batsman-name>Sam Billings</batsman-name>
+					<batsman-nickname>S Billings</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>6</runs>
+					<balls>26</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Greg Smith</bowler>
+					<bowlerId>6815</bowlerId>
+						<fielder>Monty Panesar</fielder>
+						<fielderId>512</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7992</playerid>
+					<name>Matt Coles</name>
+					<batsman-name>Matt Coles</batsman-name>
+					<batsman-nickname>M Coles</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>20</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Napier</bowler>
+					<bowlerId>1870</bowlerId>
+						<fielder>James Porter</fielder>
+						<fielderId>10102</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6552</playerid>
+					<name>Mitchell Claydon</name>
+					<batsman-name>M Claydon</batsman-name>
+					<batsman-nickname>Claydon</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>30</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Greg Smith</bowler>
+					<bowlerId>6815</bowlerId>
+						<fielder>Nicholas Browne</fielder>
+						<fielderId>9388</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7998</playerid>
+					<name>Adam Riley</name>
+					<batsman-name>Adam Riley</batsman-name>
+					<batsman-nickname>A Riley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8336</playerid>
+					<name>Ivan Thomas</name>
+					<batsman-name>I Thomas</batsman-name>
+					<batsman-nickname>Thomas</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1995</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>1.3</overs>
+				<batsman>Joe Denly</batsman>
+				<batsman-name>J Denly</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7856</playerid>
+				<nbr>2</nbr>
+				<runs>8</runs>
+				<overs>4.2</overs>
+				<batsman>Daniel Bell-Drummond</batsman>
+				<batsman-name>D Bell-Drummond</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1915</playerid>
+				<nbr>3</nbr>
+				<runs>43</runs>
+				<overs>14.6</overs>
+				<batsman>Robert Key</batsman>
+				<batsman-name>R Key</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8570</playerid>
+				<nbr>4</nbr>
+				<runs>49</runs>
+				<overs>16.1</overs>
+				<batsman>Fabian Cowdrey</batsman>
+				<batsman-name>F Cowdrey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8000</playerid>
+				<nbr>5</nbr>
+				<runs>111</runs>
+				<overs>28.5</overs>
+				<batsman>Darren Stevens</batsman>
+				<batsman-name>Darren Stevens</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7990</playerid>
+				<nbr>6</nbr>
+				<runs>136</runs>
+				<overs>37.6</overs>
+				<batsman>Sam Billings</batsman>
+				<batsman-name>Sam Billings</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7996</playerid>
+				<nbr>7</nbr>
+				<runs>143</runs>
+				<overs>41.3</overs>
+				<batsman>Sam Northeast</batsman>
+				<batsman-name>Sam Northeast</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7992</playerid>
+				<nbr>8</nbr>
+				<runs>144</runs>
+				<overs>44.2</overs>
+				<batsman>Matt Coles</batsman>
+				<batsman-name>Matt Coles</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6552</playerid>
+				<nbr>9</nbr>
+				<runs>163</runs>
+				<overs>49.6</overs>
+				<batsman>Mitchell Claydon</batsman>
+				<batsman-name>M Claydon</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7998</playerid>
+				<nbr>10</nbr>
+				<runs>163</runs>
+				<overs>50.6</overs>
+				<batsman>Adam Riley</batsman>
+				<batsman-name>Adam Riley</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Essex">
+			<players>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<bowler-name>D Masters</bowler-name>
+					<bowler-nickname>David Masters</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>3</maidens>
+					<runsoff>45</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<bowler-name>James Porter</bowler-name>
+					<bowler-nickname>James Porter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>37</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>583</playerid>
+					<name>Jesse Ryder</name>
+					<bowler-name>Ryder</bowler-name>
+					<bowler-nickname>Ryder</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>2</maidens>
+					<runsoff>28</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<bowler-name>G Napier</bowler-name>
+					<bowler-nickname>Napier</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6815</playerid>
+					<name>Greg Smith</name>
+					<bowler-name>Greg Smith</bowler-name>
+					<bowler-nickname>Greg Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>3</maidens>
+					<runsoff>22</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6528</playerid>
+					<name>Tom Westley</name>
+					<bowler-name>T Westley</bowler-name>
+					<bowler-nickname>Westley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<bowler-name>N Browne</bowler-name>
+					<bowler-nickname>Nicholas Browne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<bowler-name>J Mickleburgh</bowler-name>
+					<bowler-nickname>Mickleburgh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<bowler-name>Daniel Lawrence</bowler-name>
+					<bowler-nickname>Daniel Lawrence</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<bowler-name>J Foster</bowler-name>
+					<bowler-nickname>Foster</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>512</playerid>
+					<name>Monty Panesar</name>
+					<bowler-name>Panesar</bowler-name>
+					<bowler-nickname>Panesar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="4">
+		<totalruns>193</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>51.3</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Essex">
+			<players>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<batsman-name>N Browne</batsman-name>
+					<batsman-nickname>Nicholas Browne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>43</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Claydon</bowler>
+					<bowlerId>6552</bowlerId>
+						<fielder>Sam Billings</fielder>
+						<fielderId>7990</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6528</playerid>
+					<name>Tom Westley</name>
+					<batsman-name>T Westley</batsman-name>
+					<batsman-nickname>Westley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>I Thomas</bowler>
+					<bowlerId>8336</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<batsman-name>J Mickleburgh</batsman-name>
+					<batsman-nickname>Mickleburgh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>23</runs>
+					<balls>46</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Claydon</bowler>
+					<bowlerId>6552</bowlerId>
+						<fielder>Matt Coles</fielder>
+						<fielderId>7992</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<batsman-name>James Porter</batsman-name>
+					<batsman-nickname>James Porter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>85</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Matt Coles</bowler>
+					<bowlerId>7992</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<batsman-name>Daniel Lawrence</batsman-name>
+					<batsman-nickname>Daniel Lawrence</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>17</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Claydon</bowler>
+					<bowlerId>6552</bowlerId>
+						<fielder>Fabian Cowdrey</fielder>
+						<fielderId>8570</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<batsman-name>J Foster</batsman-name>
+					<batsman-nickname>Foster</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>80</runs>
+					<balls>103</balls>
+					<fours>9</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>583</playerid>
+					<name>Jesse Ryder</name>
+					<batsman-name>Ryder</batsman-name>
+					<batsman-nickname>Ryder</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>16</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6815</playerid>
+					<name>Greg Smith</name>
+					<batsman-name>Greg Smith</batsman-name>
+					<batsman-nickname>Greg Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<batsman-name>G Napier</batsman-name>
+					<batsman-nickname>Napier</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<batsman-name>D Masters</batsman-name>
+					<batsman-nickname>David Masters</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>512</playerid>
+					<name>Monty Panesar</name>
+					<batsman-name>Panesar</batsman-name>
+					<batsman-nickname>Panesar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6528</playerid>
+				<nbr>1</nbr>
+				<runs>9</runs>
+				<overs>1.3</overs>
+				<batsman>Tom Westley</batsman>
+				<batsman-name>T Westley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9388</playerid>
+				<nbr>2</nbr>
+				<runs>57</runs>
+				<overs>14.1</overs>
+				<batsman>Nicholas Browne</batsman>
+				<batsman-name>N Browne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6519</playerid>
+				<nbr>3</nbr>
+				<runs>60</runs>
+				<overs>16.4</overs>
+				<batsman>Jaik Mickleburgh</batsman>
+				<batsman-name>J Mickleburgh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10385</playerid>
+				<nbr>4</nbr>
+				<runs>66</runs>
+				<overs>22.2</overs>
+				<batsman>Daniel Lawrence</batsman>
+				<batsman-name>Daniel Lawrence</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10102</playerid>
+				<nbr>5</nbr>
+				<runs>132</runs>
+				<overs>43.6</overs>
+				<batsman>James Porter</batsman>
+				<batsman-name>James Porter</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>15</byes>
+			<wides>3</wides>
+			<noballs>8</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>31</total>
+		</extras>
+		<bowlteam name="Kent">
+			<players>
+				<player>
+					<playerid>7992</playerid>
+					<name>Matt Coles</name>
+					<bowler-name>Matt Coles</bowler-name>
+					<bowler-nickname>M Coles</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>12</overs>
+					<maidens>2</maidens>
+					<runsoff>38</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8336</playerid>
+					<name>Ivan Thomas</name>
+					<bowler-name>I Thomas</bowler-name>
+					<bowler-nickname>Thomas</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10.3</overs>
+					<maidens>3</maidens>
+					<runsoff>37</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8000</playerid>
+					<name>Darren Stevens</name>
+					<bowler-name>Darren Stevens</bowler-name>
+					<bowler-nickname>D Stevens</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>6</maidens>
+					<runsoff>43</runsoff>
+					<wickets>0</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6552</playerid>
+					<name>Mitchell Claydon</name>
+					<bowler-name>M Claydon</bowler-name>
+					<bowler-nickname>Claydon</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>2</maidens>
+					<runsoff>55</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>7998</playerid>
+					<name>Adam Riley</name>
+					<bowler-name>Adam Riley</bowler-name>
+					<bowler-nickname>A Riley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>1</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7856</playerid>
+					<name>Daniel Bell-Drummond</name>
+					<bowler-name>D Bell-Drummond</bowler-name>
+					<bowler-nickname>Bell-Drummond</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1995</playerid>
+					<name>Joe Denly</name>
+					<bowler-name>J Denly</bowler-name>
+					<bowler-nickname>Denly</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1915</playerid>
+					<name>Robert Key</name>
+					<bowler-name>R Key</bowler-name>
+					<bowler-nickname>Key</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7996</playerid>
+					<name>Sam Northeast</name>
+					<bowler-name>Sam Northeast</bowler-name>
+					<bowler-nickname>S Northeast</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8570</playerid>
+					<name>Fabian Cowdrey</name>
+					<bowler-name>F Cowdrey</bowler-name>
+					<bowler-nickname>Cowdrey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7990</playerid>
+					<name>Sam Billings</name>
+					<bowler-name>Sam Billings</bowler-name>
+					<bowler-nickname>S Billings</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

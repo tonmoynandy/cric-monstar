@@ -1,0 +1,90 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>England</name>
+	<graph>
+		<id>wag_6692</id>
+		<name>Moeen Ali</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_6692_M_Ali.png</url>
+	</graph>
+	<graph>
+		<id>wag_385</id>
+		<name>Ian Bell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_385_Bell.png</url>
+	</graph>
+	<graph>
+		<id>wag_6679</id>
+		<name>Gary Ballance</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_6679_Ballance.png</url>
+	</graph>
+	<graph>
+		<id>wag_8019</id>
+		<name>Joe Root</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_8019_J_Root.png</url>
+	</graph>
+	<graph>
+		<id>wag_624</id>
+		<name>Eoin Morgan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_624_E_Morgan.png</url>
+	</graph>
+	<graph>
+		<id>wag_6500</id>
+		<name>James Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_6500_James_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_2258</id>
+		<name>Jos Buttler</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_2258_J_Buttler.png</url>
+	</graph>
+	<graph>
+		<id>wag_6670</id>
+		<name>Chris Woakes</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_9_6670_C_Woakes.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Sri Lanka</name>
+	<graph>
+		<id>wag_6243</id>
+		<name>Lahiru Thirimanne</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_5_6243_Thirimanne.png</url>
+	</graph>
+	<graph>
+		<id>wag_105</id>
+		<name>Tillakaratne Dilshan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_5_105_Dilshan.png</url>
+	</graph>
+	<graph>
+		<id>wag_104</id>
+		<name>Kumar Sangakkara</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/ENG_SL_MAR01/gph_wag_12876_5_104_Sangakkara.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

@@ -1,0 +1,1078 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14622" >
+		<type>T20</type>
+		<gameDesc>42nd Match</gameDesc>
+		<series>Indian T20 League 2015</series>
+		<matchday>1</matchday>
+		<home>Kolkata</home>
+		<away>Delhi</away>
+		<teamsabbr>KOL vs DEL</teamsabbr>
+		<homeabbr>KOL</homeabbr>
+		<awayabbr>DEL</awayabbr>
+		<homeId>63</homeId>
+		<awayId>61</awayId>
+		<venue>Eden Gardens, Kolkata</venue>
+		<startdate>07 05 2015</startdate>
+		<enddate>07 05 2015</enddate>
+		<toss>
+			<winner>Kolkata</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Kolkata won by 13 runs</status>
+		<result type="win">
+			<winningteam>Kolkata</winningteam>
+			<wonbyruns>13</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Marais Erasmus</Name>
+			<Country>RSA</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Anil Chaudhary</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Krishnamachari Srinivasan</Name>
+			<Country>Ind</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Roshan Mahanama</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>14:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150507180246</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>DEL</batteamname>
+		<bwlteamname>KOL</bwlteamname>
+		<batteamruns>158</batteamruns>
+		<batteamwkts>6</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Kolkata won by 13 runs</status>
+		<batsman>
+			<playerid>484</playerid>
+			<name>Albie Morkel*</name>
+			<batsman-name>A Morkel</batsman-name>
+			<batsman-nickname>A Morkel</batsman-nickname>
+			<runs>5</runs>
+			<balls-faced>2</balls-faced>
+			<fours>1</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>1601</playerid>
+			<name>Saurabh Tiwary</name>
+			<batsman-name>S Tiwary</batsman-name>
+			<batsman-nickname>S Tiwary</batsman-nickname>
+			<runs>24</runs>
+			<balls-faced>15</balls-faced>
+			<fours>3</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<bowler>
+			<playerid>7736</playerid>
+			<name>Andre Russell*</name>
+			<bowler-name>A Russell</bowler-name>
+			<bowler-nickname>A Russell</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>24</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>1858</playerid>
+			<name>Umesh Yadav</name>
+			<bowler-name>Umesh</bowler-name>
+			<bowler-nickname>U Yadav</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>29</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>172</target>
+<lastwicket>
+<playerid>1629</playerid>
+<name>Angelo Mathews</name>
+<player-runs>22</player-runs>
+<player-balls>15</player-balls>
+<runs>143</runs>
+<wicket-nbr>6</wicket-nbr>
+<bowlerid>7736</bowlerid>
+<bowlername>A Russell</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>5</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<prevOvers><![CDATA[1 2 6 1 6 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>Wd . . 4 1 . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . 1 4 W <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 Wd 4 1 4 . 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_T20_LEAGUE/KOL_DEL_MAY07/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[This is <b>Sidhant Maheshwari</b>, signing off on behalf of <b>Krishna, Raju, Sriram</b> and my co-commentators, <b>Akshay Maanay, Srivathsa</b> and <b>Pradeep</b>. Bye folks!]]></line><line><![CDATA[That's all we have for you from this game. The fight for the four playoff spots is getting tighter now and tomorrow, there's another big game coming your way. <b>Chennai</b> will take on the <b>Mumbai</b> in Chennai. Don't forget to join us then.]]></line><line><![CDATA[Let's take a look at some of the best <b>tweets</b> pertaining to this game:]]></line><line><![CDATA[<b>@Dravidict:</b> Drop catches, leaking runs, 8 batsmen unable to chase a target #DEL showed clearly their are better than last year but not top 4 material]]></line><line><![CDATA[<b>@jatinsapru:</b> Honestly Delhi have no one to blame but themselves.. JP admitted they didn't use Morkel at the end.. Why did he bat at the end then?KOLvsDEL]]></line><line><![CDATA[<b>@fwildecricket:</b> #KOL were just too good for #DEL today. They scored too many runs for a weak #DEL batting order who got their strategy muddled. #IPL #KOLvDEL]]></line><line><![CDATA[<b>@G_Rajaraman:</b> Gambhir's captaincy's been a highlight of #KOLvDEL. Using five overs of pace upfront against Indian batsmen was a simple but effective tactic]]></line><line><![CDATA[<b>@bhogleharsha:</b> If Brad Hogg played a 4 pm game, he's need to put sunscreen on his tongue! #PepsiIPL]]></line><line><![CDATA[<b>Chawla:</b> 'Well the season is going on pretty well. The ball is coming out well out of the hand and I am doing the role that my captain wants me to do. As a leg-spinner, I was always going for the wickets. As long as it comes off, I am happy. It depends on the situation and what the skipper needs from me. He might bowl me for two overs, four on the trot or say three together, but it is about how the situation is.']]></line><line><![CDATA[<b>Piyush Chawla</b> is the <b>Man of the Match</b> for picking up <b>4 wickets</b>]]></line><line><![CDATA[<b>Gambhir:</b> 'We thought 160 was par, getting 170 odd was a bonus. The way Johan Botha batted was great for us. We always knew that DEL were going to come hard at us as they had nothing to lose. We knew that we had a lot of options up our sleeves and we were always in control of the game, with all the spinners. It is a blessing in disguise to have a lot of options. We have got quality spinners, we have got Johan Botha, Narine, Piyush and Hogg. Lot of people talk about how much it turns, but for us it is a good batting track. When you have quality spinners in the side, the surface doesn't matter too much. I don't believe in momentum. You have to take every game as they come. We play PUN next, they are going to come hard at us. They have got nothing to lose and we have everything to lose. We need to play well and come out trumps against them.']]></line><line><![CDATA[<b>Duminy:</b> 'We leaked about 15-20 too many runs. We didn't utilize Morkel towards the end. We batted better this time around, but it was still not enough. We are most probably out of the tournament. There's a lot of work to do for us. We leaked too many in the first six, but we pulled things back. However, they hit around 60-65 runs in the last five and made a good score.']]></line><line><![CDATA[Piyush Chawla finished with impressive figures of 4/32 but Gambhir might be pondering if playing four spinners was a bit too much. With this victory, Kolkata move up to third with 13 points, ahead of Bangalore. On the other hand, Delhi languish at the seventh place, with eight points and almost out of contention for a place in the playoffs.]]></line><line><![CDATA[Kedar Jadhav meant business but fell immediately after the second strategic break. Yuvraj Singh's dismal IPL8 continued, falling for a 3-ball 0 and it was all but over for the Delhi. JP Duminy, Angelo Mathews and Saurabh Tiwary threw their bats around, but it only helped reduce the margin of defeat.]]></line><line><![CDATA[Delhi had a late surge but it wasn't enough to deny Kolkata. Chasing 172, it was imperative that the openers got them off to a quick start. The start was solid enough, but by the time Manoj Tiwary was caught at long-on, the required rate had gone over 10 RPO. He was followed back to the hut by his partner Shreyas Iyer, bamboozled by the trickery of Brad Hogg.]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, <b>FOUR</b>, <b>KOL win by 13 runs!</b> Even though the last ball goes for a boundary, it was a one-sided affair. It was a high full toss outside off, Tiwary stays leg-side and goes hard at it, he slashes it up and over backward point, collects a four. With this win, KOL further strengthen their chances of making it to the playoffs. On the other hand, DEL are most likely out of contention for the next stage]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, no run, yorker from Umesh, Tiwary squeezes it out back to the bowler]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, <b>FOUR</b>, <b>dropped!</b> It was a back of a length delivery outside off, Tiwary pulls it over mid-wicket and Pandey runs to his left in the deep, gets both hands to it, but fails to hold on. To make matters worse, the ball rolls over the rope]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;U Yadav to A Morkel, 1 run, Morkel backs away once again and Umesh follows it up with a low full toss, he jams it out towards long-off for a single]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;U Yadav to A Morkel, <b>FOUR</b>, Morkel sends his first ball for a boundary. It was a back of a length delivery outside off, Morkel makes slight room and smashes it in the gap between long-off and deep extra cover, the ball just bounces in front of the rope]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;U Yadav to A Morkel, <b>wide</b>, Morkel backs away and Umesh bowls this well wide outside off, the umpire signals a wide]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, 1 run, that's a great delivery first up in the final over, a yorker on the stumps, Tiwary squeezes it out to the left of backward point and gets to the other end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Albie Morkel, left handed bat, comes to the crease</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;A Russell to Mathews, <b>out</b> Bowled!! Russell is ecstatic after taking Mathews' wicket. This is surely the final nail in the coffin. The umpires check for the front foot no-ball and it looks really close. Looks like there is some part of his foot behind the line as he landed and Mathews has been given his marching orders. Coming back to the ball, it was a short delivery outside off, Mathews looks to pull but drags it back on the stumps off the inside half of the bat. <b>Mathews b A Russell 22(15) [4s-2 6s-1]</b>]]></line><line><![CDATA[A Russell to Mathews, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;A Russell to Mathews, <b>FOUR</b>, finally Mathews connects well with one, it was a length ball outside off, Mathews drills this one back over the bowler's head and collects four for that]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;A Russell to S Tiwary, 1 run, short of length delivery on middle stump line, Tiwary slogs it towards deep mid-wicket, only a single on this occasion]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;A Russell to S Tiwary, no run, that's a quick bumper from Russell, that was bowled at <b>145.9kph</b>. Tiwary looks to pull but was nowhere close to it]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;A Russell to Mathews, 1 run, yorker outside off, Mathews squeezes it out to Umesh at point, who fires the throw at the striker's end. However, Tiwary was well in and had there been a direct-hit, he would have been not out]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;A Russell to Mathews, no run, Russell slips in a slower ball as Mathews lines up for another slog, he fails to connect and the ball goes on the bounce to the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andre Russell [3.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[<b>35 needed from 12 balls</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;U Yadav to Mathews, 1 run, Umesh bowls this very full and on the stumps, Mathews whips it wide of long-on, the batsmen think about the second but decide not to take on Pandey's arm in the deep]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;U Yadav to Mathews, no run, great change of pace from Umesh, completely outfoxed Mathews, who was too early into the slog. He misses and the ball goes past the off stump, wasn't too far though]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, 1 run, comes down the track and drives this fullish delivery down to long-off, only a single available]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, <b>FOUR</b>, that's a good shot. It was bowled slower and slightly wide outside off, Tiwary reaches out and lofts it inside-out over extra cover, the ball hurries across the turf and crashes into the fence]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, no run, this time he bowls it fuller and on the stumps, Tiwary drills it hard and the ball hits the middle stump at the other end, Umesh fails to deflect it off his boot, Mathews would have been out had Umesh got some part of his boot on the ball]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, no run, just short of a good length and outside off, Tiwary looks to cut but ends up chopping it hard on the surface, the ball drops to his left and he was looking for the single there, but Umesh was quick to get across and Tiwary had to get back inside the crease]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;U Yadav to S Tiwary, <b>wide</b>, down the leg-side this time, Tiwary fails to tickle it fine and Uthappa doesn't collect it cleanly either, but the batsmen can't take a bye and it's signalled a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umesh Yadav [2.0-0-7-0] is back into the attack</b>]]></line><line><![CDATA[<b>42 runs needed from 18 balls</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;B Hogg to S Tiwary, 1 run, flatter and on the stumps, Tiwary goes back in the crease and works it through mid-wicket, gets a single and he will keep the strike, <b>17 runs came off that over</b>]]></line><line><![CDATA[Hogg doesn't look happy with the ball. Maybe, he is having some difficulty in gripping it. Not sure if there's dew around, or is it just the sweat.]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;B Hogg to S Tiwary, <b>SIX</b>, <b>ohh hello!</b> This is a poor, poor delivery from Hogg. It was a rank long hop on the stumps, Tiwary goes deep in the crease and smokes it over the deep mid-wicket fence with a pull]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;B Hogg to Mathews, 1 run, drags this one short, Mathews hangs back and swipes across the line, the ball dribbles away to deep mid-wicket and it is only a single for Mathews]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;B Hogg to Mathews, <b>SIX</b>, that's a great shot from Mathews, it was tossed up, Mathews gets under it and tonks it over the long-on fence for his first maximum of the night]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;B Hogg to Mathews, 2 runs, turning back in on middle stump line, Mathews works it away off his pads behind square on the on-side, good running ensures that the batsmen come back for the second. The fielder in the deep too didn't throw it accurately and Mathews makes it with ease]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;B Hogg to S Tiwary, 1 run, Tiwary gives the charge and Hogg bowls it fuller, Tiwary can only manage to knock it down to long-on, only a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Brad Hogg [2.0-0-10-1] is back into the attack</b>]]></line><line><![CDATA[<b>59 needed from 24 balls</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Chawla to S Tiwary, 1 run, drifting on middle and leg this time, Tiwary clips it through mid-wicket and gets off the mark with a single]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Chawla to S Tiwary, no run, Tiwary didn't read the googly here, he looks to flick it through the leg-side, but gets a leading edge that falls in front of Pathan at short cover]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Chawla to Mathews, 1 run, on the stumps this time, Mathews flicks it through mid-wicket for a single]]></line><line><![CDATA[<b>Saurabh Tiwary, left handed bat, comes to the crease</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Chawla to Duminy, <b>out</b> Caught by U Yadav!! Is that the game for KOL? Captain Duminy falls trying to up the scoring rate. It was floated up this time, Duminy goes across and looks to slog it hard, but fails to get the distance. The ball goes very high in the air and Umesh at deep backward square leg judges it well and takes it to his right in front of the rope. <b>Duminy c U Yadav b Chawla 25(16) [4s-2 6s-1]</b>]]></line><line><![CDATA[Chawla to Duminy, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Chawla to Mathews, 1 run, he bowls this one way quicker around off, Mathews looks to force it through the off-side and the ball rolls away behind square on the on-side off the inside half of the bat, the batsmen take a single]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Chawla to Mathews, <b>FOUR</b>, this time Mathews reverse laps it over short third man and the ball runs away to the fence, good improvisation from the Sri Lankan captain there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Narine to Duminy, <b>FOUR</b>, that's a great shot, it was tossed up outside off, Duminy clears his front leg and lofts it to the left of long-off, who had no chance of stopping that]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Narine to Mathews, leg byes, 1 run, goes across and looks to defend, gets beaten because of the turn away from him, the ball rolls away behind square on the off-side off the thigh pad, the batsmen take a leg bye]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Narine to Mathews, no run, opens the face of the bat and pushes it towards point, he was looking for the single there but has to rush back in as the fielder was quickly onto the ball]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Narine to Duminy, 1 run, drifting on middle and leg, Duminy slog sweeps it to deep square leg for a single]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Narine to Duminy, <b>wide</b>, darts this one well outside the tramline on off, Duminy leaves and the umpire exercises his arms]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Narine to Mathews, 1 run, touch slower and outside off, Mathews goes across and looks to work it through the on-side, mistimes it to the right of the bowler and the batsmen take a quick single]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Narine to Duminy, 1 run, Duminy goes across this time and whips this flatter delivery through mid-wicket, he was looking for the second there but decides against it as the fielder was charging towards the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Chawla to Duminy, 1 run, works this flatter delivery through mid-wicket and will keep the strike]]></line><line><![CDATA[<b>Angelo Mathews, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Chawla to Yuvraj, <b>out</b> Caught by A Russell!! Yuvraj is gone for a duck and Chawla picks his third wicket of the night. Russell is delighted after taking the catch. Chawla floated this up on the stumps, Yuvraj comes down the track and looks to flick it in the air over deep mid-wicket, didn't quite time it right and Russell from deep mid-wicket runs in to his left and takes a good running catch. He had to cover some distance there, but did so with ease. <b>Yuvraj c A Russell b Chawla 0(3)</b>]]></line><line><![CDATA[Chawla to Yuvraj, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Chawla to Yuvraj, no run, this one bounces a touch extra on off stump line, Yuvraj did well to defend it with soft hands]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Chawla to Yuvraj, no run, touch quicker and on the stumps, Yuvraj defends with his bat close to the pad]]></line><line><![CDATA[<b>Yuvraj Singh, left handed bat, comes to the crease</b>]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Chawla to K Jadhav, <b>out</b> Caught by J Botha!! That's as easy as it gets. Jadhav, the latest casualty for the Delhi. It was tossed up well outside off, Jadhav had to reach out for it as he went through with the loft, didn't quite get the distance and ends up offering a simple catch to Botha at long-off. Yuvi walks in to bat. <b>K Jadhav c J Botha b Chawla 10(6) [6s-1]</b>]]></line><line><![CDATA[Chawla to K Jadhav, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Chawla to Duminy, 1 run, tossed up on the stumps, Duminy lofts it on the bounce to long-on, couldn't quite get under it to send it sailing over the rope]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Piyush Chawla [2.0-0-23-1] is back into the attack</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Narine to Duminy, 1 run, this time Duminy goes deep in the crease and whips it to deep square leg, he will keep the strike]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Narine to Duminy, no run, that's not a great ball either, it was short and well wide outside off, Duminy cuts hard, but picks out point]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Narine to K Jadhav, 1 run, drifting on middle and leg stump line this time, Jadhav kneels down and sweeps it backward of square leg for a single]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Narine to Duminy, 1 run, flatter and outside off, Duminy knocks it to the right of sweeper cover and gets to the other end]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Narine to Duminy, <b>SIX</b>, Narine bowled this one slower through the air and it was short as well, Duminy had all the time in the world to go deep in the crease and he muscles the pull over deep mid-wicket]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Narine to K Jadhav, 1 run, drags this one short, Jadhav rocks back and pulls it to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sunil Narine [2.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;J Botha to Duminy, <b>FOUR</b>, once again the ball goes through Uthappa's legs, he can't believe it. It was bowled slower and outside off, Duminy looks to cut, but gets a bottom edge that runs away to the third man fence]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;J Botha to K Jadhav, 1 run, kneels down and sweeps this fullish delivery behind square on the on-side, only a single available]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;J Botha to K Jadhav, <b>SIX</b>, <b>that's outta here!</b> It was floated up outside off, Jadhav just lofts it through the line and manages to clear the long-off fence with ease, great shot off his second ball]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;J Botha to Duminy, 1 run, floated up outisde off, Duminy goes for the inside-out loft, but doesn't quite get hold of it after coming down the track. The fielder in the deep tidies up and the batsmen take a single]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;J Botha to K Jadhav, 1 run, tossed up outside off, Jadhav drives it to sweeper cover for a single]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;J Botha to Duminy, 1 run, shortish and outside off, Duminy punches it to sweeper cover for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Johan Botha, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[<b>Kedar Jadhav, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, <b>out</b> Bowled!! Hogg couldn't get Iyer in the last over, but he gets him this time around. He is delighted to send the dangerous man back to the hut. Coming to the ball, Iyer makes room as he wanted to cut this one, but the ball turns back in and cramps him for room. He ends up chopping it back onto the stumps. Hogg went on a run after taking that wicket. <b>Shreyas Iyer b B Hogg 40(35) [4s-3 6s-2]</b>]]></line><line><![CDATA[B Hogg to Shreyas Iyer, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, <b>FOUR</b>, it was the googly from Hogg, Iyer didn't read it as he backs away, reaches out for it and gets a bottom edge that goes through the legs of Uthappa, it was a very difficult chance and the ball runs away to the fence]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, no run, on middle and leg stump line, Iyer goes back and nudges it to the right of the bowler, who runs across, dives and prevents the single. Good effort from the bowler there]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;B Hogg to Duminy, 1 run, Duminy kneels down to this flighted delivery outside off, goes for the slog sweep but doesn't connect too well, the ball goes on the bounce to long-on, who was running to his left]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, 1 run, drags his length back slightly, Iyer goes deep in the crease and pulls it past mid-wicket to get off strike]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;B Hogg to Duminy, 1 run, on middle stump line, Duminy goes back in the crease and works it through mid-wicket for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Chawla to Duminy, 1 run, googly just outside off, Duminy goes back and works it in front of long-on]]></line><line><![CDATA[<b>Jean-Paul Duminy, left handed bat, comes to the crease</b>]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Chawla to M Tiwary, <b>out</b> Caught by Suryakumar Yadav!! A dodgy innings from Tiwary comes to an end. He wanted to up his strike-rate and perished in the process. Nice floaty delivery outside off, Tiwary shimmies down the track and had to drag it towards long-on as he was not to the pitch of the ball, Suryakumar takes a good low catch. <b>M Tiwary c Suryakumar Yadav b Chawla 25(28) [4s-3 6s-1]</b>]]></line><line><![CDATA[Chawla to M Tiwary, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, 1 run, tossed up outside off, Iyer lofts inside out to deep extra cover, there is protection in the deep and hence only a single]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Chawla to M Tiwary, 1 run, fired quicker and outside off, Tiwary chops it towards cover]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Chawla to M Tiwary, <b>SIX</b>, flighted just outside off, Tiwary goes down on one knee and slog sweeps it to deep mid-wicket, he got enough on that to clear Pandey near the rope]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, 1 run, tossed up just outside off, Iyer drills it down to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Time-out</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;B Hogg to M Tiwary, no run, googly outside off, Tiwary skips out of the crease without picking the delivery, blocks it with his pad]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;B Hogg to M Tiwary, no run, floated up just outside off, Tiwary reverse paddles, Yusuf reads it early at slip, moves to his right and fields the ball]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, 1 run, <b>dropped!</b> The KOL skipper is the culprit. It was the wrong 'un outside off, Iyer had no clue about that, he reached out and cut it towards backward point, GG tried to reverse cup it, but the ball bursts through. You can't get much easier catches than that]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;B Hogg to M Tiwary, 1 run, Tiwary advances down the wicket, wanted to deposit this flighted delivery into the stands, drags it to deep square leg, for a single]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, 1 run, tossed up on off, Iyer works it with the turn to mid-wicket, wanted two but Botha gets to the ball quickly]]></line><line><![CDATA[A slip in place]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;B Hogg to Shreyas Iyer, no run, too full and outside off, Iyer squeezes the drive to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Brad Hogg, left-arm chinaman, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, 1 run, slower through the air, the length is short, Iyer punches to long-off and retains strike]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Chawla to M Tiwary, 1 run, wrong 'un from Chawla, Tiwary comes down the track and nurdles it to short fine leg. A normal leg-spinner would have had Tiwary in trouble]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, 1 run, flatter and just outside off, Iyer punches to deep extra cover]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, no run, googly on the stumps, Iyer knocks it back to the bowler]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, <b>FOUR</b>, lovely shot! This is excellent batting, tossed up outside off, Iyer frees his arms and lofts it inside out, beats a desperate dive from the long-off fielder]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Chawla to Shreyas Iyer, <b>SIX</b>, fantastic shot! Chawla is welcomed into the attack with a maximum. Floated up outside off, Iyer comes forward and lofts it handsomely inside out, the ball came right off the middle as it carried the distance]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Piyush Chawla, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Narine to M Tiwary, no run, knuckle ball outside off, Tiwary kneels down and toe-ends the sweep to point. Not the best shot to play when the ball is turning away from you]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Narine to Shreyas Iyer, 1 run, turning into the pads, Iyer works it behind square leg for a single]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Narine to Shreyas Iyer, no run, touch short and outside off, Iyer chops it towards point]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Narine to Shreyas Iyer, no run, knuckle ball just outside off, Iyer doesn't pick him, plays down the wrong line and is beaten all ends up]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Narine to M Tiwary, 1 run, in the air and safe. Tiwary comes down the track and looks to work it to the on-side, the leading edge balloons and falls in front of the sweeper cover]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Narine to M Tiwary, no run, Uthappa went up for an lbw appeal, but nothing from Narine or the others. The off-break that turns back in, Tiwary shuffles across and misses the nudge, the ball was sliding down leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;A Russell to M Tiwary, 1 run, Tiwary steps out of the crease after giving himself some room, Russell follows him with a quick short delivery, Tiwary manages to fend it away to short fine leg. That hurried onto him]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;A Russell to M Tiwary, no run, short of length just outside off, Tiwary stays leg-side of the ball and wanted to go over cover, the length was not there and he pushes it to short cover]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, 1 run, good length ball on the stumps, Iyer knocks it in front of mid-on and sets off immediately]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, bouncer on leg-stump, Iyer decides to take it on, is late on the pull, ball sails over his left shoulder]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, takes the pace off the ball, Iyer leans forward and eases it towards point, can't pierce the packed off-side field]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, back of a length around off, Iyer punches it to backward point, finds the fielder there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Narine to M Tiwary, <b>FOUR</b>, expensive start from Narine on his return. Drags the length back and gives the batsman plenty of time to go back and pull it over mid-wicket, Tiwary did well to pick his spot]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Narine to M Tiwary, <b>FOUR</b>, lovely shot! Nice use of the feet from Tiwary, flighted on middle, he was deceived in flight but did well to stay leg-side of the ball and loft it inside out, Umesh gave chase from mid-off but in vain]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Narine to Shreyas Iyer, 1 run, first off-break, spins back in, Iyer makes room and chops the cut towards cover-point]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Narine to Shreyas Iyer, no run, another knuckle ball, Iyer pushes it to the right of the bowler]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Narine to M Tiwary, 1 run, flatter and around off, Tiwary dabs to backward point for a quick single]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Narine to M Tiwary, no run, almost a wicket off the first ball. Knuckle ball on off, Tiwary flicks it uppishly towards mid-wicket, it drops in front of Russell, who moved quickly to his right to stop the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sunil Narine, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[First look at Narine after undergoing a test for a suspect bowling action. He has a slip in place...]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;A Russell to M Tiwary, 1 run, good length ball around off, Tiwary knocks it in front of cover and calls for a quick single, Iyer responds to his call and they get it comfortably]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;A Russell to M Tiwary, <b>wide</b>, bumper down leg, Tiwary gets inside the line and lets it go, wide called for line]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;A Russell to M Tiwary, no run, Russell went for the yorker and ends up bowling a full toss, Tiwary pushes it gently to short cover. He was not expecting that, hence didn't make full use of it]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;A Russell to M Tiwary, no run, Tiwary takes a step down the wicket, Russell sees that and bangs it in short, Tiwary decides against playing the pull, the ball goes through to Uthappa at chest height]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, 1 run, drags the length back after being hit, Iyer dabs it with soft hands to the left of backward point]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, <b>SIX</b>, splendid! It was the slower delivery from Russell, Iyer spotted it early, leans forward and goes through with the loft, he middled it as the ball sailed over the long-on fence]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, short of length on off, Iyer tucks it to mid-wicket, straight to Yusuf]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, pitched up outside off, Tiwary went chasing after that without any foot movement, the ball beats the outside edge. He looked at the umpire for a wide, but it was well within the tramline]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;U Yadav to Shreyas Iyer, 1 run, back of a length close to off, Iyer guides it with an open bat to the left of backward point]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, leg byes, 1 run, cramps the batsman for room with the nip-backer, Tiwary fails to connect with the clip, wears it on the thigh pad and the ball dribbles to third man]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, dug in short and outside off, Tiwary fetches it from there, flat-bats the pull towards mid-on, Chawla tidies up running to his left]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;U Yadav to Shreyas Iyer, 1 run, bit too straight, on off and middle, Iyer flicks it wide of mid-on and picks up an easy single]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;U Yadav to Shreyas Iyer, no run, back of a length around off, Iyer punches and picks out cover-point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;U Yadav to Shreyas Iyer, <b>wide</b>, splays it down leg, Iyer can't get bat on the glance, wide given. Umesh getting good carry through to Uthappa]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, 1 run, Iyer wriggles his right hand in pain. This one nipped back in from short of length, Iyer was shaping to play the cut, the ball crashes into the bottom hand and rolls away to third man]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, rolls his fingers over the ball, Iyer pushes it down the wicket]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, banged in halfway down the wicket, Iyer sways back, drops his wrists and lets the ball go through]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, <b>FOUR</b>, lovely shot! Iyer didn't try to overhit the short delivery, he relied on timing and the pace of Russell, he cuts it behind point, Chawla couldn't get there even though he had only a few paces to cover]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, 2 runs, Iyer hangs back and punches the back of a length delivery to the right of third man, a slight fumble from Chawla allows the batsmen to take two]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;A Russell to Shreyas Iyer, no run, short of length on off, Iyer gets nicely behind the line and defends back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Andre Russell, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, <b>FOUR</b>, nice way to open the account. That has ruined what could have been a maiden. Fullish and on off, Tiwary leans forward and clips it elegantly through mid-wicket, the sweet timing takes it to the fence]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, again, the length is short, Tiwary can't free his arms, mistimes the pull to mid-on]]></line><line><![CDATA[Only one slip in place...]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, back of a length on off, Tiwary shuffles across and knocks it to the right of the bowler]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, shortens the length outside off, the ball jags away further after passing the batsman, Tiwary left it alone]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, fuller and around off, Tiwary's feet were stuck in cement, he pushes at it and the ball squirts off the inside edge towards square leg, he wanted the run but Iyer sends him back]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;U Yadav to M Tiwary, no run, gentle outswinger outside off, Tiwary watches it closely and shoulders arms]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>M Tiwary and Shreyas Iyer are at the crease. M Tiwary is on strike. U Yadav will open the attack</b>]]></line><line><![CDATA[Welcome back.. KOL have a lot of variety in the spin department. Can DEL overcome them and chase this down? New opening pair for DEL, as Manoj Tiwary is partnering Shreyas Iyer. Umesh to start off proceedings...]]></line><line><![CDATA[While the promotion of Chawla didn't work like a dream, it helped KOL consolidate after having lost three relatively quick wickets. Chawla was dismissed for 22 but Yusuf played a blinder, punishing anything that was a tad loose. Wickets fell at the other end, but Pathan's 24-ball 42 and Johan Botha's 5-ball 17 gave the much needed impetus. KOL will feel confident about defending the score on this track and leapfrog BLR into third position. But will DEL have different ideas? Join us in a while for the chase.]]></line><line><![CDATA[On a spinning track, Kolkata will feel pretty happy to have managed 171 runs on the board. Gambhir and Uthappa gave them the ideal start, assisted by some sloppy catching and fielding from the Delhi. None of them made the most of the reprieves though. As expected, Delhi fought back through their spinners. Piyush Chawla was surprisingly bumped up the order, to number four and Andre Russell demoted to six. ]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Zaheer to J Botha, <b>out</b> J Botha Run Out!! 1 run completed. Zaheer finally gets the yorker right. Botha squeezes it out towards deep extra cover, the batsmen try to come back for the second but Duminy runs in from the boundary, picks it up and fires an accurate throw at the striker's end. Botha was miles out of his creases as Jadhav took the bails off. Anyway, it was a great little cameo from Johan Botha in the final over. It could well prove to be the difference between both sides at the end of the game. <b>J Botha run out (Duminy/K Jadhav) 17(5) [4s-4]</b>]]></line><line><![CDATA[Zaheer to J Botha, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Zaheer to J Botha, <b>FOUR</b>, breathtaking stuff from Botha. It was full and outside off, Botha goes down and lofts it inside-out over extra cover and gets another four runs]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Zaheer to J Botha, <b>FOUR</b>, <b>top-edge and four!</b> Third consecutive boundary for Botha. It was a low full toss from Zaheer, Botha slogs across the line, gets a top-edge that goes over short third man, Albie Morkel gives chase but fails to haul the ball back in as the ball spun away from him after falling in front of him]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Zaheer to J Botha, <b>FOUR</b>, this is great stuff from Botha, he waits for this length delivery outside off to arrive, opens the face of the bat late and guides it past a diving backward point, the ball runs away to the fence]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Zaheer to J Botha, <b>FOUR</b>, <b>that's been clobbered!</b> It was full and in the channel outside off, Botha lofts it inside-out over cover and that's a great shot to get off the mark]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Zaheer to Suryakumar Yadav, 1 run, low full toss just outside off, Suryakumar goes across and slogs hard, but can't get it off the middle of the bat. The ball dribbles away to deep mid-wicket and the batsmen can only take a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Zaheer Khan [3.0-0-16-1] is back into the attack</b>]]></line><line><![CDATA[<b>Johan Botha, right handed bat, comes to the crease</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Tahir to Y Pathan, <b>out</b> Caught by S Tiwary!! Tahir picks a wicket off his final ball of the spell. It was floated up outside off and was spinning further away, Pathan reaches out and wanted to go over long-off but couldn't quite get under it. Ends up giving a simple catch to Saurabh Tiwary at long-off, who pouches it with ease. <b>Y Pathan c S Tiwary b Tahir 42(24) [4s-3 6s-3]</b>]]></line><line><![CDATA[Tahir to Y Pathan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Tahir to Suryakumar Yadav, 1 run, Suryakumar gives the charge and drives this full toss down to long-off for another run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Tahir to Y Pathan, 1 run, again darts this fuller and on the stumps, Pathan drills it past the bowler and can only get a single as long-on runs to his left and cuts it off]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Tahir to Suryakumar Yadav, 1 run, tossed up well outside off, Yadav swings hard at that, gets an outside edge and the ball drops to the left of short third man, only a single]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Tahir to Y Pathan, 1 run, in the blockhole this time, Pathan jams it out towards long-on and it will only be a single]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Tahir to Y Pathan, <b>SIX</b>, Tahir has been dispatched here, the power of Pathan is clearly overpowering Tahir. It was floated up outside off and was turning away, Pathan reaches out and lofts it handsomely over the long-off fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, 1 run, overpitched well outside off, Pathan jams out the drive to sweeper cover and retains strike]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, <b>FOUR</b>, that's a freebie from Mishra, a low full toss and Pathan takes full toll of it. He helps it to the cow corner fence, one bounce and over the rope]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, no run, tossed up outside off, Pathan goes for a big slog and gets an inside edge onto the pad]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Mishra to Suryakumar Yadav, 1 run, kneels down and drags the sweep from outside off to deep mid-wicket, gets off strike with a single]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Mishra to Suryakumar Yadav, 2 runs, Suryakumar this time lofts this one inside-out over cover, Shreyas Iyer in the deep runs to his right and fields the ball, good running ensures that the batsmen come back for the second]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Mishra to Suryakumar Yadav, no run, in the blockhole this time, Yadav squeezes out the drive to the right of cover, where Yuvraj dives and saves some runs for his team]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Tahir to Y Pathan, 2 runs, tossed up outside off, Pathan lofts it wide of long-off, who runs to his left and palms the ball back in, the batsmen take a couple in the meantime]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Tahir to Y Pathan, <b>FOUR</b>, bowls this one slightly flatter outside off, Pathan waits inside the crease and cuts it very late, sends it in the gap between short third man and backward point, collects four for that]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Tahir to Suryakumar Yadav, 1 run, leans forward and pushes it in front of cover, quickly gets across for a quick single and gets off the mark]]></line><line><![CDATA[<b>Suryakumar Yadav, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Tahir to A Russell, <b>out</b> Caught by Mathews!! Russell goes trying to up the ante. Tahir picks his first wicket of the night. He went for a slog on this occasion, but couldn't get the desired elevation or the distance. Mathews from long-on runs to his left and takes a very well judged catch near the rope. <b>A Russell c Mathews b Tahir 5(5) [4s-1]</b>]]></line><line><![CDATA[Tahir to A Russell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Tahir to A Russell, <b>5 wides</b>, poor ball from Tahir, drags it down the leg-side. Russell fails to help it on its way fine and the keeper too misses it, the ball runs away to the fence and five extra runs for KOL]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Tahir to A Russell, <b>FOUR</b>, googly from Tahir, Russell goes down on one knee and slog sweeps it towards the deep mid-wicket region, Shreyas Iyer was running to his left and puts in the dive, but the ball escapes to the fence]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Tahir to A Russell, no run, flatter outside off, Russell chops it to backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Imran Tahir [2.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Mishra to A Russell, 1 run, goes on the back foot and works this through mid-wicket and gets to the other end]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Mishra to A Russell, no run, <b>dropped!</b> Russell gets an inside edge on the googly as he failed to pick it up, he was a little late to bring his bat down in time and the ball lobs up off the boot and goes to the right of the keeper, who tries to catch it after extending his right hand, but fails to hold onto it. Jadhav was a little lazy there as well, he should have tried harder to take that one]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, 1 run, eases this one down to long-on for a single]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, no run, it was tossed up around off, Pathan drills it back to the bowler, the keeper thought it was a catch and was shouting loudly, Yusuf got a little scared and told the keeper, 'daraata kyu hai?', which translates to, <b>why are you scaring me</b>? Anyway, it was a bump ball and Mishra dived across to his right to field it]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, <b>SIX</b>, <b>smashed!</b> Mishra drags his length back this time and bowls it slightly wide outside off, Pathan had all the time in the world to rock back and he smashes it over the long-off fence]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Mishra to Y Pathan, 2 runs, quicker and on the stumps, Pathan looks to heave it on the on-side, gets an inside edge that runs away fine and the batsmen come back for the second]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Amit Mishra [2.0-0-2-1] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;A Morkel to Y Pathan, 1 run, slower delivery outside off, Pathan lofts it on the bounce to long-on, he didn't quite get under it to send it over the rope]]></line><line><![CDATA[<b>Andre Russell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;A Morkel to Chawla, <b>out</b> Caught by S Tiwary!! Chawla's innings has come to an end. He backed away this time and Morkel follows him with a back of a length delivery, he looks to pull but ends up skying it high in the air, didn't get it anywhere close to the meat of the bat. He sliced it high and Saurabh Tiwary from long-on runs forward and takes a simple catch. <b>Chawla c S Tiwary b A Morkel 22(19) [4s-1 6s-1]</b>]]></line><line><![CDATA[A Morkel to Chawla, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;A Morkel to Y Pathan, 1 run, back of a length delivery on the middle and leg stump line, Pathan flicks it through mid-wicket, they were looking for the second but they decide against it]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;A Morkel to Y Pathan, <b>FOUR</b>, drifting on the pads this time, Pathan glances it fine and the ball runs away to the fence]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;A Morkel to Chawla, 1 run, back of a length delivery on the pads, Chawla works it away behind square on the on-side and gets to the other end]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;A Morkel to Chawla, no run, slower ball outside off, Chawla wanted to go inside-out over cover, but fails to connect]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Albie Morkel [2.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Yuvraj to Chawla, 1 run, gives the charge this time, Chawla lofts it towards long-on, didn't quite get hold of it and the ball goes on the bounce to Tahir, who was moving to his right. The batsmen take a single and Chawla will keep the strike]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Yuvraj to Y Pathan, 1 run, flatter outside off, Pathan hangs back and knocks it to deep extra cover for another run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Yuvraj to Chawla, 1 run, pushed through outside off, Chawla punches it down to long-off and gets to the other end]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Yuvraj to Y Pathan, leg byes, 1 run, drifting on the pads this time, Pathan fails to nudge it away into the on-side, the batsmen take a leg bye as the ball dribbles away behind square on the on-side]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Yuvraj to Y Pathan, <b>SIX</b>, Pathan gets going with a maximum, it was slightly flatter and outside off, Pathan hammers it over long-off. Even though he didn't middle it but the ball had enough legs to go over the fence]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Yuvraj to Chawla, 1 run, Chawla gives the charge once again and Yuvi drags it wide outside off, he just about manages to get a bottom edge that runs past the keeper and the batsmen take a single before short third man gets around]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Mathews to Chawla, leg byes, 1 run, on the pads this time, Chawla fails to work it away into the on-side, the ball rolls away off the pad into the leg-side and the batsmen sneak in a leg bye]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Mathews to Chawla, <b>SIX</b>, that's a great shot from the pinch-hitter Chawla, it was fuller and just outside off, Chawla tonks it over the long-on fence for a maximum]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Mathews to Y Pathan, leg byes, 1 run, <b>did he get some part of the bat behind it?</b> The umpire doesn't think so. It was a back of a length delivery on the pads, Pathan looks to tuck it away into the on-side and fails to lay bat on it, the ball lobs up off the pad and Zaheer runs in from square leg and takes it, DEL's players thought they had their man, only to be disappointed by the umpire's signal of a leg bye. Anyway, it was going down leg and couldn't have been given out lbw]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Mathews to Y Pathan, no run, bowls this one on a length and just outside off, Pathan looks to run it down to third man, but fails to connect]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Mathews to Y Pathan, no run, bowls this one in the channel just outside off, it was the off-cutter that cuts back in on off, Pathan opens the face of the bat and pushes it towards point in an awkward manner]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Mathews to Y Pathan, no run, just short of a good length and angling in on off, Pathan drops it in front of point and says 'No' for the single as the fielder was quickly onto the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Yuvraj to Chawla, no run, flighted delivery just outside off, Chawla opens the face of the bat and pushes it towards point, he was looking for the single there but it's not available]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Yuvraj to Y Pathan, 1 run, shortish and slightly wide outside off, Pathan cuts it past a diving point, gets only a single as there was protection in the deep]]></line><line><![CDATA[<b>Yusuf Pathan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Yuvraj to M Pandey, <b>out</b> Bowled!! Yuvi is pumped after taking that wicket. He bowls this one slower and on the stumps, Pandey was looking to work it through the on-side, gets an inside edge onto the back pad and the ball lobs back onto the off stump. This is <b>Yuvraj's first wicket</b> in this IPL. <b>M Pandey b Yuvraj 22(19) [4s-1 6s-1]</b>]]></line><line><![CDATA[Yuvraj to M Pandey, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Yuvraj to M Pandey, 2 runs, drags his length back this time and bowls it on middle stump line, Pandey pulls it through mid-wicket and comes back for the second]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Yuvraj to Chawla, 1 run, comes down the track, Yuvraj angles it slightly wide outside off, he opens the face of the bat and guides it towards short third man, the batsmen cross over for a quick run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Yuvraj to Chawla, no run, flatter and just outside off, Chawla goes deep in the crease and cuts it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Yuvraj Singh, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Mathews to Chawla, 1 run, stays back, opens the face of the bat at the last moment and gets a single as the ball rolls away towards point, he will keep the strike]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Mathews to Chawla, <b>FOUR</b>, <b>how did he manage to do that?</b> It was banged in short and at the batsman, Chawla goes for the pull, the ball gets big on him, he just about manages to connect with it as one hand came off the bat and he fell over too, the connection was sweet and the ball runs away to the deep backward square leg fence]]></line><line><![CDATA[Third man goes back and long-off comes inside the circle]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Mathews to M Pandey, 1 run, bowls this one in the channel outside off, Pandey drives it hard towards sweeper cover and gets off strike]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Mathews to M Pandey, no run, Pandey was trying to cut this hard, but the length was not there. It was the off-cutter from Mathews, Pandey fails to connect with it and the ball goes on the bounce to the keeper, wasn't too far away from the off stump either]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Mathews to Chawla, 1 run, Chawla backs away slightly and Mathews bowls a back of a length delivery, Chawla jumps and jabs hard at it, the batsmen take a quick single as the ball rolls away towards the keeper]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Mathews to Chawla, no run, on a length and on off, Chawla opens the face of the bat and guides it towards backward point, can't get the single away]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Angelo Mathews, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Tahir to M Pandey, 2 runs, tossed up and on the stumps, Pandey gets forward, whips it against the spin and gets a brace. Manoj gets across from long-on and prevents the boundary]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Tahir to Chawla, 1 run, Tahir gives this one more air, driven down towards long-off for a single]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Tahir to Chawla, 2 runs, Chawla gets lucky! He was looking to play with the spin and go over cover, ends up slicing it high in the air, gets it in the gap between long-off and deep cover, back for the second run. But has the ball hit the spidercam cable on its way? It's nowhere near the cables, the ball will stand, so does the two runs]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Tahir to Chawla, <b>wide</b>, Tahir drifts one down leg-side, Chawla looks to sweep and misses, called as a wide]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Tahir to Chawla, 2 runs, tossed up and well outside off, Chawla gets forward and lofts with the spin, the man at sweeper cover gets across and prevents the boundary]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Tahir to Chawla, no run, the slider from Tahir, quicker ball and just outside off, Chawla closed the face of the bat, gets a soft leading edge towards short third man, he wanted a single and has to hurry back]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Tahir to M Pandey, 1 run, flighted delivery and just outside off, Manish works it to the left of backward point for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Piyush Chawla, left handed bat, comes to the crease</b>]]></line><line><![CDATA[Piyush Chawla gets a promotion]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Mishra to Uthappa, <b>out</b> Lbw!! Mishra has his man! Uthappa's chancy innings ends, this was the leg-break from Mishra, pitched on middle and spun across Uthappa, he was shaping for the sweep, got into an awkward position, ends up swiping across the line and missed it completely. The impact was around middle and the ball would have gone on to hit the stumps. Easy call for the umpire. KOL have lost both openers now. <b>Uthappa lbw b Mishra 32(31) [4s-4 6s-1]</b>]]></line><line><![CDATA[Mishra to Uthappa, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Mishra to Uthappa, no run, slower and wider from Mishra, Uthappa cuts it straight to the fielder at point]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Mishra to Uthappa, no run, tossed up and just outside off, Uthappa makes room and mistimes the drive, cover gets across and prevents the single]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Mishra to Uthappa, no run, flighted delivery and just outside off, Uthappa has no room for the cut, backs away and cuts it straight to the fielder at backward point]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Mishra to M Pandey, 1 run, Mishra drops one short and well outside off, Manish cracks it square on the off-side for a single]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Mishra to M Pandey, no run, the wrong 'un from Mishra, Manish didn't spot it, went back and just about pushed it away]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Tahir to M Pandey, 1 run, Tahir drifts one outside off, Manish covers for the spin and works it towards long-on for a single]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Tahir to Uthappa, 1 run, the googly from Tahir, Uthappa goes back and punches it down towards long-on]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Tahir to Uthappa, 2 runs, tossed up and just outside off, Uthappa gets down on his knees and laps it very fine, the fielder gets across and keeps them down to a brace]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Tahir to M Pandey, 1 run, pushed through by Tahir, nudged away behind square on the on-side for a single]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Tahir to M Pandey, no run, Tahir drifts this one into Manish's pads, he gets into a tangle as he looked to work it towards the on-side, the ball lobs off the thigh pad, the keeper can't get around in time]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Tahir to M Pandey, <b>SIX</b>, that's a shoddy start from Tahir, drops this one short and just outside off, Pandey rocks back and pulls it high and over mid-wicket for a maximum]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Imran Tahir, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Mishra to Uthappa, no run, this one is given more air, Uthappa presses forward and defends it back towards the bowler]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Mishra to Uthappa, no run, pushed through flatter and quicker, Uthappa makes room and brings his bat down in time, pushes it back at the bowler]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Mishra to Uthappa, no run, flighted delivery and just outside off, Uthappa goes back and punches it towards short extra cover]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Mishra to M Pandey, 1 run, this one is given more air, eased down towards long-on for a single]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Mishra to M Pandey, no run, Mishra drops one short and well outside off, slapped straight to the fielder at point]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Mishra to M Pandey, no run, tossed up and just outside off, Manish leans forward and pushes it towards short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Amit Mishra, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, <b>FOUR</b>, this should hurt DEL, tad fuller and just outside off, Uthappa presses forward, presents the full face of the bat and punches it back over the bowler's head, a couple of bounces and over the ropes, brings up KOL's 50]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, no run, short of a length and just outside off, slapped straight to the fielder at point]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, 2 runs, <b>Uthappa has been dropped again, this time by Yuvraj</b>, length delivery and just outside off, Uthappa was early into the flick, hits it straight to short mid-wicket. Yuvraj was perfectly placed there, the ball bursts through his hands and rolls away towards deep mid-wicket]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;A Morkel to M Pandey, 1 run, back of a length and angling into Manish, worked wide of mid-wicket for a single]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;A Morkel to M Pandey, no run, loud shout for LBW, but looked like there was an inside edge on that, replays suggest that there was a big edge there. Manish was caught in his crease to one that nipped back in, the inside edge saved him]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;A Morkel to M Pandey, <b>FOUR</b>, <b>lovely shot</b>, pitched up and on the stumps, Manish gets forward, presents the full face of the bat and goes over the bowler's head, one bounce and over the ropes for a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Albie Morkel [1.0-0-7-0] is back into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, no run, short of a length and angling back into Uthappa, flicked towards mid-wicket]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, no run, tad fuller and just outside off, Uthappa leans forward and punches it back at the bowler]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Zaheer to M Pandey, 1 run, on a good length and just outside off, pushed in front of mid-on for a quick single]]></line><line><![CDATA[Zaheer changes to round the wicket]]></line><line><![CDATA[<b>Manish Pandey, right handed bat, comes to the crease</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, <b>out</b> Caught by K Jadhav!! Zaheer gets his man at last! This was a nice little awayswinger, entices Gambhir into the drive, he doesn't get his feet anywhere near the ball, goes hard on the shot and gets a nick through to the keeper. Easy call for the umpire and KOL have lost their first wicket. The ploy of giving Zaheer another over has worked wonders for JPD. <b>Gambhir c K Jadhav b Zaheer 12(10) [4s-2]</b>]]></line><line><![CDATA[Zaheer to Gambhir, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, no run, short of a length and just outside off, chopped straight to the fielder at point]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, 1 run, on a good length and just outside off, Uthappa works it in front of square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Duminy to Uthappa, 1 run, flighted and on the stumps, eased down towards long-on for a single, <b>16 from the over</b>]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Duminy to Uthappa, <b>SIX</b>, that's the first six of the match, but is it a <b>dropped chance</b>? This was tossed up and just outside off, Uthappa came down the track, played with the spin and went high and towards long-on. Manoj was the man in front of the ropes, he was distracted by the ropes, I think so. Gets both hands onto the ball and pops it over the ropes for a maximum]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Duminy to Uthappa, no run, big spin for Duminy,  flighted outside off and breaking back into Uthappa, he was pushing forward and is beaten by the spin, Uthappa is struck on the thigh]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Duminy to Gambhir, 1 run, Duminy drifts one onto Gambhir's pads, tucked away to the left of short fine for a single]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Duminy to Gambhir, <b>FOUR</b>, this is even better! Fraction fuller and just outside off, Gambhir gets well forward and drills it through extra cover, no need to run for those. Gambhir is off and running now]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Duminy to Gambhir, <b>FOUR</b>, nicely played by Gambhir, this was tossed up and just outside off, Gambhir gets a big stride forward, plays with the spin and goes inside out over cover, one bounce and over the ropes]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jean-Paul Duminy, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[A stray dog has made an appearance in the middle. It's been shooed away by the groundstaff..]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, no run, short of a length and just outside off, Uthappa presses across and defends it]]></line><line><![CDATA[Zaheer changes to round the wicket]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, no run, nicely bowled by Zaheer, the off-cutter, pitched around off, draws Uthappa forward before going past the outside edge. Uthappa was left groping there, beaten comprehensively]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, <b>FOUR</b>, <b>edged and four</b>, Uthappa gets lucky again, this was full and wide outside off, Uthappa threw his hands at the ball, gets a thick edge past the lone slip, the ball beats third man to the fence]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, no run, full and wide from Zaheer, Uthappa reaches out and slaps it straight to the man at cover-point. Was in the air but went on the bounce]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, <b>FOUR</b>, nicely played by Uthappa, short of a length and on his hips, he gets inside the line and clips it past square leg. The man in the deep is very square and the ball runs away to the fence]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, 1 run, <b>a direct hit and Gambhir was in big trouble once again</b>, on a good length and just outside off, driven to the right of mid-off. Gambhir called for a quick single, he didn't bother to ground his bat, would have been short had there been a direct hit]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, no run, on a good length and just outside off, punched firmly but straight to the fielder at mid-off]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, <b>FOUR</b>, <b>edged and four</b>, fuller length delivery and shaping away from outside off, lures Uthappa into the drive, gets the outside edge, no second slip though and the ball races away to the fence]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, <b>wide</b>, Morkel slips this one down leg-side, called as a wide]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;A Morkel to Gambhir, 1 run, short of a length and just outside off, dabbed towards third man for a single]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, 1 run, on a good length and just outside off, Uthappa drives it towards mid-off and calls for a quick single. JPD makes a direct hit at the bowler's end, but Uthappa was well in. The third umpire has a look]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, no run, short of a length and just outside off, defended towards short cover]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;A Morkel to Uthappa, no run, <b>a direct hit from mid-off would have sent back Gambhir</b>, he was completely stranded in the middle. Duminy was the fielder, he could have run and taken out the stumps, he shies and misses. This was full and just outside off, Uthappa gets a big stride forward and drove it to the right of short cover. Mathews dived and took the pace of the ball, the ball rolls towards mid-off. Gambhir set off for a quick single and was almost at the other end before being sent back, Duminy had plenty of time, someone could have come at the stumps. Nothing happened and Gambhir survives]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Albie Morkel, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, 1 run, short of a length and just outside off, dabbed away behind square on the off-side for a single]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, 1 run, on a good length and just outside off, Gambhir gets a good stride forward and drops it in front of mid-off, calls for a quick single and gets it with ease]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, no run, Gambhir has been beaten once again, closer to the off-stump line by Zaheer, draws Gambhir forward before zipping past the outside edge, doesn't carry through to the keeper]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, <b>wide</b>, Zaheer pushes this one wider outside off, the swing takes it further away, called as a wide]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Zaheer to Gambhir, no run, Zaheer keeps it full and gets it to shape away from outside off, lures Gambhir into the drive and beats the outside edge]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, 1 run, too straight from Zaheer, ends up drifting onto Uthappa's pads, flicked away behind square on the on-side for a single]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, no run, tad fuller and shaping away from outside off, Uthappa covers the line, lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Zaheer to Uthappa, <b>wide</b>, gentle loosener from Zaheer, slips this one down leg-side, Uthappa looks to flick and misses, called as a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Uthappa and Gambhir are at the crease. Uthappa is on strike. Zaheer will open the attack</b>]]></line><line><![CDATA[A slip is in place as well as a man at short cover..]]></line><line><![CDATA[DEL are in the huddle. It's going to be a spin-fest at the Eden Gardens. Can DEL solve the KOL spin web? But that's for later, they have to restrict the hosts first. Zaheer Khan has the ball. Can the veteran Indian pacer get some early wickets? We are set to go..]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Kolkata</b> (Playing XI): Robin Uthappa(w), Gautam Gambhir(c), Manish Pandey, Andre Russell, Yusuf Pathan, Johan Botha, Suryakumar Yadav, Piyush Chawla, Sunil Narine, Umesh Yadav, Brad Hogg]]></line><line><![CDATA[<b>Delhi</b> (Playing XI): Manoj Tiwary, Shreyas Iyer, Jean-Paul Duminy(c), Yuvraj Singh, Saurabh Tiwary, Kedar Jadhav(w), Angelo Mathews, Albie Morkel, Zaheer Khan, Amit Mishra, Imran Tahir]]></line><line><![CDATA[<b>Duminy:</b> "We would have bowled first. We are going with a batter heavy side, so happy with bowling first. We expected him (Narine) to play. So, we planned accordingly. We have got 4 out of 4 and have to win the remaining games. Manoj Tiwary comes in place of Mayank Agarwal and Albie Morkel replaces Nathan Coulter-Nile."]]></line><line><![CDATA[<b>Gambhir:</b> "We are going to bat. It looks like a good wicket and we have four spinners. So, put the runs on the board and try and defend. We have the leader of the attack Sunil Narine back. It is a luxury to have him in the side. We have Sunil Narine in for Ryan ten Doeschate."]]></line><line><![CDATA[<b>Kolkata have won the toss and have opted to bat</b>]]></line><line><![CDATA[Stay tuned! We will bring you the captain views and team news in a little while as the toss is not too far away.]]></line><line><![CDATA[<b>Head-to-head:</b>]]></line><line><![CDATA[In 15 previous encounters, KOL have been victorious on 8 occasions, while DEL have clinched 6 wins. One was a no result.]]></line><line><![CDATA[<b>Weather update:</b>]]></line><line><![CDATA[It's been quite a sunny day in the cultural capital of India. The temperature is predicted to hover around 30 degree celsius during the course of play and thankfully no showers are predicted.]]></line><line><![CDATA[<b>Team news:</b>]]></line><line><![CDATA[KOL have made one change in their last game by bringing in Johan Botha for Pat Cummins. They might consider playing an extra seamer in Morne Morkel or Pat Cummins. Gambhir is a big fan of spin bowling and it won't come as a surprise if he sticks to the same combination.]]></line><line><![CDATA[DEL also made one change in their last encounter by bringing in Imran Tahir in place of Gurinder Sandhu. They might be tempted to make few changes in their batting wing. One among Mayank Agarwal and Kedar Jadhav could be the ones to miss out.]]></line><line><![CDATA[So, will the vintage Yuvraj and searing Zaheer turn up today? Fingers crossed for an exciting contest folks!]]></line><line><![CDATA[Shreyas Iyer! Oh what an outrageous talent, lauded the experts. But it's the slog that has ended majority of his promising knocks. The 20-year old succumbed to the nature of the game as it demands aggressive strokes more often than not. He has certainly been the find of IPL. DEL, however, are still finding a way to gather the much required momentum as they have been unpredictable so far. A tenacious show from here will only help them reach the playoffs as their chances already look bleak with only 4 wins in 10 games. They can only expect the senior campaigners to take up the responsibility which allows the younger players to express themselves.]]></line><line><![CDATA[KOL, after a comprehensive win against HYD in their previous game, are high on confidence and are keen to seal a spot for the playoffs. Barring PUN, every other team still have a chance of making it to the playoffs and the defending champions will be well aware of the situation. "KOL without Narine is a mess," predicted the pundits. But guess what!! A 44-year old chinaman bowler from Western Australia has overshadowed Narine's absence and is having a dream run since his first game. Everyone in the team has made vital contributions if and when required and KOL have nothing to ponder about. They will just have to focus on sustaining the winning momentum.]]></line><line><![CDATA[<b>19:00 Local Time, 13:30 GMT, 19:00 IST:</b> One team is looking to seal a spot in the playoffs while the other are trying to improve their chances of making it to the playoffs. Will DEL bounce back strongly or will KOL end the road for DEL? The outcome of this game will provide us the much needed answers to those queries. It's going to be a cracker of a contest in a place which is renowned as the city of joy. Indeed it's the Eden Gardens at Kolkata hosting the 42nd game of the Indian Premier League.]]></line><line><![CDATA[<b>Preview</b><br/><br/>A defeat at the hands Mumbai has put Delhi under pressure to secure a berth in the Playoffs, and the road gets tougher when they take on Kolkata at the Eden Gardens, where a defeat could end their hopes of making the final four. After Kolkata, Delhi will have games against Hyderabad, Chennai and Bangalore, making their chances of making it appear rather slim.<br/><br/>Kolkata, on the other hand, are on third position in the standings and two of their remaining games on their home ground gives them an opportunity to cement their place in the Playoffs.<br/><br/>Venue: Eden Gardens, Kolkata<br/><br/>Date: May 7, 2015<br/><br/>Time: 20:00 IST<br/><br/>Weather: Mostly clear skies with a minimum of 27 degrees<br/><br/><b>Team news</b><br/><br/><b>Kolkata</b><br/><br/>A 35-run victory over Hyderabad took Kolkata to the third spot in the points table, helped by an impressive performance with the ball from an attack without Morne Morkel or Pat Cummins. Brad Hogg's addition has meant the absence of Sunil Narine hasn't been felt, while their decision to go with a spin-heavy bowling attack with Johan Botha coming in for Cummins has also helped.<br/><br/>The business end of the tournament will only suggest that Kolkata will go in with the same XI that played Hyderabad, but would be hoping for their batting order to be more consistent.<br/><br/>Probable XI: 1. Robin Uthappa, 2. Gautam Gambhir (capt), 3. Manish Pandey, 4. Suryakumar Yadav, 5. Yusuf Pathan, 6. Andre Russell, 7. Ryan ten Doeschate, 8. Piyush Chawla, 9. Johan Botha, 10. Brad Hogg, 11. Umesh Yadav<br/><br/><b>Delhi</b><br/><br/>The five-wicket loss at the Wankhede Stadium on Tuesday night has put Delhi on the back foot. The inconsistency of their batting order hasn't allowed them to put up strong totals regularly which has hurt the team's cause in their last two matches, indicating that a change or two may likely take place in the XI.<br/><br/>Angelo Mathews's reputation hasn't been matched with performances on the field, as the Sri Lankan hasn't been able to make an impression ever since he replaced Albie Morkel after their first game against Chennai. His lack of wickets with the ball may also prompt a return for Morkel, but Mathews's strength against spin may save him for the game against the Kolkata.<br/><br/>Probable XI: 1. Mayank Agarwal, 2. Shreyas Iyer, 3. JP Duminy, 4. Yuvraj Singh, 5. Albie Morkel, 6. Kedar Jadhav, 7. Saurabh Tiwary, 8. Nathan Coulter-Nile, 9. Amit Mishra, 10. Zaheer Khan, 11. Imran Tahir<br/><br/><b>Quotes</b><br/><br/>"Now it's do-or-die situation for us. We have got four games and we need to win four. It's going to be tough but not impossible. I remember Kolkata winning six or seven matches in a row to qualify and win the tournament. We will try our best." - Yuvraj Singh looks to take inspiration from Delhi' next opponents.<br/><br/>"I have been assigned the role of picking as many wickets as possible at the start of the innings. I have to pick wickets and get the opposition openers out because every team in this competition has impact openers." - Kolkata pacer Umesh Yadav reveals the secret of his success this season.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Delhi</b> (From): Mayank Agarwal, Shreyas Iyer, Jean-Paul Duminy(c), Kedar Jadhav(w), Yuvraj Singh, Angelo Mathews, Saurabh Tiwary, Nathan Coulter-Nile, Zaheer Khan, Amit Mishra, Imran Tahir, Quinton de Kock, Manoj Tiwary, Shahbaz Nadeem, Jayant Yadav, Jaydev Unadkat, Gurinder Sandhu, Chidhambaram Gautam, Travis Head, Srikar Bharat, Albie Morkel, Marcus Stoinis, Domnic Joseph, KK Jiyas]]></line><line><![CDATA[<b>Kolkata</b> (From): Gautam Gambhir(c), Robin Uthappa(w), Manish Pandey, Andre Russell, Ryan ten Doeschate, Yusuf Pathan, Suryakumar Yadav, Johan Botha, Piyush Chawla, Umesh Yadav, Brad Hogg, Pat Cummins, Vaibhav Rawal, Kishan Cariappa, Aditya Garhwal, Sheldon Jackson, Sumit Narwal, Azhar Mahmood, Kuldeep Yadav, Veer Pratap Singh, Morne Morkel, Sunil Narine]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>171</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Kolkata">
+			<players>
+				<player>
+					<playerid>527</playerid>
+					<name>Robin Uthappa</name>
+					<batsman-name>Uthappa</batsman-name>
+					<batsman-nickname>Uthappa</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>32</runs>
+					<balls>31</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>A Mishra</bowler>
+					<bowlerId>1454</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>308</playerid>
+					<name>Gautam Gambhir</name>
+					<batsman-name>Gambhir</batsman-name>
+					<batsman-nickname>Gambhir</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>10</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Zaheer</bowler>
+					<bowlerId>71</bowlerId>
+						<fielder>Kedar Jadhav</fielder>
+						<fielderId>1851</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1836</playerid>
+					<name>Manish Pandey</name>
+					<batsman-name>M Pandey</batsman-name>
+					<batsman-nickname>M Pandey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Yuvraj</bowler>
+					<bowlerId>69</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>466</playerid>
+					<name>Piyush Chawla</name>
+					<batsman-name>Chawla</batsman-name>
+					<batsman-nickname>Chawla</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Morkel</bowler>
+					<bowlerId>484</bowlerId>
+						<fielder>Saurabh Tiwary</fielder>
+						<fielderId>1601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>790</playerid>
+					<name>Yusuf Pathan</name>
+					<batsman-name>Y Pathan</batsman-name>
+					<batsman-nickname>Y Pathan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>24</balls>
+					<fours>3</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder>Saurabh Tiwary</fielder>
+						<fielderId>1601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<batsman-name>A Russell</batsman-name>
+					<batsman-nickname>A Russell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tahir</bowler>
+					<bowlerId>6667</bowlerId>
+						<fielder>Angelo Mathews</fielder>
+						<fielderId>1629</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7915</playerid>
+					<name>Suryakumar Yadav</name>
+					<batsman-name>Suryakumar Yadav</batsman-name>
+					<batsman-nickname>Suryakumar Yadav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>487</playerid>
+					<name>Johan Botha</name>
+					<batsman-name>J Botha</batsman-name>
+					<batsman-nickname>J Botha</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>5</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Jean-Paul Duminy</fielder>
+						<fielderId>211</fielderId>
+						<fielder2>Kedar Jadhav</fielder2>
+						<fielderId2>1851</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2276</playerid>
+					<name>Sunil Narine</name>
+					<batsman-name>Narine</batsman-name>
+					<batsman-nickname>Narine</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<batsman-name>Umesh</batsman-name>
+					<batsman-nickname>U Yadav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>140</playerid>
+					<name>Brad Hogg</name>
+					<batsman-name>B Hogg</batsman-name>
+					<batsman-nickname>B Hogg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>308</playerid>
+				<nbr>1</nbr>
+				<runs>38</runs>
+				<overs>4.3</overs>
+				<batsman>Gautam Gambhir</batsman>
+				<batsman-name>Gambhir</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>527</playerid>
+				<nbr>2</nbr>
+				<runs>63</runs>
+				<overs>8.6</overs>
+				<batsman>Robin Uthappa</batsman>
+				<batsman-name>Uthappa</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1836</playerid>
+				<nbr>3</nbr>
+				<runs>82</runs>
+				<overs>11.4</overs>
+				<batsman>Manish Pandey</batsman>
+				<batsman-name>M Pandey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>466</playerid>
+				<nbr>4</nbr>
+				<runs>108</runs>
+				<overs>14.5</overs>
+				<batsman>Piyush Chawla</batsman>
+				<batsman-name>Chawla</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7736</playerid>
+				<nbr>5</nbr>
+				<runs>128</runs>
+				<overs>16.3</overs>
+				<batsman>Andre Russell</batsman>
+				<batsman-name>A Russell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>790</playerid>
+				<nbr>6</nbr>
+				<runs>153</runs>
+				<overs>18.6</overs>
+				<batsman>Yusuf Pathan</batsman>
+				<batsman-name>Y Pathan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>487</playerid>
+				<nbr>7</nbr>
+				<runs>171</runs>
+				<overs>20</overs>
+				<batsman>Johan Botha</batsman>
+				<batsman-name>J Botha</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>9</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="Delhi">
+			<players>
+				<player>
+					<playerid>71</playerid>
+					<name>Zaheer Khan</name>
+					<bowler-name>Zaheer</bowler-name>
+					<bowler-nickname>Zaheer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>484</playerid>
+					<name>Albie Morkel</name>
+					<bowler-name>A Morkel</bowler-name>
+					<bowler-nickname>A Morkel</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>211</playerid>
+					<name>Jean-Paul Duminy</name>
+					<bowler-name>Duminy</bowler-name>
+					<bowler-nickname>Duminy</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1454</playerid>
+					<name>Amit Mishra</name>
+					<bowler-name>A Mishra</bowler-name>
+					<bowler-nickname>Mishra</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>20</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6667</playerid>
+					<name>Imran Tahir</name>
+					<bowler-name>Tahir</bowler-name>
+					<bowler-nickname>Tahir</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>46</runsoff>
+					<wickets>2</wickets>
+					<wides>6</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1629</playerid>
+					<name>Angelo Mathews</name>
+					<bowler-name>Mathews</bowler-name>
+					<bowler-nickname>Mathews</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>13</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>69</playerid>
+					<name>Yuvraj Singh</name>
+					<bowler-name>Yuvraj</bowler-name>
+					<bowler-nickname>Yuvraj</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>694</playerid>
+					<name>Manoj Tiwary</name>
+					<bowler-name>M Tiwary</bowler-name>
+					<bowler-nickname>M Tiwary</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9428</playerid>
+					<name>Shreyas Iyer</name>
+					<bowler-name>S Iyer</bowler-name>
+					<bowler-nickname>Shreyas Iyer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1601</playerid>
+					<name>Saurabh Tiwary</name>
+					<bowler-name>S Tiwary</bowler-name>
+					<bowler-nickname>S Tiwary</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1851</playerid>
+					<name>Kedar Jadhav</name>
+					<bowler-name>K Jadhav</bowler-name>
+					<bowler-nickname>K Jadhav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>158</totalruns>
+		<totalwickets>6</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Delhi">
+			<players>
+				<player>
+					<playerid>694</playerid>
+					<name>Manoj Tiwary</name>
+					<batsman-name>M Tiwary</batsman-name>
+					<batsman-nickname>M Tiwary</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>28</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Chawla</bowler>
+					<bowlerId>466</bowlerId>
+						<fielder>Suryakumar Yadav</fielder>
+						<fielderId>7915</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9428</playerid>
+					<name>Shreyas Iyer</name>
+					<batsman-name>S Iyer</batsman-name>
+					<batsman-nickname>Shreyas Iyer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>40</runs>
+					<balls>35</balls>
+					<fours>3</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>B Hogg</bowler>
+					<bowlerId>140</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>211</playerid>
+					<name>Jean-Paul Duminy</name>
+					<batsman-name>Duminy</batsman-name>
+					<batsman-nickname>Duminy</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>25</runs>
+					<balls>16</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Chawla</bowler>
+					<bowlerId>466</bowlerId>
+						<fielder>Umesh Yadav</fielder>
+						<fielderId>1858</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1851</playerid>
+					<name>Kedar Jadhav</name>
+					<batsman-name>K Jadhav</batsman-name>
+					<batsman-nickname>K Jadhav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>10</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Chawla</bowler>
+					<bowlerId>466</bowlerId>
+						<fielder>Johan Botha</fielder>
+						<fielderId>487</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>69</playerid>
+					<name>Yuvraj Singh</name>
+					<batsman-name>Yuvraj</batsman-name>
+					<batsman-nickname>Yuvraj</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Chawla</bowler>
+					<bowlerId>466</bowlerId>
+						<fielder>Andre Russell</fielder>
+						<fielderId>7736</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1629</playerid>
+					<name>Angelo Mathews</name>
+					<batsman-name>Mathews</batsman-name>
+					<batsman-nickname>Mathews</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>15</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>A Russell</bowler>
+					<bowlerId>7736</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1601</playerid>
+					<name>Saurabh Tiwary</name>
+					<batsman-name>S Tiwary</batsman-name>
+					<batsman-nickname>S Tiwary</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>15</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>484</playerid>
+					<name>Albie Morkel</name>
+					<batsman-name>A Morkel</batsman-name>
+					<batsman-nickname>A Morkel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>2</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>71</playerid>
+					<name>Zaheer Khan</name>
+					<batsman-name>Zaheer</batsman-name>
+					<batsman-nickname>Zaheer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1454</playerid>
+					<name>Amit Mishra</name>
+					<batsman-name>A Mishra</batsman-name>
+					<batsman-nickname>Mishra</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6667</playerid>
+					<name>Imran Tahir</name>
+					<batsman-name>Tahir</batsman-name>
+					<batsman-nickname>Tahir</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>694</playerid>
+				<nbr>1</nbr>
+				<runs>63</runs>
+				<overs>9.5</overs>
+				<batsman>Manoj Tiwary</batsman>
+				<batsman-name>M Tiwary</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9428</playerid>
+				<nbr>2</nbr>
+				<runs>71</runs>
+				<overs>10.6</overs>
+				<batsman>Shreyas Iyer</batsman>
+				<batsman-name>S Iyer</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1851</playerid>
+				<nbr>3</nbr>
+				<runs>96</runs>
+				<overs>13.2</overs>
+				<batsman>Kedar Jadhav</batsman>
+				<batsman-name>K Jadhav</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>69</playerid>
+				<nbr>4</nbr>
+				<runs>96</runs>
+				<overs>13.5</overs>
+				<batsman>Yuvraj Singh</batsman>
+				<batsman-name>Yuvraj</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>211</playerid>
+				<nbr>5</nbr>
+				<runs>111</runs>
+				<overs>15.3</overs>
+				<batsman>Jean-Paul Duminy</batsman>
+				<batsman-name>Duminy</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1629</playerid>
+				<nbr>6</nbr>
+				<runs>143</runs>
+				<overs>18.6</overs>
+				<batsman>Angelo Mathews</batsman>
+				<batsman-name>Mathews</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>5</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<bowlteam name="Kolkata">
+			<players>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<bowler-name>Umesh</bowler-name>
+					<bowler-nickname>U Yadav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>29</runsoff>
+					<wickets>0</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7736</playerid>
+					<name>Andre Russell</name>
+					<bowler-name>A Russell</bowler-name>
+					<bowler-nickname>A Russell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>24</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2276</playerid>
+					<name>Sunil Narine</name>
+					<bowler-name>Narine</bowler-name>
+					<bowler-nickname>Narine</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>466</playerid>
+					<name>Piyush Chawla</name>
+					<bowler-name>Chawla</bowler-name>
+					<bowler-nickname>Chawla</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>32</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>140</playerid>
+					<name>Brad Hogg</name>
+					<bowler-name>B Hogg</bowler-name>
+					<bowler-nickname>B Hogg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>487</playerid>
+					<name>Johan Botha</name>
+					<bowler-name>J Botha</bowler-name>
+					<bowler-nickname>J Botha</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>527</playerid>
+					<name>Robin Uthappa</name>
+					<bowler-name>Uthappa</bowler-name>
+					<bowler-nickname>Uthappa</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>308</playerid>
+					<name>Gautam Gambhir</name>
+					<bowler-name>Gambhir</bowler-name>
+					<bowler-nickname>Gambhir</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1836</playerid>
+					<name>Manish Pandey</name>
+					<bowler-name>M Pandey</bowler-name>
+					<bowler-nickname>M Pandey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>790</playerid>
+					<name>Yusuf Pathan</name>
+					<bowler-name>Y Pathan</bowler-name>
+					<bowler-nickname>Y Pathan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7915</playerid>
+					<name>Suryakumar Yadav</name>
+					<bowler-name>Suryakumar Yadav</bowler-name>
+					<bowler-nickname>Suryakumar Yadav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

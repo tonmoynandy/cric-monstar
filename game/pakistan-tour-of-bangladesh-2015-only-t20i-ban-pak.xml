@@ -1,0 +1,1038 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14719" >
+		<type>T20</type>
+		<gameDesc>Only T20I</gameDesc>
+		<series>Pakistan tour of Bangladesh, 2015</series>
+		<matchday>1</matchday>
+		<home>Bangladesh</home>
+		<away>Pakistan</away>
+		<teamsabbr>BAN vs PAK</teamsabbr>
+		<homeabbr>BAN</homeabbr>
+		<awayabbr>PAK</awayabbr>
+		<homeId>6</homeId>
+		<awayId>3</awayId>
+		<venue>Shere Bangla National Stadium, Dhaka</venue>
+		<startdate>24 04 2015</startdate>
+		<enddate>24 04 2015</enddate>
+		<toss>
+			<winner>Pakistan</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>Bangladesh won by 7 wkts</status>
+		<result type="win">
+			<winningteam>Bangladesh</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>7</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Anisur Rahman</Name>
+			<Country>Ban</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Sharfuddoula</Name>
+			<Country>Ban</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Enamul Haque</Name>
+			<Country>Ban</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Jeff Crowe</Name>
+			<Country>NZ</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>12:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150424153043</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Ban</batteamname>
+		<bwlteamname>Pak</bwlteamname>
+		<batteamruns>143</batteamruns>
+		<batteamwkts>3</batteamwkts>
+		<batteamovers>16.2</batteamovers>
+		<status>Bangladesh won by 7 wkts</status>
+		<batsman>
+			<playerid>544</playerid>
+			<name>Shakib Al Hasan*</name>
+			<batsman-name>Shakib</batsman-name>
+			<batsman-nickname>Shakib</batsman-nickname>
+			<runs>57</runs>
+			<balls-faced>41</balls-faced>
+			<fours>9</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>8231</playerid>
+			<name>Sabbir Rahman</name>
+			<batsman-name>S Rahman</batsman-name>
+			<batsman-nickname>S Rahman</batsman-nickname>
+			<runs>51</runs>
+			<balls-faced>32</balls-faced>
+			<fours>7</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<bowler>
+			<playerid>1053</playerid>
+			<name>Saeed Ajmal*</name>
+			<bowler-name>Ajmal</bowler-name>
+			<bowler-nickname>Ajmal</bowler-nickname>
+			<overs>3.2</overs>
+			<maidens>0</maidens>
+			<runs>25</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>1051</playerid>
+			<name>Wahab Riaz</name>
+			<bowler-name>Riaz</bowler-name>
+			<bowler-nickname>Riaz</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>39</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>142</target>
+<lastwicket>
+<playerid>394</playerid>
+<name>Mushfiqur Rahim</name>
+<player-runs>19</player-runs>
+<player-balls>15</player-balls>
+<runs>38</runs>
+<wicket-nbr>3</wicket-nbr>
+<bowlerid>1051</bowlerid>
+<bowlername>Riaz</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>2</total>
+		</extras>
+		<prevOvers><![CDATA[. . 4 1 Wd 2 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 1 1 . 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 1 1 4 1 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/BAN_PAK_2015/BAN_PAK_APR24/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That brings us to the end of our coverage from this game. The action now shifts to the Test arena. Don't forget to join us next Tuesday for the start of the first Test match. On behalf of <b>Mani</b> and <b>Kaushik</b>, this is <b>Sidhant Maheshwari</b> signing off. Take care!]]></line><line><![CDATA[<b>Mortaza gets the winning team trophies from the Bangladeshi PM Sheikh Hasina</b>]]></line><line><![CDATA[<b>Sabbir:</b> 'I enjoyed my batting. I am happy that I got these runs in the match. I dedicate it to my family. We were playing positively and all our team management deserves the credit too. Hopefully, we can stay positive and win the Test matches as well.']]></line><line><![CDATA[<b>Sabbir Rahman</b> is the <b>Man of the Match</b> for his <b>32-ball 51</b>]]></line><line><![CDATA[<b>Mortaza:</b> 'It's a great moment for us. We have been really working hard for these moments for the past 6-7 months. Hopefully, we can continue to play like this. I am sure that the boys will give their best in the Test series too. I am alright, my body is fine too. As a group, we are working hard in the fielding department. Everything is going fine for us and in the future, I hope we can continue doing well']]></line><line><![CDATA[<b>Afridi:</b> 'I want to congratulate the Bangladeshi Cricket team. They have played really well. They have got great momentum right now. Our team is good for the Tests, Misbah and Younis are playing as well. The guys in this (ODI/T20) team are talented and they have to learn from their mistakes. They are inexperienced and they will only learn with time. Bangladesh is a great place to play, the crowd is great and I would love to come back here. ']]></line><line><![CDATA[Earlier in the day, the Pakistanis didn't get off to the best of starts with Shehzad struggling to get his timing right. Debutant Mukhtar Ahmed looked in good touch, but he too failed to convert his start into a big score. Afridi was wrongly given out, but the other batsmen failed to cut loose when it mattered the most. Sohail and Hafeez tried playing a few big shots towards the end, but in the end Pakistan could only manage 141 on the board. For Bangladesh, the debutant Mustafizur bowled really well and took 2/20, never allowing the Pakistani batsmen to get away. It was a dominant performance from Bangladesh with both the bat and the ball and in the end, the better team won.]]></line><line><![CDATA[Tamim Iqbal started with a bang, hitting two fours and a six in the first over. However, Soumya Sarkar was out on a diamond duck on debut as an accurate throw from Ajmal caught him short of his crease. Tamim too got out soon after and then Shakib and Rahim tried to consolidate for a little while. But Rahim fell in the sixth over, with the team score reading 38 on the board. Pakistan were well on top there, but ever since Rahman joined Shakib at the crease, both of them took the attack to the Pakistani bowlers. Be it Ajmal, Afridi or Riaz, both batsmen kept picking up boundaries in every over and were able to put the Pakistanis under a lot of pressure. In the end, their brilliant 100+ partnership was all that was required by Bangladesh to win the one-off T20I.]]></line><line><![CDATA[Shakib and Rahman shake hands with their Pakistani counterparts. Mashrafe Mortaza leads his team-mates out on the field as they exchange handshakes. It has been an incredible win for Bangladesh. They were the better team throughout and have thrashed the Pakistanis. The quality of batting from Shakib and Rahman was simply breathtaking as <b>Bangladesh won with 22 balls to spare</b>.]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Ajmal to Shakib, <b>FOUR</b>, <b>Bangladesh win by 7 wickets</b>, a deserving win for the hosts. This is the <b>first time they have defeated Pakistan in a T20I</b>. Coming back to the ball, it was tossed up outside off, Shakib comes down the track and drives it wide of mid-off, the ball hurries across the turf and runs away to the fence]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Ajmal to S Rahman, 1 run, kneels down and sweeps this flighted delivery to short fine leg, the batsmen cross over for a quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Riaz to Shakib, <b>FOUR</b>, <b>Shakib too reaches his fifty now, that too in style</b>. This brings up the <b>100-run partnership</b> as well. It was a short delivery from Riaz, Shakib muscles the pull over mid-wicket and the ball crashes into the fence]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Riaz to S Rahman, 1 run, <b>Rahman gets to his fifty with a single</b>, it was banged in short, Rahman pulls it on the bounce to deep backward square leg for a single]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Riaz to S Rahman, <b>FOUR</b>, <b>what a shot!</b> Riaz offers some width on this occasion, Rahman waits for it and flat-bats it past a diving cover, the ball runs away to the fence]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Riaz to Shakib, 1 run, lovely shot but he will only get a single there, it was full and outside off, Shakib leans forward and drives it to sweeper cover]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Riaz to S Rahman, 1 run, short of a length and well outside off, dabbed towards third man for a single]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Riaz to S Rahman, <b>FOUR</b>, that's clubbed by Rahman, on a length and just outside off, Rahman clears his left leg and heaves it over mid-on for a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz [3.0-0-24-1] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Ajmal to Shakib, no run, flighted delivery on the stumps, Shakib defends off the front foot, he was looking for a single there but it's not available]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Ajmal to S Rahman, 1 run, slower through the air and slightly flatter this time, Rahman goes on the back foot and wrists it towards square leg, gets off strike with another single]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Ajmal to S Rahman, no run, drifting on the pads, Rahman clips it to short fine leg, can't get the single away this time]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Ajmal to Shakib, 1 run, Shakib gives the charge this time and drives this tossed up delivery down to long-off]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Ajmal to S Rahman, 1 run, slower through the air and just outside off, Rahman goes back and works it past square leg for a single]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Ajmal to S Rahman, <b>FOUR</b>, Rahman has been brilliant today, he waits for this full delivery just outside off and employs the reverse sweep, sends it to the right of short third man, who was a mere spectator there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Saeed Ajmal [2.0-0-13-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Tanvir to S Rahman, 1 run, full delivery on the stumps, Rahman drives it down to long-on]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Tanvir to S Rahman, 2 runs, full delivery coming in with the angle, Rahman goes across and flicks it behind square on the on-side, the batsmen take two before the fielder from deep square leg runs to his right and stops the ball]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Tanvir to S Rahman, <b>wide</b>, bowls a bumper this time, Rahman ducks under it and the umpire calls it a wide because it was way too high]]></line><line><![CDATA[Comes from round the wicket now]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Tanvir to Shakib, 1 run, length delivery just outside off, Shakib mistimes the loft and the ball falls in the vacant mid-on region, the batsmen take a single as the ball dribbles away to long-on]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Tanvir to Shakib, <b>FOUR</b>, again Tanvir bowls this wide outside off, Shakib cuts it hard and in the air over backward point, who jumps high but can't get a hand to it, the ball runs away to the fence]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Tanvir to Shakib, no run, short and slightly wide outside off, Shakib goes chasing after it and tries to cut, but the ball goes past the outside edge once again]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Tanvir to Shakib, no run, back of a length delivery on off, Hasan hops a little and drops it in front of point, he was looking for the single there but it's not available]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sohail Tanvir [2.0-0-7-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Riaz to Shakib, 1 run, opens the face of the bat and steers this delivery outside off towards third man, he will keep the strike]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Riaz to Shakib, no run, back of a length delivery on the stumps, Shakib defends off the back foot]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Riaz to Shakib, <b>FOUR</b>, on the pads, you can't bowl to Shakib there. He allows the ball to come and gently tickles it to the fine leg fence, Bangladesh are rollicking along here]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Riaz to S Rahman, 1 run, short delivery outside off, Rahman clears his front leg and goes for a big slog over the on-side, he ends up slicing it high in the air. Luckily for the batsman, the ball falls in front of the third man fielder, who was running forward to take the catch. Rahman survives]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Riaz to S Rahman, no run, length delivery angling away outside off, Rahman tries to run it down to third man but the ball goes past the outside edge once again]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Riaz to S Rahman, <b>FOUR</b>, back of a length delivery outside off, Rahman rocks back and forehands the pull back over the bowler, the ball runs away to the long-on fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz [2.0-0-14-1] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Afridi to Shakib, <b>FOUR</b>, Afridi drags his length back and Shakib cuts it past backward point, who dives to his left to try and take the catch as it was <b>in the air for some time</b>. He can't stop it and the ball runs away to the fence. Afridi thought that Gul should have done better there and was once again disappointed with the fielding effort]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Afridi to Shakib, 2 runs, quicker one on leg stump line, Shakib manages to drives it wide of long-on, the batsmen come back for the second and Afridi is not very pleased with the effort from the fielder there]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Afridi to S Rahman, 1 run, eases this down to long-off to get off strike]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Afridi to S Rahman, no run, drifting in on leg, Rahman fails to work the arm-ball into the on-side and gets hit on the pad, the ball was going down leg though]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Afridi to Shakib, 1 run, tossed up on off stump, Shakib drives it down to long-off]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Afridi to Shakib, no run, takes this loopy delivery on the full and drives it to extra cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shahid Afridi [2.0-0-17-0] is back into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Umar Gul to S Rahman, no run, short again and Rahman pulls it once again, he can't time it right and the ball rolls away to mid-wicket, <b>14 runs came off that over</b>]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Umar Gul to S Rahman, no run, length delivery outside off, Rahman opens the face of the bat and pushes it to point]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Umar Gul to S Rahman, <b>SIX</b>, <b>50 of the partnership comes up</b>, this one was banged in short and on leg, Rahman goes across and pulls it over the deep backward square leg fence. What a hit to put Gul under tremendous pressure]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Umar Gul to S Rahman, <b>FOUR</b>, <b>consecutive boundaries</b> for Rahman! It was a short of length delivery outside off, Rahman opens the face of the bat and guides it past backward point, who gets a hand on it and takes the pace off the ball. Third man runs to his right, puts in the dive but can only manage to parry it to the fence]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Umar Gul to S Rahman, <b>FOUR</b>, Rahman joins the party, he comes down the track and flat-bats this shortish delivery outside off, he gets it over the fielder at mid-off and that's all he had to do there to collect four]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Umar Gul to S Rahman, no run, back of a length delivery on the stumps, Rahman hangs back and defends it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umar Gul [1.0-0-9-1] is back into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Ajmal to Shakib, no run, on middle and leg this time, Shakib leans forward and defends]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Ajmal to Shakib, <b>FOUR</b>, this is great batting from Shakib, again he uses his feet to get to the pitch of the ball, he lofts it over the bowler's head and the ball races away to the fence]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Ajmal to Shakib, 2 runs, gives the charge this time and drills it hard back at the bowler, who bends down and tries to field the ball, the ball deflects off the boot of the bowler and rolls away wide of long-off, the batsmen come back for the second run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Ajmal to S Rahman, 1 run, flatter and outside off, Rahman opens the face of the bat and dabs it towards deep backward point for a single]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Ajmal to Shakib, 1 run, drifting on the pads, Shakib sweeps it to the right of short fine leg, who dives full length to his right and saves three runs there]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Ajmal to Shakib, 2 runs, gives the charge and lofts this fullish delivery over the bowler's head, the batsmen take two before long-on runs to his right and stops the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Saeed Ajmal [1.0-0-3-0] is back into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Afridi to S Rahman, no run, Rahman was looking to nreverse sweep through that but Afridi fires it on the pads, he can only defend it towards the end]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Afridi to Shakib, 1 run, goes on the back foot this time and cuts it to deep backward point for a single]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Afridi to Shakib, no run, drags his length back and Shakib goes for a big pull on the on-side. He fails to connect as the ball keeps a little low and goes under his blade, it wasn't that far away from the off stump either]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Afridi to Shakib, 2 runs, leans forward, opens the face of the bat and pushes it towards backward point, comes back for the second easily]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Afridi to Shakib, <b>FOUR</b>, back-to-back fours for Shakib, it was full and just outside off, Shakib drills it past the non-striker and the ball crashes into the fence in no time]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Afridi to Shakib, <b>FOUR</b>, Shakib comes down the track and looks to drive it down the ground, he gets an outside edge and the ball runs away to the third man fence, the fielder at third man was inside the circle]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Riaz to S Rahman, no run, bumper outside off from Riaz, Rahman goes after it, but fails to lay bat on it. The keeper collects]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Riaz to S Rahman, no run, back of a length delivery on the stumps, Rahman clears his front leg and was looking to go big, but decides to defend it in the end. He gets an inside edge onto the pad and the ball rolls away past the leg stump, it wasn't that far away from the stumps there]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Riaz to Shakib, 1 run, angling in on middle stump line, Shakib goes across and clips it behind square on the leg-side for another single]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Riaz to S Rahman, 1 run, short of length delivery on middle and leg, Rahman nudges it through mid-wicket and gets off strike]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Riaz to S Rahman, 2 runs, back of a length delivery on the pads, Rahman glances it towards fine leg, the fielder from long leg runs to his right and the batsmen take two before he field the ball]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Riaz to S Rahman, no run, back of a length delivery around off, Rahman hops in the crease and defends it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Afridi to Shakib, no run, flighted delivery on the stumps, Shakib gives the charge and defends it back to the bowler]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Afridi to Shakib, no run, takes a step forward and pushes it back to the bowler]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Afridi to Shakib, no run, shortish and spinning in towards Shakib, who cuts it towards backward point, he was cramped for room there]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Afridi to S Rahman, 1 run, flatter and on middle and leg, Rahman tucks it away through mid-wicket for a single]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Afridi to Shakib, 1 run, quicker one on off, Shakib leans forward and pushes it to the left of backward point for a single]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Afridi to Shakib, <b>FOUR</b>, short and slightly wide outside off, Shakib goes deep in the crease and cuts it past backward point, the fielder from sweeper cover runs to his right but the ball beats him to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shahid Afridi, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Riaz to S Rahman, <b>FOUR</b>, poor last delivery from Riaz, he again bowls this one on the pads, Rahman hangs back and tucks it away to the left of short fine leg, there was no protection in the deep and he collects four for that]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Riaz to S Rahman, 2 runs, back of a length delivery on middle and leg, Rahman nudges it towards deep mid-wicket and the batsmen easily come back for the second before the ball is hunted down]]></line><line><![CDATA[<b>Sabbir Rahman, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Riaz to Rahim, <b>out</b> Bowled!! Big, big wicket for Pakistan. The crowd has gone silent after this wicket. It was a length delivery angled across off, Rahim pushes at it, the ball takes the inside edge and uproots the middle stump. Rahim walks back disappointed and Pakistan are again back into the game. Riaz punches the air in delight after taking the wicket. <b>Rahim b Riaz 19(15) [4s-4]</b>]]></line><line><![CDATA[Riaz to Rahim, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Riaz to Rahim, no run, back of a length delivery outside off, Rahim opens the face of the bat and dabs it towards backward point]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Riaz to Rahim, <b>FOUR</b>, backs away slightly and comes down the track, Riaz angles this across off, Rahim slaps it wide of mid-off and the ball runs away to the fence]]></line><line><![CDATA[A slip is in place for Riaz]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Riaz to Rahim, no run, back of a length delivery on the stumps, Rahim jams it back on the pitch and luckily for him, the ball bounces over the stumps and rolls away towards the keeper, he could have easily dragged it on there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Wahab Riaz, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Ajmal to Shakib, no run, floated up outside off, Shakib drives it to extra cover]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Ajmal to Shakib, no run, quicker and on off, Shakib punches it to cover-point, Rahim was out of his crease in search for the single, he has to rush back in as the fielder fires in a direct-hit at the non-striker's end. He made it in comfortably though]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Ajmal to Rahim, 1 run, kneels down and sweeps this flighted delivery around off to deep backward square leg]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Ajmal to Rahim, no run, flatter and slower outside off, Rahim guides it on the bounce to slip after opening the face of the bat]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Ajmal to Shakib, 1 run, tossed up outside off, Shakib drives it past the diving bowler for another single]]></line><line><![CDATA[A slip in place for Ajmal]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Ajmal to Rahim, 1 run, flighted delivery outside off, Rahim goes down on one knee and slog sweeps it in the air over square leg, the batsmen take a single as the ball rolls away to the man in the deep]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Saeed Ajmal, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Tanvir to Rahim, 1 run, drop-and-run single from Rahim to kep the strike, it was a length delivery just outside off, Rahim drops it in front of mid-off and set off, Shakib responded immediately and the batsmen complete the single easily in the end]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Tanvir to Rahim, <b>FOUR</b>, <b>take that Tanvir!</b> It was banged in short and outside off, Rahim swivels and pulls it over the fielder at mid-on, the ball races away to the fence. He didn't time it that well, but the ball had enough legs to reach the fence]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Tanvir to Rahim, no run, just short of a good length and angling across off, Rahim opens the face of the bat and guides it towards gully]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Tanvir to Rahim, no run, length delivery on off, Rahim defends by offering the full face of the bat]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Tanvir to Shakib, 1 run, on the pads once again, Shakib glances it to the right of short fine leg and the batsmen charge across for a quick single]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Tanvir to Shakib, no run, back of a length delivery angling in on leg, the ball keeps a tad low and Shakib misses the clip. There was a <b>huge lbw appeal</b>, but the umpire says 'Not Out' after giving it much thought. It was probably going down leg but the Pakistani players are not happy]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Umar Gul to Rahim, no run, back of a length delivery just outside off, Rahim defends off the back foot]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Umar Gul to Rahim, <b>FOUR</b>, <b>that's the shot of the day for me!</b> It was full and outside off, Rahim transfers his weight on the front foot and drives it past beautifully a diving point, the ball hurries across the turf and crashes into the fence]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Umar Gul to Rahim, <b>FOUR</b>, length delivery around off, Rahim goes across and punches it past the non-striker, mid-on gives chase but that was timed superbly, beats him to the fence]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Umar Gul to Rahim, no run, full delivery outside off, Rahim pushes at it, the ball rolls away to the left of point off the outside half of the bat, who dives across and prevents the single]]></line><line><![CDATA[<b>Mushfiqur Rahim, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Umar Gul to Tamim, <b>out</b> Caught by Hafeez!! Umar Gul is delighted after sending the dangerous Tamim on his way back. It was short and slightly wide outside off, Tamim goes hard on the cut, he ends up getting an outside edge and Hafeez at fly slip takes an easy catch. A big breakthrough for Pakistan and Bangladesh are in trouble here early on. <b>Tamim c Hafeez b Umar Gul 14(10) [4s-2 6s-1]</b>]]></line><line><![CDATA[Umar Gul to Tamim, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Umar Gul to Shakib, 1 run, back of a length delivery angling away outside off, Shakib guides it down to third man for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umar Gul, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Tanvir to Tamim, no run, full delivery on off, Tamim comes on the front foot and defends]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Tanvir to Shakib, 1 run, short of length delivery outside off, Shakib waits for it inside the crease, opens the face of the bat and glides it towards third man]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Tanvir to Shakib, no run, back of a length delivery on off, Shakib goes deep in the crease and defends]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Tanvir to Tamim, leg byes, 1 run, <b>loud shout for lbw!</b> The umpire gives it Not Out. It was angling in on leg, Tamim leans forward and fails to connect with the push, the ball hits him on the pad and rolls away into the on-side. The batsmen sneak in a leg-bye and it was probably the right decision from the umpire as it looked like that the ball will go down leg]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Tanvir to Tamim, no run, Tavir sees Tamim give the charge and bowls it slightly wide outside off, Tamim leaves that alone for the keeper]]></line><line><![CDATA[A slip is in place for Tanvir]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Tanvir to Tamim, no run, length delivery outside off, Tamim goes across and pushes it into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Sohail Tanvir, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Hafeez to Shakib, no run, tossed up outside off, Shakib drives it to cover, an eventful over comes to an end]]></line><line><![CDATA[<b>Shakib Al Hasan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Hafeez to Tamim, <b>out</b> Soumya Sarkar Run Out!! Sarkar goes for a diamond duck in his debut game. It was bowled on the pads of Tamim, who clips it to square leg and set off. Sarkar was late to respond and Ajmal finds the stumps with a direct-hit, Sarkar put in the dive but still falls short of his crease. <b>Soumya Sarkar run out (Ajmal) 0(0)</b>]]></line><line><![CDATA[Hafeez to Tamim, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[The third umpire has been called to check a run-out chance. Sarkar is short of his crease probably. <b>OUT</b> is the decision]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Hafeez to Tamim, <b>FOUR</b>, Tamim has no respect for Hafeez as once again he comes down the track, reaches to the pitch of the ball and lofts it inside-out over extra cover as well. The ball runs away to the fence]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Hafeez to Tamim, <b>FOUR</b>, floated up outside off, Tamim comes down the track and lofts it inside-out over extra cover, the fielder from long-off runs to his right, dives and tries to push the ball back in, but it rolls back on the rope]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Hafeez to Tamim, <b>SIX</b>, Tamim comes down the track and smashes this flighted delivery over the long-on fence. What a way to get off the mark for Tamim]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Hafeez to Tamim, no run, floated up on off, Tamim drives it straight to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tamim and Soumya Sarkar are at the crease. Tamim is on strike. Hafeez will open the attack</b>]]></line><line><![CDATA[The Bangladeshi openers stride out to the middle. Hafeez will start the bowling for Pakistan. There is a slip in place.]]></line><line><![CDATA[Can Bangladesh make it 4 wins in a row? Or will Afridi's men turn the tide in their favour? Join us in a short while to follow the run-chase.]]></line><line><![CDATA[The Bangladeshi bowlers impressed, especially Mustafizur, who in his debut match troubled most of the Pakistani batters. If it was Shehzad in the earlier stages, it was Hafeez towards the end, who failed to hit him for boundaries. Afridi was unlucky to be given out, but overall the Bangladeshi bowlers bowled tremendous line and lengths to keep the Pakistanis at bay.]]></line><line><![CDATA[Bangladesh will be the happier side at the end of the first innings. They never allowed the Pakistani batsmen to cut loose. 140 on a flat track is not a par score, but now it is upto the Pakistani bowlers to restrict the Bangladeshi batters.]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Tanvir, <b>out</b> Tanvir Run Out!! 1 run completed. Bangladesh finish on a high. It was bowled full and on leg stump line, Sohail clips it towards deep mid-wicket, the batsmen come back for the second, but the fielder fires in a flat and accurate throw at the striker's end, Rahim takes the bails off in a flash to catch Tanvir short. <b>Tanvir run out (S Rahman/Rahim) 8(8)</b>]]></line><line><![CDATA[Taskin Ahmed to Tanvir, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Sohail, 1 run, Taskin again tries to bowl a yorker and ends up bowling a low full toss, Sohail backs away and can only manage to help it down towards long-on]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Tanvir, leg byes, 1 run, full and on the pads, Tanvir fails to tickle it fine and the ball rolls away behind square off the pad, only a leg bye available for the taking]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Sohail, 1 run, bowls a low full toss trying to bowl the yorker, Sohail drives it down to long-on and gets off strike]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Sohail, 2 runs, full and on leg stump line, Sohail mistimes the heave to deep mid-wicket after backing away, the throw from the fielder in the deep wasn't on target and the batsmen make it for the second with ease]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Tanvir, 1 run, full and on off, Tanvir whips it towards long-on, the fielder charges forward towards the ball and doesn't allow the batsmen to take the second there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed [3.0-0-23-1] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Shakib to Sohail, no run, in the blockhole this time, Sohail squeezes it out to his left and Rahim rushes across to prevent the batsmen from taking the single]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Shakib to Tanvir, byes, 1 run, goes for the reverse lap and fails to connect, Rahim can't stop it cleanly either and the batsmen quick sneak in a leg bye]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Shakib to Tanvir, 2 runs, full toss outside off, Tanvir lofts it over the bowler's head, the batsmen take another couple before long-on runs to his left and stops the ball, it wasn't timed that well from Tanvir]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Shakib to Tanvir, 2 runs, on the pads once again, Tanvir whacks it to the right of deep mid-wicket, the batsmen take two before the fielder runs across and hunts the ball down]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Shakib to Sohail, 1 run, drifting on the pads, Sohail clips it through mid-wicket for another single]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Shakib to Tanvir, 1 run, full outside off, Tanvir drills it straight to long-off to get off strike]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Mustafizur has bowled great line and lengths on his debut. His figures: <b>4-0-20-2</b>.]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Tanvir, 1 run, full and just outside off, Tanvir goes forward and whips it straight to deep mid-wicket]]></line><line><![CDATA[<b>Sohail Tanvir, left handed bat, comes to the crease</b>]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Hafeez, <b>out</b> Lbw!! This is brilliant bowling from the youngster. His second wicket and this was as plumb as it gets. Hafeez goes right across his stumps and tries to play the sweep off this full delivery. He misses the ball and was trapped right in front of middle. There was a loud appeal and that's the easiest decision the umpire had to make all night as he raises his finger in a flash. <b>Hafeez lbw b Mustafizur Rahman 26(18) [4s-4]</b>]]></line><line><![CDATA[Mustafizur Rahman to Hafeez, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Hafeez, no run, Hafeez goes right across to try and put the bowler off, Mustafizur bowls it full and slightly wide outside off, Hafeez reached out for it and failed to connect once again]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Hafeez, no run, slower ball angling away outside off, Hafeez stays rooted to the crease and tries playing a wild slog, the ball beats the blade and goes on the bounce to the keeper]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Sohail, 1 run, short and slightly wide outside off, Sohail comes out of the crease and looks to cut, can't time it right though. The batsmen take a single as the ball rolls away to the left of backward point]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Sohail, 2 runs, bowls this slightly wide outside off, Sohail carves it past backward point, Nasir Hossain runs to his right from sweeper cover, dives and pulls the ball back in time to save two runs for his team]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mustafizur Rahman [3.0-0-16-1] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Shakib to Hafeez, <b>FOUR</b>, another boundary off the last ball of the over. It was floated up outside off, Hafeez steps out of the crease and gets to the pitch of the ball, he loft-drives it past the fielder at extra cover and the ball runs away to the fence]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Shakib to Sohail, 1 run, uses his feet once again and takes this tossed up delivery on the full, driven towards long-off for another single]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Shakib to Sohail, no run, full delivery on the stumps, Sohail comes down the track and jams it back to the bowler]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Shakib to Hafeez, 1 run, slower and Shakib dragged his length back too on this occasion, Hafeez goes for the slog sweep and can only get a single as the ball dribbles away towards deep mid-wicket]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Shakib to Sohail, 1 run, comes down the track and almost yorks himself this time, he manages to squeeze out the drive to long-off and the batsmen take a single]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Shakib to Sohail, 2 runs, Sohail gives the charge to this full delivery just outside off, he takes it on the full and drives it to the right of long-off, the batsmen take two before the fielder gets around]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan [2.0-0-2-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hafeez, <b>FOUR</b>, that's a great shot from Hafeez, <b>13 runs came off the over</b>. It was full and outside off, Hafeez lofts it in the gap between mid-off and extra cover, he split both the fielders to perfection and the ball rockets away to the fence]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Sohail, 1 run, Sohail backs away and Taskin bowls a low full toss at him, he helps it towards sweeper cover and gets off strike]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Sohail, <b>SIX</b>, banged in short and at the batsman, Sohail goes on the back foot and pulls it magnificently over the deep mid-wicket fence, that ball went quite the distance there]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hafeez, 1 run, good yorker from Taskin, he bowl it well outside off and all Hafeez could do was to squeeze it out to third man]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Hafeez, no run, poor shot from Hafeez, it was bowled full and well outside off, Hafeez goes down on one knee and wanted to lap it fine, but can't lay bat on it. The keeper collects]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Sohail, 1 run, Sohail backs away and Taskin follows him with a back of a length delivery, Sohail can only punch it towards cover and the batsmen cross over]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed [2.0-0-10-1] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Mortaza to Sohail, 1 run, full delivery on the stumps, Sohail clips it to deep mid-wicket, who quickly runs to his right and prevents the batsmen from taking the second run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Mortaza to Hafeez, 1 run, full and outside off, Hafeez goes across and whips it to deep square leg for a single]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Mortaza to Sohail, 1 run, slower ball yorker just outside off, Sohail squeezes it out towards deep mid-wicket, the batsmen were looking for the second there but decide against it after seeing Nasir Hossain charge towards the ball in the deep]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Mortaza to Hafeez, 1 run, goes for another slog this time but miscues it completely. The ball rolls away to long-on off the inside half of the bat and the batsmen cross over for a single]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Mortaza to Hafeez, 2 runs, gets down on one knee and slog sweeps it over mid-wicket, long-on runs to his right and fields the ball, the batsmen take two in the meantime]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Mortaza to Hafeez, <b>FOUR</b>, lucky boundary for Hafeez but he will take it as they come. It was full outside off, Hafeez goes for the drive and gets a thick outside edge that flies over the short third man fielder, who gives chase but the ball wins the race]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mashrafe Mortaza [3.0-0-19-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Nasir Hossain to Hafeez, 1 run, drives this fullish delivery to the right of long-off, can only manage a single this time as well]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Nasir Hossain to Sohail, 1 run, gives the charge this time and drives this tossed up delivery to the right of the bowler, who dives across but misfields. The batsmen take a single as the ball rolls away to long-off]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Nasir Hossain to Hafeez, 1 run, makes room inside the crease and slaps this flatter delivery down to long-off, only a single on this occasion]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Nasir Hossain to Sohail, 1 run, quicker and on off and middle, Sohail goes slightly across and bunts it down to long-on]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Nasir Hossain to Hafeez, 1 run, comes down the track and drives this uppishly towards long-off for a single]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Nasir Hossain to Hafeez, no run, drags this slightly wide outside off, Hafeez goes for the cut but the ball keeps a tad low and goes under his bat]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;A Sunny to Sohail, 2 runs, drifting on the pads, Sohail flicks it to deep square leg, the batsmen take two before the fielder from deep backward square leg runs to his right and stops the ball]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;A Sunny to Sohail, 2 runs, charges down the track and lofts this slowish delivery to the left of the bowler, long-off runs to his right, slides and saves two runs for his team]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;A Sunny to Sohail, no run, advances and pushes this flatter delivery back to the bowler, who runs to his right and prevents the single]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;A Sunny to Hafeez, 1 run, gives the charge once again, Hafeez drives this delivery outside off to sweeper cover, gets off strike]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;A Sunny to Hafeez, <b>FOUR</b>, comes down the track and lofts this tossed up delivery over mid-on, the ball runs away to the fence and Hafeez gets off the mark with a boundary]]></line><line><![CDATA[<b>Mohammad Hafeez, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;A Sunny to Mukhtar Ahmed, <b>out</b> Stumped!! Ahmed makes way too much room to this flighted delivery, but fails to connect as he went for the slog. He misses and had dragged his foot outside as well. Rahim quickly collects  it and disturbs the stumps even before Ahmed could drag his foot back in. He goes after a good knock in his debut match. <b>Mukhtar Ahmed st Rahim b A Sunny 37(30) [4s-5 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[A Sunny to Mukhtar Ahmed, <b>THATS OUT!!</b> Stumped!!]]></line><line><![CDATA[The third umpire has been pressed into service to check a stumping chance. Ahmed is the man in question. His foot was out of the crease for quite some time there. Has he dragged it back? No, he hasn't. It is on the line and he is <b>OUT</b>]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;A Sunny to Mukhtar Ahmed, <b>wide</b>, loopy full toss down the leg-side, Ahmed fails to help it down fine and the umpire exercises his arms]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny [1.0-0-13-0] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Nasir Hossain to Mukhtar Ahmed, 1 run, full and on the stumps, Ahmed squeezes out the drive to mid-on, who dives and stops the ball. He can't prevent the single though]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Nasir Hossain to Sohail, 1 run, quicker and on off, Sohail goes aross and eases it uppishly past the non-striker for a single]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Nasir Hossain to Mukhtar Ahmed, 1 run, floated outside off, Ahmed goes for another loft but slices it high in the air, sweeper runs forward but the ball bounces in front of him, the batsmen take a single]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Nasir Hossain to Mukhtar Ahmed, <b>FOUR</b>, floated up on middle stump line, Ahmed comes charging down the track and lofts it straight over the bowler's head, long-off runs to his right and misfields, allows the ball to roll away to the fence. Poor fielding effort from Soumya Sarkar there]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Nasir Hossain to Mukhtar Ahmed, <b>wide</b>, drags this short and well wide outside off, called a wide]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Nasir Hossain to Mukhtar Ahmed, 2 runs, flighted delivery on the stumps, Ahmed slogs it over mid-wicket and good running ensures that they come back for the second]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Nasir Hossain to Sohail, 1 run, flatter and on off, Sohail comes down the track and eases it down to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Nasir Hossain, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Coming back to Afridi's wicket, the deviation off the wicket probably made the umpire think that he edged it, but replays show that there was no edge involved. Nothing Afridi could do about it there.]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Mukhtar Ahmed, no run, angles this one across off, Ahmed defends from the crease]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Sohail, leg byes, 1 run, <b>loud shout for lbw!</b> The umpire says Not Out. It was a length delivery angling in on middle stump, Sohail fails to clip it through the on-side and wears it on the pad. That looked pretty close though. The batsmen take a single as the ball rolls away into the off-side]]></line><line><![CDATA[<b>Haris Sohail, left handed bat, comes to the crease</b>]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Afridi, <b>out</b> Caught by Rahim!! Afridi is so disappointed with that decision. He asks the umpire whether there's a review available, but the umpire says no. He walks back dejected. Coming back to the ball, it was a back of a length delivery that nips away from middle stump line, Afridi pushes at it and misses it completely. There was an appeal and the umpire raised his finger immediately. Maiden wicket for Mustafizur, but Afridi was unlucky there. <b>Afridi c Rahim b Mustafizur Rahman 12(9) [6s-1]</b>]]></line><line><![CDATA[Mustafizur Rahman to Afridi, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Afridi, <b>wide</b>, full delivery angling away wide outside off, Afridi leaves it alone and the umpire signals a wide]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Afridi, <b>SIX</b>, <b>first maximum for Boom-Boom!</b> It was banged in short and Afridi pulls it over the deep backward square leg fence. The fielder at deep square leg runs to his right but could only watch the ball sail over the fence]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Afridi, 2 runs, full delivery outside off, Afridi goes across once again and whips it through mid-wicket, the batsmen take two before the fielder in the deep runs forward and fields the ball]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Afridi, 2 runs, length delivery on the stumps, Afridi goes across and tucks it away behind square on the on-side, the batsmen take two before the fine leg fielder gets around]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mustafizur Rahman [2.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[A slip is in place for Mustafizur]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Mortaza to Afridi, 1 run, waits on this length delivery just outside off, Afridi opens the face of the bat and guides it to the left of backward point for a single]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, 1 run, length delivery outside off, Ahmed drives it on the up to extra cover, he set off for the single and Mahmudullah fires in the throw at the non-striker's end and misses. <b>A direct-hit would have been curtains</b> for Ahmed there]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Mortaza to Afridi, 1 run, slower ball from Mortaza, Afridi goes across and tries to work it through the on-side, he gets it high on the bat and the ball goes uppishly towards mid-wicket, it bounces just before the fielder and the batsmen charge across for a quick single]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Mortaza to Afridi, no run, great fielding by the Bangladeshi captain off his own bowling. It was full and just outside off, Afridi drives it to the left of the bowler, who dives full length to his left and prevents the single. Great effort from him there]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Mortaza to Afridi, no run, full delivery outside off, Afridi goes right across and looks to whip this through the on-side, but the ball goes past the inside edge and through to the keeper]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Mortaza to Afridi, no run, length delivery outside off, Afridi looks to drive it through the off-side and fails to connect]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shahid Afridi, right handed bat, comes to the crease</b>]]></line><line><![CDATA[Surprise, surprise! It's Boom-Boom who has come out.]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Ahmed Shehzad, <b>out</b> Caught by Mortaza!! The crowd goes berserk as Shehzad goes after a long struggle at the crease. The umpire checks for the front foot no-ball, it looks touch-and-go, but decides in favour of the fielding side. It was full delivery outside off, Shehzad goes for the big loft but doesn't get under it properly. Mortaza from long-off runs in, dives forward and takes a great catch. He is pumped up after taking that chance. <b>Ahmed Shehzad c Mortaza b Taskin Ahmed 17(31) [4s-2]</b>]]></line><line><![CDATA[Taskin Ahmed to Ahmed Shehzad, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, 1 run, slower ball outside off, Ahmed mistimes the heave, the batsmen take a single as the ball rolls away towards the mid-wicket region]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, no run, another swing and a miss from Ahmed. It was short and slightly wide outside off, Ahmed looks to cut once again, but this time the extra pace on the ball beats him. Good comeback from Taskin after getting hit for a six]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, no run, slower shortish ball slightly wide outside off, Ahmed goes hard on the cut, but the lack of pace beats him once again]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, <b>SIX</b>, <b>hammered!</b> It was just short of a good length and angling in on the stumps, Ahmed slogs hard and connects well, uses the pace on the ball and deposits it over the deep mid-wicket fence]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, no run, bumper from Taskin, Ahmed flashes hard at it trying to cut it over backward point, but the extra lift takes it over the swinging bat, the umpire signals one bouncer for the over]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Mortaza to Ahmed Shehzad, no run, what was Shehzad trying to do there? He pre-meditates and goes for another scoop, but Mortaza bowls it well outside off and bowls it slower too. He fails to connect with it and falls over trying to play the shot]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, leg byes, 1 run, Ahmed goes across and tries to scoop this short fine leg, he misses and the ball hits him high on the pad, the batsmen sneak in a leg bye as the ball rolls away into the on-side. There was a lbw appeal, but the ball was always going down]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, <b>FOUR</b>, slower ball outside off, Ahmed drills it off the inside half of the bat past the bowler, long-off had no chance off cutting that off running to his right, Ahmed collects four]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Mortaza to Ahmed Shehzad, 1 run, stays inside the crease and whips this length delivery towards deep mid-wicker for a single]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Mortaza to Ahmed Shehzad, 2 runs, angling in on middle, Shehzad clears his front leg and slogs it towards deep mid-wicket, the fielder from deep square leg runs to his left, picks the ball and fires in the throw at the striker's end. Shehzad had to put in the dive to make his ground. The throw too wasn't accurate and had that been on target, it would have been very close]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Mortaza to Ahmed Shehzad, no run, slower and full outside off, Shehzad goes for a big loft on the off-side, but plays the short way too early, gets beaten]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mashrafe Mortaza [1.0-0-9-0] is back into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, no run, full delivery and just outside off, Shehzad goes for a big heave but the ball beats the outside edge once again, end of a good over from Taskin]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Taskin Ahmed to Ahmed Shehzad, 1 run, full and outside off, Shehzad comes down the track and drives it uppishly through the cover, the batsmen can only take a single as there was protection at deep extra cover]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, 1 run, full and angling in on off and middle, Ahmed clips it towards mid-on and set off, the fielder runs forward, picks the ball and underarms a direct-hit at the non-striker's end, but the batsman was well in]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Taskin Ahmed to Ahmed Shehzad, 1 run, angles this one in from just outside off, Shehzad waits inside the crease, opens the face of the bat and guides it towards the gully region, the batsmen take a single]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Taskin Ahmed to Ahmed Shehzad, no run, short and slightly wide outside off, Shehzad goes for the cut but the ball goes past his blade]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Taskin Ahmed to Mukhtar Ahmed, leg byes, full delivery angling in on middle and leg, Ahmed fails to work it through the on-side and the ball rolls away to his left off the pad, there was no appeal as the ball was snaking down leg, the batsmen take a leg bye]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Taskin Ahmed, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Shakib to Ahmed Shehzad, no run, goes across and sweeps this tossed up delivery to short fine leg]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Shakib to Mukhtar Ahmed, byes, 1 run, Ahmed comes down the track and Shakib bowls it slower, he fails to clip it through the on-side and Rahim can't collect it cleanly either. The batsmen sneak in a bye as the ball rolls away towards short fine leg. A <b>stumping chance goes wasted</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Shakib to Ahmed Shehzad, 1 run, low full toss from Shakib, Shehzad backs away slightly and drives it straight to extra cover. The batsmen set off for a single and the fielder fires in the throw at the striker's end and misses, <b>a direct-hit though would have made things interesting</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Shakib to Ahmed Shehzad, no run, in the blockhole outside off, Shehzad squeezes it out into the off-side]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Shakib to Ahmed Shehzad, no run, <b>a run-out chance</b>, but the batsman was back in. It was a flighted delivery on off, Shehzad gives the charge and misses the clip, Ahmed was too far down the track in search of a single but makes it back in time as the throw from short cover comes in at the non-striker's end]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Shakib to Ahmed Shehzad, no run, Shehzad stays leg-side and Shakib bowls it slower through the air, Shehzad defends it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan [1.0-0-1-0] is back into the attack</b>]]></line><line><![CDATA[Mustafizur was looking to bowl his third over, but Mortaza takes the ball away from him and gives it to Shakib]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;A Sunny to Mukhtar Ahmed, <b>FOUR</b>, Ahmed backs away and Sunny drags his length back, Ahmed adjusts well though and punches it in the gap between extra cover and mid-off, the ball hurries across the turf and runs away to the fence]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;A Sunny to Ahmed Shehzad, 1 run, Shehzad advances and Sunny bowls it on his pads, Shehzad can only push it down to long-on for a single]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;A Sunny to Ahmed Shehzad, no run, Shehzad goes right across his stumps and tries to put Sunny off his length, Sunny bowls it around off stump and Shehzad sweeps it straight to short fine leg]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;A Sunny to Ahmed Shehzad, <b>FOUR</b>, <b>back-to-back boundaries!</b> It was flatter and on the stumps, Shehzad comes dancing down the track and whips it to the cow corner fence. Two bounces and into the fence]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;A Sunny to Ahmed Shehzad, <b>FOUR</b>, Shehzad gives the charge this time to this delivery on middle and leg, he flicks it over mid-wicket and the ball runs away to the cow corner fence]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;A Sunny to Ahmed Shehzad, no run, Shehzad makes slight room and Sunny follows him, Shehzad defends it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Arafat Sunny, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, no run, back of a length delivery angling in on the stumps, Ahmed defends it back to the bowler]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, no run, slower length delivery outside off, Ahmed goes for another drive off the front foot, but the ball goes past the outside edge and the keeper collects]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, <b>FOUR</b>, even better timing on this one. Once again Mortaza overpitches, Ahmed leans forward and lofts it inside-out over extra cover for a boundary]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Mortaza to Mukhtar Ahmed, <b>FOUR</b>, a boundary to ease the pressure. It was full and outside off, Ahmed loft-drives it wide of mid-off and the ball runs away to the fence in no time]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Mortaza to Ahmed Shehzad, 1 run, cuts this widish delivery to the right of backward point, where the fielder dives and fields the ball. The batsmen had already taken off for the single, Sabbir gets a direct-hit at the non-striker's end, but the batsman was well in]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Mortaza to Ahmed Shehzad, no run, Shehzad goes for a slog this time, he wanted to go over mid-on there, but mistimes it completely off the toe-end of the bat. The ball dribbles away to mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mashrafe Mortaza, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, 1 run, <b>edged but there is no one at gully!</b> It was bowled slightly fuller and angled across off, Shehzad goes for the drive and gets an outside edge, but there was no one at gully. The batsmen take a single as the ball rolls away to third man]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, drags his length back slightly and bowls it outside off, Shehzad wafts at it and misses the ball once again]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, length delivery angling away outside off, Shehzad looks to push at it, the ball goes past the outside edge once again]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, comes down the track this time and slaps it to the right of backward point, Shehzad set off for the single there, but Sabbir was quick to get across, picks the ball and fires in the throw at the striker's end. Shehzad has to rush back in, a direct-hit would have caught him short. He misses though and the batsmen don't run for an overthrow as there was no one backing up that throw]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, another great delivery from Mustafizur, Shehzad is struggling against him here. Another length delivery angling away outside off, Shehzad pokes at it away from his body, the ball goes past the outside edge once again]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, good ball from Mustafizur, Shehzad goes for the cut off this length delivery outside off, he fails to connect with it as the ball goes past his blade. The length was not there to be playing this shot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Shakib to Mukhtar Ahmed, no run, flatter and around off, Ahmed punches it back to the bowler]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shakib to Mukhtar Ahmed, no run, shortens his length after seeing Ahmed give the charge, Ahmed can only manage to punch it straight to short cover]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Shakib to Ahmed Shehzad, leg byes, 1 run, Shehzad gives the charge and Shakib bowls it on off and middle, Shehzad fails to clip it through the on-side and the ball rolls away into the on-side off the pad, the batsmen sneak in a leg bye]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Shakib to Mukhtar Ahmed, 1 run, advances down the track once again and Shakib bowls it a little fuller, Ahmed drives once again, the ball rolls away towards square leg off the inside half of the bat, the batsmen cross over for a quick run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Shakib to Mukhtar Ahmed, no run, comes down the track and drives this flighted delivery to mid-on, can't get the single away]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Shakib to Mukhtar Ahmed, no run, Ahmed takes a step forward and Shakib bowls it on the pads, Ahmed glances it towards short fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shakib Al Hasan, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, slightly overpitched this time around, Shehzad checks his drive, the ball goes on the bounce to short cover]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, back of a length delivery just outside off, Shehzad defends it to the right of short cover, who runs across and prevents the single]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, full delivery just outside off, Shehzad checks his push and the ball was in the air for some time, mid-off runs forward but the ball bounces just short of the fielder, Shehzad survives but looks a little shaky for now]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Ahmed Shehzad, no run, length delivery angling away just outside off, Shehzad pushes at it away from his body, the ball goes past the outside edge, a good delivery first up to Shehzad]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Mukhtar Ahmed, 3 runs, fuller length delivery just outside off, Ahmed leans across and drives it square of the wicket, two fielders from backward point and cover-point give chase, Sabbir Rahman hauls the ball back in just before the rope and saves a run, he is off the mark now]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Mukhtar Ahmed, no run, length delivery angled across off, Ahmed leans forward and pushes it straight towards short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Mustafizur Rahman to Mukhtar Ahmed, <b>wide</b>, bowls this one down the leg-side, Ahmed fails to glance it fine and the umpire calls it a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mukhtar Ahmed and Ahmed Shehzad are at the crease. Mukhtar Ahmed is on strike. Mustafizur Rahman will open the attack</b>]]></line><line><![CDATA[The Pakistani openers are out in the middle. Mukhtar Ahmed, the debutant, will take the strike first up. Another debutant, Mustafizur will start the proceedings with the ball. There is a slip in place for him. Here we go then...]]></line><line><![CDATA[<b>Mortaza:</b> 'We would have bowled first anyway. T20 is a different ball game, but hopefully the momentum will go with us. Mustafizur is the debutant and Soumya Sarkar is also making his debut. Restricting them under 150 will be good.']]></line><line><![CDATA[<b>Afridi:</b> 'Pitch looks nice and we want to bat first. We want to put up a nice total. This is a positive call and the pitch looks better than what we had during the ODI series. As a captain, I am positive and I know how important it is for us. We all are focussed. We will give it our 110 percent. We want to put somewhere around 160-170 on the board.']]></line><line><![CDATA[<b>Pitch Report:</b> 'This pitch has a lot of runs. There is a little bit of green tinge on it, it will hold the pitch together. The batsmen have nothing to be concerned about as such. Bat first and put the runs on the board, that's what the captain should do.']]></line><line><![CDATA[Both teams have two debutants. For Bangladesh, <b>Soumya Sarkar</b> and <b>Mustafizur Rahman</b> are playing their first T20I. <b>Mohammad Rizwan</b> and <b>Mukhtar Ahmed</b> are also featuring for Pakistan for the first time in a T20I.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Pakistan</b> (Playing XI): Mohammad Hafeez, Ahmed Shehzad, Haris Sohail, Mohammad Rizwan, Sarfraz Ahmed(w), Shahid Afridi(c), Mukhtar Ahmed, Sohail Tanvir, Wahab Riaz, Umar Gul, Saeed Ajmal]]></line><line><![CDATA[<b>Bangladesh</b> (Playing XI): Tamim Iqbal, Soumya Sarkar, Mahmudullah, Mushfiqur Rahim(w), Shakib Al Hasan, Sabbir Rahman, Nasir Hossain, Mashrafe Mortaza(c), Arafat Sunny, Taskin Ahmed, Mustafizur Rahman]]></line><line><![CDATA[<b>Pakistan have won the toss and have opted to bat</b>]]></line><line><![CDATA[Bangladesh have also added three new players - Rony Talukdar, Mustafizur Rahman and Litton Das to their squad for this game. Not sure whether all of them will get a chance or not, but expect at least one of the three to make the playing XI. We will know more about the teams after the toss. Stay tuned.]]></line><line><![CDATA[However, today is a different day and the format is different too. The core of the Bangladeshi team that will play the T20 will be the same as the ODIs. Apart from Afridi, Ahmed Shehzad and Sarfraz Ahmed, who was dropped for the last ODI, will be back into the side. It will be interesting to see whether they pick Mukhtar Ahmed ahead of Mohammad Hafeez, who had a terrible ODI series with the bat.]]></line><line><![CDATA[On the other hand, Bangladesh have the momentum behind them. After beating Pakistan after a gap of almost 16 years in the first ODI of the series, they went on to win the remaining two games as well. The new look Pakistan side, led by Azhar Ali, failed to inspire any sort of confidence as they were comprehensively beaten in all the three matches.]]></line><line><![CDATA[After a 3-match ODI series, the action now shifts to the shortest format of the game as Bangladesh and Pakistan lock horns in the one-off T20I in Mirpur. Shahid Afridi, who has retired from ODIs, will be back for this game, leading the side against the Bangladeshi Tigers. Under his captaincy, Pakistan will look to put the 3-0 whitewash behind them and hope to make amends for their poor show.]]></line><line><![CDATA[<b>Preview:</b><br/>After whitewashing Pakistan in the ODI series 3-0, Bangladesh will be hoping to ride on the momentum and continue their winning streak in the tour when the two teams lock horns for the one-off T20 international in Mirpur. With a new-look team led by Azahr Ali, Pakistan failed to inspire any confidence in the ODI series and they will eye the T20I game as the perfect platform to turn their fortunes around ahead of the two-match Test series. However, Bangladesh have not played a T20 international for over a year, while Pakistan, being one of the stronger teams in the shortest format of the game, definitely have the upper hand going into the match.<br/><br/><b>Venue:</b> Shere Bangla National Stadium, Mirpur<br/><br/><b>Date:</b> April 24, 2015<br/><br/><b>Time:</b> 18:00 IST<br/><br/><b>Weather:</b> Cloudy conditions with a low of 23 degrees<br/><br/><b>Team news:</b><br/><br/><b>Bangladesh</b><br/><br/>Bangladesh have added three new faces to the squad for the game in the form of Litton Das, Rony Talukdar and Mustafizur Rahman, and even though they will retain their core team, there is a possibility of left-arm pacer Mustafizur making his debut. Mahamudullah could be rested after a poor ODI series.<br/><br/>Probable XI: 1 Tamim Iqbal, 2 Soumya Sarkar, 3 Mahmudullah/Litton Das, 4 Mushfiqur Rahim (wk), 5 Shakib Al Hasan, 6 Sabbir Rahman, 7 Nasir Hossain, 8 Mashrafe Mortaza (capt), 9 Arafat Sunny, 10 Taskin Ahmed, 11 Mustafizur Rahman<br/><br/><b>Pakistan</b><br/><br/>Lot of T20 specialists come in for Pakistan with Shahid Afridi leading the team. Ahmed Shehzad and Sarfraz Ahmed, dropped for the last ODI, will return to the top for Pakistan while Sohail Tanvir is likely to get a game ahead of Junaid Khan. Mohammad Hafeez had a horrible ODI series with the bat and may be rested in favour of Mukhtar Ahmed.<br/><br/>Probable XI: 1 Sarfraz Ahmed (wk), 2 Ahmed Shehzad, 3 Haris Sohail, 4 Mohammad Rizwan, 5 Mukhtar Ahmed, 6 Shahid Afridi (capt), 7 Saad Nasim, 8 Sohail Tanvir, 9 Wahab Riaz, 10 Saeed Ajmal, 11 Umar Gul<br/><br/><b>Quotes</b><br/><br/>"The World T20 is also coming up, so we have to build a unit. Hopefully we can play a similar line-up in the World Cup and not make last-minute changes. As a captain, I will try to prepare a new captain for the future too." -Pakistan skipper Shahid Afridi<br/><br/>"We have decided to rest Rubel in order to keep him fresh for the Test series as he is our main strike bowler." Faruque Ahmed, BCB chairman of selectors]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Pakistan</b> (From): Ahmed Shehzad, Sarfraz Ahmed(w), Mohammad Hafeez, Haris Sohail, Mohammad Rizwan, Saad Nasim, Shahid Afridi(c), Wahab Riaz, Sohail Tanvir, Umar Gul, Saeed Ajmal, Junaid Khan, Imran Khan, Mukhtar Ahmed]]></line><line><![CDATA[<b>Bangladesh</b> (From): Tamim Iqbal, Soumya Sarkar, Mahmudullah, Mushfiqur Rahim(w), Shakib Al Hasan, Sabbir Rahman, Nasir Hossain, Mashrafe Mortaza(c), Arafat Sunny, Taskin Ahmed, Mustafizur Rahman, Rony Talukdar, Abul Hasan, Litton Das]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>141</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Pakistan">
+			<players>
+				<player>
+					<playerid>10383</playerid>
+					<name>Mukhtar Ahmed</name>
+					<batsman-name>Mukhtar Ahmed</batsman-name>
+					<batsman-nickname>Mukhtar Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>37</runs>
+					<balls>30</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>A Sunny</bowler>
+					<bowlerId>8243</bowlerId>
+						<fielder>Mushfiqur Rahim</fielder>
+						<fielderId>394</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1787</playerid>
+					<name>Ahmed Shehzad</name>
+					<batsman-name>Ahmed Shehzad</batsman-name>
+					<batsman-nickname>Ahmed Shehzad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>31</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Taskin Ahmed</bowler>
+					<bowlerId>8548</bowlerId>
+						<fielder>Mashrafe Mortaza</fielder>
+						<fielderId>323</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>142</playerid>
+					<name>Shahid Afridi</name>
+					<batsman-name>Afridi</batsman-name>
+					<batsman-nickname>Afridi</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mustafizur Rahman</bowler>
+					<bowlerId>9863</bowlerId>
+						<fielder>Mushfiqur Rahim</fielder>
+						<fielderId>394</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8299</playerid>
+					<name>Haris Sohail</name>
+					<batsman-name>H Sohail</batsman-name>
+					<batsman-nickname>Sohail</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>24</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>360</playerid>
+					<name>Mohammad Hafeez</name>
+					<batsman-name>M Hafeez</batsman-name>
+					<batsman-nickname>Hafeez</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>26</runs>
+					<balls>18</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Mustafizur Rahman</bowler>
+					<bowlerId>9863</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>859</playerid>
+					<name>Sohail Tanvir</name>
+					<batsman-name>Tanvir</batsman-name>
+					<batsman-nickname>Tanvir</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Sabbir Rahman</fielder>
+						<fielderId>8231</fielderId>
+						<fielder2>Mushfiqur Rahim</fielder2>
+						<fielderId2>394</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9468</playerid>
+					<name>Mohammad Rizwan</name>
+					<batsman-name>M Rizwan</batsman-name>
+					<batsman-nickname>Rizwan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>881</playerid>
+					<name>Sarfraz Ahmed</name>
+					<batsman-name>S Ahmed</batsman-name>
+					<batsman-nickname>Sarfraz Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<batsman-name>Riaz</batsman-name>
+					<batsman-nickname>Riaz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>504</playerid>
+					<name>Umar Gul</name>
+					<batsman-name>U Gul</batsman-name>
+					<batsman-nickname>Umar Gul</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1053</playerid>
+					<name>Saeed Ajmal</name>
+					<batsman-name>Ajmal</batsman-name>
+					<batsman-nickname>Ajmal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1787</playerid>
+				<nbr>1</nbr>
+				<runs>50</runs>
+				<overs>8.6</overs>
+				<batsman>Ahmed Shehzad</batsman>
+				<batsman-name>Ahmed Shehzad</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>142</playerid>
+				<nbr>2</nbr>
+				<runs>64</runs>
+				<overs>10.4</overs>
+				<batsman>Shahid Afridi</batsman>
+				<batsman-name>Afridi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10383</playerid>
+				<nbr>3</nbr>
+				<runs>77</runs>
+				<overs>12.1</overs>
+				<batsman>Mukhtar Ahmed</batsman>
+				<batsman-name>Mukhtar Ahmed</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>360</playerid>
+				<nbr>4</nbr>
+				<runs>126</runs>
+				<overs>17.5</overs>
+				<batsman>Mohammad Hafeez</batsman>
+				<batsman-name>M Hafeez</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>859</playerid>
+				<nbr>5</nbr>
+				<runs>141</runs>
+				<overs>20</overs>
+				<batsman>Sohail Tanvir</batsman>
+				<batsman-name>Tanvir</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>2</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>5</legbyes>
+			<penalty>0</penalty>
+			<total>11</total>
+		</extras>
+		<bowlteam name="Bangladesh">
+			<players>
+				<player>
+					<playerid>9863</playerid>
+					<name>Mustafizur Rahman</name>
+					<bowler-name>Mustafizur Rahman</bowler-name>
+					<bowler-nickname>Mustafizur Rahman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>20</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>544</playerid>
+					<name>Shakib Al Hasan</name>
+					<bowler-name>Shakib</bowler-name>
+					<bowler-nickname>Shakib</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>17</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>323</playerid>
+					<name>Mashrafe Mortaza</name>
+					<bowler-name>Mortaza</bowler-name>
+					<bowler-nickname>Mortaza</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>29</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8243</playerid>
+					<name>Arafat Sunny</name>
+					<bowler-name>A Sunny</bowler-name>
+					<bowler-nickname>A Sunny</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8548</playerid>
+					<name>Taskin Ahmed</name>
+					<bowler-name>Taskin Ahmed</bowler-name>
+					<bowler-nickname>Taskin Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>29</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8018</playerid>
+					<name>Nasir Hossain</name>
+					<bowler-name>Nasir Hossain</bowler-name>
+					<bowler-nickname>Nasir Hossain</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>612</playerid>
+					<name>Tamim Iqbal</name>
+					<bowler-name>Tamim</bowler-name>
+					<bowler-nickname>Tamim</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8233</playerid>
+					<name>Soumya Sarkar</name>
+					<bowler-name>Soumya Sarkar</bowler-name>
+					<bowler-nickname>Soumya Sarkar</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1121</playerid>
+					<name>Mahmudullah</name>
+					<bowler-name>Mahmudullah</bowler-name>
+					<bowler-nickname>Mahmudullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>394</playerid>
+					<name>Mushfiqur Rahim</name>
+					<bowler-name>Rahim</bowler-name>
+					<bowler-nickname>Rahim</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8231</playerid>
+					<name>Sabbir Rahman</name>
+					<bowler-name>S Rahman</bowler-name>
+					<bowler-nickname>S Rahman</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>143</totalruns>
+		<totalwickets>3</totalwickets>
+		<totalovers>16.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Bangladesh">
+			<players>
+				<player>
+					<playerid>612</playerid>
+					<name>Tamim Iqbal</name>
+					<batsman-name>Tamim</batsman-name>
+					<batsman-nickname>Tamim</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>10</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>U Gul</bowler>
+					<bowlerId>504</bowlerId>
+						<fielder>Mohammad Hafeez</fielder>
+						<fielderId>360</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8233</playerid>
+					<name>Soumya Sarkar</name>
+					<batsman-name>Soumya Sarkar</batsman-name>
+					<batsman-nickname>Soumya Sarkar</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Saeed Ajmal</fielder>
+						<fielderId>1053</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>544</playerid>
+					<name>Shakib Al Hasan</name>
+					<batsman-name>Shakib</batsman-name>
+					<batsman-nickname>Shakib</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>57</runs>
+					<balls>41</balls>
+					<fours>9</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>394</playerid>
+					<name>Mushfiqur Rahim</name>
+					<batsman-name>Rahim</batsman-name>
+					<batsman-nickname>Rahim</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>19</runs>
+					<balls>15</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Riaz</bowler>
+					<bowlerId>1051</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8231</playerid>
+					<name>Sabbir Rahman</name>
+					<batsman-name>S Rahman</batsman-name>
+					<batsman-nickname>S Rahman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>51</runs>
+					<balls>32</balls>
+					<fours>7</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1121</playerid>
+					<name>Mahmudullah</name>
+					<batsman-name>Mahmudullah</batsman-name>
+					<batsman-nickname>Mahmudullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8018</playerid>
+					<name>Nasir Hossain</name>
+					<batsman-name>Nasir Hossain</batsman-name>
+					<batsman-nickname>Nasir Hossain</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>323</playerid>
+					<name>Mashrafe Mortaza</name>
+					<batsman-name>Mortaza</batsman-name>
+					<batsman-nickname>Mortaza</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8243</playerid>
+					<name>Arafat Sunny</name>
+					<batsman-name>A Sunny</batsman-name>
+					<batsman-nickname>A Sunny</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8548</playerid>
+					<name>Taskin Ahmed</name>
+					<batsman-name>Taskin Ahmed</batsman-name>
+					<batsman-nickname>Taskin Ahmed</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9863</playerid>
+					<name>Mustafizur Rahman</name>
+					<batsman-name>Mustafizur Rahman</batsman-name>
+					<batsman-nickname>Mustafizur Rahman</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>8233</playerid>
+				<nbr>1</nbr>
+				<runs>14</runs>
+				<overs>0.5</overs>
+				<batsman>Soumya Sarkar</batsman>
+				<batsman-name>Soumya Sarkar</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>612</playerid>
+				<nbr>2</nbr>
+				<runs>17</runs>
+				<overs>2.2</overs>
+				<batsman>Tamim Iqbal</batsman>
+				<batsman-name>Tamim</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>394</playerid>
+				<nbr>3</nbr>
+				<runs>38</runs>
+				<overs>5.4</overs>
+				<batsman>Mushfiqur Rahim</batsman>
+				<batsman-name>Rahim</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>2</total>
+		</extras>
+		<bowlteam name="Pakistan">
+			<players>
+				<player>
+					<playerid>360</playerid>
+					<name>Mohammad Hafeez</name>
+					<bowler-name>M Hafeez</bowler-name>
+					<bowler-nickname>Hafeez</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>859</playerid>
+					<name>Sohail Tanvir</name>
+					<bowler-name>Tanvir</bowler-name>
+					<bowler-nickname>Tanvir</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>16</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>504</playerid>
+					<name>Umar Gul</name>
+					<bowler-name>U Gul</bowler-name>
+					<bowler-nickname>Umar Gul</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1053</playerid>
+					<name>Saeed Ajmal</name>
+					<bowler-name>Ajmal</bowler-name>
+					<bowler-nickname>Ajmal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3.2</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1051</playerid>
+					<name>Wahab Riaz</name>
+					<bowler-name>Riaz</bowler-name>
+					<bowler-nickname>Riaz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>39</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>142</playerid>
+					<name>Shahid Afridi</name>
+					<bowler-name>Afridi</bowler-name>
+					<bowler-nickname>Afridi</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1787</playerid>
+					<name>Ahmed Shehzad</name>
+					<bowler-name>Ahmed Shehzad</bowler-name>
+					<bowler-nickname>Ahmed Shehzad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8299</playerid>
+					<name>Haris Sohail</name>
+					<bowler-name>H Sohail</bowler-name>
+					<bowler-nickname>Sohail</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9468</playerid>
+					<name>Mohammad Rizwan</name>
+					<bowler-name>M Rizwan</bowler-name>
+					<bowler-nickname>Rizwan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>881</playerid>
+					<name>Sarfraz Ahmed</name>
+					<bowler-name>S Ahmed</bowler-name>
+					<bowler-nickname>Sarfraz Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10383</playerid>
+					<name>Mukhtar Ahmed</name>
+					<bowler-name>Mukhtar Ahmed</bowler-name>
+					<bowler-nickname>Mukhtar Ahmed</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

@@ -1,0 +1,120 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Ireland</name>
+	<graph>
+		<id>wag_625</id>
+		<name>William Porterfield</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_625_Porterfield.png</url>
+	</graph>
+	<graph>
+		<id>wag_1114</id>
+		<name>Paul Stirling</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_1114_Stirling.png</url>
+	</graph>
+	<graph>
+		<id>wag_540</id>
+		<name>Ed Joyce</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_540_Ed_Joyce.png</url>
+	</graph>
+	<graph>
+		<id>wag_691</id>
+		<name>Niall O'Brien</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_691_N_O'Brien.png</url>
+	</graph>
+	<graph>
+		<id>wag_6710</id>
+		<name>Andrew Balbirnie</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_6710_Balbirnie.png</url>
+	</graph>
+	<graph>
+		<id>wag_739</id>
+		<name>Gary Wilson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_739_G_Wilson.png</url>
+	</graph>
+	<graph>
+		<id>wag_690</id>
+		<name>Kevin O'Brien</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_690_K_O'Brien.png</url>
+	</graph>
+	<graph>
+		<id>wag_622</id>
+		<name>John Mooney</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_27_622_J_Mooney.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>West Indies</name>
+	<graph>
+		<id>wag_255</id>
+		<name>Dwayne Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_255_Dwayne_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_247</id>
+		<name>Chris Gayle</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_247_Gayle.png</url>
+	</graph>
+	<graph>
+		<id>wag_1610</id>
+		<name>Darren Bravo</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_1610_DM_Bravo.png</url>
+	</graph>
+	<graph>
+		<id>wag_356</id>
+		<name>Marlon Samuels</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_356_Samuels.png</url>
+	</graph>
+	<graph>
+		<id>wag_399</id>
+		<name>Denesh Ramdin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_399_Ramdin.png</url>
+	</graph>
+	<graph>
+		<id>wag_599</id>
+		<name>Lendl Simmons</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_599_L_Simmons.png</url>
+	</graph>
+	<graph>
+		<id>wag_253</id>
+		<name>Darren Sammy</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_253_Sammy.png</url>
+	</graph>
+	<graph>
+		<id>wag_7736</id>
+		<name>Andre Russell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_7736_A_Russell.png</url>
+	</graph>
+	<graph>
+		<id>wag_8313</id>
+		<name>Jason Holder</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IRE_WI_FEB16/gph_wag_12859_10_8313_J_Holder.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

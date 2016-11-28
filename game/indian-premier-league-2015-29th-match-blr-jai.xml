@@ -1,0 +1,605 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14623" >
+		<type>T20</type>
+		<gameDesc>29th Match</gameDesc>
+		<series>Indian T20 League 2015</series>
+		<matchday>1</matchday>
+		<home>Bangalore</home>
+		<away>Rajasthan</away>
+		<teamsabbr>BLR vs JAI</teamsabbr>
+		<homeabbr>BLR</homeabbr>
+		<awayabbr>JAI</awayabbr>
+		<homeId>59</homeId>
+		<awayId>64</awayId>
+		<venue>M.Chinnaswamy Stadium, Bengaluru</venue>
+		<startdate>29 04 2015</startdate>
+		<enddate>29 04 2015</enddate>
+		<toss>
+			<winner>Rajasthan</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>rain</state>
+		<status>Play stopped due to rain</status>
+		<result type="">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Johanes Cloete</Name>
+			<Country>RSA</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Pashchim Pathak</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Chettithody Shamsuddin</Name>
+			<Country>Ind</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Ranjan Madugalle</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>14:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>1</currentinningsno>
+		<batteamname>BLR</batteamname>
+		<bwlteamname>JAI</bwlteamname>
+		<batteamruns>200</batteamruns>
+		<batteamwkts>7</batteamwkts>
+		<batteamovers>20</batteamovers>
+		
+		<batsman>
+			<playerid>9429</playerid>
+			<name>Sarfaraz Khan*</name>
+			<batsman-name>Sarfaraz Khan</batsman-name>
+			<batsman-nickname>Sarfaraz Khan</batsman-nickname>
+			<runs>45</runs>
+			<balls-faced>21</balls-faced>
+			<fours>6</fours>
+			<sixes>1</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>1451</playerid>
+			<name>Dhawal Kulkarni*</name>
+			<bowler-name>D Kulkarni</bowler-name>
+			<bowler-nickname>D Kulkarni</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>36</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>1057</playerid>
+			<name>Tim Southee</name>
+			<bowler-name>Southee</bowler-name>
+			<bowler-nickname>Southee</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>32</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<maxovers></maxovers>
+		<target></target>
+<lastwicket>
+<playerid>8175</playerid>
+<name>Harshal Patel</name>
+<player-runs>6</player-runs>
+<player-balls>2</player-balls>
+<runs>200</runs>
+<wicket-nbr>7</wicket-nbr>
+<bowlerid>0</bowlerid>
+<bowlername></bowlername>
+</lastwicket>
+		<extras>
+			<byes>5</byes>
+			<wides>6</wides>
+			<noballs>2</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>16</total>
+		</extras>
+		<prevOvers><![CDATA[4 4 WN1 1 1 1 Wd 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>4 6 1 1 4 2 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>Wd 4 . 4 . W 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 B1 2 . 2 W1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_T20_LEAGUE/BLR_JAI_APR29/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[<b>23:30 Local Time, 18:00 GMT, 23:30 IST:</b> Chances of resumption looks bleak now. The covers are well in place and it continues to rain steadily..]]></line><line><![CDATA[<b>23:17 Local Time, 17:47 GMT, 23:17 IST:</b> Well, this is frustrating. The <b>drizzle is back and so are the covers</b>. We are closing in on the cut-off time.]]></line><line><![CDATA[<b>23:10 Local Time, 17:40 GMT, 23:10 IST:</b> The rain has stopped once again and the <b>covers are being peeled off</b>. There's still hope of this match resuming.]]></line><line><![CDATA[<b>23:01 Local Time, 17:31 GMT, 23:01 IST:</b> We have started losing overs now. The cut-off time for a 5-over chase is <b>11:58 PM</b>]]></line><line><![CDATA[<b>22:55 Local Time, 17:25 GMT, 22:55 IST:</b> Some good news coming in, the rain has stopped and the covers are being <b>removed</b>. We might possibly have a 15-16 over chase on our hands, if there's no rain. If it's a 11-over game, the target will be <b>123</b>, for 12, it will be <b>133</b>, for 13, it will be <b>141</b>. Scratch all that, the <b>covers are back in place</b>. It's just that kind of a night..]]></line><line><![CDATA[<b>22:50 Local Time, 17:20 GMT, 22:50 IST:</b> We had live visuals of the ground. It is still drizzling at Chinnaswamy stadium and will start losing overs from <b>11:01 PM</b>. Brace yourselves up for a long night.]]></line><line><![CDATA[<b>22:40 Local Time, 17:10 GMT, 22:40 IST:</b> It is still raining at Chinnaswamy stadium, but the super soppers are at work, removing the excess water on the covers. We reckon they need 30 minutes to get the ground ready once the rain stops completely.]]></line><line><![CDATA[<b>22:30 Local Time, 17:00 GMT, 22:30 IST:</b> The IPL T20 site has posted a picture of the ground. It is still raining heavily and the entire square has been covered.]]></line><line><![CDATA[<b>22:13 Local Time, 16:43 GMT, 22:13 IST:</b> Well, scratch the previous update. It has started to rain again and the covers are back as well.. The rain has got heavier as well..]]></line><line><![CDATA[<b>22:08 Local Time, 16:38 GMT, 22:08 IST:</b> Good news folks, the rain has stopped and the groundstaff are getting ready to remove the covers.]]></line><line><![CDATA[<b>22:00 Local Time, 16:30 GMT, 22:00 IST:</b> Unfortunately, it started drizzling at the ground and the covers are coming on. The chase will be delayed for sure..]]></line><line><![CDATA[<b>Southee:</b> "It's usually a good batting wicket. Anything is chaseable on this ground. A little bit of swing, but if we see that through, I think we can chase it down. If we had got AB out early, things would have been different. It is quite challenging while you play against some of the best batsmen. He (Sarfaraz) has got some potential and is a player to watch for the future."]]></line><line><![CDATA[For RAJ, Tim Southee swung the new ball to take a couple of scalps up front. The visitors still have a chance of winning the game as the conditions are batting friendly. However, Mitchell Starc will continue to be a threat with the new ball.  ]]></line><line><![CDATA[AB de Villiers' well-measured knock and Sarfaraz Khan's pyrotechnics enabled BLR to pile up a massive total. With Chris Gayle and Virat Kohli getting out in quick succession, de Villiers anchored the innings. He reached his fifty in style by carting Stuart Binny for a six. However, on the back of a mix up with Dinesh Karthik, de Villiers was run-out. Karthik  improvised to play a few cheeky shots. The 17-year-old Sarfaraz then played with a dash of fearlessness to essay a flurry of shots and lift the tempo. <br/>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Southee to Sarfaraz Khan, <b>out</b> Harshal Patel Run Out!! 1 run completed. Harshal has been run-out for the team's cause. Full delivery around off, it was almost yorker length, Sarfaraz toe-ends it straight down the ground, he was content with one, but Harshal was coming back for the second, Rahane runs to his right from mid-off and throws it to Samson, who has his another dismissal to his name. Sarfaraz walks off to an ovation from the BLR players. <b>Harshal Patel run out (Rahane/Samson) 6(2) [6s-1]</b>]]></line><line><![CDATA[Southee to Sarfaraz Khan, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Southee to Sarfaraz Khan, 2 runs, back of a length just outside off, Sarfaraz slaps it square of the wicket, Binny runs to his left and hauls the ball in, that was a very good save]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Southee to Sarfaraz Khan, no run, yorker just outside off, Sarfaraz toe-ends it back to Samson]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Southee to Sarfaraz Khan, 2 runs, short delivery on the body, Sarfaraz swivels and pulls it behind square leg, Faulkner slides and stops the ball, Harshal wanted the third but Sarfaraz doesn't even respond]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Southee to Harshal Patel, byes, 1 run, off-cutter just outside leg, Harshal backs away and has a mighty swing, he misses and Sarfaraz calls for the run, Samson doesn't hit the stumps and Sarfaraz makes it in. A direct-hit would have been curtains for the young man]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Southee to Harshal Patel, <b>SIX</b>, Harshal starts the last over with a six. Southee bangs it short and just outside off, Harshal fetches it from there and pulls it to deep mid-wicket. He got plenty of elevation and the distance]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [3.0-0-21-2] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;D Kulkarni to Sarfaraz Khan, <b>FOUR</b>, boundary to end the over, <b>13 runs</b> off it. A full toss on off, Sarfaraz shuffles across, goes down on one knee and scoops it fine, the fielder tries to get across, but the ball wins the race]]></line><line><![CDATA[<b>Harshal Patel, right handed bat, comes to the crease</b>]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;D Kulkarni to Wiese, <b>out</b> Caught by Southee!! Wiese perishes trying to go for some quick runs. This was the slower one from Kulkarni, it was on a length and in the slot, Wiese couldn't get it off the middle, he goes for the hoick and hits it to deep mid-wicket, Southee runs forward and takes a good low catch. <b>Wiese c Southee b D Kulkarni 11(8) [4s-2]</b>]]></line><line><![CDATA[D Kulkarni to Wiese, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;D Kulkarni to Wiese, no run, Kulkarni varying it, bumper just outside off, Wiese was surprised by that, goes for the pull and fails to connect]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;D Kulkarni to Wiese, <b>FOUR</b>, repeats the previous delivery, but this time Wiese was not letting it go, he reaches for it and slices it to square third man, Hooda dives to his right, but the ball beats him with ease. This was wider than the last ball, would have been called a wide]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;D Kulkarni to Wiese, no run, yorker outside off, Wiese thought it was a wide and lets it go, but it was just within the tramline]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;D Kulkarni to Wiese, <b>FOUR</b>, Kulkarni misses the yorker length by an inch or so, Wiese gets forward and drives it to the right of mid-off, it came right off the meat as the ball races away to the fence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;D Kulkarni to Wiese, <b>wide</b>, Kulkarni starts with a wide delivery outside off, easy call for the umpire]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dhawal Kulkarni [3.0-0-23-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, 2 runs, flatter, fuller and on the pads, Sarfaraz works it to deep square leg, called for two and got the required response from Wiese. An expensive over from Tambe, <b>18 runs</b> came off it]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, <b>FOUR</b>, Sarfaraz is turning it on at the Chinnaswamy. Floated up around off, he makes a bit of room and goes inside out, lofts it beautifully over extra cover, the long-off fielder dives to his left but the ball wins the race]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Tambe to Wiese, 1 run, fired in on the stumps, Wiese gets an inside edge onto the pad, the ball rolls to the on-side, Sarfaraz calls for the run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, 1 run, quicker and just outside off, Sarfaraz slices it to backward point, he is not happy with himself for not putting that away]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, <b>SIX</b>, fabulous shot! He is a fearless young man. Flighted delivery just outside off, Sarfaraz takes a step down the wicket and lofts it handsomely, clears long-off by some distance]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, <b>FOUR</b>, bad delivery from Tambe, short and on leg-stump, Sarfaraz walks across his stumps, kneels down and sweeps it to the left of short fine leg, no chance for the fielder in the deep]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pravin Tambe [2.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Watson to Sarfaraz Khan, 1 run, low full toss around off, Sarfaraz eases it to long-on and retains strike]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Watson to Sarfaraz Khan, <b>wide</b>, Watson fires it full and outside off, Sarfaraz can't reach that and wide called]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Watson to Wiese, 1 run, shortish and just outside off, Wiese cuts it to square third man]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Watson to Sarfaraz Khan, 1 run, Watson goes back round the wicket, spears it full and on leg-stump, Sarfaraz whips it to fine leg]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Watson to Wiese, 1 run, Wiese doesn't make use of the free-hit, short delivery at the batsman, he top-edges the pull to fine leg]]></line><line><![CDATA[<b>David Wiese, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Watson to Sarfaraz Khan, <b>no ball</b>, <b>out</b> D Karthik Run Out!! 1 run completed. Another needless run-out for BLR. It was a full toss on the pads, Sarfaraz flicks it to deep mid-wicket, he wanted only a single as Karthik would have been on strike for the free-hit, but the wicket-keeper was charging down for the second before being sent back, Southee throws it on the bounce to Samson, who does the rest. Karthik dived in vain. <b>D Karthik run out (Southee/Samson) 27(18) [4s-3 6s-1]</b>]]></line><line><![CDATA[Watson to Sarfaraz Khan, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[Third umpire called for a run-out chance. Karthik is the man in question. He is just short of the crease. BLR lose another wicket to a run-out!]]></line><line><![CDATA[Watson switches to round the wicket]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Watson to Sarfaraz Khan, <b>FOUR</b>, back-to-back boundaries for Sarfaraz. He is improvising superbly. Watson bangs it short just outside off, Sarfaraz opens the bat face and ramps it fine. Third man was pushed square, so that was a safe shot]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Watson to Sarfaraz Khan, <b>FOUR</b>, fullish and just outside off, Sarfaraz stays leg-side of the ball and slices it behind point, the fielder at third man had no chance of stopping that]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shane Watson [2.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Faulkner to D Karthik, <b>FOUR</b>, nice way to finish the over. Faulkner drags it short as Karthik advances down the wicket, Karthik still manages to pull it wide of mid-wicket, it was in the air but wide of Hooda]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Faulkner to Sarfaraz Khan, 1 run, slower delivery outside off, Sarfaraz reverse paddles off the back of the bat to short third man]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Faulkner to Sarfaraz Khan, <b>FOUR</b>, poor delivery, short and on off, Sarfaraz backs away and manufactures the width, he cuts it over backward point, third man had no chance as the ball races away to the fence]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Faulkner to D Karthik, 1 run, short of length on off, Karthik taps it to the left of backward point, for a single]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Faulkner to D Karthik, <b>wide</b>, back of the hand slower delivery, Karthik charges down and can't reach it as it was down leg, wide signalled]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Faulkner to D Karthik, no run, slanted across off, Karthik misses the glide down to third man, the ball beats the outside edge]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Faulkner to Sarfaraz Khan, 1 run, angled across just outside off, Sarfaraz steers it to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Faulkner [1.0-0-14-0] is back into the attack</b>]]></line><line><![CDATA[<b>Time-out</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, 1 run, tossed up on off, Sarfaraz drives inside out to long-off]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Tambe to D Karthik, 1 run, straight roller on middle, Karthik nudges it to deep mid-wicket]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Tambe to D Karthik, 2 runs, drops it short and outside off, Karthik cuts it to deep backward point, Nair runs to his left from sweeper cover, dives and saves two]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Tambe to D Karthik, no run, flighted just outside off, Karthik backs away and punches it to cover, straight to the fielder]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Tambe to Sarfaraz Khan, 1 run, trifle short, Sarfaraz goes deep in the crease and cuts to backward point, Rahane dives to his left and saves some runs for the team]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Tambe to D Karthik, 1 run, pushed through on the stumps, Karthik whips it to deep mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pravin Tambe [1.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Binny to Sarfaraz Khan, no run, short of length on off, Sarfaraz jumps up and drops it down the wicket]]></line><line><![CDATA[<b>Sarfaraz Khan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Binny to D Karthik, <b>out</b> de Villiers Run Out!! ABD has been run-out. A wasted wicket for BLR. Karthik is distraught with himself, he slams the bat onto the ground as soon as he sees ABD short of the crease. Full delivery on the stumps, Karthik flicks it to mid-wicket, he wanted the run, but ABD was not ready, he sets off late and puts in the dive, but is well short. Hooda kept his cool and threw the ball to Samson, who did the rest. Huge moment in this game and it can make a difference to the final outcome. <b>de Villiers run out (Deepak Hooda/Samson) 57(45) [4s-9 6s-1]</b>]]></line><line><![CDATA[Binny to D Karthik, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Binny to D Karthik, <b>FOUR</b>, repeat of the previous ball. Karthik is getting into his own. This was a much fuller delivery, but DK goes down on one knee and sweeps it over backward square leg, almost went the distance]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Binny to D Karthik, <b>FOUR</b>, cheeky! Karthik improvises brilliantly. On a length just outside off, Karthik walks across, kneels down and paddles it over short fine leg, the ball bounces just once before reaching the fence]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Binny to D Karthik, no run, Binny goes much wider of off this time, Karthik drives and is beaten. Good take by Samson, who is standing up to the stumps]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Binny to D Karthik, <b>SIX</b>, lovely shot! Full delivery in the slot for Karthik, he plants his front foot forward and hits through the line, lofts it over mid-off and the ball has enough to clear the rope. Nice start to the over]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Southee to D Karthik, 1 run, good length ball around off, Karthik opens the bat face and runs it to third man]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Southee to de Villiers, 1 run, low full toss on the stumps, de Villiers drives it down the ground to long-on]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Southee to D Karthik, 1 run, Karthik walks down the wicket for the back of a length delivery and drives it to sweeper cover]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Southee to de Villiers, leg byes, 1 run, slanted in on the pads, de Villiers fails to connect with the flick, the ball rolls to the off-side and Karthik calls for a quick single]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Southee to D Karthik, 1 run, on a length just outside off, Karthik steers it to square third man]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Southee to D Karthik, no run, no, he doesn't. And that was a juicy full toss outside off, Karthik is early into the heave, misses it by some distance. That should have been dispatched]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The field can be changed as it is a different batsman. Can Karthik make use of the free-hit?]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Southee to de Villiers, <b>no ball</b>, 1 run, Southee oversteps and delivers a full delivery outside off, de Villiers drives it towards mid-off. The duo take the single and Karthik will be on strike for the <b>free-hit</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tim Southee [2.0-0-15-2] is back into the attack</b>]]></line><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Binny to D Karthik, no run, shortish and outside off, Karthik cracks the cut straight to Rahane at backward point]]></line><line><![CDATA[Samson is up to the stumps]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Binny to de Villiers, 1 run, fuller and angling into the pads, de Villiers flicks it to fine leg, for a single]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Binny to de Villiers, <b>SIX</b>, ABD gets his <b>first fifty</b> this season. He gets there in style. The whole BLR team are on their feet in the dugout. That was a real hit-me-delivery from Binny, short and just outside off, de Villiers stands tall and smacks it all the way over deep mid-wicket]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Binny to de Villiers, 2 runs, pitched up on off, de Villiers push-drives it straight down the ground, just past the wicket, Smith runs to his right, dives and stops the ball. But these two sneak in a second]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Binny to D Karthik, 1 run, full and around off, Karthik shuffles across and flicks it wide of mid-on]]></line><line><![CDATA[<b>Dinesh Karthik, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Binny to Mandeep, <b>out</b> Lbw!! Binny breaks the partnership. RAJ needed that wicket. Mandeep goes after playing a good innings. This was full and on off, he shuffles across and looks to paddle, misses and is struck on the back leg. The impact was on off and the ball would have crashed into the stumps. The umpire took his time but made the decision in favour of RAJ. Replays show that Mandeep was hit around off. It was a 50-50 call and it went towards the visitors. <b>Mandeep lbw b Binny 27(20) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Binny to Mandeep, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, 2 runs, full delivery on the stumps, de Villiers flicks it wide of long-on, called for two straightaway and gets it easily, Smith had to run across and tidy up]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;D Kulkarni to Mandeep, 1 run, once more Mandeep shimmies down the wicket, Kulkarni keeps it just outside off, Mandeep goes for a wild swing and gets a thick inside edge to fine leg]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;D Kulkarni to Mandeep, <b>wide</b>, splays the slower delivery down leg, called as a wide]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;D Kulkarni to Mandeep, no run, off-speed delivery around off, Mandeep drops it in front of point, wanted the single but ABD sends him back]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;D Kulkarni to Mandeep, <b>FOUR</b>, bad delivery from Kulkarni and it deserved the treatment. Banged in halfway down the wicket, not much venom in that, Mandeep rocks back and pulls it behind square, one bounce and into the fence]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, 1 run, slower delivery on middle and leg, de Villiers eases it to long-on]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;D Kulkarni to Mandeep, 1 run, Mandeep looks to go big, gives the charge to Kulkarni and goes for a hoick towards cow corner, the ball squirts off the inside edge to fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dhawal Kulkarni [2.0-0-13-0] is back into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Binny to de Villiers, no run, that's nicely bowled by Binny, keeps it full and gets it to shape away from outside off, AB was coming down the track, plays inside the line and is beaten]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Binny to Mandeep, leg byes, 1 run, Binny comes from wide off the wicket and angles into Mandeep's pads, he looks to flick and is struck high on the pads]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Binny to Mandeep, no run, short of a length and just outside off, dabbed straight to backward point]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Binny to Mandeep, 2 runs, fuller length delivery and on Mandeep's pads, flicked away behind square on the on-side for a couple of runs]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Binny to Mandeep, no run, on a good length and just outside off, Mandeep prods forward and defends it back towards the bowler]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Binny to Mandeep, <b>FOUR</b>, the edges are flying! Binny followed Mandeep with a low full toss, he looks to flick and gets a thick outside edge, the ball goes behind square on the off-side and beats Faulkner, running across from third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Watson to de Villiers, 2 runs, low full toss from Watson, AB flicks it past mid-wicket. The fielder in the deep is very square and AB comes back for the second run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Watson to de Villiers, no run, AB goes for the paddle sweep, Watson keeps it full and just outside off, he misses and is struck on the pads. A stifled appeal for LBW by Watson]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Watson to de Villiers, no run, fuller length delivery and on the off-stump line, punched back towards the bowler]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Watson to de Villiers, no run, a little shuffle from AB, Watson speared it onto his pads, he closed the face of the bat and gets a soft leading edge towards cover]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Watson to de Villiers, <b>FOUR</b>, <b>top-edge and four</b>, this was banged in short and on the stumps, AB was taken by surprise, looks to pull and gets a fat top-edge, over the keeper and into the fence]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Watson to Mandeep, 1 run, fuller length delivery and on the stumps, pushed in front of mid-on for a quick single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shane Watson [1.0-0-5-0] is back into the attack</b>]]></line><line><![CDATA[Time for the <b>strategic break</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Binny to Mandeep, 1 run, short and just outside off, Mandeep waits on it, opens the face of the bat and runs it down towards third man for a single, just two runs from the first over off Binny]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Binny to Mandeep, no run, on a good length and in that channel outside off, Mandeep looks to run it down towards third man and misses]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Binny to de Villiers, 1 run, width on offer from Binny, AB stands tall and cracks it square on the off-side, just a single]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Binny to de Villiers, no run, Binny keeps it full and on the off-stump line, AB goes hard on the drive and gets an inside edge towards mid-wicket]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Binny to de Villiers, no run, fuller length delivery and on the stumps, flicked towards mid-wicket]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Binny to de Villiers, no run, on a good length and just outside off, AB drops it in front of the keeper, wants a single and is sent back]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Binny, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Tambe to Mandeep, <b>FOUR</b>, <b>lovely shot</b>, Tambe gives this one more air and tosses wider outside off, Mandeep gets a big stride forward and drills it past extra cover, no chance for the fielder getting across from deep cover]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Tambe to Mandeep, 2 runs, that's nicely played by Mandeep, goes down on his knees, uses the pace on this tossed up ball and laps it fine for a brace]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Tambe to de Villiers, 1 run, flighted delivery and just outside off, punched down towards long-off for a single]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Tambe to de Villiers, <b>FOUR</b>, poor ball from Tambe, dropped this one short and well outside off, AB makes room and cracks it past cover, the ball races away to the fence in a hurry]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Tambe to de Villiers, <b>FOUR</b>, that's powerfully swept by AB, this was flighted and well outside off, AB goes down on his knees, rolls his wrists and sweeps it powerfully past square leg]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Tambe to de Villiers, no run, tossed up and on the stumps, AB pushes it back towards the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Pravin Tambe, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Watson to de Villiers, 1 run, back of a length and well outside off, AB dabs it down towards third man for a single]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Watson to Mandeep, 1 run, fuller length delivery and just outside off, Mandeep pushes forward and gets an inside edge behind square on the on-side]]></line><line><![CDATA[A slip is in now]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Watson to de Villiers, 1 run, on a good length and just outside off, dabbed away towards third man for a single]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Watson to de Villiers, <b>wide</b>, short and shaping away from well outside off, AB went chasing after that and missed, called as a wide. Watson isn't amused]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Watson to de Villiers, no run, on a good length and just outside off, AB punches it straight to the man at cover]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Watson to de Villiers, <b>wide</b>, Watson loses his line and sprays this one miles outside off, Samson moves across to his right and prevents more extras]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Watson to de Villiers, no run, on a good length and just outside off, AB stays besides the line and defends it in front of point]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Watson to de Villiers, no run, almost chopped on! AB gave the charge, Watson shortened the length, cramped the batsman for room, he gets an inside edge and the ball rolls past the leg-stump]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shane Watson, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Faulkner to de Villiers, 1 run, that's the first single of AB's innings, full and wide outside off, AB reaches out and slaps it square on the off-side for a single]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Faulkner to de Villiers, no run, that's risky, short of a length and angling across the right-hander, AB looks to run it down towards third man and is beaten]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Faulkner to de Villiers, <b>FOUR</b>, AB gets his sixth four now, this was a tad lucky, pitched up and just outside off, AB chipped it uppishly and to the left of the bowler, pretty safe in the end though, the ball races away to the fence]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Faulkner to de Villiers, <b>FOUR</b>, 5th boundary for AB, all his runs have come from fours, length ball and on AB's pads, tucked away behind square on the on-side for another boundary]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Faulkner to de Villiers, <b>FOUR</b>, <b>lovely shot</b>, leg-stump half-volley from Faulkner, AB shuffles across and whips it through mid-wicket, the man in deep is very square and the ball races away to the fence]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Faulkner to Mandeep, 1 run, length ball and on Mandeep's pads, tucked away to the right of mid-on for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Faulkner, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, no run, fuller length delivery and well outside off, AB presses across and drives it straight to cover]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, no run, on a good length and just outside off, AB shuffles across and drives it towards mid-off]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, <b>FOUR</b>, can't bowl short to this man, width on offer from Kulkarni, AB Villiers stands tall and cracks it in front of square on the off-side, the fielder at cover-point dives and gets a hand onto it, but the ball races away to the fence]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, no run, tad fuller and just outside off, AB presses across and punches it towards mid-off]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, <b>FOUR</b>, <b>edged and four</b>, this was full and shapes away late, AB was back in his crease, looks to drive and gets a thick edge through second slip. Tambe gets across from third man, puts in the dive but can't stop the ball]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, no run, on a good length and just outside off, AB stays behind the line and punches it towards mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Southee to Mandeep, no run, fuller length delivery and nipping back into Mandeep, nudged away towards mid-wicket]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Southee to de Villiers, leg byes, 1 run, too straight from Southee, ends up drifting onto AB's pads, he looks to flick and misses, the ball rolls away off the pads and to the left of the keeper]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Southee to Mandeep, 1 run, on a good length and a hint of shape away from off, Mandeep presses forward and pushes it towards cover. Two fielders converge and make a mess, allow a single]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Southee to Mandeep, <b>FOUR</b>, <b>cracking shot</b>, nice way to get going, this was overpitched and well outside off, Mandeep leans forward, presents the full face of the bat and strokes it past extra cover for a boundary]]></line><line><![CDATA[<b>Mandeep Singh, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Southee to Kohli, <b>out</b> Caught by Samson!! Edged and caught! Southee is on a roll, this is exceptional cricket from RAJ. This was pushed wider outside off and gets it to shape away, draws Kohli into the drive, the edge is found, Samson dives across to his right and completes the catch. Double blow for BLR, Kohli fails for once. <b>Kohli c Samson b Southee 1(4)</b>]]></line><line><![CDATA[Southee to Kohli, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Southee to Kohli, no run, lovely delivery from Southee, tad fuller and shaping away from outside off, draws Kohli forward before beating the outside edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, byes, <b>FOUR</b>, that's an excellent delivery from Kulkarni, but it costs his team four runs, he saw AB giving the charge, banged it short and just outside off, AB sways away from the line, Samson leaps in vain, the ball races away to the fence]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, no run, back of a length and well outside off, AB stays behind the line and cracks it straight to the fielder at cover-point]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, no run, rush of blood from AB, charges down the track and looks to deposit it back over the bowler's head, misses it completely]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;D Kulkarni to de Villiers, <b>FOUR</b>, <b>cracking shot</b>, width on offer from Kulkarni, too short and too wide from Kulkarni, AB stands tall and punches it square on the off-side, beats cover and races away to the fence]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;D Kulkarni to Kohli, 1 run, tad fuller and shaping away from well outside off, Kohli stands tall and punches it square through cover for a single]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;D Kulkarni to Kohli, no run, fuller length delivery and a hint of shape away from off, Kohli was looking to work it towards the on-side, closes the face of the bat and gets a soft leading edge towards cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dhawal Kulkarni, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Southee to de Villiers, no run, fuller length delivery and well outside off, AB leans forward and drives it towards cover, ends a successful over from Southee]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Southee to de Villiers, no run, on a good length and shaping away from outside off, AB covers the line, lifts his bat and lets it go]]></line><line><![CDATA[<b>AB de Villiers, right handed bat, comes to the crease</b>]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Southee to Gayle, <b>out</b> Caught by Deepak Hooda!! Big blow for BLR! This was pitched up and held its line outside off, Gayle swung through the line, doesn't get hold of the shot and ends up dragging it towards mid-wicket, Hooda doesn't drop those, that's an aboslute sitter, RAJ camp are gleeful. The umpires check for a possible no-ball, but the bowler is fine. <b>Gayle c Deepak Hooda b Southee 10(4) [4s-1 6s-1]</b>]]></line><line><![CDATA[Southee to Gayle, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[Gayle has been <b>caught</b>, but is it a no-ball. NO, it's fine and Gayle has to go]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Southee to Gayle, <b>SIX</b>, <b>500th six in T20 cricket</b>, show of intent from Gayle, this was pitched up and held its line outside off, Gayle gets forward and swings through the line, clears long-off with ease, the first six of the innings]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Southee to Gayle, <b>FOUR</b>, <b>lovely shot</b>, another low full toss from Southee, Gayle leans forward and drives it past cover-point, no need to run for those, the ball races away to the fence for a boundary]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Southee to Gayle, no run, friendly full toss from Southee, Gayle prods forward and drives it back at the stumps at the bowler's end, either side, it would have been a boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gayle and Kohli are at the crease. Gayle is on strike. Southee will open the attack</b>]]></line><line><![CDATA[Tim Southee with the new ball. He has two slips in place..]]></line><line><![CDATA[It's a big game for both teams. Bangalore haven't won at home while Rajasthan have just one point from their last three matches. BLR can go third with a win tonight while RAJ have a chance to go top of the ladder. The players are out in the middle. Rahane is sporting the orange cap, the two BLR openers follow them.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Bangalore</b> (Playing XI): Virat Kohli(c), Chris Gayle, AB de Villiers, Dinesh Karthik(w), Mandeep Singh, Sarfaraz Khan, David Wiese, Harshal Patel, Mitchell Starc, Varun Aaron, Yuzvendra Chahal]]></line><line><![CDATA[<b>Rajasthan</b> (Playing XI): Shane Watson(c), Ajinkya Rahane, Steven Smith, Karun Nair, Deepak Hooda, Sanju Samson(w), Stuart Binny, James Faulkner, Tim Southee, Dhawal Kulkarni, Pravin Tambe]]></line><line><![CDATA[<b>Kohli:</b> "We have done oppositely than last year. We have won away from home and lost at home. It is important to get the combination right in both the departments. We also have made one change, <b>Chahal</b> comes in for <b>Abdulla</b>."]]></line><line><![CDATA[<b>Watson:</b> "We are going to have a bowl first. We lost our last two games and our last game was washed out. So, we have to come back strongly. You can't win every game with the quality of teams in the tournament. We have one change, <b>Tim Southee</b> replaces <b>Chris Morris</b>.".]]></line><line><![CDATA[<b>Rajasthan have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Weather Report:</b> It rained quite heavily in the afternoon at Bangalore, but right now it is clear and very pleasant. However, there are thunderstorms expected later on. Hopefully, the rains gods relent and we get a full game. Fingers crossed!]]></line><line><![CDATA[<b>Team news:</b> Rajasthan would most likely go with the same combination. They might be tempted to bring in Southee in place of Faulkner against the likes of Gayle, VK and ABD. The only change that might take place in the BLR camp is that they might bring in Chahal in place of Harshal Patel. However, we are not sure if Chahal is fit to play the game. If he is not fully fit they would most definitely go with the same XI.]]></line><line><![CDATA[Bangalore have had a mixed season so far as they won three and lost three. However, one of the alarming facts for BLR is that they have lost all three home games.They certainly wouldn't seek the same outcome today but would be more keen to sustain the winning momentum. Gayle, Kohli and de Villiers have played key roles, but the others have struggled to shine brightly. Bowling has been their strength in the last two games and it will be a big ask for the BLR bowlers to deliver yet again on an unresponsive surface at the Chinnaswamy. Dinesh Karthik hasn't done justice to his price tag and will be eager to make a mark in this game. So, will BLR break the jinx of losing home matches? Folks, get set and tighten your seat belts as yet another run-feast is expected in Bangalore. Stay tuned! We will bring you the toss and teams in a little while.]]></line><line><![CDATA[Rajasthan have had a great start to the tournament but lost their way after the Super Over defeat to PUN. Their only poor show in the tournament came against BLR and are keen to change things around as they can't afford to slip any further. Rahane and Steven Smith have been their leading run-getters and a lot depends on this duo to put up a solid show yet again. Barring the PUN and BLR games, their bowlers have delivered the goods. Stuart Binny, Sanju Samson and Karun Nair are yet to make a match winning impact this season. James Faulkner has made his presence felt in just one game. He surely would be determined to replicate last year's performance at the Chinnaswamy where he smashed a 17-ball 41 against BLR and pulled off a victory from nowhere in what seemed like a one-sided affair. A lot of hopes will be pinned on the local lads Stuart Binny and Karun Nair who are familiar with the conditions.]]></line><line><![CDATA[<b>18:45 Local Time, 13:15 GMT, 18:45 IST:</b> BLR took 15 wickets in the first three games and since the arrival of Starc, they have picked up 27 wickets in the next three. That pretty much tells us the story of how the Bangalore boys have fared so far. Certainly, Starc's presence has made such a huge impact. Undoubtedly, he is the best bowler going around in the short forms of the game. Rajasthan have just started to lose their momentum after a dream run in the first five games. Shane Watson led team lost two games in a row with the other one being washed out. Rajasthan are seeking a revenge as they suffered a huge defeat against BLR in their own backyard. Greetings and warm welcome to our coverage of the 29th game of the Indian Premier League.]]></line><line><![CDATA[<b>Preview</b><br/><br/>The top of the IPL 2015 points table is a narrow race between Rajasthan and Chennai but  Shane Watson's team knows it must turn around a campaign that has started to come undone. From winning five in a row, Rajasthan lost two games and had a washed out match in Kolkata to thank, with the single point gained from that trip keeping them above CHN, but barely.<br/><br/>On Wednesday evening at the M Chinnaswamy Stadium, Watson's team will face hosts Bangalore, who only a few nights ago inflicted on them a nine-wicket thrashing. Clearly buoyed by the arrival of left-arm fast bowler Mitchell Starc, whose late-swinging yorkers have proved almost unplayable, BLR have looked a revived team. Throw in a couple punchy innings from their openers Chris Gayle and Virat Kohli, and the team looks like something resembling the force it used to be. While BLR are on the upswing, Rajasthan need to relocate the mojo under Steven Smith which lifted them to the top of the pile.<br/><br/><b>Venue</b>: M Chinnaswamy Stadium, Bangalore<br/><br/><b>Date</b>: April 29, 2015<br/><br/><b>Time</b>: 20:00 IST<br/><br/><b>Weather</b>: A pleasant evening with temperatures in the high-20s.<br/><br/><b>Team News</b>:<br/><br/>BLR<br/><br/>With Starc delivering wickets, the team's bowling has taken on a steelier dimension. The management will be hopeful of legspinner Yuzvendra Chahal's return; if he does make it back from a finger injury, it will be a tough call to drop one of Harshal Patel or Iqbal Abdulla who both bowled very well in the last game.<br/><br/>Probable XI: 1 Chris Gayle, 2 Virat Kohli (capt), 3 AB de Villiers, 4 Mandeep Singh, 5 Dinesh Karthik (wk), 6 Sarfaraz Khan, 7 David Wiese, 8 Harshal Patel, 9 Mitchell Starc, 10 Iqbal Abdulla/Yuzvendra Chahal, 11 Varun Aaron<br/><br/>RAJ<br/><br/>The last game was a washout, so one must look back to the nine-wicket loss to BLR in Ahmedabad to mull any possible changes. The batting underwhelmed on that occasion, but considering Rajasthan Royal's strategy to persist with the existing order it's not difficult to predict an unchanged line-up. Maybe, just maybe, they rest James Faulkner for Tim Southee, considering the Tasmania allrounder hasn't done much of late.<br/><br/>Probable XI: 1 Ajinkya Rahane, 2 Shane Watson (capt), 3 Steven Smith, 4 Karun Nair, 5 Deepak Hooda, 6 Sanju Samson (wk), 7 Stuart Binny, 8 James Faulkner/Tim Southee, 9 Chris Morris, 10 Dhawal Kulkarni, 11 Pravin Tambe<br/><br/><b>Stats</b><br/><br/>Ajinkya Rahane (323) leads the run-getters' list but needs to produce something sizeable to keep distance from David Warner, who has shot up to 317.<br/><br/>Dhawal Kulkarni's exemplary 3-1-9-2 against Hyderabad remains the joint second-most economical bowling effort in an innings in IPL 2015.<br/><br/><b>Quotes</b><br/><br/>"The past two performances is what BLR is all about. That does justice to the players we have." - Varun Aaron, Man of the Match against Delhi.<br/><br/>"Next time we'll try to perform better when the opportunity arises. We just need momentum going our way." - Shane Watson isn't too ruffled by defeat to BLR.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Rajasthan</b> (From): Shane Watson(c), Ajinkya Rahane, Steven Smith, Karun Nair, Sanju Samson(w), Deepak Hooda, Stuart Binny, James Faulkner, Chris Morris, Dhawal Kulkarni, Pravin Tambe, Rajat Bhatia, Tim Southee, Abhishek Nayar, Ben Cutting, Dishant Yagnik, Vikramjeet Malik, Ankit Sharma, Rahul Tewatia, Dinesh Salunkhe, RustyTheron, Pardeep Sahu, Brainder Sran, Sagar Trivedi]]></line><line><![CDATA[<b>Bangalore</b> (From): Virat Kohli(c), Chris Gayle, AB de Villiers, Dinesh Karthik(w), Mandeep Singh, David Wiese, Sarfaraz Khan, Harshal Patel, Mitchell Starc, Varun Aaron, Iqbal Abdulla, Yuzvendra Chahal, Nic Maddinson, Ashok Dinda, Vijay Zol, Abu Nechim, Sandeep Warrier, Yogesh Takawale, Rilee Rossouw, Manvinder Bisla, S Badrinath, Darren Sammy, Sean Abbott, Sreenath Aravind, Jalaj Saxena, Shishir Bhavane]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>200</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Bangalore">
+			<players>
+				<player>
+					<playerid>247</playerid>
+					<name>Chris Gayle</name>
+					<batsman-name>Gayle</batsman-name>
+					<batsman-nickname>Gayle</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>4</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Deepak Hooda</fielder>
+						<fielderId>9427</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1413</playerid>
+					<name>Virat Kohli</name>
+					<batsman-name>Kohli</batsman-name>
+					<batsman-nickname>Kohli</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Sanju Samson</fielder>
+						<fielderId>8271</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>370</playerid>
+					<name>AB de Villiers</name>
+					<batsman-name>de Villiers</batsman-name>
+					<batsman-nickname>de Villiers</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>57</runs>
+					<balls>45</balls>
+					<fours>9</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Deepak Hooda</fielder>
+						<fielderId>9427</fielderId>
+						<fielder2>Sanju Samson</fielder2>
+						<fielderId2>8271</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6319</playerid>
+					<name>Mandeep Singh</name>
+					<batsman-name>Mandeep</batsman-name>
+					<batsman-nickname>Mandeep</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>27</runs>
+					<balls>20</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Binny</bowler>
+					<bowlerId>1530</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>145</playerid>
+					<name>Dinesh Karthik</name>
+					<batsman-name>D Karthik</batsman-name>
+					<batsman-nickname>D Karthik</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>27</runs>
+					<balls>18</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Tim Southee</fielder>
+						<fielderId>1057</fielderId>
+						<fielder2>Sanju Samson</fielder2>
+						<fielderId2>8271</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9429</playerid>
+					<name>Sarfaraz Khan</name>
+					<batsman-name>Sarfaraz Khan</batsman-name>
+					<batsman-nickname>Sarfaraz Khan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>45</runs>
+					<balls>21</balls>
+					<fours>6</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8589</playerid>
+					<name>David Wiese</name>
+					<batsman-name>D Wiese</batsman-name>
+					<batsman-nickname>Wiese</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>8</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Kulkarni</bowler>
+					<bowlerId>1451</bowlerId>
+						<fielder>Tim Southee</fielder>
+						<fielderId>1057</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8175</playerid>
+					<name>Harshal Patel</name>
+					<batsman-name>Harshal Patel</batsman-name>
+					<batsman-nickname>Harshal Patel</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Ajinkya Rahane</fielder>
+						<fielderId>1447</fielderId>
+						<fielder2>Sanju Samson</fielder2>
+						<fielderId2>8271</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7710</playerid>
+					<name>Mitchell Starc</name>
+					<batsman-name>M Starc</batsman-name>
+					<batsman-nickname>Starc</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6293</playerid>
+					<name>Varun Aaron</name>
+					<batsman-name>Aaron</batsman-name>
+					<batsman-nickname>Aaron</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7910</playerid>
+					<name>Yuzvendra Chahal</name>
+					<batsman-name>Chahal</batsman-name>
+					<batsman-nickname>Chahal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>247</playerid>
+				<nbr>1</nbr>
+				<runs>10</runs>
+				<overs>0.4</overs>
+				<batsman>Chris Gayle</batsman>
+				<batsman-name>Gayle</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1413</playerid>
+				<nbr>2</nbr>
+				<runs>19</runs>
+				<overs>2.2</overs>
+				<batsman>Virat Kohli</batsman>
+				<batsman-name>Kohli</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6319</playerid>
+				<nbr>3</nbr>
+				<runs>93</runs>
+				<overs>11.1</overs>
+				<batsman>Mandeep Singh</batsman>
+				<batsman-name>Mandeep</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>370</playerid>
+				<nbr>4</nbr>
+				<runs>124</runs>
+				<overs>13.5</overs>
+				<batsman>AB de Villiers</batsman>
+				<batsman-name>de Villiers</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>145</playerid>
+				<nbr>5</nbr>
+				<runs>152</runs>
+				<overs>16.2</overs>
+				<batsman>Dinesh Karthik</batsman>
+				<batsman-name>D Karthik</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8589</playerid>
+				<nbr>6</nbr>
+				<runs>184</runs>
+				<overs>18.5</overs>
+				<batsman>David Wiese</batsman>
+				<batsman-name>D Wiese</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8175</playerid>
+				<nbr>7</nbr>
+				<runs>200</runs>
+				<overs>20</overs>
+				<batsman>Harshal Patel</batsman>
+				<batsman-name>Harshal Patel</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>5</byes>
+			<wides>6</wides>
+			<noballs>2</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>16</total>
+		</extras>
+		<bowlteam name="Rajasthan">
+			<players>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<bowler-name>Southee</bowler-name>
+					<bowler-nickname>Southee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>32</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>1451</playerid>
+					<name>Dhawal Kulkarni</name>
+					<bowler-name>D Kulkarni</bowler-name>
+					<bowler-nickname>D Kulkarni</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>36</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7789</playerid>
+					<name>James Faulkner</name>
+					<bowler-name>Faulkner</bowler-name>
+					<bowler-nickname>Faulkner</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>158</playerid>
+					<name>Shane Watson</name>
+					<bowler-name>Watson</bowler-name>
+					<bowler-nickname>Watson</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>0</wickets>
+					<wides>3</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>9237</playerid>
+					<name>Pravin Tambe</name>
+					<bowler-name>Tambe</bowler-name>
+					<bowler-nickname>Tambe</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>39</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1530</playerid>
+					<name>Stuart Binny</name>
+					<bowler-name>Binny</bowler-name>
+					<bowler-nickname>Binny</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>32</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<bowler-name>A Rahane</bowler-name>
+					<bowler-nickname>Rahane</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2250</playerid>
+					<name>Steven Smith</name>
+					<bowler-name>S Smith</bowler-name>
+					<bowler-nickname>S Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8257</playerid>
+					<name>Karun Nair</name>
+					<bowler-name>Nair</bowler-name>
+					<bowler-nickname>Nair</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9427</playerid>
+					<name>Deepak Hooda</name>
+					<bowler-name>Deepak Hooda</bowler-name>
+					<bowler-nickname>Deepak Hooda</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8271</playerid>
+					<name>Sanju Samson</name>
+					<bowler-name>Samson</bowler-name>
+					<bowler-nickname>Samson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

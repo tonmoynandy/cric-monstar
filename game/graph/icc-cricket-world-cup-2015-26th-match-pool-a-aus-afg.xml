@@ -1,0 +1,125 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Australia</name>
+	<graph>
+		<id>wag_1739</id>
+		<name>David Warner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_1739_Warner.png</url>
+	</graph>
+	<graph>
+		<id>wag_1643</id>
+		<name>Aaron Finch</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_1643_Finch.png</url>
+	</graph>
+	<graph>
+		<id>wag_2250</id>
+		<name>Steven Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_2250_S_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_7662</id>
+		<name>Glenn Maxwell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_7662_Maxwell.png</url>
+	</graph>
+	<graph>
+		<id>wag_7789</id>
+		<name>James Faulkner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_7789_Faulkner.png</url>
+	</graph>
+	<graph>
+		<id>wag_6250</id>
+		<name>Mitchell Marsh</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_6250_M_Marsh.png</url>
+	</graph>
+	<graph>
+		<id>wag_159</id>
+		<name>Brad Haddin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_4_159_Haddin.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Afghanistan</name>
+	<graph>
+		<id>wag_7614</id>
+		<name>Javed Ahmadi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_7614_Ahmadi.png</url>
+	</graph>
+	<graph>
+		<id>wag_9855</id>
+		<name>Usman Ghani</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_9855_Usman_Ghani.png</url>
+	</graph>
+	<graph>
+		<id>wag_3008</id>
+		<name>Nawroz Mangal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_3008_Nawroz.png</url>
+	</graph>
+	<graph>
+		<id>wag_3004</id>
+		<name>Asghar Stanikzai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_3004_Stanikzai.png</url>
+	</graph>
+	<graph>
+		<id>wag_3011</id>
+		<name>Samiullah Shenwari</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_3011_Shenwari.png</url>
+	</graph>
+	<graph>
+		<id>wag_3007</id>
+		<name>Mohammad Nabi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_3007_Nabi.png</url>
+	</graph>
+	<graph>
+		<id>wag_8375</id>
+		<name>Najibullah Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_8375_Najibullah.png</url>
+	</graph>
+	<graph>
+		<id>wag_8278</id>
+		<name>Afsar Zazai</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_8278_Zazai.png</url>
+	</graph>
+	<graph>
+		<id>wag_8029</id>
+		<name>Dawlat Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_8029_Dawlat_Zadran.png</url>
+	</graph>
+	<graph>
+		<id>wag_3001</id>
+		<name>Hamid Hassan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_3001_Hamid.png</url>
+	</graph>
+	<graph>
+		<id>wag_3015</id>
+		<name>Shapoor Zadran</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_AFG_MAR04/gph_wag_12880_96_3015_Shapoor.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

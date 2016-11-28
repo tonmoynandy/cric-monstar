@@ -1,0 +1,105 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>West Indies</name>
+	<graph>
+		<id>wag_255</id>
+		<name>Dwayne Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_10_255_Dwayne_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_247</id>
+		<name>Chris Gayle</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_10_247_Gayle.png</url>
+	</graph>
+	<graph>
+		<id>wag_356</id>
+		<name>Marlon Samuels</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_10_356_Samuels.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Zimbabwe</name>
+	<graph>
+		<id>wag_9354</id>
+		<name>Sikandar Raza</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_9354_S_Raza.png</url>
+	</graph>
+	<graph>
+		<id>wag_781</id>
+		<name>Regis Chakabva</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_781_Chakabva.png</url>
+	</graph>
+	<graph>
+		<id>wag_425</id>
+		<name>Hamilton Masakadza</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_425_H_Masakadza.png</url>
+	</graph>
+	<graph>
+		<id>wag_180</id>
+		<name>Brendan Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_180_Brendan_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_441</id>
+		<name>Sean Williams</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_441_Sean_Williams.png</url>
+	</graph>
+	<graph>
+		<id>wag_6334</id>
+		<name>Craig Ervine</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_6334_C_Ervine.png</url>
+	</graph>
+	<graph>
+		<id>wag_174</id>
+		<name>Stuart Matsikenyeri</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_174_Matsikenyeri.png</url>
+	</graph>
+	<graph>
+		<id>wag_170</id>
+		<name>Elton Chigumbura</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_170_Chigumbura.png</url>
+	</graph>
+	<graph>
+		<id>wag_3465</id>
+		<name>Tinashe Panyangara</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_3465_Panyangara.png</url>
+	</graph>
+	<graph>
+		<id>wag_6483</id>
+		<name>Tendai Chatara</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_6483_Chatara.png</url>
+	</graph>
+	<graph>
+		<id>wag_586</id>
+		<name>Tafadzwa Kamungozi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/WI_ZIM_FEB24/gph_wag_12869_12_586_T_Kamungozi.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

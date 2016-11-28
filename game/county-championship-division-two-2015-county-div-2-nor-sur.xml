@@ -1,0 +1,1092 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14294" >
+		<type>TEST</type>
+		<gameDesc>County Div 2</gameDesc>
+		<series>County Championship Division Two 2015</series>
+		<matchday>4</matchday>
+		<home>Northamptonshire</home>
+		<away>Surrey</away>
+		<teamsabbr>NOR vs SUR</teamsabbr>
+		<homeabbr>NOR</homeabbr>
+		<awayabbr>SUR</awayabbr>
+		<homeId>142</homeId>
+		<awayId>148</awayId>
+		<venue>County Ground, Northampton</venue>
+		<startdate>18 05 2015</startdate>
+		<enddate>21 05 2015</enddate>
+		<toss>
+			<winner>Surrey</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Match drawn</status>
+		<result type="draw">
+			<winningteam></winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Neil Bainton</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Michael Gough</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150521155252</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Sur</batteamname>
+		<bwlteamname>NOR</bwlteamname>
+		<batteamruns>499</batteamruns>
+		<batteamwkts>6</batteamwkts>
+		<batteamovers>118</batteamovers>
+		<status>Match drawn</status>
+		<batsman>
+			<playerid>1750</playerid>
+			<name>Gareth Batty*</name>
+			<batsman-name>G Batty</batsman-name>
+			<batsman-nickname>Gareth Batty</batsman-nickname>
+			<runs>19</runs>
+			<balls-faced>53</balls-faced>
+			<fours>1</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>739</playerid>
+			<name>Gary Wilson</name>
+			<batsman-name>G Wilson</batsman-name>
+			<batsman-nickname>G Wilson</batsman-nickname>
+			<runs>74</runs>
+			<balls-faced>91</balls-faced>
+			<fours>7</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>7606</playerid>
+			<name>Rob Newton*</name>
+			<bowler-name>R Newton</bowler-name>
+			<bowler-nickname>Newton</bowler-nickname>
+			<overs>1</overs>
+			<maidens>0</maidens>
+			<runs>6</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>6579</playerid>
+			<name>Alex Wakely</name>
+			<bowler-name>A Wakely</bowler-name>
+			<bowler-nickname>Wakely</bowler-nickname>
+			<overs>2</overs>
+			<maidens>0</maidens>
+			<runs>3</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target></target>
+<lastwicket>
+<playerid>6534</playerid>
+<name>Jason Roy</name>
+<player-runs>140</player-runs>
+<player-balls>145</player-balls>
+<runs>449</runs>
+<wicket-nbr>6</wicket-nbr>
+<bowlerid>8011</bowlerid>
+<bowlername>R Keogh</bowlername>
+</lastwicket>
+		<extras>
+			<byes>5</byes>
+			<wides>9</wides>
+			<noballs>0</noballs>
+			<legbyes>21</legbyes>
+			<penalty>0</penalty>
+			<total>35</total>
+		</extras>
+		<prevOvers><![CDATA[. . . . . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . . 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 . 1 1 1 2 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . . . . ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV2/NOR_SUR_MAY18_MAY21/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[117.6&nbsp;&nbsp;&nbsp;Wakely to G Wilson, no run]]></line><line><![CDATA[117.5&nbsp;&nbsp;&nbsp;Wakely to G Wilson, no run]]></line><line><![CDATA[117.4&nbsp;&nbsp;&nbsp;Wakely to G Wilson, no run]]></line><line><![CDATA[117.3&nbsp;&nbsp;&nbsp;Wakely to G Wilson, no run]]></line><line><![CDATA[117.2&nbsp;&nbsp;&nbsp;Wakely to Gareth Batty, 1 run]]></line><line><![CDATA[117.1&nbsp;&nbsp;&nbsp;Wakely to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[116.6&nbsp;&nbsp;&nbsp;Newton to G Wilson, 2 runs]]></line><line><![CDATA[116.5&nbsp;&nbsp;&nbsp;Newton to Gareth Batty, 1 run]]></line><line><![CDATA[116.4&nbsp;&nbsp;&nbsp;Newton to G Wilson, 1 run]]></line><line><![CDATA[116.3&nbsp;&nbsp;&nbsp;Newton to Gareth Batty, 1 run]]></line><line><![CDATA[116.2&nbsp;&nbsp;&nbsp;Newton to Gareth Batty, no run]]></line><line><![CDATA[116.1&nbsp;&nbsp;&nbsp;Newton to G Wilson, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Newton, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[115.6&nbsp;&nbsp;&nbsp;Wakely to Gareth Batty, no run]]></line><line><![CDATA[115.5&nbsp;&nbsp;&nbsp;Wakely to G Wilson, 1 run]]></line><line><![CDATA[115.4&nbsp;&nbsp;&nbsp;Wakely to G Wilson, no run]]></line><line><![CDATA[115.3&nbsp;&nbsp;&nbsp;Wakely to G Wilson, no run]]></line><line><![CDATA[115.2&nbsp;&nbsp;&nbsp;Wakely to Gareth Batty, 1 run]]></line><line><![CDATA[115.1&nbsp;&nbsp;&nbsp;Wakely to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alex Wakely, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[114.6&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, 1 run]]></line><line><![CDATA[114.5&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[114.4&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[114.3&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[114.2&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[114.1&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[113.6&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, 1 run]]></line><line><![CDATA[113.5&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[113.4&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[113.3&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[113.2&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[113.1&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[112.6&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 1 run]]></line><line><![CDATA[112.5&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[112.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[112.3&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[112.2&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, 1 run]]></line><line><![CDATA[112.1&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[111.6&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, 1 run]]></line><line><![CDATA[111.5&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[111.4&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, 1 run]]></line><line><![CDATA[111.3&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[111.2&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[111.1&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[110.6&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[110.5&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[110.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 1 run]]></line><line><![CDATA[110.3&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 2 runs]]></line><line><![CDATA[110.2&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, 1 run]]></line><line><![CDATA[110.1&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[109.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[109.5&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[109.4&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, 1 run]]></line><line><![CDATA[109.3&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[109.2&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[109.1&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[108.6&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 1 run]]></line><line><![CDATA[108.5&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[108.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[108.3&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, 1 run]]></line><line><![CDATA[108.2&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 1 run]]></line><line><![CDATA[108.1&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[107.6&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[107.5&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[107.4&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[107.3&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[107.2&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[107.1&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[106.6&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[106.5&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[106.4&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[106.3&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[106.2&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[106.1&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[105.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[105.5&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[105.4&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, 1 run]]></line><line><![CDATA[105.3&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[105.2&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[105.1&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[104.6&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[104.5&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[104.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 1 run]]></line><line><![CDATA[104.3&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, 1 run]]></line><line><![CDATA[104.2&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><line><![CDATA[104.1&nbsp;&nbsp;&nbsp;Cobb to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[103.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[103.5&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, 1 run]]></line><line><![CDATA[103.4&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[103.3&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[103.2&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><line><![CDATA[103.1&nbsp;&nbsp;&nbsp;Keogh to Gareth Batty, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[102.6&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[102.5&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[102.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 2 runs]]></line><line><![CDATA[102.3&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[102.2&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[102.1&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joshua Cobb [6.0-0-39-0] is back into the attack</b>]]></line><line><![CDATA[101.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[101.5&nbsp;&nbsp;&nbsp;Keogh to G Wilson, no run]]></line><line><![CDATA[101.4&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 2 runs]]></line><line><![CDATA[101.3&nbsp;&nbsp;&nbsp;Keogh to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[<b>Gareth Batty, right handed bat, comes to the crease</b>]]></line><line><![CDATA[101.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, <b>out</b> Caught by S Crook!! <b>Jason Roy c S Crook b Keogh 140(145) [4s-17 6s-1]</b>]]></line><line><![CDATA[Keogh to Jason Roy, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[101.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[100.6&nbsp;&nbsp;&nbsp;Azharullah to G Wilson, no run]]></line><line><![CDATA[100.5&nbsp;&nbsp;&nbsp;Azharullah to G Wilson, 2 runs]]></line><line><![CDATA[100.4&nbsp;&nbsp;&nbsp;Azharullah to G Wilson, no run]]></line><line><![CDATA[100.3&nbsp;&nbsp;&nbsp;Azharullah to G Wilson, no run]]></line><line><![CDATA[100.2&nbsp;&nbsp;&nbsp;Azharullah to G Wilson, 2 runs]]></line><line><![CDATA[100.1&nbsp;&nbsp;&nbsp;Azharullah to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Azharullah [20.0-1-71-2] is back into the attack</b>]]></line><line><![CDATA[99.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[99.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[99.4&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 2 runs]]></line><line><![CDATA[99.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 2 runs]]></line><line><![CDATA[99.2&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[99.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[98.6&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[98.5&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[98.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[98.3&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[98.2&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><line><![CDATA[98.1&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[97.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 2 runs]]></line><line><![CDATA[97.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[97.4&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[97.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[97.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[97.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[96.6&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[96.5&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[96.4&nbsp;&nbsp;&nbsp;Cobb to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[96.3&nbsp;&nbsp;&nbsp;Cobb to G Wilson, no run]]></line><line><![CDATA[96.2&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><line><![CDATA[96.1&nbsp;&nbsp;&nbsp;Cobb to G Wilson, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joshua Cobb [4.0-0-26-0] is back into the attack</b>]]></line><line><![CDATA[95.6&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 1 run]]></line><line><![CDATA[95.5&nbsp;&nbsp;&nbsp;Keogh to G Wilson, 2 runs]]></line><line><![CDATA[95.4&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[95.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[95.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[95.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Keogh [9.0-0-47-0] is back into the attack</b>]]></line><line><![CDATA[94.6&nbsp;&nbsp;&nbsp;Willey to Jason Roy, leg byes, 1 run]]></line><line><![CDATA[94.5&nbsp;&nbsp;&nbsp;Willey to G Wilson, 1 run]]></line><line><![CDATA[94.4&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><line><![CDATA[94.3&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><line><![CDATA[94.2&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><line><![CDATA[94.1&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[93.6&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[93.5&nbsp;&nbsp;&nbsp;S Crook to G Wilson, 1 run]]></line><line><![CDATA[93.4&nbsp;&nbsp;&nbsp;S Crook to G Wilson, no run]]></line><line><![CDATA[93.3&nbsp;&nbsp;&nbsp;S Crook to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[93.2&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, 1 run]]></line><line><![CDATA[93.1&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[92.6&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><line><![CDATA[92.5&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><line><![CDATA[92.4&nbsp;&nbsp;&nbsp;Willey to G Wilson, no run]]></line><line><![CDATA[92.3&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><line><![CDATA[92.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[92.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[91.6&nbsp;&nbsp;&nbsp;S Crook to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[91.5&nbsp;&nbsp;&nbsp;S Crook to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[91.4&nbsp;&nbsp;&nbsp;S Crook to G Wilson, no run]]></line><line><![CDATA[91.3&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, 1 run]]></line><line><![CDATA[91.2&nbsp;&nbsp;&nbsp;S Crook to G Wilson, 1 run]]></line><line><![CDATA[91.1&nbsp;&nbsp;&nbsp;S Crook to G Wilson, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[90.6&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[90.5&nbsp;&nbsp;&nbsp;Willey to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[90.4&nbsp;&nbsp;&nbsp;Willey to G Wilson, 1 run]]></line><line><![CDATA[90.3&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><line><![CDATA[90.2&nbsp;&nbsp;&nbsp;Willey to G Wilson, leg byes, 1 run]]></line><line><![CDATA[90.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Willey [26.0-3-75-1] is back into the attack</b>]]></line><line><![CDATA[89.6&nbsp;&nbsp;&nbsp;S Crook to G Wilson, no run]]></line><line><![CDATA[89.5&nbsp;&nbsp;&nbsp;S Crook to G Wilson, 2 runs]]></line><line><![CDATA[89.4&nbsp;&nbsp;&nbsp;S Crook to G Wilson, no run]]></line><line><![CDATA[89.3&nbsp;&nbsp;&nbsp;S Crook to G Wilson, 2 runs]]></line><line><![CDATA[89.2&nbsp;&nbsp;&nbsp;S Crook to G Wilson, <b>FOUR</b>]]></line><line><![CDATA[<b>Gary Wilson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[89.1&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, <b>out</b> Caught by Rossington!! <b>Sangakkara c Rossington b S Crook 111(186) [4s-11]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[S Crook to Sangakkara, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Steven Crook [13.0-2-49-1] is back into the attack</b>]]></line><line><![CDATA[88.6&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 2 runs]]></line><line><![CDATA[88.5&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[88.4&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[88.3&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><line><![CDATA[88.2&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[88.1&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[87.6&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[87.5&nbsp;&nbsp;&nbsp;Stone to Jason Roy, 1 run]]></line><line><![CDATA[87.4&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[87.3&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[87.2&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[87.1&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[86.6&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 1 run]]></line><line><![CDATA[86.5&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><line><![CDATA[86.4&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 1 run]]></line><line><![CDATA[86.3&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><line><![CDATA[86.2&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[86.1&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[85.6&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 2 runs, the partnership between Sangakkara and Jason Roy is now]]></line><line><![CDATA[85.5&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[85.4&nbsp;&nbsp;&nbsp;Stone to Jason Roy, 1 run]]></line><line><![CDATA[85.3&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[85.2&nbsp;&nbsp;&nbsp;Stone to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[85.1&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Olly Stone [15.0-2-71-0] is back into the attack</b>]]></line><line><![CDATA[84.6&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 1 run]]></line><line><![CDATA[84.5&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><line><![CDATA[84.4&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[84.4&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, <b>wide</b>]]></line><line><![CDATA[84.3&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><line><![CDATA[84.2&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><line><![CDATA[84.1&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[83.6&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[83.5&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><line><![CDATA[83.4&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><line><![CDATA[83.3&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[83.2&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><line><![CDATA[83.1&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[82.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[82.5&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 1 run]]></line><line><![CDATA[82.4&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><line><![CDATA[82.3&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><line><![CDATA[82.2&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 2 runs]]></line><line><![CDATA[82.1&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[81.6&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><line><![CDATA[81.5&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[81.4&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><line><![CDATA[81.3&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><line><![CDATA[81.2&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, 1 run]]></line><line><![CDATA[81.1&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[80.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><line><![CDATA[80.5&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 2 runs]]></line><line><![CDATA[80.4&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[80.3&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[80.2&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, 1 run]]></line><line><![CDATA[80.1&nbsp;&nbsp;&nbsp;Azharullah to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Azharullah [15.0-1-35-2] is back into the attack</b>]]></line><line><![CDATA[79.6&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><line><![CDATA[79.5&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, 1 run]]></line><line><![CDATA[79.4&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, 2 runs]]></line><line><![CDATA[79.3&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><line><![CDATA[79.2&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, no run]]></line><line><![CDATA[79.1&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[78.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[78.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[78.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[78.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[78.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run, the partnership between Jason Roy and Sangakkara is now]]></line><line><![CDATA[78.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[77.6&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, 1 run]]></line><line><![CDATA[77.5&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, no run]]></line><line><![CDATA[77.4&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, no run]]></line><line><![CDATA[77.3&nbsp;&nbsp;&nbsp;Cobb to Jason Roy, no run]]></line><line><![CDATA[77.2&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, 1 run]]></line><line><![CDATA[77.1&nbsp;&nbsp;&nbsp;Cobb to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Joshua Cobb, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[76.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[76.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[76.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[76.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[76.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[76.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[75.6&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[75.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[75.4&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[75.3&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><line><![CDATA[75.2&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 2 runs]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 2 runs]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, <b>SIX</b>]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 2 runs]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, leg byes, <b>FOUR</b>]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Willey to Jason Roy, 1 run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Willey to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Willey [18.0-3-60-1] is back into the attack</b>]]></line><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, 1 run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Stone to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Keogh to Jason Roy, no run]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, 1 run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Keogh to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Keogh [1.0-0-4-0] is back into the attack</b>]]></line><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Stone to Jason Roy, 2 runs]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Stone to Jason Roy, 1 run]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, 1 run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Stone to Jason Roy, leg byes, 1 run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Stone to Jason Roy, 2 runs]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 1 run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, 1 run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 1 run]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Stone to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Stone to Jason Roy, 2 runs]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Stone to Jason Roy, <b>FOUR</b>]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Stone to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, 1 run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, leg byes, 1 run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;S Crook to Jason Roy, 3 runs]]></line><line><![CDATA[<b>Jason Roy, right handed bat, comes to the crease</b>]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, <b>out</b> Caught by Azharullah!! <b>Steven Davies c Azharullah b S Crook 44(72) [4s-6]</b>]]></line><line><![CDATA[S Crook to Steven Davies, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 1 run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Stone to Sangakkara, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Olly Stone [9.0-1-41-0] is back into the attack</b>]]></line><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, no run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, no run]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, no run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;S Crook to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, 1 run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 2 runs]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Crook [7.0-1-31-0] is back into the attack</b>]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, 2 runs]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Willey to Steven Davies, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, 1 run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 2 runs]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 2 runs]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 2 runs]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 2 runs]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Willey to Steven Davies, byes, <b>FOUR</b>]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Keogh to Steven Davies, no run]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Keogh to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Keogh to Steven Davies, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Keogh to Steven Davies, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Keogh to Steven Davies, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Keogh to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rob Keogh, comes into the attack</b>]]></line><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Stone to Steven Davies, no run]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Stone to Steven Davies, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Stone to Steven Davies, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Stone to Steven Davies, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Stone to Steven Davies, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Stone to Steven Davies, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Stone to Steven Davies, 1 run]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Stone to Steven Davies, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 2 runs]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Willey to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, leg byes, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Stone to Sangakkara, 1 run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Stone to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Stone to Sangakkara, no run]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Stone to Steven Davies, 1 run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Stone to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Olly Stone [6.0-1-27-0] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, <b>FOUR</b>]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Azharullah to Steven Davies, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 1 run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Willey to Steven Davies, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Willey to Steven Davies, 2 runs]]></line><line><![CDATA[<b>Steven Davies, left handed bat, comes to the crease</b>]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Willey to Sibley, <b>out</b> Caught by Rossington!! <b>Sibley c Rossington b Willey 3(20)</b>]]></line><line><![CDATA[Willey to Sibley, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Willey to Sibley, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Azharullah to Sibley, 1 run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Willey to Sibley, no run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 1 run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Willey to Sangakkara, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Willey to Sangakkara, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Willey [7.0-2-18-0] is back into the attack</b>]]></line><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;S Crook to Sibley, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;S Crook to Sibley, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;S Crook to Sibley, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;S Crook to Sibley, no run]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 1 run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;S Crook to Sibley, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Azharullah to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Azharullah to Sibley, 1 run]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Azharullah to Sibley, no run]]></line><line><![CDATA[<b>Dominic Sibley, right handed bat, comes to the crease</b>]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, <b>out</b> Lbw!! <b>Rory Burns lbw b Azharullah 34(62) [4s-4]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Azharullah to Rory Burns, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, <b>FOUR</b>]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, 1 run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;S Crook to Sangakkara, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kumar Sangakkara, left handed bat, comes to the crease</b>]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, <b>out</b> Caught by Rossington!! <b>Zafar Ansari c Rossington b Azharullah 39(79) [4s-2]</b>]]></line><line><![CDATA[Azharullah to Zafar Ansari, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, 1 run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, 1 run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, <b>FOUR</b>]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, 3 runs]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, 1 run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, 1 run]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, no run]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, 1 run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, 2 runs]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Azharullah to Rory Burns, no run]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, 1 run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, <b>FOUR</b>]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, 2 runs]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Azharullah to Zafar Ansari, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Azharullah, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;S Crook to Zafar Ansari, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, 3 runs]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;S Crook to Rory Burns, <b>3 wides</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steven Crook, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Willey to Rory Burns, 3 runs]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, leg byes, 3 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 1 run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, <b>FOUR</b>]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 3 runs]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 2 runs]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 2 runs]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Willey to Rory Burns, 2 runs]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Willey to Rory Burns, leg byes, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, 1 run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, 2 runs]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, <b>FOUR</b>]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Stone to Rory Burns, <b>FOUR</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, leg byes, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 1 run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Willey to Rory Burns, <b>FOUR</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Willey to Zafar Ansari, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Stone to Rory Burns, 2 runs]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Stone to Rory Burns, no run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Stone to Zafar Ansari, <b>5 wides</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Olly Stone, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Willey to Rory Burns, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rory Burns and Zafar Ansari are at the crease. Rory Burns is on strike. Willey will open the attack</b>]]></line><line><![CDATA[84.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, <b>out</b> Caught&Bowled!! <b>Rossington c and b Zafar Ansari 58(79) [4s-5 6s-2]</b>]]></line><line><![CDATA[Zafar Ansari to Rossington, <b>THATS OUT!!</b> Caught&Bowled!!]]></line><line><![CDATA[84.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[84.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[84.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[83.6&nbsp;&nbsp;&nbsp;Gareth Batty to Azharullah, no run]]></line><line><![CDATA[83.5&nbsp;&nbsp;&nbsp;Gareth Batty to Azharullah, no run]]></line><line><![CDATA[83.4&nbsp;&nbsp;&nbsp;Gareth Batty to Azharullah, no run]]></line><line><![CDATA[<b>Azharullah, right handed bat, comes to the crease</b>]]></line><line><![CDATA[83.3&nbsp;&nbsp;&nbsp;Gareth Batty to Stone, <b>out</b> Bowled!! <b>Stone b Gareth Batty 7(13) [4s-1]</b>]]></line><line><![CDATA[Gareth Batty to Stone, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[83.2&nbsp;&nbsp;&nbsp;Gareth Batty to Stone, no run]]></line><line><![CDATA[83.1&nbsp;&nbsp;&nbsp;Gareth Batty to Stone, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[82.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, 1 run]]></line><line><![CDATA[82.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, <b>FOUR</b>]]></line><line><![CDATA[82.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, no run]]></line><line><![CDATA[82.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 1 run]]></line><line><![CDATA[82.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[82.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[81.6&nbsp;&nbsp;&nbsp;Gareth Batty to Stone, no run]]></line><line><![CDATA[81.5&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, 1 run]]></line><line><![CDATA[81.4&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[81.3&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[81.2&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, <b>FOUR</b>]]></line><line><![CDATA[81.1&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[80.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, 2 runs]]></line><line><![CDATA[80.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, no run]]></line><line><![CDATA[80.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, no run]]></line><line><![CDATA[80.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Stone, no run]]></line><line><![CDATA[80.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 1 run]]></line><line><![CDATA[80.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[79.6&nbsp;&nbsp;&nbsp;Gareth Batty to Stone, no run]]></line><line><![CDATA[79.5&nbsp;&nbsp;&nbsp;Gareth Batty to Stone, no run]]></line><line><![CDATA[<b>Olly Stone, right handed bat, comes to the crease</b>]]></line><line><![CDATA[79.4&nbsp;&nbsp;&nbsp;Gareth Batty to S Crook, <b>out</b> Caught by Steven Davies!! <b>S Crook c Steven Davies b Gareth Batty 0(4)</b>]]></line><line><![CDATA[Gareth Batty to S Crook, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[79.3&nbsp;&nbsp;&nbsp;Gareth Batty to S Crook, no run]]></line><line><![CDATA[79.2&nbsp;&nbsp;&nbsp;Gareth Batty to S Crook, no run]]></line><line><![CDATA[79.1&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[78.6&nbsp;&nbsp;&nbsp;Zafar Ansari to S Crook, no run]]></line><line><![CDATA[<b>Steven Crook, right handed bat, comes to the crease</b>]]></line><line><![CDATA[78.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Willey, <b>out</b> Bowled!! <b>Willey b Zafar Ansari 0(1)</b>]]></line><line><![CDATA[Zafar Ansari to Willey, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>David Willey, left handed bat, comes to the crease</b>]]></line><line><![CDATA[78.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, <b>out</b> Caught by Gareth Batty!! <b>Cobb c Gareth Batty b Zafar Ansari 18(45) [4s-1]</b>]]></line><line><![CDATA[Zafar Ansari to Cobb, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[78.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[78.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[78.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[77.6&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[77.5&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[77.4&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[77.3&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, 1 run]]></line><line><![CDATA[77.2&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, 1 run]]></line><line><![CDATA[77.1&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[76.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 1 run]]></line><line><![CDATA[76.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[76.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[76.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[76.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[76.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[75.6&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><line><![CDATA[75.5&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><line><![CDATA[75.4&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><line><![CDATA[75.3&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><line><![CDATA[75.2&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><line><![CDATA[75.1&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[74.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[74.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[74.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[74.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, 1 run]]></line><line><![CDATA[74.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[74.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[73.6&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[73.5&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, no run]]></line><line><![CDATA[73.4&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, 1 run]]></line><line><![CDATA[73.3&nbsp;&nbsp;&nbsp;Gareth Batty to Rossington, leg byes, 1 run]]></line><line><![CDATA[73.2&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, 1 run]]></line><line><![CDATA[73.1&nbsp;&nbsp;&nbsp;Gareth Batty to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Gareth Batty, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[72.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[72.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, <b>FOUR</b>]]></line><line><![CDATA[72.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[72.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, 1 run]]></line><line><![CDATA[72.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 3 runs]]></line><line><![CDATA[72.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[71.6&nbsp;&nbsp;&nbsp;Meaker to Cobb, no run]]></line><line><![CDATA[71.5&nbsp;&nbsp;&nbsp;Meaker to Cobb, no run]]></line><line><![CDATA[71.4&nbsp;&nbsp;&nbsp;Meaker to Rossington, 1 run]]></line><line><![CDATA[71.3&nbsp;&nbsp;&nbsp;Meaker to Cobb, 1 run]]></line><line><![CDATA[71.2&nbsp;&nbsp;&nbsp;Meaker to Rossington, 1 run]]></line><line><![CDATA[71.1&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[70.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[70.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[70.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[70.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[70.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[70.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[69.6&nbsp;&nbsp;&nbsp;Meaker to Rossington, 2 runs]]></line><line><![CDATA[69.5&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[69.4&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[69.3&nbsp;&nbsp;&nbsp;Meaker to Cobb, 1 run]]></line><line><![CDATA[69.2&nbsp;&nbsp;&nbsp;Meaker to Cobb, no run]]></line><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Meaker to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[69.1&nbsp;&nbsp;&nbsp;Meaker to Cobb, <b>wide</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[68.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[68.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[68.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, 1 run]]></line><line><![CDATA[68.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[68.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[68.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[67.6&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[67.5&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[67.4&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[67.3&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[67.2&nbsp;&nbsp;&nbsp;Meaker to Rossington, <b>FOUR</b>]]></line><line><![CDATA[67.1&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Meaker [13.0-1-62-0] is back into the attack</b>]]></line><line><![CDATA[66.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[66.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[66.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[66.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, <b>FOUR</b>]]></line><line><![CDATA[66.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 1 run]]></line><line><![CDATA[66.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[65.6&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[65.5&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[65.4&nbsp;&nbsp;&nbsp;Curran to Rossington, <b>SIX</b>]]></line><line><![CDATA[65.3&nbsp;&nbsp;&nbsp;Curran to Rossington, <b>FOUR</b>]]></line><line><![CDATA[65.2&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[65.1&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[64.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[64.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><line><![CDATA[64.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 1 run]]></line><line><![CDATA[64.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, no run]]></line><line><![CDATA[64.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, 1 run]]></line><line><![CDATA[64.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Cobb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Zafar Ansari [7.0-2-16-0] is back into the attack</b>]]></line><line><![CDATA[63.6&nbsp;&nbsp;&nbsp;Curran to Cobb, 1 run]]></line><line><![CDATA[63.5&nbsp;&nbsp;&nbsp;Curran to Rossington, 1 run]]></line><line><![CDATA[63.4&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[63.3&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[63.2&nbsp;&nbsp;&nbsp;Curran to Cobb, 3 runs]]></line><line><![CDATA[<b>Joshua Cobb, right handed bat, comes to the crease</b>]]></line><line><![CDATA[63.1&nbsp;&nbsp;&nbsp;Curran to Newton, <b>out</b> Caught by G Wilson!! <b>Newton c G Wilson b Curran 95(143) [4s-14]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Curran to Newton, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[62.6&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[62.5&nbsp;&nbsp;&nbsp;Meaker to Rossington, no run]]></line><line><![CDATA[62.4&nbsp;&nbsp;&nbsp;Meaker to Newton, 1 run]]></line><line><![CDATA[62.3&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><line><![CDATA[62.2&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[62.1&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[61.6&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[61.5&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[61.4&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[61.3&nbsp;&nbsp;&nbsp;Curran to Rossington, 2 runs]]></line><line><![CDATA[61.2&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[61.1&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[60.6&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[60.5&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[60.4&nbsp;&nbsp;&nbsp;Meaker to Rossington, 1 run]]></line><line><![CDATA[60.3&nbsp;&nbsp;&nbsp;Meaker to Newton, 1 run]]></line><line><![CDATA[60.2&nbsp;&nbsp;&nbsp;Meaker to Rossington, 3 runs]]></line><line><![CDATA[60.1&nbsp;&nbsp;&nbsp;Meaker to Rossington, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Meaker [11.0-1-48-0] is back into the attack</b>]]></line><line><![CDATA[59.6&nbsp;&nbsp;&nbsp;Curran to Rossington, 1 run]]></line><line><![CDATA[59.5&nbsp;&nbsp;&nbsp;Curran to Rossington, no run]]></line><line><![CDATA[59.4&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><line><![CDATA[59.3&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[59.2&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[59.1&nbsp;&nbsp;&nbsp;Curran to Rossington, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[58.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[58.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[58.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Rossington, 1 run]]></line><line><![CDATA[58.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, 1 run]]></line><line><![CDATA[58.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, 2 runs]]></line><line><![CDATA[58.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[57.6&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><line><![CDATA[57.5&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[57.4&nbsp;&nbsp;&nbsp;Curran to Rossington, 1 run]]></line><line><![CDATA[<b>Adam Rossington, right handed bat, comes to the crease</b>]]></line><line><![CDATA[57.3&nbsp;&nbsp;&nbsp;Curran to Keogh, <b>out</b> Bowled!! <b>Keogh b Curran 29(58) [4s-4]</b>]]></line><line><![CDATA[Curran to Keogh, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[57.2&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><line><![CDATA[57.1&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[56.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[56.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[56.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[56.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, <b>FOUR</b>]]></line><line><![CDATA[56.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[56.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[55.6&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[55.5&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[55.4&nbsp;&nbsp;&nbsp;Curran to Newton, 2 runs]]></line><line><![CDATA[55.3&nbsp;&nbsp;&nbsp;Curran to Keogh, 1 run]]></line><line><![CDATA[55.2&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><line><![CDATA[55.1&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran [17.0-3-63-2] is back into the attack</b>]]></line><line><![CDATA[54.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[54.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, 1 run]]></line><line><![CDATA[54.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[54.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, 1 run]]></line><line><![CDATA[54.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, <b>FOUR</b>]]></line><line><![CDATA[54.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[53.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, no run]]></line><line><![CDATA[53.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 1 run]]></line><line><![CDATA[53.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, 1 run]]></line><line><![CDATA[53.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, no run]]></line><line><![CDATA[53.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, <b>FOUR</b>]]></line><line><![CDATA[53.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[52.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[52.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[52.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[52.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[52.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[52.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[51.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, no run]]></line><line><![CDATA[51.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, no run]]></line><line><![CDATA[51.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 1 run]]></line><line><![CDATA[51.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 2 runs]]></line><line><![CDATA[51.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, 1 run]]></line><line><![CDATA[51.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Keogh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[50.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[50.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[50.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[50.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[50.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><line><![CDATA[50.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[49.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 1 run]]></line><line><![CDATA[49.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[49.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[49.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[49.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[49.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Luke Fletcher [16.0-2-56-1] is back into the attack</b>]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Keogh, no run]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Zafar Ansari [1.0-0-1-0] is back into the attack</b>]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Meaker to Keogh, 2 runs]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Jason Roy to Newton, <b>FOUR</b>]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;Meaker to Keogh, 2 runs]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Jason Roy to Newton, no run]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, 1 run]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, no run]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, no run]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Jason Roy to Newton, byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Meaker to Newton, 1 run]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, 2 runs]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, <b>FOUR</b>]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, no run]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, no run]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Jason Roy to Keogh, no run]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Jason Roy to Newton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jason Roy, comes into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Meaker to Newton, 3 runs]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;Curran to Keogh, <b>FOUR</b>]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Meaker to Newton, 1 run]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Meaker to Keogh, 1 run]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Meaker to Keogh, no run]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Meaker to Newton, leg byes, 1 run]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Meaker to Keogh, 1 run]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Meaker to Newton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Curran to Keogh, no run]]></line><line><![CDATA[<b>Rob Keogh, right handed bat, comes to the crease</b>]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Curran to Peters, <b>out</b> Caught by G Wilson!! <b>Peters c G Wilson b Curran 82(117) [4s-10]</b>]]></line><line><![CDATA[Curran to Peters, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Meaker to Peters, leg byes, 1 run]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Meaker to Newton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Meaker [5.0-1-27-0] is back into the attack</b>]]></line><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 3 runs]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 2 runs]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Curran to Newton, 2 runs]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Curran to Newton, <b>FOUR</b>]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Curran to Newton, <b>FOUR</b>]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Curran to Peters, 1 run]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 3 runs]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 1 run]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 1 run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 1 run]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Curran to Newton, <b>FOUR</b>]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 1 run]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Zafar Ansari to Peters, no run]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Zafar Ansari to Peters, no run]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Zafar Ansari to Peters, no run]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Zafar Ansari to Peters, no run]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Zafar Ansari to Peters, leg byes, 2 runs]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Zafar Ansari to Newton, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Zafar Ansari, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, <b>FOUR</b>]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Curran to Newton, <b>FOUR</b>]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Curran to Peters, 1 run]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Curran to Peters, 1 run]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 1 run]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, leg byes, 1 run]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, no run]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Newton, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Luke Fletcher [8.0-2-27-1] is back into the attack</b>]]></line><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Curran to Peters, <b>FOUR</b>]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Curran to Peters, <b>FOUR</b>]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Curran to Newton, 1 run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Curran to Peters, 1 run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Curran to Peters, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Meaker to Newton, <b>FOUR</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Meaker to Newton, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Meaker to Peters, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Curran to Newton, no run]]></line><line><![CDATA[<b>Rob Newton, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Curran to Wakely, <b>out</b> Caught by Jason Roy!! <b>Wakely c Jason Roy b Curran 8(25) [4s-2]</b>]]></line><line><![CDATA[Curran to Wakely, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Curran to Peters, 1 run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran [5.0-1-12-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, <b>FOUR</b>]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, <b>FOUR</b>]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Meaker to Wakely, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Meaker to Peters, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Meaker to Peters, no run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Meaker to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 1 run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 2 runs]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Meaker to Peters, 3 runs]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Meaker to Peters, 2 runs]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Meaker to Peters, <b>FOUR</b>]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Meaker to Peters, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Meaker to Peters, no run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Meaker to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Meaker, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, <b>FOUR</b>]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, <b>FOUR</b>]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Curran to Peters, 2 runs]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Curran to Peters, <b>FOUR</b>]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Wakely, no run]]></line><line><![CDATA[<b>Alex Wakely, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Coetzer, <b>out</b> Lbw!! <b>Coetzer lbw b Luke Fletcher 3(20)</b>]]></line><line><![CDATA[Luke Fletcher to Coetzer, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Coetzer, no run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Coetzer, 2 runs]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Coetzer, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Curran to Coetzer, 1 run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, 2 runs]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Curran to Coetzer, no run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Curran to Peters, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Curran to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tom Curran, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Luke Fletcher to Coetzer, no run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Luke Fletcher to Coetzer, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, byes, 1 run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Luke Fletcher to Peters, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Peters and Coetzer are at the crease. Peters is on strike. Luke Fletcher will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Surrey</b> (Playing XI): Rory Burns, Zafar Ansari, Kumar Sangakkara, Dominic Sibley, Steven Davies, Jason Roy, Gary Wilson(w), Gareth Batty(c), Tom Curran, Stuart Meaker, Luke Fletcher]]></line><line><![CDATA[<b>Northamptonshire</b> (Playing XI): Stephen Peters, Kyle Coetzer, Alex Wakely(c), Rob Newton, Rob Keogh, Adam Rossington(w), Joshua Cobb, David Willey, Steven Crook, Olly Stone, Azharullah]]></line><line><![CDATA[<b>Surrey have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Surrey</b> (From): Gary Wilson(w), David Balcombe, James Burke, Tom Curran, Jade Dernbach, Ben Foakes, Tim Linley, Jason Roy, Dominic Sibley, Chris Tremlett, Zafar Ansari, Gareth Batty(c), Rory Burns, Steven Davies, Matt Dunn, Arun Harinath, Stuart Meaker, Kumar Sangakkara, Vikram Solanki, Freddie van den Bergh]]></line><line><![CDATA[<b>Northamptonshire</b> (From): Alex Wakely(c), Maurice Chambers, Kyle Coetzer, Ben Duckett(w), David Murphy, Stephen Peters, Graeme White, Azharullah, Joshua Cobb, Steven Crook, Rob Keogh, Rob Newton, Adam Rossington, Olly Stone, David Willey, Richard Levi, Rory Kleinveldt]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>309</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>84.4</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Northamptonshire">
+			<players>
+				<player>
+					<playerid>6577</playerid>
+					<name>Stephen Peters</name>
+					<batsman-name>S Peters</batsman-name>
+					<batsman-nickname>Peters</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>82</runs>
+					<balls>117</balls>
+					<fours>10</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder>Gary Wilson</fielder>
+						<fielderId>739</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1415</playerid>
+					<name>Kyle Coetzer</name>
+					<batsman-name>K Coetzer</batsman-name>
+					<batsman-nickname>Coetzer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>20</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>L Fletcher</bowler>
+					<bowlerId>6733</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6579</playerid>
+					<name>Alex Wakely</name>
+					<batsman-name>A Wakely</batsman-name>
+					<batsman-nickname>Wakely</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>25</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder>Jason Roy</fielder>
+						<fielderId>6534</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7606</playerid>
+					<name>Rob Newton</name>
+					<batsman-name>R Newton</batsman-name>
+					<batsman-nickname>Newton</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>95</runs>
+					<balls>143</balls>
+					<fours>14</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder>Gary Wilson</fielder>
+						<fielderId>739</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8011</playerid>
+					<name>Rob Keogh</name>
+					<batsman-name>R Keogh</batsman-name>
+					<batsman-nickname>Keogh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>29</runs>
+					<balls>58</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Curran</bowler>
+					<bowlerId>9522</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7865</playerid>
+					<name>Adam Rossington</name>
+					<batsman-name>A Rossington</batsman-name>
+					<batsman-nickname>Rossington</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>58</runs>
+					<balls>79</balls>
+					<fours>5</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Zafar Ansari</bowler>
+					<bowlerId>7953</bowlerId>
+						<fielder>Zafar Ansari</fielder>
+						<fielderId>7953</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6495</playerid>
+					<name>Joshua Cobb</name>
+					<batsman-name>J Cobb</batsman-name>
+					<batsman-nickname>Cobb</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>18</runs>
+					<balls>45</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Zafar Ansari</bowler>
+					<bowlerId>7953</bowlerId>
+						<fielder>Gareth Batty</fielder>
+						<fielderId>1750</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6592</playerid>
+					<name>David Willey</name>
+					<batsman-name>D Willey</batsman-name>
+					<batsman-nickname>Willey</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Zafar Ansari</bowler>
+					<bowlerId>7953</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7989</playerid>
+					<name>Steven Crook</name>
+					<batsman-name>Steven Crook</batsman-name>
+					<batsman-nickname>S Crook</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>4</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Batty</bowler>
+					<bowlerId>1750</bowlerId>
+						<fielder>Steven Davies</fielder>
+						<fielderId>1841</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9344</playerid>
+					<name>Olly Stone</name>
+					<batsman-name>O Stone</batsman-name>
+					<batsman-nickname>Stone</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>13</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>G Batty</bowler>
+					<bowlerId>1750</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9342</playerid>
+					<name>Azharullah</name>
+					<batsman-name>M Azharullah</batsman-name>
+					<batsman-nickname>Azharullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1415</playerid>
+				<nbr>1</nbr>
+				<runs>7</runs>
+				<overs>6.4</overs>
+				<batsman>Kyle Coetzer</batsman>
+				<batsman-name>K Coetzer</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6579</playerid>
+				<nbr>2</nbr>
+				<runs>51</runs>
+				<overs>16.4</overs>
+				<batsman>Alex Wakely</batsman>
+				<batsman-name>A Wakely</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6577</playerid>
+				<nbr>3</nbr>
+				<runs>148</runs>
+				<overs>38.5</overs>
+				<batsman>Stephen Peters</batsman>
+				<batsman-name>S Peters</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8011</playerid>
+				<nbr>4</nbr>
+				<runs>213</runs>
+				<overs>57.3</overs>
+				<batsman>Rob Keogh</batsman>
+				<batsman-name>R Keogh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7606</playerid>
+				<nbr>5</nbr>
+				<runs>238</runs>
+				<overs>63.1</overs>
+				<batsman>Rob Newton</batsman>
+				<batsman-name>R Newton</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6495</playerid>
+				<nbr>6</nbr>
+				<runs>288</runs>
+				<overs>78.4</overs>
+				<batsman>Joshua Cobb</batsman>
+				<batsman-name>J Cobb</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6592</playerid>
+				<nbr>7</nbr>
+				<runs>288</runs>
+				<overs>78.5</overs>
+				<batsman>David Willey</batsman>
+				<batsman-name>D Willey</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7989</playerid>
+				<nbr>8</nbr>
+				<runs>289</runs>
+				<overs>79.4</overs>
+				<batsman>Steven Crook</batsman>
+				<batsman-name>Steven Crook</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9344</playerid>
+				<nbr>9</nbr>
+				<runs>303</runs>
+				<overs>83.3</overs>
+				<batsman>Olly Stone</batsman>
+				<batsman-name>O Stone</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7865</playerid>
+				<nbr>10</nbr>
+				<runs>309</runs>
+				<overs>84.4</overs>
+				<batsman>Adam Rossington</batsman>
+				<batsman-name>A Rossington</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>2</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>9</total>
+		</extras>
+		<bowlteam name="Surrey">
+			<players>
+				<player>
+					<playerid>6733</playerid>
+					<name>Luke Fletcher</name>
+					<bowler-name>L Fletcher</bowler-name>
+					<bowler-nickname>Luke Fletcher</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19</overs>
+					<maidens>2</maidens>
+					<runsoff>67</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9522</playerid>
+					<name>Tom Curran</name>
+					<bowler-name>T Curran</bowler-name>
+					<bowler-nickname>Curran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>23</overs>
+					<maidens>3</maidens>
+					<runsoff>89</runsoff>
+					<wickets>4</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6539</playerid>
+					<name>Stuart Meaker</name>
+					<bowler-name>S Meaker</bowler-name>
+					<bowler-nickname>Meaker</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>1</maidens>
+					<runsoff>73</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7953</playerid>
+					<name>Zafar Ansari</name>
+					<bowler-name>Zafar Ansari</bowler-name>
+					<bowler-nickname>Zafar Ansari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17.4</overs>
+					<maidens>4</maidens>
+					<runsoff>50</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6534</playerid>
+					<name>Jason Roy</name>
+					<bowler-name>J Roy</bowler-name>
+					<bowler-nickname>Jason Roy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>12</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1750</playerid>
+					<name>Gareth Batty</name>
+					<bowler-name>G Batty</bowler-name>
+					<bowler-nickname>Gareth Batty</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>2</maidens>
+					<runsoff>10</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6536</playerid>
+					<name>Rory Burns</name>
+					<bowler-name>Rory Burns</bowler-name>
+					<bowler-nickname>Rory Burns</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<bowler-name>Sangakkara</bowler-name>
+					<bowler-nickname>Sangakkara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9313</playerid>
+					<name>Dominic Sibley</name>
+					<bowler-name>D Sibley</bowler-name>
+					<bowler-nickname>Sibley</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1841</playerid>
+					<name>Steven Davies</name>
+					<bowler-name>S Davies</bowler-name>
+					<bowler-nickname>Steven Davies</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<bowler-name>G Wilson</bowler-name>
+					<bowler-nickname>G Wilson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>499</totalruns>
+		<totalwickets>6</totalwickets>
+		<totalovers>118</totalovers>
+		<declared>yes</declared>
+		<followon>no</followon>
+		<batteam name="Surrey">
+			<players>
+				<player>
+					<playerid>6536</playerid>
+					<name>Rory Burns</name>
+					<batsman-name>Rory Burns</batsman-name>
+					<batsman-nickname>Rory Burns</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>34</runs>
+					<balls>62</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>M Azharullah</bowler>
+					<bowlerId>9342</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7953</playerid>
+					<name>Zafar Ansari</name>
+					<batsman-name>Zafar Ansari</batsman-name>
+					<batsman-nickname>Zafar Ansari</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>39</runs>
+					<balls>79</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Azharullah</bowler>
+					<bowlerId>9342</bowlerId>
+						<fielder>Adam Rossington</fielder>
+						<fielderId>7865</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>104</playerid>
+					<name>Kumar Sangakkara</name>
+					<batsman-name>Sangakkara</batsman-name>
+					<batsman-nickname>Sangakkara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>111</runs>
+					<balls>186</balls>
+					<fours>11</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Steven Crook</bowler>
+					<bowlerId>7989</bowlerId>
+						<fielder>Adam Rossington</fielder>
+						<fielderId>7865</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9313</playerid>
+					<name>Dominic Sibley</name>
+					<batsman-name>D Sibley</batsman-name>
+					<batsman-nickname>Sibley</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>20</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Willey</bowler>
+					<bowlerId>6592</bowlerId>
+						<fielder>Adam Rossington</fielder>
+						<fielderId>7865</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1841</playerid>
+					<name>Steven Davies</name>
+					<batsman-name>S Davies</batsman-name>
+					<batsman-nickname>Steven Davies</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>44</runs>
+					<balls>72</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Steven Crook</bowler>
+					<bowlerId>7989</bowlerId>
+						<fielder>Azharullah</fielder>
+						<fielderId>9342</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6534</playerid>
+					<name>Jason Roy</name>
+					<batsman-name>J Roy</batsman-name>
+					<batsman-nickname>Jason Roy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>140</runs>
+					<balls>145</balls>
+					<fours>17</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Keogh</bowler>
+					<bowlerId>8011</bowlerId>
+						<fielder>Steven Crook</fielder>
+						<fielderId>7989</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<batsman-name>G Wilson</batsman-name>
+					<batsman-nickname>G Wilson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>74</runs>
+					<balls>91</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1750</playerid>
+					<name>Gareth Batty</name>
+					<batsman-name>G Batty</batsman-name>
+					<batsman-nickname>Gareth Batty</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>53</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9522</playerid>
+					<name>Tom Curran</name>
+					<batsman-name>T Curran</batsman-name>
+					<batsman-nickname>Curran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6539</playerid>
+					<name>Stuart Meaker</name>
+					<batsman-name>S Meaker</batsman-name>
+					<batsman-nickname>Meaker</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6733</playerid>
+					<name>Luke Fletcher</name>
+					<batsman-name>L Fletcher</batsman-name>
+					<batsman-nickname>Luke Fletcher</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>7953</playerid>
+				<nbr>1</nbr>
+				<runs>89</runs>
+				<overs>22.6</overs>
+				<batsman>Zafar Ansari</batsman>
+				<batsman-name>Zafar Ansari</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6536</playerid>
+				<nbr>2</nbr>
+				<runs>95</runs>
+				<overs>24.1</overs>
+				<batsman>Rory Burns</batsman>
+				<batsman-name>Rory Burns</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9313</playerid>
+				<nbr>3</nbr>
+				<runs>108</runs>
+				<overs>29.2</overs>
+				<batsman>Dominic Sibley</batsman>
+				<batsman-name>D Sibley</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1841</playerid>
+				<nbr>4</nbr>
+				<runs>202</runs>
+				<overs>53.4</overs>
+				<batsman>Steven Davies</batsman>
+				<batsman-name>S Davies</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>104</playerid>
+				<nbr>5</nbr>
+				<runs>372</runs>
+				<overs>89.1</overs>
+				<batsman>Kumar Sangakkara</batsman>
+				<batsman-name>Sangakkara</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6534</playerid>
+				<nbr>6</nbr>
+				<runs>449</runs>
+				<overs>101.2</overs>
+				<batsman>Jason Roy</batsman>
+				<batsman-name>J Roy</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>5</byes>
+			<wides>9</wides>
+			<noballs>0</noballs>
+			<legbyes>21</legbyes>
+			<penalty>0</penalty>
+			<total>35</total>
+		</extras>
+		<bowlteam name="Northamptonshire">
+			<players>
+				<player>
+					<playerid>6592</playerid>
+					<name>David Willey</name>
+					<bowler-name>D Willey</bowler-name>
+					<bowler-nickname>Willey</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>29.1</overs>
+					<maidens>3</maidens>
+					<runsoff>85</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9344</playerid>
+					<name>Olly Stone</name>
+					<bowler-name>O Stone</bowler-name>
+					<bowler-nickname>Stone</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16.5</overs>
+					<maidens>2</maidens>
+					<runsoff>79</runsoff>
+					<wickets>0</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7989</playerid>
+					<name>Steven Crook</name>
+					<bowler-name>Steven Crook</bowler-name>
+					<bowler-nickname>S Crook</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>16</overs>
+					<maidens>2</maidens>
+					<runsoff>77</runsoff>
+					<wickets>2</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9342</playerid>
+					<name>Azharullah</name>
+					<bowler-name>M Azharullah</bowler-name>
+					<bowler-nickname>Azharullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>21</overs>
+					<maidens>1</maidens>
+					<runsoff>75</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8011</playerid>
+					<name>Rob Keogh</name>
+					<bowler-name>R Keogh</bowler-name>
+					<bowler-nickname>Keogh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>19</overs>
+					<maidens>0</maidens>
+					<runsoff>91</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6495</playerid>
+					<name>Joshua Cobb</name>
+					<bowler-name>J Cobb</bowler-name>
+					<bowler-nickname>Cobb</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>1</maidens>
+					<runsoff>57</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6579</playerid>
+					<name>Alex Wakely</name>
+					<bowler-name>A Wakely</bowler-name>
+					<bowler-nickname>Wakely</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>3</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7606</playerid>
+					<name>Rob Newton</name>
+					<bowler-name>R Newton</bowler-name>
+					<bowler-nickname>Newton</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>6</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6577</playerid>
+					<name>Stephen Peters</name>
+					<bowler-name>S Peters</bowler-name>
+					<bowler-nickname>Peters</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1415</playerid>
+					<name>Kyle Coetzer</name>
+					<bowler-name>K Coetzer</bowler-name>
+					<bowler-nickname>Coetzer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7865</playerid>
+					<name>Adam Rossington</name>
+					<bowler-name>A Rossington</bowler-name>
+					<bowler-nickname>Rossington</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

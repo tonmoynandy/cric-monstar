@@ -1,0 +1,120 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>Australia</name>
+	<graph>
+		<id>wag_1739</id>
+		<name>David Warner</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_4_1739_Warner.png</url>
+	</graph>
+	<graph>
+		<id>wag_1643</id>
+		<name>Aaron Finch</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_4_1643_Finch.png</url>
+	</graph>
+	<graph>
+		<id>wag_2250</id>
+		<name>Steven Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_4_2250_S_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_138</id>
+		<name>Michael Clarke</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_4_138_Clarke.png</url>
+	</graph>
+	<graph>
+		<id>wag_158</id>
+		<name>Shane Watson</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_4_158_Watson.png</url>
+	</graph>
+	<graph>
+		<id>wag_7662</id>
+		<name>Glenn Maxwell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_4_7662_Maxwell.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>Pakistan</name>
+	<graph>
+		<id>wag_1787</id>
+		<name>Ahmed Shehzad</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_1787_Ahmed_Shehzad.png</url>
+	</graph>
+	<graph>
+		<id>wag_881</id>
+		<name>Sarfraz Ahmed</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_881_S_Ahmed.png</url>
+	</graph>
+	<graph>
+		<id>wag_8299</id>
+		<name>Haris Sohail</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_8299_H_Sohail.png</url>
+	</graph>
+	<graph>
+		<id>wag_274</id>
+		<name>Misbah-ul-Haq</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_274_Misbah.png</url>
+	</graph>
+	<graph>
+		<id>wag_1992</id>
+		<name>Umar Akmal</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_1992_U_Akmal.png</url>
+	</graph>
+	<graph>
+		<id>wag_9524</id>
+		<name>Sohaib Maqsood</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_9524_S_Maqsood.png</url>
+	</graph>
+	<graph>
+		<id>wag_142</id>
+		<name>Shahid Afridi</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_142_Afridi.png</url>
+	</graph>
+	<graph>
+		<id>wag_1051</id>
+		<name>Wahab Riaz</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_1051_Riaz.png</url>
+	</graph>
+	<graph>
+		<id>wag_8362</id>
+		<name>Ehsan Adil</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_8362_Ehsan_Adil.png</url>
+	</graph>
+	<graph>
+		<id>wag_1120</id>
+		<name>Sohail Khan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_1120_S_Khan.png</url>
+	</graph>
+	<graph>
+		<id>wag_8301</id>
+		<name>Rahat Ali</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/AUS_PAK_MAR20/gph_wag_12899_3_8301_Rahat_Ali.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

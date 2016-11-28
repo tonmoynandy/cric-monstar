@@ -1,0 +1,999 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12863" >
+		<type>ODI</type>
+		<gameDesc>9th Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>New Zealand</home>
+		<away>England</away>
+		<teamsabbr>NZ vs ENG</teamsabbr>
+		<homeabbr>NZ</homeabbr>
+		<awayabbr>ENG</awayabbr>
+		<homeId>13</homeId>
+		<awayId>9</awayId>
+		<venue>Westpac Stadium, Wellington</venue>
+		<startdate>20 02 2015</startdate>
+		<enddate>20 02 2015</enddate>
+		<toss>
+			<winner>England</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status></status>
+		<result type="win">
+			<winningteam>New Zealand</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>8</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Paul Reiffel</Name>
+			<Country>Aus</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Rod Tucker</Name>
+			<Country>Aus</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Bruce Oxenford</Name>
+			<Country>Aus</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Roshan Mahanama</Name>
+			<Country>SL</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>01:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150220053101</actualendGMT>
+	</match>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>123</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>33.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="England">
+			<players>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<batsman-name>Bell</batsman-name>
+					<batsman-nickname>Bell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>17</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6692</playerid>
+					<name>Moeen Ali</name>
+					<batsman-name>M Ali</batsman-name>
+					<batsman-nickname>Moeen Ali</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>15</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6679</playerid>
+					<name>Gary Ballance</name>
+					<batsman-name>Ballance</batsman-name>
+					<batsman-nickname>Ballance</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>26</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>T Boult</bowler>
+					<bowlerId>8117</bowlerId>
+						<fielder>Kane Williamson</fielder>
+						<fielderId>6326</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<batsman-name>J Root</batsman-name>
+					<batsman-nickname>J Root</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>46</runs>
+					<balls>70</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Milne</bowler>
+					<bowlerId>7625</bowlerId>
+						<fielder>Daniel Vettori</fielder>
+						<fielderId>205</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<batsman-name>E Morgan</batsman-name>
+					<batsman-nickname>Eoin Morgan</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>41</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Vettori</bowler>
+					<bowlerId>205</bowlerId>
+						<fielder>Adam Milne</fielder>
+						<fielderId>7625</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<batsman-name>James Taylor</batsman-name>
+					<batsman-nickname>James Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<batsman-name>J Buttler</batsman-name>
+					<batsman-nickname>Buttler</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>3</runs>
+					<balls>7</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Luke Ronchi</fielder>
+						<fielderId>1396</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6670</playerid>
+					<name>Chris Woakes</name>
+					<batsman-name>C Woakes</batsman-name>
+					<batsman-nickname>Woakes</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<batsman-name>Broad</batsman-name>
+					<batsman-nickname>Broad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>10</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Daniel Vettori</fielder>
+						<fielderId>205</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6317</playerid>
+					<name>Steven Finn</name>
+					<batsman-name>Finn</batsman-name>
+					<batsman-nickname>Finn</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>8</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Southee</bowler>
+					<bowlerId>1057</bowlerId>
+						<fielder>Ross Taylor</fielder>
+						<fielderId>521</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<batsman-name>J Anderson</batsman-name>
+					<batsman-nickname>J Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>385</playerid>
+				<nbr>1</nbr>
+				<runs>18</runs>
+				<overs>4.1</overs>
+				<batsman>Ian Bell</batsman>
+				<batsman-name>Bell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6692</playerid>
+				<nbr>2</nbr>
+				<runs>36</runs>
+				<overs>6.2</overs>
+				<batsman>Moeen Ali</batsman>
+				<batsman-name>M Ali</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6679</playerid>
+				<nbr>3</nbr>
+				<runs>57</runs>
+				<overs>13.1</overs>
+				<batsman>Gary Ballance</batsman>
+				<batsman-name>Ballance</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>624</playerid>
+				<nbr>4</nbr>
+				<runs>104</runs>
+				<overs>25.6</overs>
+				<batsman>Eoin Morgan</batsman>
+				<batsman-name>E Morgan</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6500</playerid>
+				<nbr>5</nbr>
+				<runs>104</runs>
+				<overs>26.2</overs>
+				<batsman>James Taylor</batsman>
+				<batsman-name>James Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2258</playerid>
+				<nbr>6</nbr>
+				<runs>108</runs>
+				<overs>28.1</overs>
+				<batsman>Jos Buttler</batsman>
+				<batsman-name>J Buttler</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6670</playerid>
+				<nbr>7</nbr>
+				<runs>110</runs>
+				<overs>28.4</overs>
+				<batsman>Chris Woakes</batsman>
+				<batsman-name>C Woakes</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>554</playerid>
+				<nbr>8</nbr>
+				<runs>116</runs>
+				<overs>30.4</overs>
+				<batsman>Stuart Broad</batsman>
+				<batsman-name>Broad</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6317</playerid>
+				<nbr>9</nbr>
+				<runs>117</runs>
+				<overs>32.3</overs>
+				<batsman>Steven Finn</batsman>
+				<batsman-name>Finn</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8019</playerid>
+				<nbr>10</nbr>
+				<runs>123</runs>
+				<overs>33.2</overs>
+				<batsman>Joe Root</batsman>
+				<batsman-name>J Root</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>7</wides>
+			<noballs>0</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>13</total>
+		</extras>
+		<bowlteam name="New Zealand">
+			<players>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<bowler-name>Southee</bowler-name>
+					<bowler-nickname>Southee</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>33</runsoff>
+					<wickets>7</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<bowler-name>T Boult</bowler-name>
+					<bowler-nickname>Boult</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>2</maidens>
+					<runsoff>32</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7625</playerid>
+					<name>Adam Milne</name>
+					<bowler-name>Milne</bowler-name>
+					<bowler-nickname>Milne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5.2</overs>
+					<maidens>1</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>205</playerid>
+					<name>Daniel Vettori</name>
+					<bowler-name>Vettori</bowler-name>
+					<bowler-nickname>Vettori</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>19</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<bowler-name>CJ Anderson</bowler-name>
+					<bowler-nickname>Corey Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>8</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<bowler-name>B McCullum</bowler-name>
+					<bowler-nickname>Brendon McCullum</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1457</playerid>
+					<name>Martin Guptill</name>
+					<bowler-name>M Guptill</bowler-name>
+					<bowler-nickname>Guptill</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6326</playerid>
+					<name>Kane Williamson</name>
+					<bowler-name>Williamson</bowler-name>
+					<bowler-nickname>Williamson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>521</playerid>
+					<name>Ross Taylor</name>
+					<bowler-name>Ross Taylor</bowler-name>
+					<bowler-nickname>Ross Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1064</playerid>
+					<name>Grant Elliott</name>
+					<bowler-name>Elliott</bowler-name>
+					<bowler-nickname>Elliott</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1396</playerid>
+					<name>Luke Ronchi</name>
+					<bowler-name>Ronchi</bowler-name>
+					<bowler-nickname>Ronchi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>125</totalruns>
+		<totalwickets>2</totalwickets>
+		<totalovers>12.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="New Zealand">
+			<players>
+				<player>
+					<playerid>1457</playerid>
+					<name>Martin Guptill</name>
+					<batsman-name>M Guptill</batsman-name>
+					<batsman-nickname>Guptill</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>22</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Woakes</bowler>
+					<bowlerId>6670</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>201</playerid>
+					<name>Brendon McCullum</name>
+					<batsman-name>B McCullum</batsman-name>
+					<batsman-nickname>Brendon McCullum</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>77</runs>
+					<balls>25</balls>
+					<fours>8</fours>
+					<sixes>7</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>C Woakes</bowler>
+					<bowlerId>6670</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6326</playerid>
+					<name>Kane Williamson</name>
+					<batsman-name>Williamson</batsman-name>
+					<batsman-nickname>Williamson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>9</runs>
+					<balls>22</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>521</playerid>
+					<name>Ross Taylor</name>
+					<batsman-name>Ross Taylor</batsman-name>
+					<batsman-nickname>Ross Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1064</playerid>
+					<name>Grant Elliott</name>
+					<batsman-name>Elliott</batsman-name>
+					<batsman-nickname>Elliott</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8982</playerid>
+					<name>Corey Anderson</name>
+					<batsman-name>CJ Anderson</batsman-name>
+					<batsman-nickname>Corey Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1396</playerid>
+					<name>Luke Ronchi</name>
+					<batsman-name>Ronchi</batsman-name>
+					<batsman-nickname>Ronchi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>205</playerid>
+					<name>Daniel Vettori</name>
+					<batsman-name>Vettori</batsman-name>
+					<batsman-nickname>Vettori</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7625</playerid>
+					<name>Adam Milne</name>
+					<batsman-name>Milne</batsman-name>
+					<batsman-nickname>Milne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1057</playerid>
+					<name>Tim Southee</name>
+					<batsman-name>Southee</batsman-name>
+					<batsman-nickname>Southee</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8117</playerid>
+					<name>Trent Boult</name>
+					<batsman-name>T Boult</batsman-name>
+					<batsman-nickname>Boult</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>201</playerid>
+				<nbr>1</nbr>
+				<runs>105</runs>
+				<overs>7.1</overs>
+				<batsman>Brendon McCullum</batsman>
+				<batsman-name>B McCullum</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1457</playerid>
+				<nbr>2</nbr>
+				<runs>112</runs>
+				<overs>9.3</overs>
+				<batsman>Martin Guptill</batsman>
+				<batsman-name>M Guptill</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>8</wides>
+			<noballs>0</noballs>
+			<legbyes>4</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="England">
+			<players>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<bowler-name>J Anderson</bowler-name>
+					<bowler-nickname>J Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>37</runsoff>
+					<wickets>0</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<bowler-name>Broad</bowler-name>
+					<bowler-nickname>Broad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2.2</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>0</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6317</playerid>
+					<name>Steven Finn</name>
+					<bowler-name>Finn</bowler-name>
+					<bowler-nickname>Finn</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>49</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6670</playerid>
+					<name>Chris Woakes</name>
+					<bowler-name>C Woakes</bowler-name>
+					<bowler-nickname>Woakes</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>1</maidens>
+					<runsoff>8</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6692</playerid>
+					<name>Moeen Ali</name>
+					<bowler-name>M Ali</bowler-name>
+					<bowler-nickname>Moeen Ali</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<bowler-name>Bell</bowler-name>
+					<bowler-nickname>Bell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6679</playerid>
+					<name>Gary Ballance</name>
+					<bowler-name>Ballance</bowler-name>
+					<bowler-nickname>Ballance</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<bowler-name>J Root</bowler-name>
+					<bowler-nickname>J Root</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<bowler-name>E Morgan</bowler-name>
+					<bowler-nickname>Eoin Morgan</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<bowler-name>James Taylor</bowler-name>
+					<bowler-nickname>James Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<bowler-name>J Buttler</bowler-name>
+					<bowler-nickname>Buttler</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

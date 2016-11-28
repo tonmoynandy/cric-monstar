@@ -1,0 +1,130 @@
+<graphs>
+		<match-graphs>
+	<graph>
+		<id>mhtn_1</id>
+		<name>Manhattan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_mhtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_mhtn_team_2.png</url>
+	</graph>
+	<graph>
+		<id>rrate</id>
+		<name>Run Rate Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_rrate.png</url>
+	</graph>
+	<graph>
+		<id>rprog</id>
+		<name>Run Progression Graph</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_rprog.png</url>
+	</graph>
+	<graph>
+		<id>prtn_1</id>
+		<name>Partnership</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_prtn_team_1.png</url>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_prtn_team_2.png</url>
+	</graph>
+		</match-graphs>
+		<wagon-wheels>
+			<team>
+				<name>West Indies</name>
+	<graph>
+		<id>wag_255</id>
+		<name>Dwayne Smith</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_255_Dwayne_Smith.png</url>
+	</graph>
+	<graph>
+		<id>wag_247</id>
+		<name>Chris Gayle</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_247_Gayle.png</url>
+	</graph>
+	<graph>
+		<id>wag_356</id>
+		<name>Marlon Samuels</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_356_Samuels.png</url>
+	</graph>
+	<graph>
+		<id>wag_8314</id>
+		<name>Jonathan Carter</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_8314_J_Carter.png</url>
+	</graph>
+	<graph>
+		<id>wag_399</id>
+		<name>Denesh Ramdin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_399_Ramdin.png</url>
+	</graph>
+	<graph>
+		<id>wag_599</id>
+		<name>Lendl Simmons</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_599_L_Simmons.png</url>
+	</graph>
+	<graph>
+		<id>wag_253</id>
+		<name>Darren Sammy</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_253_Sammy.png</url>
+	</graph>
+	<graph>
+		<id>wag_7736</id>
+		<name>Andre Russell</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_7736_A_Russell.png</url>
+	</graph>
+	<graph>
+		<id>wag_8313</id>
+		<name>Jason Holder</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_8313_J_Holder.png</url>
+	</graph>
+	<graph>
+		<id>wag_379</id>
+		<name>Jerome Taylor</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_379_Jerome_Taylor.png</url>
+	</graph>
+	<graph>
+		<id>wag_1359</id>
+		<name>Kemar Roach</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_10_1359_Roach.png</url>
+	</graph>
+			</team>
+			<team>
+				<name>India</name>
+	<graph>
+		<id>wag_576</id>
+		<name>Rohit Sharma</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_576_Rohit.png</url>
+	</graph>
+	<graph>
+		<id>wag_1446</id>
+		<name>Shikhar Dhawan</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_1446_Dhawan.png</url>
+	</graph>
+	<graph>
+		<id>wag_1413</id>
+		<name>Virat Kohli</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_1413_Kohli.png</url>
+	</graph>
+	<graph>
+		<id>wag_1447</id>
+		<name>Ajinkya Rahane</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_1447_A_Rahane.png</url>
+	</graph>
+	<graph>
+		<id>wag_413</id>
+		<name>Suresh Raina</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_413_Raina.png</url>
+	</graph>
+	<graph>
+		<id>wag_265</id>
+		<name>MS Dhoni</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_265_Dhoni.png</url>
+	</graph>
+	<graph>
+		<id>wag_587</id>
+		<name>Ravindra Jadeja</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_587_R_Jadeja.png</url>
+	</graph>
+	<graph>
+		<id>wag_1593</id>
+		<name>Ravichandran Ashwin</name>
+			<url>http://synd.cricbuzz.com/archive/2015_WC/IND_WI_MAR06/gph_wag_12882_2_1593_Ashwin.png</url>
+	</graph>
+			</team>
+		</wagon-wheels>
+</graphs>
+

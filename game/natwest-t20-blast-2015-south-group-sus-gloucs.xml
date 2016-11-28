@@ -1,0 +1,1078 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14356" >
+		<type>T20</type>
+		<gameDesc>South Group</gameDesc>
+		<series>NatWest t20 Blast, 2015</series>
+		<matchday>1</matchday>
+		<home>Sussex</home>
+		<away>Gloucestershire</away>
+		<teamsabbr>SUS vs GLOUCS</teamsabbr>
+		<homeabbr>SUS</homeabbr>
+		<awayabbr>GLOUCS</awayabbr>
+		<homeId>41</homeId>
+		<awayId>151</awayId>
+		<venue>County Ground, Hove, Sussex</venue>
+		<startdate>17 05 2015</startdate>
+		<enddate>17 05 2015</enddate>
+		<toss>
+			<winner>Gloucestershire</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Sussex won by 6 runs</status>
+		<result type="win">
+			<winningteam>Sussex</winningteam>
+			<wonbyruns>6</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Mark Benson</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>David Millns</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>13:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150517161805</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Gloucs</batteamname>
+		<bwlteamname>SUS</bwlteamname>
+		<batteamruns>161</batteamruns>
+		<batteamwkts>9</batteamwkts>
+		<batteamovers>20</batteamovers>
+		<status>Sussex won by 6 runs</status>
+		<batsman>
+			<playerid>6834</playerid>
+			<name>David Payne*</name>
+			<batsman-name>D Payne</batsman-name>
+			<batsman-nickname>Payne</batsman-nickname>
+			<runs>3</runs>
+			<balls-faced>3</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>9349</playerid>
+			<name>Matt Taylor</name>
+			<batsman-name>M Taylor</batsman-name>
+			<batsman-nickname>Matt Taylor</batsman-nickname>
+			<runs>5</runs>
+			<balls-faced>2</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>9531</playerid>
+			<name>Oliver Robinson*</name>
+			<bowler-name>O Robinson</bowler-name>
+			<bowler-nickname>O Robinson</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>25</runs>
+			<wickets>1</wickets>
+		</bowler>
+		<bowler>
+			<playerid>7860</playerid>
+			<name>Tymal Mills</name>
+			<bowler-name>T Mills</bowler-name>
+			<bowler-nickname>Tymal Mills</bowler-nickname>
+			<overs>4</overs>
+			<maidens>0</maidens>
+			<runs>30</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<maxovers>20</maxovers>
+		<target>168</target>
+<lastwicket>
+<playerid>6836</playerid>
+<name>Jack Taylor</name>
+<player-runs>36</player-runs>
+<player-balls>20</player-balls>
+<runs>153</runs>
+<wicket-nbr>9</wicket-nbr>
+<bowlerid>7860</bowlerid>
+<bowlername>T Mills</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<prevOvers><![CDATA[1 4 1 Wd 1 4 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>6 1 6 4 1 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . 2 W 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>W 2 3 2 . 1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_NATWEST_T20/SUS_GLOUCS_MAY17/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Tymal Mills to Payne, 1 run]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Tymal Mills to Payne, no run]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Tymal Mills to Payne, 2 runs]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Tymal Mills to Matt Taylor, 3 runs]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Tymal Mills to Matt Taylor, 2 runs]]></line><line><![CDATA[<b>Matt Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Tymal Mills to Jack Taylor, <b>out</b> Bowled!! <b>Jack Taylor b Tymal Mills 36(20) [4s-3 6s-2]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tymal Mills to Jack Taylor, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Tymal Mills [3.0-0-22-2] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, 1 run]]></line><line><![CDATA[<b>David Payne, left handed bat, comes to the crease</b>]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;O Robinson to Tom Smith, <b>out</b> Caught by Cachopa!! <b>Tom Smith c Cachopa b O Robinson 16(9) [4s-1 6s-1]</b>]]></line><line><![CDATA[O Robinson to Tom Smith, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;O Robinson to Tom Smith, 2 runs]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;O Robinson to Tom Smith, no run]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, 1 run]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson [3.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Magoffin to Jack Taylor, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Magoffin to Tom Smith, 1 run]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Magoffin to Tom Smith, <b>FOUR</b>]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Magoffin to Tom Smith, <b>SIX</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Magoffin to Jack Taylor, 1 run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Magoffin to Jack Taylor, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Steve Magoffin [3.0-0-23-2] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Yardy to Jack Taylor, 1 run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Yardy to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Yardy to Tom Smith, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Yardy to Tom Smith, <b>wide</b>]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Yardy to Jack Taylor, 1 run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Yardy to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Yardy to Tom Smith, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Yardy [3.0-0-22-1] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Tymal Mills to Jack Taylor, no run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Tymal Mills to Jack Taylor, <b>FOUR</b>]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Tymal Mills to Tom Smith, 1 run]]></line><line><![CDATA[<b>Thomas Smith, right handed bat, comes to the crease</b>]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Tymal Mills to Geraint Jones, <b>out</b> Bowled!! <b>Geraint Jones b Tymal Mills 25(20) [4s-2 6s-1]</b>]]></line><line><![CDATA[Tymal Mills to Geraint Jones, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Tymal Mills to Geraint Jones, no run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Tymal Mills to Jack Taylor, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;O Robinson to Geraint Jones, <b>FOUR</b>]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;O Robinson to Geraint Jones, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, 1 run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, 2 runs]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, no run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;O Robinson to Jack Taylor, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson [2.0-0-8-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Yardy to Jack Taylor, 1 run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Yardy to Jack Taylor, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, no run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, <b>wide</b>]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Will Beer to Benny Howell, <b>out</b> Caught by Magoffin!! <b>Benny Howell c Magoffin b Will Beer 8(8) [4s-1]</b>]]></line><line><![CDATA[Will Beer to Benny Howell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Will Beer to Benny Howell, no run]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, 1 run]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Will Beer to Benny Howell, 1 run]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, 1 run]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, 1 run]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, no run]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Yardy to Benny Howell, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Yardy to Benny Howell, no run]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Yardy to Benny Howell, <b>FOUR</b>]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, 1 run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Will Beer to Benny Howell, 1 run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, 1 run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Will Beer to Benny Howell, 1 run]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Will Beer to Geraint Jones, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Benny Howell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Yardy to Handscomb, <b>out</b> Bowled!! <b>Handscomb b Yardy 8(14)</b>]]></line><line><![CDATA[Yardy to Handscomb, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, 1 run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Yardy to Handscomb, 1 run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Yardy to Handscomb, no run]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Yardy to Geraint Jones, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Yardy to Handscomb, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Michael Yardy, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[<b>Geraint Jones, right handed bat, comes to the crease</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Will Beer to Hamish Marshall, <b>out</b> Stumped!! <b>Hamish Marshall st Brown b Will Beer 45(26) [4s-9]</b>]]></line><line><![CDATA[Will Beer to Hamish Marshall, <b>THATS OUT!!</b> Stumped!!]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Will Beer to Handscomb, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Will Beer to Hamish Marshall, 1 run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Will Beer to Handscomb, 1 run]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Will Beer to Handscomb, no run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Will Beer to Hamish Marshall, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Tymal Mills to Handscomb, 1 run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Tymal Mills to Handscomb, no run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, 1 run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, no run]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Tymal Mills to Handscomb, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Will Beer to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Will Beer to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Will Beer to Handscomb, leg byes, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Will Beer to Hamish Marshall, 1 run]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Will Beer to Handscomb, 1 run]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Will Beer to Handscomb, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Will Beer, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, <b>wide</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Tymal Mills to Handscomb, 1 run]]></line><line><![CDATA[<b>Peter Handscomb, right handed bat, comes to the crease</b>]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Tymal Mills to J Fuller, <b>out</b> Bowled!! <b>J Fuller b Tymal Mills 2(6)</b>]]></line><line><![CDATA[Tymal Mills to J Fuller, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Tymal Mills to J Fuller, <b>wide</b>]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, 1 run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Tymal Mills to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Tymal Mills to J Fuller, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Tymal Mills, left-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Magoffin to J Fuller, 1 run]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, 1 run]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, no run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;O Robinson to J Fuller, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, 1 run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, no run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;O Robinson to J Fuller, 1 run]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;O Robinson to J Fuller, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, <b>FOUR</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Magoffin to Hamish Marshall, no run]]></line><line><![CDATA[<b>James Fuller, right handed bat, comes to the crease</b>]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, <b>out</b> Caught by L Wright!! <b>I Cockbain c L Wright b Magoffin 6(11) [4s-1]</b>]]></line><line><![CDATA[Magoffin to I Cockbain, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, <b>FOUR</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, no run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, no run]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;O Robinson to I Cockbain, leg byes, 1 run]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;O Robinson to Hamish Marshall, 1 run]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;O Robinson to I Cockbain, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Oliver Robinson, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, 1 run]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, no run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, no run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, no run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Magoffin to I Cockbain, no run]]></line><line><![CDATA[<b>Ian Cockbain, right handed bat, comes to the crease</b>]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Magoffin to Dent, <b>out</b> Lbw!! <b>Dent lbw b Magoffin 0(1)</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Magoffin to Dent, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[<b>Dent and Hamish Marshall are at the crease. Dent is on strike. Magoffin will open the attack</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;J Fuller to Machan, 2 runs]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;J Fuller to Machan, 2 runs]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;J Fuller to Will Beer, byes, 1 run]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;J Fuller to Machan, 1 run]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;J Fuller to Will Beer, 1 run]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;J Fuller to Machan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Payne to Machan, 1 run]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Payne to Machan, 2 runs]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Payne to Will Beer, 1 run]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Payne to Will Beer, 2 runs]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Payne to Will Beer, <b>wide</b>]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Payne to Will Beer, 2 runs]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Payne to Will Beer, <b>SIX</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;J Fuller to Will Beer, 1 run]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;J Fuller to Will Beer, <b>SIX</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;J Fuller to Machan, 1 run]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;J Fuller to Machan, 2 runs]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;J Fuller to Machan, no run]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;J Fuller to Will Beer, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Payne to Will Beer, 1 run]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Payne to Machan, 1 run]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Payne to Will Beer, 1 run]]></line><line><![CDATA[<b>Will Beer, right handed bat, comes to the crease</b>]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Payne to Brown, <b>out</b> Bowled!! <b>Brown b Payne 8(11)</b>]]></line><line><![CDATA[Payne to Brown, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Payne to Machan, 1 run]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Payne to Brown, leg byes, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>David Payne [2.0-0-21-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Jack Taylor to Brown, 1 run]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Jack Taylor to Machan, 1 run]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Jack Taylor to Brown, 1 run]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Jack Taylor to Machan, 1 run]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Jack Taylor to Brown, 1 run]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Jack Taylor to Machan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Benny Howell to Machan, 1 run]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Benny Howell to Machan, no run]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Benny Howell to Brown, 1 run]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Benny Howell to Machan, 1 run]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Benny Howell to Brown, 1 run]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Benny Howell to Machan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Benny Howell [2.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Jack Taylor to Brown, no run]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Jack Taylor to Machan, 1 run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jack Taylor to Brown, 1 run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jack Taylor to Machan, 1 run]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Jack Taylor to Brown, 1 run]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Jack Taylor to Machan, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Tom Smith to Machan, 1 run]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Tom Smith to Brown, 1 run]]></line><line><![CDATA[<b>Ben Brown, right handed bat, comes to the crease</b>]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, <b>out</b> Lbw!! <b>Cachopa lbw b Tom Smith 19(10) [6s-3]</b>]]></line><line><![CDATA[Tom Smith to Cachopa, <b>THATS OUT!!</b> Lbw!!]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, <b>SIX</b>]]></line><line><![CDATA[<b>Matt Machan, left handed bat, comes to the crease</b>]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Tom Smith to Chris Nash, <b>out</b> Caught by Hamish Marshall!! <b>Chris Nash c Hamish Marshall b Tom Smith 43(33) [4s-3 6s-2]</b>]]></line><line><![CDATA[Tom Smith to Chris Nash, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Tom Smith to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jack Taylor to Cachopa, <b>SIX</b>]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jack Taylor to Cachopa, <b>SIX</b>]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jack Taylor to Chris Nash, 1 run]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jack Taylor to Chris Nash, 2 runs]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jack Taylor to Cachopa, 1 run]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jack Taylor to Chris Nash, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, no run]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, no run]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, no run]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, no run]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Tom Smith to Cachopa, no run]]></line><line><![CDATA[<b>Craig Cachopa, right handed bat, comes to the crease</b>]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, <b>out</b> Bowled!! <b>M Jayawardene b Tom Smith 39(30) [4s-5 6s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Tom Smith to M Jayawardene, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[<b>Thomas Smith [2.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jack Taylor to M Jayawardene, 1 run]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jack Taylor to M Jayawardene, no run]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jack Taylor to M Jayawardene, no run]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jack Taylor to M Jayawardene, leg byes, <b>FOUR</b>]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jack Taylor to Chris Nash, 1 run]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jack Taylor to M Jayawardene, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Jack Taylor, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Benny Howell to M Jayawardene, 1 run]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, 1 run]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Benny Howell to M Jayawardene, 1 run]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Benny Howell to M Jayawardene, <b>FOUR</b>]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, 1 run]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, <b>FOUR</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Tom Smith to Chris Nash, 1 run]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, 1 run]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Tom Smith to Chris Nash, 1 run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, 1 run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Tom Smith to Chris Nash, 1 run]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, <b>2 wides</b>]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, no run]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, no run]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Benny Howell to M Jayawardene, 1 run]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Benny Howell to M Jayawardene, <b>FOUR</b>]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, 1 run, the partnership between Chris Nash and M Jayawardene is now]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Benny Howell to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Benny Howell, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, <b>SIX</b>]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, no run]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, no run]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Tom Smith to Chris Nash, 1 run]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, 1 run]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Tom Smith to M Jayawardene, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Thomas Smith, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Matt Taylor to Chris Nash, <b>FOUR</b>]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Matt Taylor to Chris Nash, <b>SIX</b>]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Matt Taylor to Chris Nash, <b>FOUR</b>]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Matt Taylor to M Jayawardene, 1 run]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Matt Taylor to M Jayawardene, 2 runs]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Matt Taylor to M Jayawardene, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Matt Taylor, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, no run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, no run]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;J Fuller to M Jayawardene, 1 run]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;J Fuller to M Jayawardene, no run]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;J Fuller to M Jayawardene, <b>FOUR</b>]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;J Fuller to M Jayawardene, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Payne to Chris Nash, <b>SIX</b>]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Payne to M Jayawardene, 1 run]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Payne to M Jayawardene, <b>FOUR</b>]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Payne to M Jayawardene, no run]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Payne to M Jayawardene, <b>FOUR</b>]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Payne to Chris Nash, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, 1 run]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, no run]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, 2 runs]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, no run]]></line><line><![CDATA[<b>Mahela Jayawardene, right handed bat, comes to the crease</b>]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;J Fuller to L Wright, <b>out</b> Caught by Tom Smith!! <b>L Wright c Tom Smith b J Fuller 3(3)</b>]]></line><line><![CDATA[J Fuller to L Wright, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;J Fuller to Chris Nash, 1 run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Fuller, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Payne to L Wright, 2 runs]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Payne to Chris Nash, 1 run]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Payne to L Wright, 1 run]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Payne to Chris Nash, 1 run]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Payne to Chris Nash, no run]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Payne to Chris Nash, no run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Nash and L Wright are at the crease. Chris Nash is on strike. Payne will open the attack</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Gloucestershire</b> (Playing XI): Hamish Marshall, Chris Dent, Ian Cockbain(c), Peter Handscomb, Geraint Jones(w), Benny Howell, Jack Taylor, James Fuller, Thomas Smith, David Payne, Matt Taylor]]></line><line><![CDATA[<b>Sussex</b> (Playing XI): Luke Wright(c), Chris Nash, Mahela Jayawardene, Craig Cachopa, Matt Machan, Ben Brown(w), Michael Yardy, Will Beer, Oliver Robinson, Tymal Mills, Steve Magoffin]]></line><line><![CDATA[<b>Gloucestershire have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>Gloucestershire</b> (From): Chris Dent, Ian Cockbain(c), Peter Handscomb, Geraint Jones(w), Hamish Marshall, Kieran Noema-Barnett, Benny Howell, Jack Taylor, James Fuller, David Payne, Matt Taylor, Thomas Smith, Robbie Jay Montgomery]]></line><line><![CDATA[<b>Sussex</b> (From): Will Beer, Craig Cachopa, Ben Brown(w), Harry Finch, Mahela Jayawardene, Matt Machan, Chris Liddle, Steve Magoffin, Tymal Mills, Chris Nash, Steffan Piolet, Oliver Robinson, Luke Wright(c), Michael Yardy]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>167</totalruns>
+		<totalwickets>5</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Sussex">
+			<players>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<batsman-name>C Nash</batsman-name>
+					<batsman-nickname>Chris Nash</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>33</balls>
+					<fours>3</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Tom Smith</bowler>
+					<bowlerId>6663</bowlerId>
+						<fielder>Hamish Marshall</fielder>
+						<fielderId>56</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<batsman-name>L Wright</batsman-name>
+					<batsman-nickname>L Wright</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Fuller</bowler>
+					<bowlerId>8004</bowlerId>
+						<fielder>Thomas Smith</fielder>
+						<fielderId>6663</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<batsman-name>M Jayawardene</batsman-name>
+					<batsman-nickname>M Jayawardene</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>30</balls>
+					<fours>6</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Tom Smith</bowler>
+					<bowlerId>6663</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<batsman-name>Cachopa</batsman-name>
+					<batsman-nickname>Cachopa</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>10</balls>
+					<fours>0</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Tom Smith</bowler>
+					<bowlerId>6663</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6565</playerid>
+					<name>Matt Machan</name>
+					<batsman-name>M Machan</batsman-name>
+					<batsman-nickname>Machan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>22</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2269</playerid>
+					<name>Ben Brown</name>
+					<batsman-name>B Brown</batsman-name>
+					<batsman-nickname>Brown</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>8</runs>
+					<balls>11</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>D Payne</bowler>
+					<bowlerId>6834</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>2268</playerid>
+					<name>Will Beer</name>
+					<batsman-name>W Beer</batsman-name>
+					<batsman-nickname>Will Beer</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>11</balls>
+					<fours>0</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>556</playerid>
+					<name>Michael Yardy</name>
+					<batsman-name>M Yardy</batsman-name>
+					<batsman-nickname>Yardy</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<batsman-name>O Robinson</batsman-name>
+					<batsman-nickname>O Robinson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7860</playerid>
+					<name>Tymal Mills</name>
+					<batsman-name>T Mills</batsman-name>
+					<batsman-nickname>Tymal Mills</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1640</playerid>
+					<name>Steve Magoffin</name>
+					<batsman-name>S Magoffin</batsman-name>
+					<batsman-nickname>Magoffin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>776</playerid>
+				<nbr>1</nbr>
+				<runs>6</runs>
+				<overs>1.2</overs>
+				<batsman>Luke Wright</batsman>
+				<batsman-name>L Wright</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>101</playerid>
+				<nbr>2</nbr>
+				<runs>87</runs>
+				<overs>10.1</overs>
+				<batsman>Mahela Jayawardene</batsman>
+				<batsman-name>M Jayawardene</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2275</playerid>
+				<nbr>3</nbr>
+				<runs>108</runs>
+				<overs>12.2</overs>
+				<batsman>Chris Nash</batsman>
+				<batsman-name>C Nash</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10064</playerid>
+				<nbr>4</nbr>
+				<runs>114</runs>
+				<overs>12.4</overs>
+				<batsman>Craig Cachopa</batsman>
+				<batsman-name>Cachopa</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>2269</playerid>
+				<nbr>5</nbr>
+				<runs>134</runs>
+				<overs>16.3</overs>
+				<batsman>Ben Brown</batsman>
+				<batsman-name>B Brown</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>1</byes>
+			<wides>3</wides>
+			<noballs>0</noballs>
+			<legbyes>1</legbyes>
+			<penalty>0</penalty>
+			<total>5</total>
+		</extras>
+		<bowlteam name="Gloucestershire">
+			<players>
+				<player>
+					<playerid>6834</playerid>
+					<name>David Payne</name>
+					<bowler-name>D Payne</bowler-name>
+					<bowler-nickname>Payne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>40</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8004</playerid>
+					<name>James Fuller</name>
+					<bowler-name>James Fuller</bowler-name>
+					<bowler-nickname>J Fuller</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>27</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9349</playerid>
+					<name>Matt Taylor</name>
+					<bowler-name>M Taylor</bowler-name>
+					<bowler-nickname>Matt Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>17</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6663</playerid>
+					<name>Thomas Smith</name>
+					<bowler-name>Tom Smith</bowler-name>
+					<bowler-nickname>Tom Smith</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>1</maidens>
+					<runsoff>23</runsoff>
+					<wickets>3</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6641</playerid>
+					<name>Benny Howell</name>
+					<bowler-name>B Howell</bowler-name>
+					<bowler-nickname>Benny Howell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6836</playerid>
+					<name>Jack Taylor</name>
+					<bowler-name>J Taylor</bowler-name>
+					<bowler-nickname>Jack Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>56</playerid>
+					<name>Hamish Marshall</name>
+					<bowler-name>H Marshall</bowler-name>
+					<bowler-nickname>Hamish Marshall</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6826</playerid>
+					<name>Chris Dent</name>
+					<bowler-name>C Dent</bowler-name>
+					<bowler-nickname>Dent</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8002</playerid>
+					<name>Ian Cockbain</name>
+					<bowler-name>Ian Cockbain</bowler-name>
+					<bowler-nickname>I Cockbain</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8159</playerid>
+					<name>Peter Handscomb</name>
+					<bowler-name>P Handscomb</bowler-name>
+					<bowler-nickname>Handscomb</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>165</playerid>
+					<name>Geraint Jones</name>
+					<bowler-name>G Jones</bowler-name>
+					<bowler-nickname>Geraint Jones</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>161</totalruns>
+		<totalwickets>9</totalwickets>
+		<totalovers>20</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Gloucestershire">
+			<players>
+				<player>
+					<playerid>6826</playerid>
+					<name>Chris Dent</name>
+					<batsman-name>C Dent</batsman-name>
+					<batsman-nickname>Dent</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>56</playerid>
+					<name>Hamish Marshall</name>
+					<batsman-name>H Marshall</batsman-name>
+					<batsman-nickname>Hamish Marshall</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>45</runs>
+					<balls>26</balls>
+					<fours>9</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>W Beer</bowler>
+					<bowlerId>2268</bowlerId>
+						<fielder>Ben Brown</fielder>
+						<fielderId>2269</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8002</playerid>
+					<name>Ian Cockbain</name>
+					<batsman-name>Ian Cockbain</batsman-name>
+					<batsman-nickname>I Cockbain</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>11</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Magoffin</bowler>
+					<bowlerId>1640</bowlerId>
+						<fielder>Luke Wright</fielder>
+						<fielderId>776</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8004</playerid>
+					<name>James Fuller</name>
+					<batsman-name>James Fuller</batsman-name>
+					<batsman-nickname>J Fuller</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Mills</bowler>
+					<bowlerId>7860</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8159</playerid>
+					<name>Peter Handscomb</name>
+					<batsman-name>P Handscomb</batsman-name>
+					<batsman-nickname>Handscomb</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>14</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>M Yardy</bowler>
+					<bowlerId>556</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>165</playerid>
+					<name>Geraint Jones</name>
+					<batsman-name>G Jones</batsman-name>
+					<batsman-nickname>Geraint Jones</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>25</runs>
+					<balls>20</balls>
+					<fours>2</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Mills</bowler>
+					<bowlerId>7860</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6641</playerid>
+					<name>Benny Howell</name>
+					<batsman-name>B Howell</batsman-name>
+					<batsman-nickname>Benny Howell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>8</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>W Beer</bowler>
+					<bowlerId>2268</bowlerId>
+						<fielder>Steve Magoffin</fielder>
+						<fielderId>1640</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6836</playerid>
+					<name>Jack Taylor</name>
+					<batsman-name>J Taylor</batsman-name>
+					<batsman-nickname>Jack Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>36</runs>
+					<balls>20</balls>
+					<fours>3</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>T Mills</bowler>
+					<bowlerId>7860</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6663</playerid>
+					<name>Thomas Smith</name>
+					<batsman-name>Tom Smith</batsman-name>
+					<batsman-nickname>Tom Smith</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>9</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>O Robinson</bowler>
+					<bowlerId>9531</bowlerId>
+						<fielder>Craig Cachopa</fielder>
+						<fielderId>10064</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6834</playerid>
+					<name>David Payne</name>
+					<batsman-name>D Payne</batsman-name>
+					<batsman-nickname>Payne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>3</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9349</playerid>
+					<name>Matt Taylor</name>
+					<batsman-name>M Taylor</batsman-name>
+					<batsman-nickname>Matt Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>5</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6826</playerid>
+				<nbr>1</nbr>
+				<runs>0</runs>
+				<overs>0.1</overs>
+				<batsman>Chris Dent</batsman>
+				<batsman-name>C Dent</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8002</playerid>
+				<nbr>2</nbr>
+				<runs>8</runs>
+				<overs>2.4</overs>
+				<batsman>Ian Cockbain</batsman>
+				<batsman-name>Ian Cockbain</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8004</playerid>
+				<nbr>3</nbr>
+				<runs>39</runs>
+				<overs>5.4</overs>
+				<batsman>James Fuller</batsman>
+				<batsman-name>James Fuller</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>56</playerid>
+				<nbr>4</nbr>
+				<runs>64</runs>
+				<overs>8.6</overs>
+				<batsman>Hamish Marshall</batsman>
+				<batsman-name>H Marshall</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8159</playerid>
+				<nbr>5</nbr>
+				<runs>68</runs>
+				<overs>9.6</overs>
+				<batsman>Peter Handscomb</batsman>
+				<batsman-name>P Handscomb</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6641</playerid>
+				<nbr>6</nbr>
+				<runs>87</runs>
+				<overs>12.6</overs>
+				<batsman>Benny Howell</batsman>
+				<batsman-name>B Howell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>165</playerid>
+				<nbr>7</nbr>
+				<runs>112</runs>
+				<overs>15.3</overs>
+				<batsman>Geraint Jones</batsman>
+				<batsman-name>G Jones</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6663</playerid>
+				<nbr>8</nbr>
+				<runs>152</runs>
+				<overs>18.5</overs>
+				<batsman>Thomas Smith</batsman>
+				<batsman-name>Tom Smith</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6836</playerid>
+				<nbr>9</nbr>
+				<runs>153</runs>
+				<overs>19.1</overs>
+				<batsman>Jack Taylor</batsman>
+				<batsman-name>J Taylor</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>4</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>7</total>
+		</extras>
+		<bowlteam name="Sussex">
+			<players>
+				<player>
+					<playerid>1640</playerid>
+					<name>Steve Magoffin</name>
+					<bowler-name>S Magoffin</bowler-name>
+					<bowler-nickname>Magoffin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>42</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9531</playerid>
+					<name>Oliver Robinson</name>
+					<bowler-name>O Robinson</bowler-name>
+					<bowler-nickname>O Robinson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7860</playerid>
+					<name>Tymal Mills</name>
+					<bowler-name>T Mills</bowler-name>
+					<bowler-nickname>Tymal Mills</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>3</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2268</playerid>
+					<name>Will Beer</name>
+					<bowler-name>W Beer</bowler-name>
+					<bowler-nickname>Will Beer</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>26</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>556</playerid>
+					<name>Michael Yardy</name>
+					<bowler-name>M Yardy</bowler-name>
+					<bowler-nickname>Yardy</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>35</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>776</playerid>
+					<name>Luke Wright</name>
+					<bowler-name>L Wright</bowler-name>
+					<bowler-nickname>L Wright</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2275</playerid>
+					<name>Chris Nash</name>
+					<bowler-name>C Nash</bowler-name>
+					<bowler-nickname>Chris Nash</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>101</playerid>
+					<name>Mahela Jayawardene</name>
+					<bowler-name>M Jayawardene</bowler-name>
+					<bowler-nickname>M Jayawardene</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10064</playerid>
+					<name>Craig Cachopa</name>
+					<bowler-name>Cachopa</bowler-name>
+					<bowler-nickname>Cachopa</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6565</playerid>
+					<name>Matt Machan</name>
+					<bowler-name>M Machan</bowler-name>
+					<bowler-nickname>Machan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2269</playerid>
+					<name>Ben Brown</name>
+					<bowler-name>B Brown</bowler-name>
+					<bowler-nickname>Brown</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

@@ -1,0 +1,1070 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12888" >
+		<type>ODI</type>
+		<gameDesc>34th Match, Pool B</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>India</home>
+		<away>Ireland</away>
+		<teamsabbr>IND vs IRE</teamsabbr>
+		<homeabbr>IND</homeabbr>
+		<awayabbr>IRE</awayabbr>
+		<homeId>2</homeId>
+		<awayId>27</awayId>
+		<venue>Seddon Park, Hamilton</venue>
+		<startdate>10 03 2015</startdate>
+		<enddate>10 03 2015</enddate>
+		<toss>
+			<winner>Ireland</winner>
+			<decision>Batting</decision>
+		</toss>
+		<state>complete</state>
+		<status>India won by 8 wkts</status>
+		<result type="win">
+			<winningteam>India</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>8</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Kumar Dharmasena</Name>
+			<Country>SL</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Richard Kettleborough</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Johanes Cloete</Name>
+			<Country>RSA</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>Chris Broad</Name>
+			<Country>Eng</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>01:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150310074007</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Ind</batteamname>
+		<bwlteamname>IRE</bwlteamname>
+		<batteamruns>260</batteamruns>
+		<batteamwkts>2</batteamwkts>
+		<batteamovers>36.5</batteamovers>
+		<status>India won by 8 wkts</status>
+		<batsman>
+			<playerid>1413</playerid>
+			<name>Virat Kohli*</name>
+			<batsman-name>Kohli</batsman-name>
+			<batsman-nickname>Kohli</batsman-nickname>
+			<runs>44</runs>
+			<balls-faced>42</balls-faced>
+			<fours>4</fours>
+			<sixes>1</sixes>
+		</batsman>
+		<batsman>
+			<playerid>1447</playerid>
+			<name>Ajinkya Rahane</name>
+			<batsman-name>A Rahane</batsman-name>
+			<batsman-nickname>Rahane</batsman-nickname>
+			<runs>33</runs>
+			<balls-faced>28</balls-faced>
+			<fours>6</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>690</playerid>
+			<name>Kevin O'Brien*</name>
+			<bowler-name>K O'Brien</bowler-name>
+			<bowler-nickname>K O'Brien</bowler-nickname>
+			<overs>6.5</overs>
+			<maidens>0</maidens>
+			<runs>42</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>735</playerid>
+			<name>Alex Cusack</name>
+			<bowler-name>Cusack</bowler-name>
+			<bowler-nickname>Cusack</bowler-nickname>
+			<overs>8</overs>
+			<maidens>0</maidens>
+			<runs>43</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>50</maxovers>
+		<target>260</target>
+<lastwicket>
+<playerid>1446</playerid>
+<name>Shikhar Dhawan</name>
+<player-runs>100</player-runs>
+<player-balls>85</player-balls>
+<runs>190</runs>
+<wicket-nbr>2</wicket-nbr>
+<bowlerid>7985</bowlerid>
+<bowlername>S Thompson</bowlername>
+</lastwicket>
+		<extras>
+			<byes>4</byes>
+			<wides>13</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>19</total>
+		</extras>
+		<prevOvers><![CDATA[1 1 4 1 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 1 1 . 4 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>Wd 1 4 . 1 4 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 1 . . 4 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/IND_IRE_MAR10/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That brings an end to our coverage of this game. Hope you enjoyed it as much as we did while covering it. The extravaganza continues. Tomorrow it is Sri Lanka taking on Scotland. Though the Asian team has qualified, it will be an opportunity for Scotland to leave a mark. Join us for that game. Till then, goodbye and take care.]]></line><line><![CDATA[Check out some of the interesting <b>stats</b> from this game: ]]></line><line><![CDATA[India have <b>never lost an ODI when Shikhar Dhawan has scored a hundred</b>. Today, he hit his <b>8th ODI ton</b>.]]></line><line><![CDATA[<b>Shikhar Dhawan joins Sachin Tendulkar to score two 100s</b> as opener for India in a single World Cup. Tendulkar did it twice.]]></line><line><![CDATA[<b>174-run opening stand</b> between Rohit Sharma & Shikhar Dhawan is the <b>best opening stand</b> for India in World Cups.]]></line><line><![CDATA[This is the <b>first time</b> that India have <b>bowled out their opponents in 5 consecutive ODIs</b>.]]></line><line><![CDATA[Let's take a look at some of the interesting <b>tweets</b> pertaining to this game: ]]></line><line><![CDATA[<b>@OptaJim:</b> 178 - Only Trent Boult (186) has bowled more dot balls at #CWC15 than @ashwinravi99 (178). Restricted.]]></line><line><![CDATA[<b>@G_Rajaraman:</b> India's unexpected story in #CWC15 so far: Bowling unit shifts operations from 'Hopeless Drive' to 'Revival Avenue'.]]></line><line><![CDATA[<b>@cricketaakash:</b> Two centuries in 5 games for Dhawan...spectacular return to form. Best part is that he's making it count. ]]></line><line><![CDATA[<b>@TomMoodyCricket:</b> Another #WorldCup hundred to @SDhawan25, India a real force with their top order firing like this. #CWC15 #INDvIRE #Congrats]]></line><line><![CDATA[<b>@narendramodi:</b> Superb all-round performance. Congrats Team India! Keep up the momentum.]]></line><line><![CDATA[<b>@mohanstatsman:</b> India's 2nd biggest ODI win by balls (79) to spare while chasing a target of 250+ (but best in WC) #BingPredicts #DimagSay #INDvsIRE #CWC15]]></line><line><![CDATA[<b>@dkmohanty:</b> Most Wins by Indian Captains in World Cups, 12 MS Dhoni, 11 Kapil Dev, 10 M Azharuddin, 9 Ganguly, 1 S Venkatraghvan, 1 R Dravid #INDvsIRE #CWC15]]></line><line><![CDATA["It feels good, definitely it means I have played with some really talented guys (talking about the winning streak). The last World Cup team was very good, playing in the sub-continental conditions, good mix of youngsters and at the same time good experienced players really helps. And without the five games in this tournament, it won't really have been possible. I think each and everyone really needs to enjoy it. It's not really about milestones, it is more about winning games for the country. So, I feel everyone is really happy about the fact that we have been able to win 9 consecutive games and we would like to take it forward as many games as possible because that's what the motive is. What's crucial is to see how the guys are batting. If you see Rohit (Sharma) and Shikhar (Dhawan) batting, they have been batting really well. Both of them have got runs and the icing on the cake could have been getting the runs together. This game was an ideal opportunity and I thought they made the most out of it. At times, when you are playing games like these, when you have qualified, it's difficult to put in the extra effort. But, I felt both the batsmen batted really well. They treated the delivery on the basis of how it was coming to them and initially I thought it could be a difficult wicket because it was stopping, but it kept getting better and better. And I feel now with a bit of dew around, it made it slightly good for the batsmen, but still you need to go in and score those big runs. I felt it was a good start from both the openers and Shikhar really capitalised on that and got a hundred. At the end of the day, nobody really remembers when you scored a hundred, what they remember is Shikhar Dhawan got 800 World Cup runs, 400 or 500 whatever. It is something that every batsman needs to do once you are set, make the most out of it, get hundreds, that's what people will talk about."]]></line><line><![CDATA["At times I try to just tell them what my gut feel as to what the batsman is looking to do with a bit of initial movement or whatever I can read from behind. And Hindi is an ideal language to say it because everyone understands, but the batsman doesn't. So, I don't really have to walk up to them, to tell them what the batsmen maybe looking to do, but it's not that I am always right, but I feel it's important that if I get some kind of a gut feeling, I transfer it onto the bowlers, it doesn't mean that they have to bowl a particular delivery, I just ask them to be aware of it. Knowing the conditions helps. Yeah, it's a true fact that we have been here for over 4 months, we had to sacrifice somewhere and it had to be the intensity part. So, to some extent that was missing in the ODI series because the guys had put in a lot of effort in the Test series and it is almost the same batting line-up and the bowlers. So, I was pretty understanding of the fact, but at the same time it was important to step up and with the World Cup coming in, it automatically, it's the kind of support that we have got that really pushes us. So, I feel it was the right time to explode, think about the process but at the same time to go to the next level and I think all the boys have done that. Even in this game it was big a challenge for them, a lot of them were having jet lag. Coming from Perth and we landed close to 12 AM, then had a two-hour bus journey. So, a lot of them are still sleep deprived. So, I feel that was one reason why today's game was important and I am glad all of us stepped up."]]></line><line><![CDATA[<b>Dhoni:</b> "Well, one of the coaches was telling me (when asked whether he was aware about India bowling out their opposition for the 5th time in a row). It's a good stat to have. It means the bowlers are really doing their job for us. That's a remarkable difference. They have really stepped up and whatever the conditions maybe, I think they are bowling really well. I am not only talking about the three fast bowlers, also the spinners are complementing them. Whenever we have to use the part-timers, they have done well. So, it looks like a happy unit. After the first 3-4 overs I already knew I can easily bring on the spinners right now, but at the same I said let the fast bowlers get a bit of hit because they need to plan their innings. It was a slightly different wicket, less pace compared to the last the four games we had played. It was stopping just enough for the batsmen to play their shots, but still it was coming on nicely. I still went ahead with them, tried all the three fast bowlers, gave them a bit of go in the first 10 overs. Then, I said let's make the most out of this game. Get the part-timer also in, Suresh (Raina) I felt, with a lot of their left-handers in the team, I think he bowled really well, bowled the right pace and he ended up bowling 10 overs. So, I didn't have to try too many other bowlers."]]></line><line><![CDATA[<b>Porterfield:</b> "I don't think it can (replying to whether today's loss has dented their confidence). I think there is a lot of good things to take, especially in that first innings, we were slightly disappointed to come off, not having capitalised on what could have been, I think we could have got an extra 50-60 at least there, looking 320 plus. But every time we just kept up and it looked like kicking on again, we managed to lose a wicket coming down the back end. That was slightly disappointing. But as I said you have to give a lot of credit to them, the way they kept fighting and came back. And the way they played with the bat as well made it look very easy. I think it was a very good pitch. I think there was not a lot of help for the seamers. So, we managed to capitalise on that, on what was quite a small ground as well. We just couldn't kick on like the way their opening pair did, so that was a bit of a difference there. He (Ashwin) bowled really well and mixed his pace quite well, there was a bit of grip there at times, so we just lost a couple of wickets in that period as well. So, that slowed us down a bit, but then the way Nobby (Niall O'Brien) kicked on as well and picked up the momentum was great to see. And everyone that came in seemed to have that impetus which was great and play with the freedom, we just managed to lose wickets at the crucial times and that just slowed us down. But, I think all in all we played really well. We will get over it again and have rest and refresh again, coming down to this stage of the tournament, we have put in a lot of yards in the last 6-8 weeks. So, it's all about being mentally prepared and mentally fresh going into that game. We still have time for a couple of days of training when we get down to Adelaide, but it is obviously winner-takes-all in terms of ourselves. We win that game, we are through to the quarter-finals, so we have got to mentally prepare ourselves for that and we will be ready. It's not emotionally draining at all, we are at a World Cup, it's fantastic. You are playing in front of a full crowd. If you can't get going for these game, then you won't get going for many others. So, I don't think it is mentally draining, it's exciting."]]></line><line><![CDATA[<b>Dhawan:</b> "I have spent lots of time here and sorted out my game. It's good that I am used to the bounce and the pace and I am really enjoying my game over here. And I knew that I sort of got a game where I can play really nice on bouncy tracks. Now I can see that I am enjoying it. Of course everyone has spent a lot of time over here and the communication of the team has gone really up and I would like to thank the support staff, those who have put so much effort on the boys and especially our skipper. With time boys have learned, boys have got experience when we were playing such a big Test series and then tri-series and all those experiences coming in hand, everyone is doing a great job. It's lovely when we are on the field seeing our bowlers bowling so quick and on the right areas so consistently. The captain's message was to keep doing the same thing, with the same intensity and do the work with the same process. So, that's what we did and hopefully, our captain is going to be happy. I always mark myself 10 out of 10 (when Wilkins asked him to rate this innings). I will rate this innings, I will say I played more creatively, so I enjoyed that creativity today, playing different shots and using bowler's mind, so I will say that."]]></line><line><![CDATA[<b>Shikhar Dhawan</b> is the <b>Man of the Match</b> for his knock of <b>100</b>]]></line><line><![CDATA[For India, Ashwin was yet again in great form as he flummoxed the batsmen with flight and guile en route to taking two wickets. After suffering at the hands of Ireland's openers, Stirling and Porterfield, Mohammed Shami came back well to snare three wickets. With this victory, India have won all their five matches till now. Ireland, on the other hand, will meet Pakistan in a do-or-die game.  ]]></line><line><![CDATA[Once Rohit and Dhawan were dismissed, Virat Kohli and Ajinkya Rahane took India to a convincing win. Earlier, despite Niall O'Brien's sterling knock, Ireland lost wickets in clusters to get bowled out for 259. After Ireland lost the wickets of Stirling and Ed Joyce in quick succession, it was Niall O'Brien, who took on the gauntlet of facing up to India's spinners, Ravichandran Ashwin and Ravindra Jadeja, and cracked some wonderful shots. Porterfield too amassed a fifty, but once Niall O'Brien was out, Ireland lost their way.]]></line><line><![CDATA[At the other end of the spectrum, Rohit, with his glorious artwork of batsmanship, played a sumptuous on-drive off Alex Cusack and then lofted Mooney over mid-off for a six. He also reached his fifty in style by playing an inside-out stroke off Stirling for yet another six. Eventually, Thompson took the wickets of Rohit and Dhawan, but by then, the damage was done. In fact, the 174-run stand for the first wicket turned out to be India's highest partnership for the opening wicket in World Cups]]></line><line><![CDATA[Once Dhawan got used to the lack of pace from Ireland's slew of medium pacers, he took his game to an elevated plane. He took a heavy toll off Stuart Thompson's wayward bowling by clouting him for a four and a six. When George Dockrell came into the attack, he threaded through the gaps and thumped three more fours. Once Dhawan reached his fifty, he used his feet to loft Stirling for a six and then used the depth of the crease to play the slog sweep in the same over. He also showcased the West Indian flair by shuffling across to pull Kevin O'Brien for a six. <br/>]]></line><line><![CDATA[Shikhar Dhawan and Rohit Sharma played with flair and panache to compose brilliant knocks and take India to a thumping victory by eight wickets. India now have won nine consecutive games under MS Dhoni's leadership in World Cups. In terms of successive victories in World Cups, Dhoni is now joint second with Clive Lloyd. It was Dhawan and Rohit, who tore apart a modest Ireland attack and collected runs with utmost ease. Dhawan had his fair share of luck, but he made them pay by essaying a ton.]]></line><line><![CDATA[The players shake hands. Kohli and Rahane congratulate each other with a hug. <b>MS Dhoni now has 9 consecutive World Cup wins</b>, the most by an Indian captain. He went past Sourav Ganguly, who had 8 wins in the 2003 World Cup. <b>Dhoni is second on the list</b> of captains with the most wins in World Cups, he is equal with Clive Lloyd and behind Ricky Ponting.]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, <b>FOUR</b>, <b>India have recorded their fifth consecutive win in this World Cup.</b> Kohli dispatches this with utter disdain. Full and outside off, he walked down the crease and hammered it past the cover fielder, long-off had no chance of cutting that off]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, again, full and outside off, Kohli jams it on the wicket, the ball bounces over the stumps, lucky that it didn't go back onto the stumps]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, too full and outside off, Kohli takes a step out of the crease, reaches out and squeezes it to backward point]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;K O'Brien to Rahane, 1 run, full and outside off, Rahane leans into the drive and creams it to sweeper cover]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, Kevin O'Brien has hurt his hand. Bowls a juicy half-volley, Kohli drills it to the left of the bowler, O'Brien sticks his hand and tries to deflect it onto the stumps as Rahane was backing up, the ball was well wide of the stumps and the batsmen scamper across for a run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kevin O'Brien [6.0-0-36-0] is back into the attack</b>]]></line><line><![CDATA[India are one hit away from sealing the game.]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Cusack to Kohli, 1 run, keeps the strike with a steer to short third man]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Cusack to Kohli, <b>FOUR</b>, cracking shot! Short and outside off, Kohli stands tall and cracks the cut to deep backward point, not a muscle moved in the field as the ball whistled across to the fence]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Cusack to Rahane, 1 run, shortish and outside off, Rahane dabs it to backward point, Kohli once more calls for a quick single, he gets there even as the fielder fires a throw at his end, mid-wicket doesn't back up in time, but there was the fielder in the deep]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Cusack to Rahane, no run, good length ball on off, Rahane gets behind the line and defends down the wicket]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Cusack to Rahane, <b>FOUR</b>, lovely shot! Rahane allowed the ball to arrive, opened the face of the bat and used the pace of the bowler, third man was inside the circle and he had no chance of cutting that off]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Cusack to Kohli, 1 run, short of length on off, Kohli shuffles across a touch and tucks it to deep square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Cusack to Kohli, <b>wide</b>, splays it well down leg, Kohli stays inside the line and lets it go, wide called]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;J Mooney to Rahane, <b>FOUR</b>, edged and four! The third man fielder was square and the ball went very fine. It was full and on the fourth stump line, Rahane was looking for the flick, closed the bat face early and the leading edge runs away fine]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, slower and close to off, Rahane gets forward and turns it gently to short mid-wicket]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;J Mooney to Kohli, 1 run, another good looking cover drive, comes well forward, presents the straight bat and drives it towards cover, the fielder dives to his right and parries it to long-off]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;J Mooney to Rahane, 1 run, on a length just outside off, Rahane looks to drive and gets an inside edge onto the pad, the ball rolls away in front of point, Rahane looks at Kohli, who responds and sprints through for a quick single]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, tails back in from a length, Rahane stays rooted to the crease and is rapped on the pads, he missed the nudge through the on-side. Luckily for him, the impact was around off and the ball struck him a bit high on the pad]]></line><line><![CDATA[Loud shout for LBW and Porterfield signals for the review. Dharmasena was not interested. No issues with the no-ball, Mooney is fine with the front foot. Is height a factor? There is no wood on that. It hit him above the knee roll. Hawk-Eye shows impact as umpires call and it is also just clipping the top of the stumps. The onfield decision remains.]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, good length ball, bit of shape away outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Wilson continues to stand up to the stumps for Mooney..]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Cusack to Kohli, no run, tad short and outside off, Kohli mistimes the punch to cover, he is disappointed. The bottom hand coming into play there as went too hard at it]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Cusack to Rahane, 1 run, pitched up on off, Rahane drives it straight down the ground, long-on runs to his left and keeps it to a single]]></line><line><![CDATA[Jadeja is padded up and not Raina. The way these two are going, doesn't look like he will get a hit.]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Cusack to Kohli, 1 run, back of a length around off, Kohli punches it wide of cover, for a single]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Cusack to Kohli, <b>FOUR</b>, bad delivery and Kohli says thank you very much. Short and well wide of off, Kohli had all the time to pick his spot, he cuts it between backward point and short third man]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Cusack to Rahane, 1 run, full and slanting in, Rahane leans forward and wrists it to long-on]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Cusack to Kohli, 1 run, short of length on off, Kohli eases it off the back foot to the right of the bowler, Cusack can't get there and the duo go through with the run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alex Cusack [6.0-0-23-0] is back into the attack</b>]]></line><line><![CDATA[<b>Drinks are on the field now</b>. India are cruising comfortably, they might as well take the batting powerplay and finish it off. Well, looks like they read my mind, the umpire signals for the <b>powerplay</b>..]]></line><line><![CDATA[One has to give it to Porterfield for still keeping a slip for the very expensive Thompson. What else can Porterfield do? The Indians are batting so well, that even 400 looks chasable on this wicket. Maybe he wants to show that he still trusts his young bowler against some of the best batsmen in the world. But Thompson hasn't helped his skipper by bowling too full and giving the batsmen the room to drive and loft.]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, punched off the back foot to cover]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;J Mooney to Rahane, <b>FOUR</b>, it keeps getting better and better and better. This one is on a bent knee, width offered by Mooney and Rahane got forward to cream the drive, cover dived in vain again and this time sweeper didn't even bother to chase it down]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, full and on the pads, flicked straight to the fielder at mid-wicket]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, length ball, turned towards square leg, Rahane says no to Kohli for the quick single]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;J Mooney to Rahane, <b>wide</b>, was that a ploy to get Rahane out stumped on the leg-side? But Rahane never moved, down leg, Rahane flicks and misses. Wilson whips the bails off, good glovework standing up]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;J Mooney to Rahane, <b>FOUR</b>, now Rahane gets into the act. He gets forward and slightly reaches out, but times the drive so well, that he beats cover to his left and the sweeper to his right. Came right off the middle of the bat. So easy on the eye too]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;J Mooney to Rahane, no run, pushed to cover off the front foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;J Mooney to Rahane, <b>wide</b>, shortish and well outside off, Rahane reaches out to cut and misses. Wide called]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>John Mooney [4.0-0-28-0] is back into the attack</b>]]></line><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;S Thompson to Rahane, 1 run, pushes this to long-on, and retains the strike with that run]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;S Thompson to Rahane, <b>FOUR</b>, that is a fine, fine late cut by Rahane. Rahane opens the face of the bat and delays the cut, then plays it very late and sends it wide of third man, running and diving across to cut it off, it was all in vain eventually]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 1 run, back of a length and outside off, straightens too, Kohli pushes at it, gets it wide of the diving point]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, Kohli presses forward and defends the good length delivery to point]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;S Thompson to Rahane, 1 run, back of a length outside off, Rahane cuts and finds third man, more of a thick outside edge of sorts that one]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 1 run, Kohli shimmies outside off, walks forward too and then times the on-drive wide of long-on, wanted two, but they settle for the single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;K O'Brien to Rahane, no run, length ball, nudged towards square leg, no chance of a quick single as the fielder gets in quickly]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;K O'Brien to Rahane, <b>FOUR</b>, when the Indians are playing so well, half-volleys are like a red rag to a bull, that's what O'Brien does and he is punished. Rahane just timed that past Kohli and mid-on had no chance]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, pitched up outside off, driven off the front foot to sweeper cover]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 2 runs, so nearly four to just an open-faced dab, Thompson at third man initially felt that it was an easy couple and then realised he had to sprint, which he did and then put in the full length dive, saved two runs. Good effort. But again pristine timing from Kohli]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, Kohli gets forward and then has to defend the length ball back to the bowler, O'Brien flicks the ball back to the keeper]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, shortish outside off, cut straight to the fielder at point. Hit hard, but not in the gap]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;S Thompson to Rahane, no run, pitched up outside off, Rahane drives, but well-stopped by cover moving to his right]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;S Thompson to Rahane, no run, against Thompson, the two batsmen are really creaming it off the middle of the bat, this time Rahane with a drive to mid-off]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;S Thompson to Rahane, no run, pitched up outside off, Rahane gets forward and drives, very well, but straight to the fielder at cover]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 1 run, now a picture perfect off-drive as he walks forward and meets the ball on the rise, down to long-off]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 2 runs, back of a length outside off, rising too, Kohli controls the cut and gets it to the left of the diving point fielder, they take two]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;S Thompson to Kohli, <b>FOUR</b>, arrogance. Sheer arrogance from Kohli. Another step forward out, then almost takes it on the half-volley, drilled to the right of Rahane and gave mid-on no chance. How well-timed was that? The bowler too is impressed by that, puffs his cheeks out and just walks back to his mark]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, on a good length and Kohli gets forward to play a sweet off-drive, to long-off]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;K O'Brien to Rahane, 1 run, back of a length outside off, Rahane punches it to sweeper cover]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, pushed to the right of point, Rahane makes it home with a full length dive, the throw missed anyway and even if it had hit, Rahane was home]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, length ball on off, Kohli closes the face of the bat too early, a leading edge is found, but rolls along the ground and to the left of O'Brien]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;K O'Brien to Rahane, 1 run, full and on middle, wristed wide of mid-on]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, back of a length outside off, Kohli pushes away from the body and gets a sort of an outside edge, but safely to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;S Thompson to Rahane, no run, on a good length and outside off, left alone]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 1 run, length outside off, punched off the front foot, beats the diving cover who parries it to long-off]]></line><line><![CDATA[<b>Ajinkya Rahane, right handed bat, comes to the crease</b>]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, <b>out</b> Caught by Porterfield!! Excellent catch and Kohli pats Dhawan on the head as he walks past him. Dhawan wanted to finish the game off as soon as possible, went for the leg-side hoick, was early into the shot, the leading edge seemed to be landing in no-man's land, but Porterfield ran back from cover and held on with both hands over his shoulder. Never an easy catch that, but Porterfield made it look easy. Tumbled down and then got up to be surrounded by his mates. Dhawan walks off to a standing ovation from the Seddon Park faithful - 11,000 odd and something. <b>Dhawan c Porterfield b S Thompson 100(85) [4s-11 6s-5]</b>]]></line><line><![CDATA[S Thompson to Dhawan, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 1 run, pitched up outside off, Kohli drives to sweeper cover, just a single]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;S Thompson to Kohli, <b>SIX</b>, Kohli has had enough of Thompson. A step or two out and then thunders the length ball over long-on. What power in that hit, only bottom-hand doing the trick, a flat hit as the spectators had to duck for cover. Kohli certainly made a statement there]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, Kohli gets forward and plays a strong bottom-handed cover drive, but straight to the fielder at cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, worked to deep backward square leg, Kohli retains the strike with that run]]></line><line><![CDATA[Dhawan got there with a clip through square leg, shuffles across and takes it on the full, exposed his stumps but managed to put it away. Raises the bat and takes the helmet off. His trademark celebration with both arms stretched out wide. Brilliant innings once again from him]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, 1 run, <b>there it is!</b> <b>100 for Dhawan.</b> His second hundred in this World Cup and how his fortunes have turned! <b>Eighth overall in ODIs.</b> Was this the same Dhawan who struggled so miserably against Australia all summer? Back then, he couldn't buy a run. Was even dropped for the last Test at Sydney. People were behind his back, some even questioning his place in the World Cup 15. Some wanted Murali Vijay to take his place in the final 15. What a way to respond to your critics. There is something about ICC tournaments and Dhawan! It certainly spurs him on]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, no run, Dhawan is looking a tad nervy, in the last 5-10 minutes. This one is on the stumps, Dhawan drops it near his feet and looks for the impossible run, no chance as Kohli rightly sends him back]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, no run, slower delivery from O'Brien, Dhawan gets forward and wrists it, but short mid-wicket dives to his right and keeps Dhawan on 99]]></line><line><![CDATA[Now he is on 99. The crowd know that and they are making quite a noise as they egg Dhawan on]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, 2 runs, cut from the stumps square of the wicket, placed in the gap and Dhawan comes back for the second]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, 1 run, Kohli gets forward and takes a step outside off, wristed in front of mid-on, easy single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, no run, fuller length outside off, Dhawan tried to muscle that through cover, but that spoils the timing, finds the fielder for the third time in the over]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, no run, slower delivery outside off, Dhawan waits for it and punches it to cover]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;S Thompson to Kohli, 1 run, Kohli won't miss out that time, a step forward and to the pitch of the ball before unleashing a lovely cover drive to sweeper cover]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, a repeat of the previous ball, but this time the ball is inside the guideline, Kohli plays the cover drive and misses]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;S Thompson to Kohli, <b>wide</b>, Kohli charges Thompson, the bowler bowls it full and outside the guideline, wide called. The bowler doesn't like the call]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, leg byes, 1 run, short of length and angling in, Dhawan looks for the short-arm jab, but misses and the ball goes off the thigh pad to fine leg]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, no run, slower delivery outside off from round the wicket, eased to cover where the fielder dives to his right and saves a couple at least]]></line><end-of-over>end of over</end-of-over><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, Kohli is content to get his eye in, comes on the front foot and defends a length ball outside off to point]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, another solid front foot defence to point]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, Kohli closes the face of the bat too early to a middle stump delivery, a soft leading edge is found on the flick, but it rolls to cover]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;K O'Brien to Kohli, no run, on a good length and outside off, Kohli defends to point]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, 1 run, on the pads, flicked to deep mid-wicket, for a single]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, no run, Dhawan defends and the ball is going away from the stumps, but Dhawan moves towards the ball and ensures it doesn't spin back in to hit the stumps. Wilson fields. Both the keeper and the batsman have a word and smile about it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, pitched up outside off, Kohli leaves again]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, pitched up outside off, Kohli leans into a lovely cover drive, but can't beat cover-point]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, nice flick, but straight to the fielder at square leg]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;S Thompson to Kohli, no run, back of a length outside off, Kohli has a sighter, left alone]]></line><line><![CDATA[<b>Virat Kohli, right handed bat, comes to the crease</b>]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;S Thompson to Rohit, <b>out</b> Bowled!! End of Rohit and some joy for the beleaguered Irish. Hint of nip back in for Thompson, Rohit was trying to run it down to third man, played with an angled bat and the inside edge clattered into leg stump. Rohit has missed out on an easy World Cup 100 against a very average Irish attack, on a belter. <b>Rohit b S Thompson 64(66) [4s-3 6s-3]</b>]]></line><line><![CDATA[S Thompson to Rohit, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;S Thompson to Rohit, 2 runs, pitched up outside off, Rohit gets forward and drives to deep extra cover, placed well in the gap and it's a couple of runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Thompson [1.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, <b>FOUR</b>, one more boundary and Dhawan is tearing this Irish attack to pieces. Full and on the stumps, clipped uppishly over the diving mid-wicket fielder, beats deep mid-wicket and long-on, trying to get to the ball. Just a hit away from notching up his second hundred of the World Cup]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, no run, Dhawan is playing with a smile on his face now, shuffles across and looks for the paddle once more, but O'Brien bowled this outside off, it was a full toss and since Dhawan had moved so much, he changed his stroke and guided it straight to the fielder at point, O'Brien stares at the smiling Dhawan]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;K O'Brien to Rohit, 1 run, on a good length and on the pads, inside-edged onto the pad, a single to backward square leg]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;K O'Brien to Rohit, no run, this good length straightens a tad, pushed to cover]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, 1 run, shortish on the stumps, Dhawan pulls, but straight to the fielder at deep mid-wicket]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, <b>FOUR</b>, Dhawan is toying with the pedestrian Irish attack. This one is a pre-meditated stroke once again, kneels down and paddles a low full toss to the fine leg fence, O'Brien could do nothing there]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, 1 run, rocks back and cuts fiercely from the stumps, to sweeper cover, retains the strike with that run]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, <b>SIX</b>, Dhawan is making this look ridiculously easy now. <b>This is a one-handed six. One-handed!</b> Down the track and the bottom hand came off as he lofted it way over long-on, the ball kept going and going for yet an another six for the Delhi man]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, 2 runs, Dhawan makes room and then goes inside out on a bent knee, he lost balance as he played the shot, still it almost went for a boundary, the sweeper cover runs to his left and prevents the boundary]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 1 run, tossed up outside off, Rohit gets forward and drives to long-off]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, nudged to short fine, Rohit wasn't even looking at Dhawan, Rohit was looking at the ball, Dhawan wants the strike and runs a few paces forward, but then retreats, before the throw comes in to his end. Rohit tells Dhawan to wait]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, fraction short outside off, dabbed with an open face straight to the fielder at point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;K O'Brien to Rohit, 1 run, on the pads, flicked to the right of mid-wicket]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;K O'Brien to Rohit, no run, back of a length on the stumps, Rohit opens the face of the bat and guides it to point]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;K O'Brien to Rohit, no run, on a length and outside off, Rohit gets forward to defend to cover]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, 1 run, full toss on the stumps, Dhawan slogged it, didn't time it that well, a single to long-on]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, no run, slower delivery on the stumps, pushed to cover]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;K O'Brien to Dhawan, <b>SIX</b>, that's Gordon Greenidge, left-handed style says <b>Deano</b> on air and he is dead right. <b>Look at the bravado of Dhawan</b>, he is signalling six to the umpire. That is the confidence of the man, who couldn't buy a run when he stepped foot on Australian soil four months back. He moves across off even as K O'Brien was running in, then nonchalantly lifts one leg up in the air and then pulls it flat over backward square leg, the ball hits the glowing ad board on the bounce, but it definitely went over the ad-cushions. Third umpire confirms the same]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Kevin O'Brien, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[This is India's third highest opening stand in World Cups, tells my colleague, <b>Sidhant Maheshwari</b>]]></line><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, flighted delivery outside off, Rohit went too hard at the drive, mistimes it straight to the fielder at cover]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, tossed up outside off, driven wide of cover, he runs and dives to keep it to a dot]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, 1 run, backs away and cuts from the stumps to backward point, Niall O'Brien runs and then puts in the dive and keeps it to a single]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, <b>SIX</b>, Dhawan is now having fun! Skips out and then swings across the line, more of a Sourav Ganguly-esque shot that, against the left-arm spinner, the ball went a long way back into the grass banks at deep mid-wicket]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 1 run, floated up outside off, Rohit is lured forward, isn't to the pitch as the ball drops, but still manages to steer it in front of point]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 2 runs, sliding onto the pads, Rohit closes the face of the bat and nurdles it to fine leg, for a couple]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>George Dockrell [3.0-0-24-0] is back into the attack</b>]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, Rohit rocks back and cuts to the right of backward point, the fielder dives and fumbles, allows the single]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, shortish outside off, Dhawan punches with an open face square of the wicket]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, takes a step out and pats it in the gap, wide of point]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Stirling to Rohit, no run, closes the face of the bat a bit too early, a soft leading edge goes to cover, all along the ground]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Stirling to Rohit, <b>SIX</b>, that is a Rohit special! So easy, as he skips out and lofts inside out over wide long-off, clean strike and that will be <b>fifty</b> for Rohit too. His <b>25th</b> in ODIs]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Stirling to Rohit, no run, tossed up outside off, Rohit gets forward and defends it back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Cusack to Rohit, 1 run, slower delivery outside off, wristed to long-on]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Cusack to Dhawan, 1 run, full and on the stumps, Dhawan plays a sweet drive, but straight to the fielder at sweeper cover]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Cusack to Rohit, 1 run, on middle, Rohit closes the face of the bat and turns it to deep backward square leg]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Cusack to Dhawan, 1 run, back of a length outside off, softly punched to sweeper cover]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, shortish outside off, cut straight to the fielder at cover]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, <b>what happened there?</b> Dhawan shuffled across way outside off and then scooped it straight into the keeper's helmet. That must have stung and Dhawan shows good sportsmanship by patting Wilson. The ball drops on the off-side, wouldn't have mattered even if it had been caught as it would've been called a dead ball. The laws state that once it's caught after it hits a fielder's helmet, it can't be given out]]></line><end-of-over>end of over</end-of-over><line><![CDATA[However, once he got set, Dhawan thumped Cusack for a couple of boundaries. It could be said that early on in the innings, Dhawan struggled for touch due to the lack of pace from Ireland's slew of medium pacers. Dhawan certainly thrives on pace on the ball. He also took a heavy toll of some ordinary bowling by Stuart Thompson to thump him for a four and a six. Thompson looked rusty as this is his first game in this World Cup. Dhawan then cracked a well-deserved fifty. ]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the first 17 overs: Rohit Sharma presented the full face of the bat to play some glorious drives. In particular, the on-drive he essayed off Alex Cusack's bowling was a sumptuous stroke. He also lofted John Mooney over mid-off for a six. On the other hand, Shikhar Dhawan had his fair share of luck. Mooney dropped a caught and bowled chance and William Porterfield dropped a tough chance too.<br/>]]></line><line><![CDATA[<b>Drinks are on the field now.</b> I'm more than happy that drinks came at the right moment. It was getting unbearable to listen to the commentary on air, with all the stuff about food, table cloth and blah blah being spoken ad nauseam]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, eased to long-off, single taken]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Stirling to Dhawan, <b>FOUR</b>, now finesse! Pre-meditates the paddle, kneels down low and gets it fine, fine leg had no chance]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Stirling to Dhawan, <b>SIX</b>, Dhawan celebrates getting to his fifty by smashing a six. Comes down the track and then goes across the line, really belted the ball and the white ball went a long way back at deep mid-wicket]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, tossed up on the stumps, Rohit gets forward and clips it to long-on]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, <b>fifty</b> for Dhawan. He continues his good run. 13th fifty for him in ODIs. He gets there with a flick to deep mid-wicket. A raise of the bat and a smile from Jinks is all we get to see]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, Rohit stays beside the line of the ball and cracks the cut square of the wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Cusack to Rohit, 1 run, length ball on off, wristed off the back foot to long-on]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, looked like a slower delivery on off, punched back to Cusack]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Cusack to Dhawan, 1 run, shortish outside off, Dhawan pulls but straight to the fielder at deep mid-wicket]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, pitched up outside off, Dhawan opens the face of the bat and square drives, but finds point]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Cusack to Rohit, leg byes, 1 run, slower delivery down leg, Rohit misses the flick, off the pad and they take a leg bye]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Cusack to Dhawan, 1 run, length ball on off, Dhawan gets forward and drives to deep extra cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alex Cusack [4.0-0-16-0] is back into the attack</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, Dhawan is down the track, but isn't to the pitch of the ball, yet adjusts and punches to long-off]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, a bit quicker and Dhawan defends to the left of Stirling]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, Dhawan gets forward and drives, mistimed it and cover runs across to his left to stop the single]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, shortish outside off, Rohit backs away and cuts powerfully to sweeper cover]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, Dhawan comes down the track and flicks uppishly to deep square leg, just a single though. Didn't carry to the fielder]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, the <b>100-run stand</b> comes up with a back foot punch to long-on. Rohit and Dhawan shake hands in acknowledgement of the landmark]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, no run, tries the reverse sweep, misses and gets hit on the pad. Dockrell appeals for LBW, but it was going down the leg-side]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, <b>FOUR</b>, short and wide outside off stump, Dhawan rocks back and cuts it to deep backward point, beating the fielder in the deep]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, no run, goes leg-side initially and then gets back in line, low full toss outside off stump, tries to slice, but gets it on the inside half of the bat]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, byes, <b>FOUR</b>, flighted delivery, bit of spin for Dockrell, Dhawan gets across the stumps and tries to sweep it fine, but misses, the ball brushes the pad and goes past the leg stump. The umpire signals byes though]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, <b>FOUR</b>, straightish ball from Dockrell, Dhawan gets down on one knee and paddles it fine and to the left of the man at backward square leg]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 1 run, tossed up outside off stump, Rohit drives it to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Stirling to Dhawan, <b>FOUR</b>, short and width on offer outside off stump, Dhawan rocks back and cuts it very well through backward point and there was no one in the deep]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, tossed up outside off stump, Rohit opens the face of the bat and guides it to backward point]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, this one doesn't spin, just goes on with the arm and Dhawan works it to backward square leg]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, flatter ball on the stumps, punched uppishly off the back foot to long-on]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Stirling to Dhawan, 1 run, tossed up outside off stump, driven to sweeper cover]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, advances and punches it to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, 1 run, on the stumps, Dhawan flicks it towards square leg, Cusack fumbles to allow a run.]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 1 run, slider that drifts back in, Rohit cuts it to backward point. He was surprised by the inward movement]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, on the off stump, Rohit defends and gets an inside edge onto pad, the ball almost rolled back onto the stumps]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, on the off stump, defended off the front foot]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, on the leg stump, Rohit flicks it to mid-wicket]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 2 runs, deft touch! Just opens the face of the bat at the last moment and guides the flighted delivery to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, advances and flicks the flighted delivery to short mid-wicket. Good over that from Stirling]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, slider just outside off stump, driven back to the bowler]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, Dhawan plays a fancy little reverse sweep and misses, luckily for him, it hit him just outside the line of off]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, round the wicket to the left-hander, slider on the off stump, Dhawan defends and gets an inside edge onto the pad]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Stirling to Dhawan, no run, Dhawan full and outside off stump, driven to cover]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Stirling to Rohit, 1 run, turns the flatter ball to the right of mid-wicket and gets off strike]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Paul Stirling, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[Spin from both ends.]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 1 run, down the leg-side, Rohit flicks it to deep mid-wicket]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Dockrell to Rohit, no run, flatter delivery on the stumps, Rohit defends off the back foot]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Dockrell to Dhawan, 1 run, over the wicket to the left-hander, Dhawan turns it to backward square leg]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 1 run, on the leg stump, Rohit flicks it to mid-wicket]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Dockrell to Rohit, <b>SIX</b>, too short and Rohit goes all the way. <b>4000 ODI runs</b> for Rohit Sharma. He is the <b>14th Indian batsman</b> to get there. Rohit rocks back and smashes the pull over the deep mid-wicket boundary]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Dockrell to Rohit, 2 runs, lovely front foot drive, flighted delivery outside off stump, Rohit leans forward and drives it through extra-cover, long-off runs to his left and tidies up]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>George Dockrell, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[The spinner comes on. Slip and a leg slip in place.]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, no run, fullish and outside off stump, Dhawan defends. 18 runs off the over]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, <b>5 wides</b>, Dhawan shuffles in the crease and Thompson bowls it way outside off stump, it was a difficult take for the keeper, he moved his hands to the left but couldn't make a clean stop. The ball runs away to the boundary as well]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, no run, goes for the pull again as the length is short, Dhawan mistimes it to short mid-wicket]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, no run, full and wide outside off stump, Dhawan goes for a booming drive and misses]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, <b>wide</b>, way outside off stump, left alone]]></line><line><![CDATA[Keeper is up now.]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, <b>FOUR</b>, more runs. Short ball on the stumps, Dhawan pulls over mid-wicket and it runs away to the boundary. Batting is so easy out there]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;S Thompson to Dhawan, <b>SIX</b>, he's helped that all the way. <b>Fifty partnership</b> comes up as well. Rank long hop, Dhawan gets back and times it very well and it goes all the way over backward square leg. This is the <b>first 50-run opening stand for India in this World Cup</b>]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;S Thompson to Rohit, 1 run, full and outside off stump, Rohit drives with an open face, the man at short point dives and makes a half-stop, the ball rolls away and they get a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;S Thompson to Rohit, <b>wide</b>, wayward start for Thompson, bowls this way outside off stump]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Thompson, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, defended with an angled bat to point]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, fullish and outside off stump, Dhawan defends]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, slower ball outside off stump, Dhawan drives it to cover-point]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, slower ball outside off stump, Dhawan shuffles in the crease and tries to guide it to third man but gets beaten]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Cusack to Dhawan, <b>FOUR</b>, this time he goes very straight and mid-off is very square. Length ball outside off stump, Dhawan drives it to the right of Rohit Sharma and it runs to the boundary. 4, 6, 4, 4 for India in the last 4 balls]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Cusack to Dhawan, <b>FOUR</b>, again Dhawan is not afraid to use his feet, short of length delivery outside off stump, Dhawan cuts it through point and it rockets to the boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;J Mooney to Rohit, <b>SIX</b>, even better, this time all the way. Overpitched from Mooney, it was in the slot and Rohit went over the top of mid-off. It was a super shot from Rohit]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;J Mooney to Rohit, <b>FOUR</b>, delightful cover-drive! What a shot from Rohit! Full and outside off stump, Rohit leans forward and focusses on timing the ball than hitting it very hard, times it sweetly and sends it through cover]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, 1 run, on the leg stump, turned to backward square leg]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, <b>wide</b>, down the leg-side and the keeper did extremely well to move to his right and stop the ball]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, <b>dropped</b> again, but this is a very tough chance. Good length delivery wide outside off stump, Dhawan square-drives and doesn't bother to keep it down, he had to reach out for it, Porterfield at point flies full length to his left, gets both hands to it, but it pops out. Great effort though]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, this is brave from Dhawan to advance down the track, remember, the keeper is up to the stumps, Dhawan must have a lot of confidence to get down the track and he drives this good length delivery to cover]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;J Mooney to Rohit, 1 run, length ball angled in, Rohit flicks it through backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, full and outside off stump, driven to short cover]]></line><line><![CDATA[Silly mid-on in place now]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, length ball on the off stump, punched wide of mid-on]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, fullish and on the off stump, Dhawan defends it to point]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, full and outside off stump, Dhawan looks to drive through cover, but gets an inside edge that rolls to mid-on]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, good length delivery angling away from the left-hander, Dhawan shoulders arms]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Cusack to Rohit, 1 run, another good looking on-drive from Rohit, but mid-on is slightly straighter this time]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The keeper is up to the stumps.]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, <b>FOUR</b>, Dhawan just shimmies down the pitch as the bowler was approaching his crease, Mooney offers a full ball and Dhawan drives it nicely from the middle of the bat through extra-cover]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;J Mooney to Rohit, 1 run, steps out and guides the short of length delivery down to third man]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, excellent timing on this one, but it goes straight to point. Very full and swinging away, Rohit just opens the face of the bat and drives well, but doesn't hit the gap]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, good length delivery just outside off stump, Rohit defends off the back foot]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, 1 run, on the stumps, Dhawan looks to work it on the on-side, gets it on the inside half of the bat and it rolls through square leg]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, full and on the stumps from over the wicket, punches it off the front foot to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, back of a length and outside off stump, punched to cover]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, short of length delivery, Rohit defends off the back foot]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Cusack to Rohit, <b>FOUR</b>, that's more like it. Presents the full face of the bat and gets full value for the shot. It was full and in the slot, Rohit doesn't try to hit the ball hard, just plays an on-drive to perfection and beats mid-on]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, Rohit slashes at this with no feet movement and gets beaten]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, defended with an angled bat again]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, full and outside off stump, Rohit defends it to point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, <b>dropped</b>! How costly is that going to be? Mooney is disappointed, it was an easy chance. Mooney goes round the wicket and delivers an inswinger on a fuller length, Dhawan doesn't control the drive and hits it straight back to the bowler, who doesn't hold on. It went straight to him and he should have taken it]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, little bit of inswing on this good length delivery, Dhawan defends]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, low full toss, Dhawan gently taps it to mid-on. The bat turned in his hands on impact with the ball]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, back of a length and very tight around the off stump, Dhawan defends off the back foot]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, no run, this short of length delivery swings back in and cramps Dhawan for room as he was looking to go through the off-side, defended back to the bowler in the end]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;J Mooney to Dhawan, <b>FOUR</b>, first boundary for Dhawan. Short ball from Mooney, not high enough to trouble the batsman, Dhawan pulls uppishly and sends it to the left of the man at mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, full and angling into the right-hander, defended]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Cusack to Rohit, 2 runs, full and outside off stump, Rohit leans forward and flicks it along the ground to mid-wicket. In fact, the bat turned in his hands as he was looking to play with a straight bat]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, defended off the back foot]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Cusack to Rohit, no run, good length delivery on the leg stump, Rohit works it to mid-wicket]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Cusack to Dhawan, 1 run, on the leg stump, Dhawan gets off the mark with a clip to backward square leg]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Cusack to Dhawan, no run, Dhawan almost slipped and could have been run-out. Short of a length delivery down the leg-side, Dhawan misses the flick and the ball rolls towards square leg, Dhawan sets off, but Rohit sends him back, while trying to return to the crease, Dhawan slipped and luckily for him, the fielder didn't get to the ball quickly]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Alex Cusack, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, back of a length and just outside off stump, Rohit defends and gets an inside edge onto pad]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, just a hint of outswing on this good length delivery, Rohit defends with an angled bat to point]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;J Mooney to Rohit, <b>FOUR</b>, much like the way he opened his account against UAE, Rohit plays a lovely back foot drive. Short of a length and width on offer outside off stump, Rohit gets on top of the bounce and sends it through cover-point]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;J Mooney to Rohit, <b>wide</b>, Dharmasena took a long time to signal the wide. Short of a length delivery down the leg-side, Rohit tries to tickle it away but misses]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, full and just outside off stump, Rohit offers a compact forward defence]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, confusion between the wickets. Rohit knocks this length ball towards mid-wicket, Dhawan takes off for a run, but Rohit sends him back. There was never a run in it]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;J Mooney to Rohit, no run, just a hint of outswing on this good length delivery, Rohit pushes it to point and looks for a run but decides against it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Welcome back for the run chase. There are two slips in place.]]></line><line><![CDATA[<b>Rohit and Dhawan are at the crease. Rohit is on strike. J Mooney will open the attack</b>]]></line><line><![CDATA[<b>Jamie Alter</b> brings this update from the ground. "Some grey clouds hanging over one end of the ground. Could be a factor later on, especially if Ireland's seamers get busy."]]></line><line><![CDATA[<b>Ashwin</b>: "I thought they batted pretty well when they started. We had to pull it back, but we were confident that if we get a couple of quick wickets, things would change and that's what happened. It's a very good pitch. We've restricted them to a score that we would like to chase. Knowing MS (Dhoni), I don't think so (asked if it was pre-planned by Dhoni to bowl a lot spinners). It's an instinctive decision from him. They were struggling to push the ball for singles and that's why he got in more spinners. It was more about varying the pace for me on this surface. It is a conscious effort from me to bowl a lot slower, I have decided to bowl that way. I knew the wickets will come because of the five fielders inside the ring as batsmen will look to go over the top. All these ICC tournaments are about momentum and hopefully we will bat well and chase this down easily."]]></line><line><![CDATA[For  a brief period, Niall O'Brien and Andrew Balbirnie raised genuine hopes of taking Ireland to a sizeable total, but losing the wickets of Balbirnie, Kevin O'Brien and Niall O' Brien at a crucial juncture of the innings didn't help their cause. For India, Ashwin continued his rich vein of form by bowling with control and took two wickets. Raina too did a commendable job in the middle overs. The Indian unit would be confident of chasing down this target. On the other hand, Ireland have an uphill task on their hands.]]></line><line><![CDATA[Umesh Yadav and Shami erred by bowling short on a flat deck and the batsmen duly took advantage of it. Both Stirling and Porterfield used the pull shot to good effect. They also played some stirring back foot punches. However, once the spinners were introduced into the attack, Ireland lost their way. Stirling was out to a soft dismissal and their key batsman, Ed Joyce, played a poor shot to lose his wicket to Raina. Mohit Sharma then sent Porterfield back to the pavilion after he constructed a fine fifty.]]></line><line><![CDATA[However, the bowlers made a superb comeback in the end overs by picking up a slew of wickets. In particular, Mohammed Shami snaring the wicket of Kevin O'Brien gave India the upper hand. Earlier, Stirling and William Porterfield gave a glimpse of their ability to play cracking shots on the back foot to put the Indian seamers under pressure.]]></line><line><![CDATA[Despite Niall O'Brien's enterprising knock, the Indian bowlers took wickets at regular intervals to bowl out the opposition for a below par total. This is the first time, India have cleaned up the opposition for five successive times in ODIs. In fact, after Ravichandran Ashwin, with subtle variations of drift, did a tremendous job to keep the batsmen in check and snaffle the key wicket of Paul Stirling, Niall O'Brien, played with fearlessness to take on the spinners. When MS Dhoni introduced the part-timer, Rohit Sharma, Niall O'Brien decided to up the tempo and scored a couple of boundaries. He then used the paddle sweep to place the ball into gaps and collected boundaries off Suresh Raina. He also clouted Ashwin and Ravindra Jadeja for sixes.]]></line><line><![CDATA[Thanks to Sanjay Manjrekar for this stat. <b>This is the first time that India have bowled out their opponents in 5 consecutive ODIs</b>.]]></line><line><![CDATA[48.6&nbsp;&nbsp;&nbsp;Shami to Cusack, <b>out</b> Caught by U Yadav!! In the air and straight to the fielder. Short ball outside off stump, Cusack stays leg-side off the ball and guides it uppishly, third man takes an easy catch and he didn't have to move an inch. <b>Cusack c U Yadav b Shami 11(13) [4s-1]</b>]]></line><line><![CDATA[Shami to Cusack, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[48.5&nbsp;&nbsp;&nbsp;Shami to Cusack, no run, driven straight to mid-off]]></line><line><![CDATA[48.4&nbsp;&nbsp;&nbsp;Shami to J Mooney, 1 run, short of length delivery on the leg stump, Mooney helps it down to fine leg]]></line><line><![CDATA[48.3&nbsp;&nbsp;&nbsp;Shami to Cusack, 1 run, short and outside off stump, Cusack cuts fiercely through point, but there is a fielder in the deep]]></line><line><![CDATA[48.2&nbsp;&nbsp;&nbsp;Shami to Cusack, <b>FOUR</b>, unconvincing, but Ireland will take it. Full and outside off stump, Cusack looks to drive but is late on the shot, ends up slicing it past backward point and the timing was good enough to beat third man]]></line><line><![CDATA[48.1&nbsp;&nbsp;&nbsp;Shami to Cusack, no run, short from Shami, Cusack tries to guide it over the slip fielder but misses]]></line><end-of-over>end of over</end-of-over><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Cusack, 1 run, short of length delivery on the stumps, Cusack guides it to third man and keeps strike]]></line><line><![CDATA[47.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Cusack, <b>wide</b>, tries the slower bumper, but it goes well over head height]]></line><line><![CDATA[47.5&nbsp;&nbsp;&nbsp;Mohit Sharma to J Mooney, 1 run, slower ball just outside off stump, Mooney cuts it to deep point]]></line><line><![CDATA[47.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Cusack, 1 run, short of length delivery outside off stump, Cusack guides it to third man. <b>250 up for Ireland</b>]]></line><line><![CDATA[47.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Cusack, no run, full and outside off stump, Cusack leans forward and drives well, but Raina makes a diving save to his left at cover]]></line><line><![CDATA[47.2&nbsp;&nbsp;&nbsp;Mohit Sharma to J Mooney, 1 run, goes on the back foot and punches this short of length delivery wide of mid-off]]></line><line><![CDATA[47.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Cusack, 1 run, slower ball on the stumps, Cusack flicks it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohit Sharma [5.0-0-32-1] is back into the attack</b>]]></line><line><![CDATA[46.6&nbsp;&nbsp;&nbsp;Shami to Cusack, 1 run, outside edge and it goes along the ground to third man. Cusack makes room and tries to drive hard but only manages to get a thick edge]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Shami to J Mooney, 1 run, to fine leg]]></line><line><![CDATA[46.5&nbsp;&nbsp;&nbsp;Shami to J Mooney, 1 run, full and down the leg-side, Mooney flicks it to fine leg]]></line><line><![CDATA[46.4&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, backs away and swings hard, but mistimes the short of length delivery to mid-off]]></line><line><![CDATA[46.3&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, short of length delivery, the slower ball from Shami, Mooney tries to help it down fine but gets a bottom edge onto pad]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, short and just outside off stump, Mooney goes for the pull and misses]]></line><line><![CDATA[46.2&nbsp;&nbsp;&nbsp;Shami to J Mooney, <b>wide</b>, sprays this down the leg-side]]></line><line><![CDATA[46.1&nbsp;&nbsp;&nbsp;Shami to Cusack, 1 run, short of length delivery outside off stump, Cusack guides it to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.6&nbsp;&nbsp;&nbsp;U Yadav to J Mooney, <b>FOUR</b>, full and outside off stump, Mooney leans forward and drives with an angled bat, the ball goes through point and goes for four. These are handy runs for Ireland]]></line><line><![CDATA[45.5&nbsp;&nbsp;&nbsp;U Yadav to Cusack, 1 run, short of length delivery on the leg stump, Cusack flicks it to mid-wicket]]></line><line><![CDATA[45.4&nbsp;&nbsp;&nbsp;U Yadav to Cusack, no run, full and on the off stump, Cusack drives it to mid-on]]></line><line><![CDATA[<b>Alex Cusack, right handed bat, comes to the crease</b>]]></line><line><![CDATA[45.3&nbsp;&nbsp;&nbsp;U Yadav to Dockrell, <b>out</b> Caught by Dhoni!! Umesh Yadav gets a wicket too. Short of a length ball outside off stump, Dockrell swings across the line and gets a thick edge. Dhoni takes an easy catch and throws the ball up in joy. <b>Dockrell c Dhoni b U Yadav 6(12) [6s-1]</b>]]></line><line><![CDATA[U Yadav to Dockrell, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[45.2&nbsp;&nbsp;&nbsp;U Yadav to J Mooney, 1 run, pulled to deep square leg]]></line><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;U Yadav to J Mooney, 2 runs, <b>could be a run-out</b>, but the throw is wide. Short of a length delivery just outside off stump, Mooney mistimes the pull to mid-wicket, he races back for the second, the throw comes to the keeper's end but Dhoni had to move to his left to collect the ball and he fumbles. It came at an awkward height for him as well]]></line><end-of-over>end of over</end-of-over><line><![CDATA[45.1&nbsp;&nbsp;&nbsp;U Yadav to J Mooney, <b>wide</b>, oops! Way outside off stump, Umesh Yadav has to rebowl that]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umesh Yadav [3.0-0-25-0] is back into the attack</b>]]></line><line><![CDATA[By the way, I forgot to mention that <b>this is the highest score against India</b> in this World Cup. The previous highest was 224 by Pakistan.]]></line><line><![CDATA[44.6&nbsp;&nbsp;&nbsp;Shami to Dockrell, no run, on the leg stump, defended off the back foot]]></line><line><![CDATA[44.5&nbsp;&nbsp;&nbsp;Shami to Dockrell, no run, full on the stumps, Dockrell looks to drive through cover, gets the inside half of the bat and rolls towards mid-on]]></line><line><![CDATA[44.4&nbsp;&nbsp;&nbsp;Shami to Dockrell, no run, sharp bouncer on the stumps, Dockrell just manages to duck under it]]></line><line><![CDATA[44.3&nbsp;&nbsp;&nbsp;Shami to Dockrell, no run, fullish and on the stumps, Dockrell defends]]></line><line><![CDATA[44.2&nbsp;&nbsp;&nbsp;Shami to Dockrell, no run, good length delivery just nipping away outside off stump, Dockrell pokes away from the body and gets beaten]]></line><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Shami to J Mooney, 1 run, to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[44.1&nbsp;&nbsp;&nbsp;Shami to J Mooney, 1 run, short of length delivery outside off stump, Mooney looks to cut but toe-ends it to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[43.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Dockrell, no run, tossed up just outside off stump, Dockrell defends off the front foot]]></line><line><![CDATA[43.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Dockrell, <b>SIX</b>, timely blow from Dockrell! Flighted delivery spinning away outside off stump, Dockrell waits and lofts it over long-on for a maximum]]></line><line><![CDATA[43.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Dockrell, no run, on the leg stump, Dockrell defends]]></line><line><![CDATA[43.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Dockrell, no run, down the leg-side, Dockrell misses the flick and gets hit on the pad]]></line><line><![CDATA[43.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Dockrell, no run, on the stumps, Dockrell defends]]></line><line><![CDATA[43.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Dockrell, no run, flatter delivery on the off stump, Dockrell defends off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[42.6&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, short of length delivery outside off stump, Mooney defends it into the off-side]]></line><line><![CDATA[42.5&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, slower ball outside off stump, Mooney pokes away from the body and gets beaten]]></line><line><![CDATA[42.4&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, pushed off the back foot into the off-side]]></line><line><![CDATA[<b>George Dockrell, right handed bat, comes to the crease</b>]]></line><line><![CDATA[42.3&nbsp;&nbsp;&nbsp;Shami to J Mooney, <b>out</b> S Thompson Run Out!! This is not what Ireland wanted after the start they got. They have now lost 5 wickets for 21 runs. Short of a length delivery outside off stump, Mooney defends it towards cover and takes a step forward, that forces Thompson to take off thinking his partner was calling for a run, but Mooney says "no, no, no." Kohli moves to his right, picks up the ball and fires a brilliant direct-hit at the bowler's end. Even a full length dive wasn't good enough for Thompson. <b>S Thompson run out (Kohli) 2(2)</b>]]></line><line><![CDATA[Shami to J Mooney, <b>THATS OUT!!</b> Run Out!!]]></line><line><![CDATA[It's a direct-hit and I think Thompson is short of his crease. Oh yes! OUT by a long way.]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Shami to J Mooney, no run, short of length delivery outside off stump, Mooney defends with an angled bat and looks for a run, but Thompson says no as Jadeja makes a diving save to his right at backward point]]></line><line><![CDATA[42.2&nbsp;&nbsp;&nbsp;Shami to J Mooney, <b>wide</b>, short and on the leg stump, Mooney gets it go. Called wide for height]]></line><line><![CDATA[Back over the wicket now]]></line><line><![CDATA[<b>John Mooney, left handed bat, comes to the crease</b>]]></line><line><![CDATA[42.1&nbsp;&nbsp;&nbsp;Shami to N O'Brien, <b>out</b> Caught by U Yadav!! Oh that's a soft dismissal! Ireland, be careful and ensure that you bat 50 overs. Nothing great about this ball. Full and on the off stump from round the wicket, O'Brien walks across the stumps and flicks, but Dhoni has a man at backward square leg and it goes straight to him. End of a quality innings from O'Brien. He was 2 off 19 balls earlier and he ends with a run-a-ball 75. <b>N O'Brien c U Yadav b Shami 75(75) [4s-7 6s-3]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Shami to N O'Brien, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[<b>Mohammed Shami [5.0-0-29-1] is back into the attack</b>]]></line><line><![CDATA[41.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, 1 run, flatter delivery outside off stump, O'Brien taps it to point for a sharp run]]></line><line><![CDATA[41.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to S Thompson, 1 run, spins back in, Thompson looks to defend off the front foot, gets an inside edge that rolls to backward square leg]]></line><line><![CDATA[41.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, 1 run, short and wide outside off stump, O'Brien cuts it to deep point]]></line><line><![CDATA[41.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to S Thompson, 1 run, outside off stump, guided to short third man]]></line><line><![CDATA[<b>Stuart Thompson, left handed bat, comes to the crease</b>]]></line><line><![CDATA[41.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to G Wilson, <b>out</b> Caught by Rahane!! A good catch from Jinks. Flighted delivery down the leg-side, Wilson goes for the sweep, but gets a top edge, Rahane runs swiftly to his left from short fine leg, dives full length and takes it with both hands. Ireland have lost their last 3 wickets for 16 runs. <b>G Wilson c Rahane b Ravindra Jadeja 6(7) [4s-1]</b>]]></line><line><![CDATA[Ravindra Jadeja to G Wilson, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[41.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to G Wilson, no run, flighted delivery on the stumps from round the wicket, Wilson defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravindra Jadeja [5.0-0-35-0] is back into the attack</b>]]></line><line><![CDATA[40.6&nbsp;&nbsp;&nbsp;U Yadav to N O'Brien, no run, a hat-trick of slower balls and he beats him this time. This was on a good length, O'Brien plays inside the line of the ball while trying to defend and gets beaten]]></line><line><![CDATA[40.5&nbsp;&nbsp;&nbsp;U Yadav to G Wilson, 1 run, another slower ball outside off stump, Wilson sends it down to third man]]></line><line><![CDATA[40.4&nbsp;&nbsp;&nbsp;U Yadav to N O'Brien, 1 run, slower delivery outside off stump, O'Brien guides it down to third man]]></line><line><![CDATA[40.3&nbsp;&nbsp;&nbsp;U Yadav to N O'Brien, <b>SIX</b>, he's muscled that, his third maximum of the day. Length ball in the slot, O'Brien takes his front leg out of the way and lofts it easily over long-on]]></line><line><![CDATA[40.2&nbsp;&nbsp;&nbsp;U Yadav to G Wilson, 1 run, good length delivery on the leg stump, Wilson flicks it to backward square leg]]></line><line><![CDATA[40.1&nbsp;&nbsp;&nbsp;U Yadav to N O'Brien, 1 run, short of length delivery outside off stump, O'Brien pulls wide of mid-on for a sharp run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Umesh Yadav [2.0-0-15-0] is back into the attack</b>]]></line><line><![CDATA[<b>DHONI's GEM:</b> Dhoni never stops short of mincing words to his fielders and bowlers, when they are not putting their 100 percent on the field. This is what he told Ambati Rayudu, the substitute fielder, who was fielding at cover when Suresh Raina was bowling to William Porterfield. He says in Hindi: 'Paer dekh zara, uska paer dekh kaise hil raha hain, uske hisaab se anticipate kar, volleyball ki tarah khada hua hain beach pe']]></line><line><![CDATA[The English translation of the above lines is - Look at how he is moving his feet, you have to anticipate where the ball will go, you are just standing there like you are playing a volleyball game on the beach.]]></line><line><![CDATA[The batting powerplay yielded <b>41/2</b> for Ireland]]></line><line><![CDATA[39.6&nbsp;&nbsp;&nbsp;Shami to G Wilson, no run, short of length delivery outside off stump, defended]]></line><line><![CDATA[39.5&nbsp;&nbsp;&nbsp;Shami to G Wilson, no run, defended towards cover, O'Brien was keen for a run but Wilson says no]]></line><line><![CDATA[39.4&nbsp;&nbsp;&nbsp;Shami to G Wilson, <b>FOUR</b>, off the mark in style! Full and outside off stump, Wilson leans forward and drives it to the left of the man at cover]]></line><line><![CDATA[<b>Gary Wilson, right handed bat, comes to the crease</b>]]></line><line><![CDATA[39.3&nbsp;&nbsp;&nbsp;Shami to K O'Brien, <b>out</b> Caught by Dhoni!! Edged and taken. Good length delivery around the off stump, O'Brien doesn't get fully forward, looks to drive and gets an outside edge, which goes to Dhoni at a good height. The ball actually just left the batsman after pitching. This is a big wicket as it could make a difference of 15-20 runs to the final score. <b>K O'Brien c Dhoni b Shami 1(2)</b>]]></line><line><![CDATA[Shami to K O'Brien, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[39.2&nbsp;&nbsp;&nbsp;Shami to N O'Brien, 1 run, short and down the leg-side, O'Brien looks to pull, but the ball goes off the glove to fine leg]]></line><line><![CDATA[39.1&nbsp;&nbsp;&nbsp;Shami to K O'Brien, 1 run, short of length delivery outside off stump, O'Brien guides it to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammed Shami [4.0-0-23-0] is back into the attack</b>]]></line><line><![CDATA[<b>Kevin O'Brien, right handed bat, comes to the crease</b>]]></line><line><![CDATA[In fact, for a brief period, it seemed like Joyce's wicket would be a blow to Ireland's chances of amassing a sizeable total on the board. He isn't just in fine form in this tournament, but ever since he was praised by Shane Warne for his ability to tackle his box of tricks on a rather difficult track and score 70 against Hampshire at the Rose Bowl in Southampton in May 2005, he has been known as one of the better players of spin in the Ireland set-up. But the credit has to go to Ireland, as they have recovered well.]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the last 21.4 overs: The Indian spinners tightened the screws on the Irish batsmen and were able to keep the opposition in check. The track is offering a bit of grip and Ireland have been tentative against the spinners. Ravichandran Ashwin has been in superb form in this World Cup and he yet again flummoxed the batsmen with his flight and guile and bowled parsimoniously. Suresh Raina also made his presence felt by taking the key wicket of Ed Joyce. With the batsmen struggling against spin, MS Dhoni also introduced Rohit Sharma into the attack. It was Niall O'Brien, who decided to take on the part-timer, Rohit, and essayed a couple of boundaries. He also thwacked Ashwin for a six down the ground. However, Dhoni missed a stumping chance off Raina's bowling to give William Porterfield a reprieve. But he didn't survive for long as Porterfield was dismissed by Mohit Sharma. O'Brien though, has looked in very good touch.<br/>]]></line><line><![CDATA[<b>Drinks are on the field now </b>. Can we make this a 60-over contest? India have bowled 39 overs in just 2 hours and 20 minutes.]]></line><line><![CDATA[38.6&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, <b>out</b> Caught by Shami!! Flighted ball from Ashwin, Balbirnie goes for the sweep but gets a top edge, short fine leg runs to his left and just about manages to hold onto the ball. Ashwin gets his second wicket and has broken this positive 61-run stand. Ashwin ends his spell on a high. <b>Balbirnie c Shami b Ashwin 24(24) [4s-3]</b>]]></line><line><![CDATA[Ashwin to Balbirnie, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[38.5&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, leg byes, 1 run, oh no! <b>India don't have the review</b>. Ash fires this full, O'Brien was actually looking to sweep, but didn't offer a shot, he was hit just outside off stump, but because he didn't offer a shot, it should have been given out as it was certainly going on to hit the stumps, Dharmasena was the umpire and he inexplicably shook his head and walked away, India were stunned. But maybe the umpire forgot that the batsman didn't offer a shot there, India didn't have the review to challenge the call]]></line><line><![CDATA[38.4&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, <b>FOUR</b>, he had to fetch that from well outside off stump, but he's done very well to meet the ball! Flighted delivery way outside off stump, O'Brien goes for the slog-sweep and hits it over mid-wicket]]></line><line><![CDATA[38.3&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, 1 run, flighted delivery on the off stump, Balbirnie sweeps it along the ground to deep backward square leg]]></line><line><![CDATA[38.2&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, 2 runs, tossed up outside off stump, Balbirnie steps out and lofts it over mid-off, Rahane runs back, puts in the dive and just manages to flick it back in time before he touched the rope]]></line><line><![CDATA[38.1&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, <b>FOUR</b>, sweeps with the turn and gets the placement tight. <b>Fifty partnership</b> comes up off just 41 balls. Flighted delivery on the stumps, Balbirnie splits deep mid-wicket and long leg to perfection]]></line><end-of-over>end of over</end-of-over><line><![CDATA[37.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Balbirnie, 1 run, punched to sweeper cover]]></line><line><![CDATA[37.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Balbirnie, <b>FOUR</b>, top-edge and it goes over Dhoni! Flighted from Jadeja, Balbirnie goes for the sweep and gets lucky with the edge. This is a great over Ireland]]></line><line><![CDATA[37.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, 1 run, backs away and slices the cut uppishly between backward point and cover]]></line><line><![CDATA[37.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, <b>SIX</b>, had Shami been right on the edge of the rope, he would have taken it. O'Brien advances, Jadeja drops it short, O'Brien goes through with the pull, Shami runs back at deep mid-wicket, jumps high and tries to grab it with both hands, but <b>palms it over the rope</b>]]></line><line><![CDATA[37.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, no run, tries the reverse sweep, but gets hit on the forearm]]></line><line><![CDATA[37.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Balbirnie, 1 run, on the leg stump, Balbirnie works it to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[36.6&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, <b>SIX</b>, good finish to the over! <b>14th ODI fifty</b> for O'Brien and he gets there in style! Flighted delivery just outside off stump, O'Brien steps out, gets to the pitch of the ball and lofts it handsomely over long-on]]></line><line><![CDATA[36.5&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, 1 run, tossed up outside off stump, Balbirnie goes for the sweep, hits it uppishly to deep mid-wicket, O'Brien wants two but Balbirnie is not keen]]></line><line><![CDATA[36.4&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, no run, shortish outside off stump, Balbirnie backs away and cuts it to point]]></line><line><![CDATA[36.3&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, no run, flighted delivery just outside off stump, tries to drive, but it goes off the thick outside half to cover]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Ashwin to Balbirnie, no run, flighted delivery just outside off stump, Balbirnie tries to reverse sweep, misses and the ball goes off the arm to leg slip]]></line><line><![CDATA[Shout for a catch, but the umpire shakes his head. India want a review. Raina, who took the catch, was confident and he reckoned it was off the bat. Oops! That seems to have come straight off the forearm. Nothing on the Snicko to suggest there was bat involved and India have lost their review.]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, 1 run, flighted delivery on the leg stump, O'Brien sweeps uppishly to deep backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravichandran Ashwin [8.0-1-19-1] is back into the attack</b>]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Balbirnie, no run, allows the ball to spin away and pushes it towards point]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, 1 run, looks to drive off the front foot, but gets an inside edge, the ball goes to the left of the bowler and past the non-striker, O'Brien races to take a run]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, no run, pushed to the left of the bowler]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to N O'Brien, no run, O'Brien looks to advance, but Jadeja keeps him calm by dragging his length back, the ball spun back in a bit as well]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Balbirnie, 1 run, Jadeja goes round-armish and bowls this short, Balbirnie helps it down to backward square leg]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Balbirnie, no run, spinning away outside off stump, pushed into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravindra Jadeja [3.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[One slip in place.]]></line><line><![CDATA[Raina ends 10-0-40-1. <b>Batting powerplay</b> has been enforced.]]></line><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, on the off stump, O'Brien works it towards mid-wicket]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, on the leg stump, defended]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Raina to Balbirnie, 1 run, flighted delivery outside off stump, driven to sweeper cover]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, O'Brien taps this to point and sets off, the fielder runs forward and fires a quick throw, hits the stumps at the bowler's end, but O'Brien dragged his bat inside just in time]]></line><line><![CDATA[Third umpire called for a run-out check. He made his ground, but did he ground his bat? He's well in!]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Raina to Balbirnie, 1 run, on the off stump, Balbirnie drives it to long-off]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Raina to Balbirnie, no run, pushed back to the bowler]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, 1 run, full and outside off stump, Balbirnie drives it towards mid-off, Mohit dives to his left and half-stops the ball. Dhawan slips and falls on the ground. He was anticipating the ball to come straight to him. No harm done though]]></line><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, <b>wide</b>, just a bit of swing on this good length delivery, but it goes down the leg-side]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Mohit Sharma to N O'Brien, 1 run, to backward square leg]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Mohit Sharma to N O'Brien, 1 run, full and wide outside off stump, O'Brien swings hard at this and gets the toe-end of the bat, the ball goes past the stumps and rolls to backward square leg]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Mohit Sharma to N O'Brien, <b>FOUR</b>, top shot! Short of a length delivery just outside off stump, O'Brien rocks back and pulls it over mid-wicket, there is no one in the deep and O'Brien picks up his 6th boundary of the match]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, 1 run, short of length delivery outside off stump, Balbirnie punches it to sweeper cover]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, <b>FOUR</b>, slower ball goes very full, Balbirnie waits and drives well, Rohit dives to his left at cover, but fumbles the ball. A lazy effort from Rohit and he is disappointed. That should have been a dot ball]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, no run, 'wait there' says Balbirnie, after defending this short of length delivery]]></line><end-of-over>end of over</end-of-over><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Raina to N O'Brien, <b>FOUR</b>, down on one knee again, O'Brien is mindful of the fact that there is no one at fine leg, there is no one inside the ring at 45 as well, O'Brien paddles it fine and beats Umesh Yadav in the deep]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, flatter in trajectory, defended to cover]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, round the wicket to the left-hander, flighted delivery just outside off stump, defended]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Raina to Balbirnie, 1 run, flighted delivery on the off stump, Balbirnie drives it down to long-on]]></line><line><![CDATA[A slip and leg slip in place.]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, low full toss on the leg stump, O'Brien drives it softly to long-on]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Raina to N O'Brien, <b>FOUR</b>, full and on the leg stump, O'Brien gets down on one knee quickly and paddles it to fine leg. The fielder was very square and he had no chance]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, no run, on a length and outside off stump, easily defended]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Mohit Sharma to Balbirnie, no run, short of length delivery outside off stump, Balbirnie defends off the back foot]]></line><line><![CDATA[Andrew Balbirnie is in good form. He has scored 58 and 97 in his last two outings. A fifty here will be great for Ireland!]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Mohit Sharma to N O'Brien, 1 run, width on offer outside off stump, punched uppishly through cover-point]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Mohit Sharma to N O'Brien, no run, short of length delivery on the stumps, it hurries the batsman, O'Brien fails to defend and gets hit high on the thigh pad]]></line><line><![CDATA[<b>Andrew Balbirnie, right handed bat, comes to the crease</b>]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, <b>out</b> Caught by U Yadav!! The bowling change has worked for India. Nothing but a length ball from Mohit Sharma, Porterfield comes down the track and tries to flick, gets a big leading edge, the ball goes up in the air, Umesh runs a few steps back and takes an easy catch at mid-off. That ends a fine 53-run stand. <b>Porterfield c U Yadav b Mohit Sharma 67(93) [4s-5 6s-1]</b>]]></line><line><![CDATA[Mohit Sharma to Porterfield, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Mohit Sharma to N O'Brien, 1 run, in the air, but safe! Full and outside off stump, it was the slower ball in fact, O'Brien goes for a booming lofted drive, ends up slicing it over point, the man at sweeper runs to his right but the ball drops short of him]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohit Sharma [3.0-0-18-0] is back into the attack</b>]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, very slow through the air, O'Brien drives it along the ground to long-off]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, shout for <b>LBW</b>, not given. Was the impact outside off stump? India don't review! O'Brien misses the paddle and gets hit on the thigh pad. Umpire Dharmasena felt that the impact was just outside off stump]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, on the stumps, paddled to fine leg]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, pushed to point]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, <b>stumping chance missed</b>. Porterfield steps out and yorks himself, misses the ball, Dhoni was blinded by the batsman and he wasn't low enough to collect it cleanly]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, skidder from Raina and he almost knocks over Porterfield, who just manages to defend it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 1 run, tossed up outside off stump, driven to long-off]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, 1 run, flighted delivery, pushed to sweeper cover]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 1 run, quicker ball on the leg stump, Porterfield is late on the cut but he manages to send it through cover-point]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, 1 run, low full toss, turned to backward square leg]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, <b>FOUR</b>, goes inside-out this time and that's back-to-back boundaries for Ireland and O'Brien. Good use of the feet again, he gives himself a bit of room as well and meets the drive very well]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, <b>FOUR</b>, has that gone all the way? No it bounces just inside the rope. Flighted delivery from Rohit, O'Brien steps out and flicks it over mid-wicket, beats the man at long-on who runs to his left]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, on the stumps, flicked to mid-wicket]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, flighted delivery outside off stump, Porterfield punches it to cover]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, flatter delivery outside off stump, punched to mid-off]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, Porterfield misses the sweep and gets hit on the thigh pad, but the impact is just outside off stump]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, flighted delivery, defended]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, <b>FOUR</b>, makes room to this flighted delivery and lofts the drive inside-out over extra-cover. That was a good shot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 1 run, short and on the stumps, Porterfield pulls it wide of long-on]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, 1 run, O'Brien steps out, flighted delivery just outside off stump, not quite convincing from O'Brien but he manages to push it towards point for a sharp run, the fielder had a shy at the non-striker's end, but missed. Rahane was there to back up]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, no run, uses his feet and gets to the pitch of this flighted delivery, but drives it back to the bowler]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 1 run, on the leg stump, flicked wide of the diving fielder at mid-wicket]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Rohit to Porterfield, no run, pushed through, defended back to the bowler]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, 1 run, on the leg stump, O'Brien drives it along the ground to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, spinning away outside off stump, Porterfield pushes it uppishly to point, maybe the ball stopped on him]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, optimistic shout for LBW from Dhoni, the ball never hit the pad. O'Brien under-edges the paddle towards short fine leg]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, flighted delivery on the stumps, Porterfield makes room slightly and drives it between the man at silly mid-off and extra cover]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, on the leg stump, doesn't turn much, pushed to cover off the front foot]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, neatly paddled down to long leg]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, very full and on the stumps, Porterfield drives it to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Suresh Raina [5.0-0-17-1] is back into the attack</b>]]></line><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 1 run, short from Rohit, Porterfield rocks back and pulls it past the man at short mid-wicket, who was diving to his right, the ball goes to long-on]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Rohit to Porterfield, no run, advances down the track and flicks the flighted delivery to mid-wicket]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, 1 run, driven to the right of the bowler to mid-off]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Rohit to N O'Brien, no run, down the leg-side, O'Brien misses the sweep, the ball brushes the pad en route to the keeper]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 1 run, full toss again, swung away to deep square leg. Again Rohit gets away with a poor ball]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Rohit to Porterfield, 2 runs, low full toss, Porterfield sweeps well to deep backward square leg, should have been put away to the boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Rohit Sharma, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, beaten! Flighted delivery spinning away outside off stump, O'Brien plays inside the line of this one and the ball almost takes the outside edge]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, very slow from Ashwin, Porterfield was so early on his knees to paddle, he waited a long time for the ball to come and gently paddled it down to short fine leg]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, Porterfield drives off the front foot, but Ashwin dives to his right in his followthrough and stops the ball]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, 1 run, shortish and O'Brien hangs back to work this towards mid-wicket]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, bit of drift into the left-hander on this one, Porterfield drives it through mid-off]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, flighted delivery on the stumps, defended off the front foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, driven off the front foot to deep extra cover, and that's <b>fifty</b> for Porterfield]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, softly pushed into the gap at cover-point]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, driven to the right of a diving Raina]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, punched back to the bowler]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, defended in front of point, quick single taken]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, punched off the back foot to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, O'Brien gets forward and drives to cover]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, the carrom ball, drifted in, O'Brien looked to defend and gets a thick inside edge to short mid-wicket]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, pushed to cover, where Kohli dives to his right and saves runs]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, 2 runs, defended to the right of Kohli at short cover, there was a chance of a run out, that's why Kohli went for the direct hit, threw it wide of Dhoni and Dhawan diving from leg slip couldn't back up, they take the extra run]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, down leg, O'Brien can't connect on the flick]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, angling in on the stumps, O'Brien gets forward and defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, punched straight to the fielder at cover]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, O'Brien's one-hand comes off the bat handle as he punches and Jadeja at point fumbles, to give away a run]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Raina to N O'Brien, <b>FOUR</b>, O'Brien gets lucky. Comes down the track, looks to go big and gets away. It was on a shortish length, he threw the bat and the thick edge went wide of backward point and raced away]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, makes room to go inside out, an open-faced drive to point]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, O'Brien uses his feet and works it to mid-wicket]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, shortish on the stumps, punched to long-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, now Kohli adds to the pressure created by Ashwin, by diving and stopping runs at cover]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, again the ball stops on O'Brien, who isn't to the pitch, eased to point, softly played]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, O'Brien sees that tossed up delivery turn away from outside off and leaves it alone]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, flicked from the middle finger, O'Brien pushes it to cover]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, lunges out and drives to long-off]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, Porterfield makes room to go big over the off-side, but then checks his shot and taps to point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, full and on the stumps, pushed to short cover]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, fired in on a leg stump line, O'Brien defends]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, Porterfield gets forward and drives to long-off]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, floated outside off, O'Brien opens the face of the bat and drives to sweeper cover]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, comes on the front foot and pushes it to cover]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, Porterfield makes room and drives to long-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, the arm ball, comes back in, O'Brien defends]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, hint of turn away, O'Brien flags it through to Dhoni]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, gets forward and defends solidly]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, how did that miss the middle stump? Superbly bowled by Ashwin, flight, lures O'Brien forward and the ball somehow goes over the middle stump as the batsman played inside the line]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, was there any bat on that? Yes there was. But just <b>in front of Dhawan</b> at leg slip. Down leg, O'Brien got an inside edge onto the pads and got lucky]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Ashwin to N O'Brien, no run, tossed up on the stumps, O'Brien gets forward and defends to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, skids on, Porterfield defends it back to Raina]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Raina to N O'Brien, 1 run, O'Brien gets forward and drives to sweeper cover]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, skids on once more, but O'Brien covers the line and defends to cover]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Raina to N O'Brien, no run, on a yorker length and on the stumps, O'Brien keeps it out]]></line><line><![CDATA[<b>Niall O'Brien, left handed bat, comes to the crease</b>]]></line><line><![CDATA[Porterfield's opening partner, Paul Stirling, is another batsman, who is good at playing the pull and the cut. Mohammed Shami tried a short ball and Stirling too used the pull to thump him for a six. He and Porterfield also essayed fine back foot punches. It was surprising to see the Indian pacers banging it short to batsmen, who are fine back foot players and on a deck that is flat. In short, after playing at the WACA, the Indian seamers struggled to make the adjustment with the new ball. MS Dhoni then introduced the spinners into the attack, and Ravichandran Ashwin was able to stem the run flow to some extent and was rewarded with the wicket of Stirling. Stirling won't be happy with that soft dismissal. Suresh Raina then cleaned up Ed Joyce by pushing it through and Joyce paid the price for looking to play the cut shot.]]></line><line><![CDATA[Here is <b>Bharath Ramaraj's</b> analysis of the first 17.2 overs: Ireland started their innings on a very good note. It was William Porterfield, who slashed at a short and wide delivery from Umesh Yadav to collect Ireland's first boundary. He then used the pull shot to clout Umesh for a six on the back foot. Porterfield, who plays for Warwickshire,  is known for his ability to play well on the back foot in the County circuit.  <br/>]]></line><line><![CDATA[With that wicket, the <b>players have taken drinks</b>]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Raina to Ed Joyce, <b>out</b> Bowled!! Cleaned up by Raina. He roars in delight. Fired in and skidded on flatter, Ed Joyce was on the back foot and making room to cut, it was an ill-advised shot, and the ball clatters into middle. The stump is uprooted. After a good start, Ireland have lost two quick wickets. <b>Ed Joyce b Raina 2(9)</b>]]></line><line><![CDATA[Raina to Ed Joyce, <b>THATS OUT!!</b> Bowled!!]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Raina to Ed Joyce, no run, full on the stumps, pushed to cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Ashwin to Ed Joyce, 1 run, fraction short and on the stumps, Ed Joyce gets back and punches it to long-on]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Ashwin to Ed Joyce, no run, dances down and since the length is on a yorker length, he squeezes it out]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Ashwin to Ed Joyce, no run, skips out and since he isn't to the pitch of the ball, defends]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Ashwin to Ed Joyce, no run, Ed Joyce comes down the track and then plays across the line, his flick finds mid-on]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Ashwin to Ed Joyce, no run, that turned and bounced over the off stump as Ed Joyce pushed his bat inside the line, can safely say that Joyce didn't know much about that delivery. Again flight, dip and turn for Ashwin]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Ashwin to Ed Joyce, no run, slower and on the stumps, Ed Joyce gets forward and defends solidly]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, flicked straight to the fielder at mid-wicket]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Raina to Ed Joyce, 1 run, Ed Joyce gets forward and defends to the left of point, single taken]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Raina to Porterfield, 1 run, punched to long-off]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, loud shout for lbw, but India don't take the review. Kettleborough rejecting the appeal. Skidding on and Porterfield is rapped on the pads, on the back foot, would've missed leg. Replays show it was just clipping leg, umpire's call]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, Raina cramps Porterfield for room, hit back to Raina]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Raina to Porterfield, no run, punched to short cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Suresh Raina, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[<b>Ed Joyce, left handed bat, comes to the crease</b>]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Ashwin to Stirling, <b>out</b> Caught by Rahane!! When he hit that, I thought it was a six. But Stirling has picked out Rahane at long-off. Beautiful flight from Ashwin, it hangs in the air and then dips on Stirling, who chipped the lofted shot straight to the fielder. Maybe he should've gone for it whole-heartedly rather than playing a tame neither-here-neither-there stroke. <b>Stirling c Rahane b Ashwin 42(41) [4s-4 6s-2]</b>]]></line><line><![CDATA[Ashwin to Stirling, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Ashwin to Stirling, 2 runs, great fielding by Rohit at deep backward square leg, a powerful sweep from Stirling as he picked the carrom ball, but Rohit ran and then dived to prevent the boundary. Saved two runs]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, Porterfield lunges out and then drives to long-off]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, fuller and on the stumps, driven well, but straight to the fielder at short cover]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, this one drifts in and cramps Porterfield for room, punched back to the bowler]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Ashwin to Stirling, 1 run, regulation offbreak, allowed to turn and then nudged to deep backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, 1 run, Stirling uses his feet and drives uppishly, but wide of Ravindra Jadeja's left]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, <b>SIX</b>, Dhoni was telling Ravindra Jadeja, just before the ball, to make Stirling play off the front foot, make him hit over the top. What does Ravindra Jadeja do? Drags it down and midway, enough time for Stirling to go back and muscle a pull over deep mid-wicket. Too easy]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, no run, floated up outside off, Stirling comes on the front foot and defends]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, 1 run, Porterfield shuffles across to off and then whips this to deep mid-wicket]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, no run, back of a length and it's punched back to Ravindra Jadeja]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, <b>FOUR</b>, short and outside off, begging to be hit, Porterfield rocks back and cuts powerfully wide of point, the quick outfield does the rest]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, lots of flight from Ashwin, on the stumps, driven well to long-off]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Ashwin to Stirling, 1 run, turning in, nudged to deep backward square leg]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Ashwin to Stirling, no run, the drifter, Stirling is early into the drive, a thick outside edge though doesn't carry to cover]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, nicely floated on the stumps, Porterfield drives uppishly, inside out, but wide of cover]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, fired in on the pads, Porterfield flicks and misses, would've gone down leg]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Ashwin to Stirling, 1 run, hint of turn for Ashwin, Stirling prods forward to defend and gets a thick inside edge, through the backward short leg area which is vacant]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, 1 run, shortish on off, punched to long-on]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, 1 run, Porterfield comes down the track and eases it to long-on]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, 1 run, width outside off, punched to sweeper cover]]></line><line><![CDATA[The second slip has moved to leg slip. Didn't take long, that move!]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, 2 runs, tossed up outside off, swept to deep mid-wicket, for a couple]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, no run, punched back to the bowler]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, no run, too early into the sweep, the ball hits the arm and then strikes the chin]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, floated up outside off, Porterfield gets forward and drives to cover]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, hint of turn away, Porterfield gets forward and finds point with a push]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, no run, that is a dangerous shot, cutting from the stumps, Porterfield finds short cover]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 2 runs, allows the ball to turn and gently nurdles it to fine leg, for a couple]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Ashwin to Stirling, 1 run, if <b>Mohit had hit direct Stirling would've been gone.</b> Stirling came down the track and pushed it uppishly through mid-wicket, he wanted two and was a few steps down, Ashwin left the throw, thinking that it will hit direct, but it didn't. Stirling gets away]]></line><line><![CDATA[Slip and a leg slip in place for Stirling]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Ashwin to Porterfield, 1 run, Porterfield pre-meditates the paddle sweep and gets bat on that, down to fine leg, Umesh was quick and prevented the second]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravichandran Ashwin, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Stirling, no run, fraction short outside off, Stirling forces it off the back foot, but can't get it past cover]]></line><line><![CDATA[Two slips in place as Ravindra Jadeja goes round the wicket to Stirling]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, 1 run, shortish and Porterfield can shuffle across to whip it to deep square leg]]></line><line><![CDATA[Ravindra Jadeja is bowling from over the wicket]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, no run, Porterfield gets forward and pushes it to short mid-wicket]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, 2 runs, tucked in the gap at deep mid-wicket, easy two]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, no run, softly nudged to short mid-wicket]]></line><line><![CDATA[Slip and a leg slip in place for Ravindra Jadeja]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Ravindra Jadeja to Porterfield, no run, a loud shout for lbw, but Porterfield got well outside the line of off, the reverse sweep attempted and he missed it, the ball turned in and hit him on the body]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravindra Jadeja, left-arm orthodox, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, this time he picks the back of the hand slower delivery and hesitantly checks his punch, finds extra cover]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, on a good length and on off, defended back to Mohit Sharma]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, Mohit Sharma befuddled Stirling there with a back of the hand slower delivery, but the line was outside off, so Stirling could pull his bat inside the line, despite clearly not picking that]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, fullish on off and middle, pushed to short mid-wicket]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, <b>FOUR</b>, just a mere extension of the chip and it's a one bounce four to long-off. Pitched up outside off, Stirling got forward and chipped it over mid-off. Held the pose too after playing the shot. No big followthrough at all as he played the shot]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, tight line and length from Mohit Sharma, Stirling respects it with a defence]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Shami to Stirling, 1 run, another slash and shouts of 'catch' but well wide of point and a single to third man]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Shami to Stirling, <b>FOUR</b>, Stirling picks the off-cutting slower delivery from Shami, it sat up short and Stirling slashed it up and over cover-point. Can't afford to give width on this pitch. Not sure how many times I will say that today]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, Shami digs it in short and forces Stirling to hop back and defend]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, looked like the slower delivery, outside off, Stirling drives with an open face and finds Jaddu at point]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Shami to Porterfield, 1 run, on the pads, Porterfield tucks it to deep square leg]]></line><line><![CDATA[Only a slip and a short mid-wicket now. Deep square leg back]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Shami to Porterfield, no run, Porterfield tries to hit that too hard, completely mistimes it back to Shami]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, 3 runs, good stop by Jaddu. It was short and wide outside off, Porterfield carved that over point and Jaddu running back put in the slide and pulled it back. The third ump has a look and reckons it's a safe stop]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, no run, another back of the hand slower delivery from Mohit Sharma, down leg once more, Porterfield misses out, it runs off the thigh pad and Dhoni collects]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, no run, pitched up outside off, width was there, Porterfield threw his bat at that and missed. There was no real appeal from the Indians, even as I heard something]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, <b>wide</b>, back of the hand slower delivery from Mohit Sharma, but slips it down leg, wide called]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, <b>FOUR</b>, look at the outfield. It's like a billiards table. Kept running away from the chasing Kohli. Superb back foot punch from Porterfield, timed that so well and beat Kohli at mid-off]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, no run, two false strokes in a row, full and outside off, Porterfield went for the big cover drive, the inside edge rolls to mid-wicket]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, no run, Porterfield is early into the flick, but the leading edge doesn't carry to anyone on the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, pitched up outside off, defended to the left of Shami]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, full and on the stumps, flicked to mid-on]]></line><line><![CDATA[A slip has been taken out now and an extra man placed on the off-side. Four now there]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Shami to Stirling, <b>FOUR</b>, stand and deliver from Stirling. On-the-up and just powered that through cover. On a good length and outside off and Stirling didn't miss out. He looks to be in the mood today]]></line><line><![CDATA[Porterfield wants a new bat]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Shami to Porterfield, 1 run, punched off the front foot wide of mid-off, quick single taken]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Shami to Porterfield, <b>wide</b>, way too short and Dhoni has to leap high to prevent any extra runs. Does so and gloves it with one hand]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Shami to Porterfield, no run, back of a length on off, Porterfield defends it near short cover]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Shami to Porterfield, no run, nicely driven off the front foot, but mid-off gets down swiftly to his left and stops any runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Ireland have made a very positive start. Sourav Ganguly reckons that this is the best any opening pair has played against India in this World Cup. And that includes games versus Pakistan and South Africa, not to forget West Indies]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, <b>FOUR</b>, beautiful shot. Fraction short from Mohit Sharma, outside off too and Stirling stood up tall to force that through cover, no chance for the chasing fielder]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, just a hint of shape back into Stirling, he looks to punch and gets an inside edge onto the right-leg]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, no run, back of a length outside off, Stirling is solidly behind that]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, 1 run, angling in, Porterfield defends and the ball runs off the inside half of the bat to deep backward square leg]]></line><line><![CDATA[Now round the wicket with two slips still in place]]></line><line><![CDATA[Dhoni has turned to Mohit Sharma, in order to bring some control. Very early though]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Mohit Sharma to Porterfield, no run, tight delivery on the stumps, Porterfield defends it back to Mohit Sharma]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Mohit Sharma to Stirling, 1 run, back of a length on the stumps, turned to the right of short mid-wicket, Rohit hits direct at the batsman's end, but Porterfield was well in. There was a chance of another run as the ball ricocheted away, but they are happy with one]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohit Sharma, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Shami to Stirling, 1 run, good drop and run single. Pushed into the gap at short mid-wicket, Porterfield was a bit slow off the blocks, but they complete the single very easily]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, back of a length outside off, Stirling shoulders arms]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Shami to Stirling, <b>SIX</b>, Stirling has gotten off the mark with a magnificent pull shot. Dug in short, sat up nicely for Stirling to pull and he met the ball brilliantly, sending the ball into the deep mid-wicket area. He is a very good puller and cutter, and we just saw evidence of that there]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, pitched up outside off, was there for the drive, but Stirling mistimes it to mid-off]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, short of length on off, defended to cover]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Shami to Porterfield, 1 run, Mohit does well and prevents the second. Punched wide of him at mid-off, he races across and then slides to pick the ball up and throw it back to the bowler's end]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, 1 run, pushed in front and wide of mid-off, quick single taken]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, firmly driven, but straight to the fielder at mid-off]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, angles this one outside off, left alone]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, <b>FOUR</b>, now he unfurls a fabulous off-drive. <b>Alastair Cook-esque</b>. From Porterfield. He leans forward and just pushes the very full ball past mid-off, the fast outfield is on display as the ball races away. Yadav has bowled short and full and has been punished both times]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, <b>SIX</b>, that is a cracking pull. Maybe Porterfield knew the short ball was coming. He was in position very early and sent the pull way back into the grassy banks over deep square leg. Connected with the shot, from the meat of the bat. A statement of intent from the Irish captain early on]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, swing for Yadav, but wrong line, starts middle and goes down leg, Porterfield can't connect on the flick, the ball rolls off the pad and Dhoni collects]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, pitched up outside off, Stirling gets forward and defends solidly to cover]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, swing for Shami and he beats Stirling on the big drive, pitched up and moving away, Stirling went for the drive and didn't connect]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shami to Stirling, <b>wide</b>, only Dhoni went up for a caught behind appeal, while Shami shook his head immediately. Another delivery down leg, Stirling flicked and missed, no connection with bat or pad and that was rightly called wide by Kettleborough]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Shami to Stirling, <b>wide</b>, Dhoni saved four runs for his side with a superb dive. Down leg and going away further, Dhoni dives and collects with one-hand]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Shami to Stirling, no run, back of a length on off, softly turned to the short mid-wicket area]]></line><line><![CDATA[For the first time, Stirling will be on strike]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Shami to Porterfield, 1 run, full and on middle and leg, flicked wide of mid-on for an easy single]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Shami to Porterfield, no run, short of length on off, Porterfield defends to cover, no chance of a quick single]]></line><line><![CDATA[Two slips in place for Shami too]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Shami to Porterfield, no run, nice start from Shami, angled across Porterfield on a fuller length outside off, the batsman shoulders arms and leaves it alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammed Shami, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, leg byes, 1 run, down leg, swing for Yadav, Porterfield fails to connect the flick, it runs off the pads and they take a leg bye]]></line><line><![CDATA[Two slips and Dhoni's favorite leg-slip in position]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, back of a length outside off, rising too, Porterfield shoulders arms. Carries nicely to Dhoni]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, <b>FOUR</b>, Porterfield gave that everything and it has flown to the third man fence. Width outside off and Porterfield slashed, got a thick edge that went over the slip cordon, two bounces and over the ropes. Porterfield is off the mark with that shot]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, back of a length outside off, Porterfield stands tall and defends to cover]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, back of a length and on the hips, Porterfield misses the nudge and is hit on the stomach]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;U Yadav to Porterfield, no run, short and down leg, loopy bouncer too, Porterfield ducks and Dhoni collects. Called one short ball for the over]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Porterfield and Stirling are at the crease. Porterfield is on strike. U Yadav will open the attack</b>]]></line><line><![CDATA[The players are out there in the middle. Lots of beating of the drums. Porterfield on strike. Umesh the bowler]]></line><line><![CDATA[The teams make their way out for the anthems. "<b>Ireland's Call</b>" will be followed by India's "<b>Jana Gana Mana</b>."]]></line><line><![CDATA[<b>Pitch Report</b>: "The pitch looks very good. It looks flat. There is a hint of grass but because of the sun, I don't think it will be an issue. Maybe, when the sun goes down the fast bowlers might get a bit of assistance. It should be a very good battle. I think we are in for a very good game with lots of runs today," reckons <b>Sunil Gavaskar</b>.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>India</b> (Playing XI): Shikhar Dhawan, Rohit Sharma, Virat Kohli, Ajinkya Rahane, Suresh Raina, MS Dhoni(w/c), Ravindra Jadeja, Ravichandran Ashwin, Mohammed Shami, Umesh Yadav, Mohit Sharma]]></line><line><![CDATA[<b>Ireland</b> (Playing XI): William Porterfield(c), Paul Stirling, Ed Joyce, Andrew Balbirnie, Niall O'Brien, Gary Wilson(w), Kevin O'Brien, John Mooney, George Dockrell, Alex Cusack, Stuart Thompson]]></line><line><![CDATA[<b>Ireland have won the toss and have opted to bat</b>]]></line><line><![CDATA[<b>Dhoni</b>: "The conditions are slightly different, the outfields are smaller over here (talking about the difference in conditions between New Zealand and Australia). But, from the last tour what we have learned is, the wickets are pretty good. It comes on nicely and it remains the same. There is not a lot of changes apart from the fact that you have to adjust to the outfield being slightly smaller when you compare it to Australian soil. We were looking to bowl first. In this tournament so far there have been fair instances where we have put runs on the board. The last game was the only one where we chased (Dhoni forgot about the game against UAE), so it gives us another opportunity to chase a score. I think this is to some extent is the slowest New Zealand wicket. It's one place where the spinners get a bit of assistance. It's not a lot of assistance, but still they love to bowl over here. Apart from that, it's a good atmosphere whenever we play in New Zealand, it's a lovely beautiful place. We are going in with the same squad. We just want to go ahead with the good work that we have been doing. Also at the same time, it gives the team that settled time. They need to do what they need to do, but at the same time it gives them good exposure."]]></line><line><![CDATA[<b>Porterfield</b>: "It's a great place to be, obviously three from four (wins). We are looking forward to today and we will be trying for two points. We are going to bat first. Looks a pretty good surface, so get out there and make first use of it with the bat. It's obviously another big game, two points up for grabs. We had a look at India. It's been a slightly shorter turnaround between games for ourselves, but that can be a good thing as well, the way we are going. We have to start well now and continue our good form. We have made one change, <b>McBrine</b> misses out and <b>Thompson</b> comes in."]]></line><line><![CDATA[Our man, <b>Jamie Alter</b>,  is at the ground and he says it's sold out, "Warm afternoon here in Hamilton, the CWC theme song is playing on the PA, the Indian fans have been here for a while, decked up in all sorts of outfits, Sudhir Gautam has blown his conch shell, taken photos with fans, and there are a scattering of Ireland supporters too. A good afternoon for cricket."]]></line><line><![CDATA[<b>William Porterfield</b> - "Obviously, we've got to try to restrict them with the ball and take wickets." Porterfield's mantra to win against India]]></line><line><![CDATA[Quotes: <b>Mohit Sharma</b> -  "If you are a fast bowler, you do tend to bowl bouncers." Talking about his repeated use of the short ball in this tournament]]></line><line><![CDATA[<b>Weather update</b>: Conditions for the game are expected to be fine. It may be a bit overcast, but there is no rain predicted on the day of the match.]]></line><line><![CDATA[<b>Ireland:</b> Andy McBrine may play as the second spinner considering the small dimensions of the ground at Seddon Park. So that means Ireland too may go in with an unchanged side for this game.]]></line><line><![CDATA[Pre-match team news, <b>India</b>: India are likely to go in unchanged from their previous game. Having already qualified for the quarter-finals, India could've tested their bench strength but Dhoni isn't too keen on doing that.]]></line><line><![CDATA["It's a nice position to be in. It's one we want to be in. The quarter-finals is a goal we set ourselves before we came here, so we're in a nice position now, but it doesn't count for anything if we don't keep getting good performances," said Porterfield.]]></line><line><![CDATA[Some news from the Irish camp ahead of the game, with captain William Porterfield terming this match "like any other game." "We've gotten into each game with two points up for grabs, and tomorrow isn't any different," he told reporters on Monday. "We've approached each game with great clarity and great professionalism really from our point of view, and we've prepared very well. It's a quicker turn around now from this game than from what we've necessarily had before, but it's a good place as I said before, that we're in, and we've got to start fresh tomorrow and come start time. So like any other game we're going into it looking for a win, and we're looking to make it four out of five tomorrow."]]></line><line><![CDATA[One man who has quietly slipped into his role without any fuss is the vastly under-rated Indian seamer Mohit Sharma. He has six wickets in four games at a superb economy of 3.90 to support Mohammed Shami, Umesh Yadav and Bhuvneshwar Kumar. "My role is very simple. When Shami and Umesh create that pressure, I have to maintain that pressure. I have to maintain that pressure for Ashwin and Jadeja too," he said on Monday. "The way Shami and Umesh bhai are bowling has helped me a lot. They have been bowling really well and have been able to exert a lot of pressure up front. My job is to maintain that pressure, so that Ashwin and Jadeja are benefitted from it later. So it helps me a lot that the batsmen are under pressure and my job then will be to bowl to my strengths; that I have been doing for the last 10 years. I just have to maintain my line and length and bowl according to the wicket."]]></line><line><![CDATA[Dhoni wanted Jadeja to come to the party, saying "Jadeja will have to step up. I feel his slot is very important if he starts scoring runs consistently for us." He continued - "Even though Jadeja is not performing really well as a batsman, he still gives you that comfort at six or seven and it looks like a slightly better side. We also have to keep in mind the over rate because a lot of people dig into the stats. Someone told me whenever we have played with four fast bowlers, 90 percent of the time we lose and 100 percent of the time the captain gets banned. It becomes a difficult one, but at the same time as I said, hopefully the spinners, they would have learned from the last outing in New Zealand."]]></line><line><![CDATA[India were tested for the first time in the tournament after three convincing wins. It was a good workout for the Indian side ahead of the knockouts. <b>Sourav Ganguly</b> certainly feels the same way. He had this to say, writing in his column: "It was a very good win for India against West Indies yesterday and when I say it was a very good win, there are reasons for it. The wins against South Africa and Pakistan were brilliant, but it was a hard-fought win yesterday. When you go through such a long tournament, you need this type of win to actually get the train back on track or the team back on track. I think India were outstanding yesterday. They lost the toss for the first time against a big team and I thought it was a good test for India. This World Cup has been all about teams batting first, putting big scores on the board and putting the scoreboard pressure on the team batting second. So, from that point of view, it was a very good workout for India."]]></line><line><![CDATA[If the Indians thought they were in for an easier time, they had to think again. The West Indies, inspired by Curtly Ambrose's pep-talk at the start of India's innings, came out and bowled with fire and brimstone. They had India 6 down with still 49 needed. But MS Dhoni and Ravi Ashwin - with some help from Jason Holder, who inexplicably bowled Samuels and Dwayne Smith when, the situation was crying out for Jerome Taylor - steered India home to make it four out of four.]]></line><line><![CDATA[So had enough of Ireland? Let's move on. Let's focus on India for a bit. On the back of three consecutive wins which included two over Pakistan and South Africa, India came into their game against West Indies at Perth as firm favorites. West Indies were bundled out for 182 as none of their batsmen showed application on a pacy and bouncy pitch. Only Jason Holder showed grit and made his second consecutive fifty of the tournament.]]></line><line><![CDATA[Alex Cusack, though held his cool and took the last two wickets to make it three wins out of four for Ireland. They sit on 6 points and face India and Pakistan in their last two games respectively. A win in either of those two games will ensure qualification for the quarter-finals. But two tough games to come. But as William Porterfield said, their destiny is in their own hands.]]></line><line><![CDATA[What happened in Ireland's last game against Zimbabwe? Ed Joyce continued his superb form by scoring a hundred and was assisted by Andrew Balbirnie with 97. A huge score of 331 was posted by the Irish. Brendan Taylor and Sean Williams fought for Zimbabwe. Sean Williams' catch by John Mooney was the turning point of the game. That catch had controversy written all over it as replays showed that Mooney's foot was touching the ad-cushions when he completed the catch. But Sean Williams had left the field of play - as soon as he got out and didn't wait -  and that was the end of the story. Mupariwa battling on gamely, gave Ireland some nervy moments with 16 runs off 4 balls in the 49th over. That left Zimbabwe needing 7 off 6 balls in the final over.]]></line><line><![CDATA[Now let's take a look at how Ireland have done in this tournament so far. Ireland once again showed why they are such a fine side, winning against West Indies after giving away 304. They comfortably chased that down, winning with 25 balls to spare. That set them up nicely for the remaining fixtures and sent a message that they were one of the serious contenders for a quarter-final spot.]]></line><line><![CDATA[March 2nd, 2011 was Ireland's greatest night on a cricket field. Can they go one better? Can they slay another giant? This time - it's India who are waiting as we welcome you all to our coverage of the game being played at Seddon Park, Hamilton. If Ireland win today, they are assured of a place in the knockouts. What better incentive than that, to go out and play the game of your lives. So let's get started and rolling then.]]></line><line><![CDATA[Have a read and understand this. During the 2011 World Cup, the ICC had decided to have only a 10-team World Cup for 2015. That meant no place for the Associates or any of the "minnows". Ireland's win over England played a significant part in ICC changing its decision. Eventually the 2015 World Cup was played by 14 nations, giving the likes of Ireland another chance to showcase their giant-killing skills.]]></line><line><![CDATA["It's annoying in the extreme, but I'm not taking anything away from Kevin O'Brien and the performance of his life," Swann added. "It's the best knock I've seen in a long time. If a guy gets 100 off 60 balls [sic], a guy gets 100 off 60 balls. There's not a lot you can do, except say we should have bowled differently - and in the next game we will do. If we start panicking and thinking we're the disgrace that half the people on Twitter thought we were last night, there's no point in us playing."]]></line><line><![CDATA[It was a completely different reaction from the England camp and understandably so. One man who was left shell-shocked by the result was <b>Graeme Swann</b>. "If we are going to win this World Cup - which we truly believe we can - we've got to go out and prove it, and we do that first and foremost in the field," said Swann. "Four or five days ago, the whole world was saying 'Oh my God, England can win' this - because we didn't get destroyed by that invincible Indian team. We know the fickle nature of the world, and we're going to ignore that and just carry on and play the best cricket we can."]]></line><line><![CDATA[Ireland's winning captain, William Porterfield said the team was yet to understand the enormity of their achievement. "We got to let this sink in still," he said. "We've all grown up dreaming of moments like this in a World Cup, and we're going to enjoy this time with our family and friends and have a couple of drinks."]]></line><line><![CDATA[Kevin O'Brien's father, <b>Brendan "Ginger" O'Brien</b>, was a happy man and he told the <b>Belfast Telegraph</b> this: "It's a hugely proud moment for me and I'm delighted for him. He had a couple of ducks recently but it is a hard game and he has come back well. We knew the wicket was good, the outfield very quick. Alex and Kevin were fantastic."]]></line><line><![CDATA[<b>The Irish Times's Emmet O'Riordan</b> was all praise for Kevin O'Brien, introducing him like this - "Crash, bang, wallop. Hello world, I'm Kevin O'Brien and I can hit a cricket ball." Continuing on - "It was brutal in its nature, the pick of England's bowlers belted to all parts of the stadium to huge cheers from both the Irish contingent of about 200 fans and the locals, who enjoy both an underdog and a big-hitter. Kevin O'Brien jarred his knee and ankle fielding a drive from Strauss in the covers. Tough as old boots, O'Brien junior was up and running after a blast of the magic spray, although after what transpired later, police may be looking for a local witch doctor."]]></line><line><![CDATA[<b>The Examiner</b> - an <b>Irish newspaper</b> responded with this to the win - "Memories of 2007, and comparisons with the World Cup victory over Pakistan in Jamaica will inevitably be made. But this was even better. England have hit their four highest World Cup totals in the last four games, are champions in the Twenty20 format of cricket, and are highly fancied to win this tournament. They are far better and more disciplined than the Pakistan side of 2007. Ireland have improved immeasurably since that breakthrough victory in the Caribbean. Thirteen of the 15-man squad are now full-time cricketers, and they are part of a 32-county squad that represents the whole nation of Ireland and sings 'Ireland's Call' as their anthem. They come with a self-belief and mental strength that sees them view results like this as just rewards."]]></line><line><![CDATA[Ireland just managed to win only one game after their win against England. But they were more than happy to put one past their rivals. <b>Rob Bagchi</b> writing for the <b>Guardian</b> newspaper had this to begin his piece: 'Until Wednesday Johnston, Mooney and O'Brien was simply an Irish bakery firm, famed for its Toastie loaf and slogan "live life, love bread". For one day at least Trent Johnston, John Mooney and Kevin O'Brien have made the three names more synonymous with triumphant glow than dough.']]></line><line><![CDATA[England made 327 and looked well on course for an easy win when they had Ireland 5/111. Enter Kevin O'Brien or KOB as he is fondly referred to. He smashed the English bowlers to all corners of the Chinnaswamy as he recorded a 50-ball hundred - the fastest ever World Cup hundred. England were left shell-shocked by the brutal assault. England had James Anderson, Stuart Broad and Tim Bresnan, with Swann being the lead spinner. No-one was spared by the man nicknamed "Ginger" as Ireland went ballistic after the winning runs were hit.]]></line><line><![CDATA[March 2nd, 2011 was an epochal night in the annals of Irish history. Playing against their arch-rivals and close neighbours, England, there was a lot of pride and history attached to the clash. Historically, relations between the two states have been influenced heavily by issues arising from their shared (and frequently troubled) history. So when the two met at the Chinnaswamy Stadium in Bangalore, there was a lot to play for.]]></line><line><![CDATA[The 1996 edition saw Kenya beating West Indies. That was a massive upset. Bangladesh did the same to Pakistan in 1999. In 2003, Kenya, against all odds performed impressively and reached the semi-finals - albeit helped by a walkover from New Zealand - with wins over Sri Lanka and Zimbabwe, far superior sides than the Kenyan outfit. In 2007 Bangladesh beat India in one of the biggest upsets in World Cup history. India were knocked out before the Super Eights and forced a legend like Sachin Tendulkar to have doubts about his cricketing future.]]></line><line><![CDATA[<b>12:30 Local Time, 23:30 GMT, 05:00 IST:</b> The World Cups are the stage for the biggest upsets in cricketing history. It all started in 1983 when India stunned West Indies at Old Trafford before going on to repeat the dose in the final - which sent shockwaves amongst the cricketing community. The Duncan Fletcher-led Zimbabwean side came into the spotlight in the same tournament when they stunned Australia at Trent Bridge, Nottingham. The Australia side had the likes of Dennis Lillee, Jeff Thomson, Rod Marsh, Rodney Hogg and was led by Kim Hughes. Australia were definitely the favorites going into the game, but Zimbabwe came out trumps.]]></line><line><![CDATA[Preview by <b>Jamie Alter</b><br/><br/>India. Unbeaten. Top of the Pool B table. The first team to reach the quarter-finals from the group. Defending champions.<br/><br/>Ireland. Three wins from four, two by the skin of their teeth. Tied on points with South Africa, who thrashed them, and Pakistan, who they play their final league match against. Desperate to make the quarter-finals.<br/><br/>Match 34 of the 2015 ICC Cricket World Cup pits these two teams together at Seddon Park on Tuesday, with India seeing this fixture as an opportunity to fine-tune a couple of loose ends and Ireland entering it hoping to put up a challenge from which passage to the knock-outs becomes easier.<br/><br/>While for India this match follows four matches in Australia which they won, for Ireland this is a much bigger fixture. At fourth in Pool B with six points from four matches, Willam Porterfield's team are in a desperate battle with Pakistan and West Indies to secure one of the two remaining qualifying spots. After India, Pakistan remain. It is not, whichever way you look at it, an easy task for Ireland.<br/><br/>And yet Porterfield played down the opposition by choosing to focus on what Ireland have done until this point, terming this match "like any other game."<br/><br/>"We've gotten into each game with two points up for grabs, and tomorrow isn't any different," he told reporters on Monday. "We've approached each game with great clarity and great professionalism really from our point of view, and we've prepared very well. It's a quicker turn around now from this game than from what we've necessarily had before, but it's a good place as I said before, that we're in, and we've got to start fresh tomorrow and come start time. So like any other game we're going into it looking for a win, and we're looking to make it four out of five tomorrow.<br/><br/>"Obviously, we've got to try to restrict them with the ball and take wickets. It's just like any game of cricket and in this format the best way of restricting teams is taking those wickets. So we've got to go out there with that mentality throughout the 50 overs of taking wickets. Whatever we do of the first ten overs is going to be big, with the bat or with the ball, we have to start the game well and get into it."<br/><br/>Being one point away from the quarter-finals was exciting for Ireland, but their skipper was not getting carried away. "It's a nice position to be in. It's one we want to be in. The quarter-finals is a goal we set ourselves before we came here, so we're in a nice position now, but it doesn't count for anything if we don't keep getting good performances," said Porterfield.<br/><br/>After starting their campaign with a four-wicket chase of 305 against West Indies in Nelson, Ireland scraped past UAE by two wickets with four balls in hand, lost to South Africa by 210 runs and pipped Zimbabwe by five runs in a tense match in Hobart two days ago. They will know full well that India will not let them go. The loss to South Africa has dented Ireland's net run-rate (-0.820), and so getting big runs on board becomes imperative.<br/><br/>One letdown for Ireland has been Kevin O'Brien, arguably their most high-profile player because of his stunning century that helped beat England in the last World Cup. The big-hitting allrounder has conceded runs at 9.60 and over, and in the narrow loss to Zimbabwe he conceded 90 in ten overs, of which 18 came in the 49th over. The opener and offspinner Paul Stirling has also faded away after he was named Man of the Match in the win over West Indies; he has tallied 22 runs in three innings since that eye-catching 92 and taken just two wickets. Ireland's bowling is their weak link, and the margin of error will be small against India.<br/><br/>On a small ground, getting your lengths right will be massive. India's pace attack has performed very well in keeping teams to small totals - only once has an opposition scored more than 200 against them in the tournament - and against Ireland's batsmen, who are used to playing in seam-friendly conditions in the UK, they can be expected to use the same approach.<br/><br/>Mohit Sharma, the seamer playing his first World Cup, spoke of the short ball being a method of wickets for him. "If you are a fast bowler, you do tend to bowl bouncers," he told reporters a day ahead of the match. "Yes, there is pace and bounce in these wickets Nobody expects my bouncer to come so fast because it skids as well. That's a plus for me because my bouncer skids a lot which catches the batsmen off guard and as a result there will either a top edge or they will get beaten. I have been hit for fours and sixes also off my bouncers but that's how it goes."<br/><br/>India have most bases covered. They have bowled and fielded beyond expectation, Shikhar Dhawan rediscovered his touch, Virat Kohli marked his second World Cup with a fine century and MS Dhoni has led well. Mohammad Shami, Mohit Sharma, Umesh Yadav and R Aswhin have taken 30 of the 40 wickets, but the lower middle order is a bit undercooked.<br/><br/>Suresh Raina, after a bullish 74 against Pakistan, has scored 28 runs in two innings, both times dismissed mistiming short balls. MS Dhoni deflected the question of Raina's continued struggles against short-pitched deliveries after the last match by terming it a media blow-up, but Ireland's seam-up attack will test out Raina. Ravindra Jadeja was called out by Dhoni in Perth to step up as a batsman - he has made 18 runs in three innings - which could throw into the mix Stuart Binny should India opt to rest Jadeja, more so because of his seamers which, under grey skies and on a skinny surface, will be handy to have.<br/><br/>India and Ireland have met just twice in ODIs. In 2007, India beat them by nine wickets in Belfast and then during the 2011 World Cup in Bangalore, by five wickets. India's record at Seddon Park is two wins out of eight, dating back to 1981. Last year, they lost both matches here to New Zealand. Ireland have never played at the venue.<br/><br/><b>Probable XIs</b><br/><br/><b>India:</b> 1 Shikhar Dhawan, 2 Rohit Sharma, 3 Virat Kohli, 4 Ajinkya Rahane, 5 Suresh Raina, 6 MS Dhoni (capt/wk), 7 Ravindra Jadeja/Axar Patel, 8 R Ashwin, 9 Mohit Sharma, 10 Mohammed Shami, 11 Umesh Yadav<br/><br/><b>Ireland:</b> 1 William Porterfield (capt), 2 Paul Stirling, 3 Ed Joyce, 4 Andy Balbirnie, 5 Niall OBrien, 6 Kevin OBrien, 7 Gary Wilson (wk), 8 John Mooney, 9 George Dockrell, 10 Alex Cusack, 11 Andy McBrine]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>259</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>49</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Ireland">
+			<players>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<batsman-name>Porterfield</batsman-name>
+					<batsman-nickname>Porterfield</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>67</runs>
+					<balls>93</balls>
+					<fours>5</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Mohit Sharma</bowler>
+					<bowlerId>8181</bowlerId>
+						<fielder>Umesh Yadav</fielder>
+						<fielderId>1858</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<batsman-name>Stirling</batsman-name>
+					<batsman-nickname>Stirling</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>42</runs>
+					<balls>41</balls>
+					<fours>4</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder>Ajinkya Rahane</fielder>
+						<fielderId>1447</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<batsman-name>Ed Joyce</batsman-name>
+					<batsman-nickname>Ed Joyce</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>9</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Raina</bowler>
+					<bowlerId>413</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<batsman-name>N O'Brien</batsman-name>
+					<batsman-nickname>N O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>75</runs>
+					<balls>75</balls>
+					<fours>7</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shami</bowler>
+					<bowlerId>7909</bowlerId>
+						<fielder>Umesh Yadav</fielder>
+						<fielderId>1858</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6710</playerid>
+					<name>Andrew Balbirnie</name>
+					<batsman-name>Balbirnie</batsman-name>
+					<batsman-nickname>Balbirnie</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>24</runs>
+					<balls>24</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Ashwin</bowler>
+					<bowlerId>1593</bowlerId>
+						<fielder>Mohammed Shami</fielder>
+						<fielderId>7909</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>690</playerid>
+					<name>Kevin O'Brien</name>
+					<batsman-name>K O'Brien</batsman-name>
+					<batsman-nickname>K O'Brien</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shami</bowler>
+					<bowlerId>7909</bowlerId>
+						<fielder>MS Dhoni</fielder>
+						<fielderId>265</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<batsman-name>G Wilson</batsman-name>
+					<batsman-nickname>G Wilson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>6</runs>
+					<balls>7</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Jadeja</bowler>
+					<bowlerId>587</bowlerId>
+						<fielder>Ajinkya Rahane</fielder>
+						<fielderId>1447</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7985</playerid>
+					<name>Stuart Thompson</name>
+					<batsman-name>S Thompson</batsman-name>
+					<batsman-nickname>S Thompson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[runout]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder>Virat Kohli</fielder>
+						<fielderId>1413</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>622</playerid>
+					<name>John Mooney</name>
+					<batsman-name>J Mooney</batsman-name>
+					<batsman-nickname>J Mooney</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>16</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6329</playerid>
+					<name>George Dockrell</name>
+					<batsman-name>Dockrell</batsman-name>
+					<batsman-nickname>Dockrell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>12</balls>
+					<fours>0</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Umesh</bowler>
+					<bowlerId>1858</bowlerId>
+						<fielder>MS Dhoni</fielder>
+						<fielderId>265</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>735</playerid>
+					<name>Alex Cusack</name>
+					<batsman-name>Cusack</batsman-name>
+					<batsman-nickname>Cusack</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>11</runs>
+					<balls>13</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Shami</bowler>
+					<bowlerId>7909</bowlerId>
+						<fielder>Umesh Yadav</fielder>
+						<fielderId>1858</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>1114</playerid>
+				<nbr>1</nbr>
+				<runs>89</runs>
+				<overs>14.6</overs>
+				<batsman>Paul Stirling</batsman>
+				<batsman-name>Stirling</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>540</playerid>
+				<nbr>2</nbr>
+				<runs>92</runs>
+				<overs>17.2</overs>
+				<batsman>Ed Joyce</batsman>
+				<batsman-name>Ed Joyce</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>625</playerid>
+				<nbr>3</nbr>
+				<runs>145</runs>
+				<overs>31.2</overs>
+				<batsman>William Porterfield</batsman>
+				<batsman-name>Porterfield</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6710</playerid>
+				<nbr>4</nbr>
+				<runs>206</runs>
+				<overs>38.6</overs>
+				<batsman>Andrew Balbirnie</batsman>
+				<batsman-name>Balbirnie</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>690</playerid>
+				<nbr>5</nbr>
+				<runs>208</runs>
+				<overs>39.3</overs>
+				<batsman>Kevin O'Brien</batsman>
+				<batsman-name>K O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>739</playerid>
+				<nbr>6</nbr>
+				<runs>222</runs>
+				<overs>41.2</overs>
+				<batsman>Gary Wilson</batsman>
+				<batsman-name>G Wilson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>691</playerid>
+				<nbr>7</nbr>
+				<runs>226</runs>
+				<overs>42.1</overs>
+				<batsman>Niall O'Brien</batsman>
+				<batsman-name>N O'Brien</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7985</playerid>
+				<nbr>8</nbr>
+				<runs>227</runs>
+				<overs>42.3</overs>
+				<batsman>Stuart Thompson</batsman>
+				<batsman-name>S Thompson</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6329</playerid>
+				<nbr>9</nbr>
+				<runs>238</runs>
+				<overs>45.3</overs>
+				<batsman>George Dockrell</batsman>
+				<batsman-name>Dockrell</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>735</playerid>
+				<nbr>10</nbr>
+				<runs>259</runs>
+				<overs>48.6</overs>
+				<batsman>Alex Cusack</batsman>
+				<batsman-name>Cusack</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>9</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>11</total>
+		</extras>
+		<bowlteam name="India">
+			<players>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<bowler-name>Umesh</bowler-name>
+					<bowler-nickname>U Yadav</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>34</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7909</playerid>
+					<name>Mohammed Shami</name>
+					<bowler-name>Shami</bowler-name>
+					<bowler-nickname>Shami</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9</overs>
+					<maidens>0</maidens>
+					<runsoff>41</runsoff>
+					<wickets>3</wickets>
+					<wides>5</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8181</playerid>
+					<name>Mohit Sharma</name>
+					<bowler-name>Mohit Sharma</bowler-name>
+					<bowler-nickname>Mohit Sharma</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>38</runsoff>
+					<wickets>1</wickets>
+					<wides>3</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>587</playerid>
+					<name>Ravindra Jadeja</name>
+					<bowler-name>R Jadeja</bowler-name>
+					<bowler-nickname>Ravindra Jadeja</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1593</playerid>
+					<name>Ravichandran Ashwin</name>
+					<bowler-name>Ashwin</bowler-name>
+					<bowler-nickname>Ashwin</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>1</maidens>
+					<runsoff>38</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>413</playerid>
+					<name>Suresh Raina</name>
+					<bowler-name>Raina</bowler-name>
+					<bowler-nickname>Raina</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>10</overs>
+					<maidens>0</maidens>
+					<runsoff>40</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<bowler-name>Rohit</bowler-name>
+					<bowler-nickname>Rohit</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>21</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<bowler-name>Dhawan</bowler-name>
+					<bowler-nickname>Dhawan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1413</playerid>
+					<name>Virat Kohli</name>
+					<bowler-name>Kohli</bowler-name>
+					<bowler-nickname>Kohli</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<bowler-name>A Rahane</bowler-name>
+					<bowler-nickname>Rahane</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>265</playerid>
+					<name>MS Dhoni</name>
+					<bowler-name>Dhoni</bowler-name>
+					<bowler-nickname>Dhoni</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>260</totalruns>
+		<totalwickets>2</totalwickets>
+		<totalovers>36.5</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="India">
+			<players>
+				<player>
+					<playerid>576</playerid>
+					<name>Rohit Sharma</name>
+					<batsman-name>Rohit</batsman-name>
+					<batsman-nickname>Rohit</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>64</runs>
+					<balls>66</balls>
+					<fours>3</fours>
+					<sixes>3</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>S Thompson</bowler>
+					<bowlerId>7985</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1446</playerid>
+					<name>Shikhar Dhawan</name>
+					<batsman-name>Dhawan</batsman-name>
+					<batsman-nickname>Dhawan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>100</runs>
+					<balls>85</balls>
+					<fours>11</fours>
+					<sixes>5</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>S Thompson</bowler>
+					<bowlerId>7985</bowlerId>
+						<fielder>William Porterfield</fielder>
+						<fielderId>625</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1413</playerid>
+					<name>Virat Kohli</name>
+					<batsman-name>Kohli</batsman-name>
+					<batsman-nickname>Kohli</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>44</runs>
+					<balls>42</balls>
+					<fours>4</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1447</playerid>
+					<name>Ajinkya Rahane</name>
+					<batsman-name>A Rahane</batsman-name>
+					<batsman-nickname>Rahane</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>33</runs>
+					<balls>28</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>413</playerid>
+					<name>Suresh Raina</name>
+					<batsman-name>Raina</batsman-name>
+					<batsman-nickname>Raina</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>265</playerid>
+					<name>MS Dhoni</name>
+					<batsman-name>Dhoni</batsman-name>
+					<batsman-nickname>Dhoni</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>587</playerid>
+					<name>Ravindra Jadeja</name>
+					<batsman-name>R Jadeja</batsman-name>
+					<batsman-nickname>Ravindra Jadeja</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1593</playerid>
+					<name>Ravichandran Ashwin</name>
+					<batsman-name>Ashwin</batsman-name>
+					<batsman-nickname>Ashwin</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>7909</playerid>
+					<name>Mohammed Shami</name>
+					<batsman-name>Shami</batsman-name>
+					<batsman-nickname>Shami</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1858</playerid>
+					<name>Umesh Yadav</name>
+					<batsman-name>Umesh</batsman-name>
+					<batsman-nickname>U Yadav</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>8181</playerid>
+					<name>Mohit Sharma</name>
+					<batsman-name>Mohit Sharma</batsman-name>
+					<batsman-nickname>Mohit Sharma</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>576</playerid>
+				<nbr>1</nbr>
+				<runs>174</runs>
+				<overs>23.2</overs>
+				<batsman>Rohit Sharma</batsman>
+				<batsman-name>Rohit</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1446</playerid>
+				<nbr>2</nbr>
+				<runs>190</runs>
+				<overs>27.4</overs>
+				<batsman>Shikhar Dhawan</batsman>
+				<batsman-name>Dhawan</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>13</wides>
+			<noballs>0</noballs>
+			<legbyes>2</legbyes>
+			<penalty>0</penalty>
+			<total>19</total>
+		</extras>
+		<bowlteam name="Ireland">
+			<players>
+				<player>
+					<playerid>622</playerid>
+					<name>John Mooney</name>
+					<bowler-name>J Mooney</bowler-name>
+					<bowler-nickname>J Mooney</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>0</wickets>
+					<wides>4</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>735</playerid>
+					<name>Alex Cusack</name>
+					<bowler-name>Cusack</bowler-name>
+					<bowler-nickname>Cusack</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>43</runsoff>
+					<wickets>0</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7985</playerid>
+					<name>Stuart Thompson</name>
+					<bowler-name>S Thompson</bowler-name>
+					<bowler-nickname>S Thompson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6</overs>
+					<maidens>0</maidens>
+					<runsoff>45</runsoff>
+					<wickets>2</wickets>
+					<wides>8</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6329</playerid>
+					<name>George Dockrell</name>
+					<bowler-name>Dockrell</bowler-name>
+					<bowler-nickname>Dockrell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>44</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1114</playerid>
+					<name>Paul Stirling</name>
+					<bowler-name>Stirling</bowler-name>
+					<bowler-nickname>Stirling</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>36</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>690</playerid>
+					<name>Kevin O'Brien</name>
+					<bowler-name>K O'Brien</bowler-name>
+					<bowler-nickname>K O'Brien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6.5</overs>
+					<maidens>0</maidens>
+					<runsoff>42</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>625</playerid>
+					<name>William Porterfield</name>
+					<bowler-name>Porterfield</bowler-name>
+					<bowler-nickname>Porterfield</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>540</playerid>
+					<name>Ed Joyce</name>
+					<bowler-name>Ed Joyce</bowler-name>
+					<bowler-nickname>Ed Joyce</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6710</playerid>
+					<name>Andrew Balbirnie</name>
+					<bowler-name>Balbirnie</bowler-name>
+					<bowler-nickname>Balbirnie</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>691</playerid>
+					<name>Niall O'Brien</name>
+					<bowler-name>N O'Brien</bowler-name>
+					<bowler-nickname>N O'Brien</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>739</playerid>
+					<name>Gary Wilson</name>
+					<bowler-name>G Wilson</bowler-name>
+					<bowler-nickname>G Wilson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

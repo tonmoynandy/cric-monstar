@@ -1,0 +1,1038 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="12892" >
+		<type>ODI</type>
+		<gameDesc>38th Match, Pool A</gameDesc>
+		<series>WC 2015</series>
+		<matchday>1</matchday>
+		<home>Afghanistan</home>
+		<away>England</away>
+		<teamsabbr>AFG vs ENG</teamsabbr>
+		<homeabbr>AFG</homeabbr>
+		<awayabbr>ENG</awayabbr>
+		<homeId>96</homeId>
+		<awayId>9</awayId>
+		<venue>Sydney Cricket Ground, Sydney</venue>
+		<startdate>13 03 2015</startdate>
+		<enddate>13 03 2015</enddate>
+		<toss>
+			<winner>England</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Eng won by 9 wkts (D/L method)</status>
+		<result type="win">
+			<winningteam>England</winningteam>
+			<wonbyruns></wonbyruns>
+			<wonbywickets>9</wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Billy Bowden</Name>
+			<Country>NZ</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>S Ravi</Name>
+			<Country>Ind</Country>
+		</Umpire2>
+		<ThirdUmpire>
+			<Name>Marais Erasmus</Name>
+			<Country>RSA</Country>
+		</ThirdUmpire>
+		<MatchReferee>
+			<Name>David Boon</Name>
+			<Country>Aus</Country>
+		</MatchReferee>
+		</umpires>
+		<starttimeGMT>03:30</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150313110704</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>2</currentinningsno>
+		<batteamname>Eng</batteamname>
+		<bwlteamname>AFG</bwlteamname>
+		<batteamruns>101</batteamruns>
+		<batteamwkts>1</batteamwkts>
+		<batteamovers>18.1</batteamovers>
+		<status>Eng won by 9 wkts (D/L method)</status>
+		<batsman>
+			<playerid>385</playerid>
+			<name>Ian Bell</name>
+			<batsman-name>Bell</batsman-name>
+			<batsman-nickname>Bell</batsman-nickname>
+			<runs>52</runs>
+			<balls-faced>56</balls-faced>
+			<fours>6</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<batsman>
+			<playerid>6500</playerid>
+			<name>James Taylor</name>
+			<batsman-name>James Taylor</batsman-name>
+			<batsman-nickname>James Taylor</batsman-nickname>
+			<runs>8</runs>
+			<balls-faced>20</balls-faced>
+			<fours>0</fours>
+			<sixes>0</sixes>
+		</batsman>
+		<bowler>
+			<playerid>3007</playerid>
+			<name>Mohammad Nabi</name>
+			<bowler-name>Nabi</bowler-name>
+			<bowler-nickname>Nabi</bowler-nickname>
+			<overs>4.1</overs>
+			<maidens>0</maidens>
+			<runs>14</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<bowler>
+			<playerid>8029</playerid>
+			<name>Dawlat Zadran</name>
+			<bowler-name>Dawlat Zadran</bowler-name>
+			<bowler-nickname>Dawlat Zadran</bowler-nickname>
+			<overs>3</overs>
+			<maidens>0</maidens>
+			<runs>23</runs>
+			<wickets>0</wickets>
+		</bowler>
+		<maxovers>25</maxovers>
+		<target>101</target>
+<lastwicket>
+<playerid>6734</playerid>
+<name>Alex Hales</name>
+<player-runs>37</player-runs>
+<player-balls>33</player-balls>
+<runs>83</runs>
+<wicket-nbr>1</wicket-nbr>
+<bowlerid>3001</bowlerid>
+<bowlername>Hamid</bowlername>
+</lastwicket>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>4</total>
+		</extras>
+		<prevOvers><![CDATA[. 1 L1 . Wd . 1 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . 1 4 1 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . . 2 . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_WC/AFG_ENG_MAR13/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+			<line><![CDATA[That's it from us! Afghanistan, thank you for all the entertainment and we wish you good luck going forward. It has been a disappointing tournament for England. Hopefully, things will be better very soon. We have another double-header tomorrow. India take on Zimbabwe in Auckland, while Australia play Scotland in Hobart. Looking forward to your company then. Take care. Goodbye!]]></line><line><![CDATA[Let's take a look at some of the best <b>tweets</b> about this game: ]]></line><line><![CDATA[<b>@bhogleharsha:</b> Well played Afghanistan. Watched you play your first game at the world t20 and haven't been disappointed since. #ENGvsAFG]]></line><line><![CDATA[<b>@MichaelVaughan:</b> Really hope it's not the last time we see Afghanistan at a World Cup... We need to expand the game not reduce it @ICC ...#CWC15]]></line><line><![CDATA[<b>@cricketaakash:</b> Afghanistan is one the bright spots of this World Cup. Thoroughly enjoyed watching them play. Spirited. #ChaseCricket with @AltoK10]]></line><line><![CDATA[<b>@clutchplay:</b> England cricketers bragging to the other Test teams: We still have the best team... football team that is]]></line><line><![CDATA[<b>@MalhotraSaurabh:</b>  Congratulations England for winning the battle of the minnows.]]></line><line><![CDATA[<b>@mohanstatsman:</b> No "data" required for this win as England head home to prepare for the 2019 World Cup #EngvAfg #CWC15]]></line><line><![CDATA[<b>Morgan</b>: "We've learned a lot from this tournament. Sometimes, it's not bad to experience some defeats, so when success comes along you do relish it as a side. It will be a first time experience for a lot of the younger guys, but nice to finish with a win. I think we have a good squad of players, who are here and it's important to realise that we haven't clicked in this World Cup. I think for a couple of months now we have had some good games, but when we've been poor we've been really poor. This is the key to being a consistent side and that's a result of where we are. It's certainly been challenging (captaincy). I've learnt a lot about myself and about all the players. I've learnt a lot from Peter Moores as a coach and I got to know him a lot better. Spent a lot more time with him as captain. I've enjoyed that and certainly my experiences before have been a little bit better than this tournament. The hunger is still there. We'll sit down over the next couple of weeks and there will be a review of the whole tournament and our one-day cricket. There will be a lot of basic answers as to why things have gone wrong and how we can fix them. But ultimately, it's about performance."]]></line><line><![CDATA[<b>Nabi</b>: "It was a bad toss to lose. The conditions were suitable for the English bowlers and they bowled in good areas. And also it was difficult to adjust with the start-stop rain. They bowled brilliantly and swung it both ways and it's hard to adjust in those conditions. We've learned a lot playing against full member nations, how to play well and how to build pressure. Hopefully we'll try our best for the next World Cup. That was a good memory for the whole team as well, it was our first victory in the World Cup (talking about the win against Scotland). The talent in Afghanistan is quite good, but we don't have great experience at this level. Maybe if we play 7-8 games an year against big teams, it will be good."]]></line><line><![CDATA[<b>Jordan</b>: "It's nice to get this award tonight. I thought at the top, Jimmy (James Anderson) and Broady (Stuart Broad) set the tone for me to come in and do what I did. It was a little bit helpful (talking about the overcast conditions), there was a little bit of nip and little bit of swing. So, I was just trying to put the ball in good areas and I got my rewards in the end. Obviously not the best memories given the other night, but any time you're playing for England, you've got to enjoy the experience and I've enjoyed tonight. It's a shame we couldn't go further in the tournament, hopefully we will be back better next time. I need to improve my consistency, my grouping of balls and also at the back end of the innings in my batting as well. If I can get my full game come together like that, hopefully I can win a few more games for England."]]></line><line><![CDATA[<b>Chris Jordan</b> is the <b>Man of the Match</b> for his <b>2/13</b>]]></line><line><![CDATA[Meanwhile, rain kept playing hide and seek in Sydney as play had to be stopped thrice during Afghanistan's innings. After the second delay, the match was reduced to 45 overs and by the time rain came down for the third time, Afghanistan were 111/7 after 36.2 overs. That was the last of what we saw of the Afghan batsmen in this World Cup. Play only got underway after a lengthy delay and England were given a target of 101 off 25 overs.<br/>]]></line><line><![CDATA[Earlier, England won the toss and sent Afghanistan in to bat in overcast conditions. Afghanistan's openers started off well as they kept out the English bowlers for the first six overs. However, Anderson took the wicket of Mangal when the team score was 17 and triggered a mini-collapse. By the time they doubled their total, Afghanistan had already lost 3 more wickets in that period and were reeling at 34/4.]]></line><line><![CDATA[Afghanistan's fielding was extremely disappointing and it cost them Hales' wicket twice. In addition to that, they gave away way too many runs in the field. Their fielding was very poor as they let a number of balls slip away to the fence. Hales' luck finally gave up after he made a quickfire 37 off just 33 balls as he ended up edging one of Hamid Hassan's delivery to the keeper. That was the only casualty England suffered and with Taylor and Bell, who completed his fifty too, they finally achieved the target in the 19th over.<br/>]]></line><line><![CDATA[England should have lost Hales in the first over, but luckily for them, he was dropped on 0 by Najibullah at backward point. The English batsmen made their intent clear when Bell lofted Shapoor through extra cover in the first over itself. Hales then tonked Dawlat for a magnificent six in the very next over. In the 5th over, Hales provided another chance to the Afghans, an action replay of the first dropped chance, but Najibullah floored it once more. After that both of them were knocking the ball around, picking up singles and dispatching the poor ones to the fence.]]></line><line><![CDATA[Both teams go out of the tournament, but Afghanistan will be the happier of the two sides. The players shake hands. Hamid Hassan has a chat with Bell as they go off the field.]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, <b>England manage to bag a consolation win</b>. Low full toss on the leg stump, Bell flicks it towards mid-wicket and sets off for a sharp run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi [4.0-0-13-0] is back into the attack</b>]]></line><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to James Taylor, no run, short and wide outside off stump, Taylor goes for the pull, but toe-ends it towards mid-off]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to James Taylor, 2 runs, back of a length delivery outside off stump, Taylor slices it to third man. <b>Scores are level</b>]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to James Taylor, no run, short of length delivery just outside off stump, Taylor taps it towards short cover]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to James Taylor, no run, short of length delivery on the off stump, Taylor defends off the back foot]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Bell, 1 run, just a bit of outswing on this good length delivery, Bell looks to drive but gets an inside edge that goes to long leg]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Bell, no run, good length delivery outside off stump, Bell plays the cut but misses]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [2.0-0-20-0] is back into the attack</b>]]></line><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Shapoor to James Taylor, no run, gets across the stumps and defends the short of length delivery off the back foot]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Shapoor to Bell, 1 run, <b>35th ODI fifty</b>, short of length delivery outside off stump, Bell runs it to third man and raises his bat to acknowledge the applause]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Shapoor to Bell, <b>FOUR</b>, good length delivery outside off stump, Bell tries to guide it down to third man, but gets a thickish edge that flies over the man at first slip. Bell is on 49 now and England are just one hit away]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Shapoor to James Taylor, 1 run, short of length delivery outside off stump, Taylor taps it towards short cover and sets off]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Shapoor to James Taylor, no run]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Shapoor to James Taylor, no run, short and wide outside off stump, Taylor goes for the pull but misses it, he went early into the pull shot]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Shapoor to James Taylor, no run, short of length delivery outside off stump, Taylor hops and defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Shapoor Zadran [3.0-0-19-0] is back into the attack</b>]]></line><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Hamid to James Taylor, 1 run, full and outside off stump, Taylor drives it to mid-on]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Hamid to James Taylor, no run, short of length delivery on the off stump, Taylor pulls it to mid-wicket]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Hamid to James Taylor, <b>wide</b>, low full toss down the leg-side, Taylor fails to tickle it away on its way]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Hamid to James Taylor, no run, shortish and outside off stump, Taylor rocks back and cuts it to point]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Hamid to Bell, leg byes, 1 run, full and down the leg-side, Bell misses the flick and gets hit on the pad]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Hamid to James Taylor, 1 run, good length delivery on the off stump, Taylor pushes it to mid-on]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Hamid to James Taylor, no run, short of length delivery outside off stump, Taylor defends off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Nabi to James Taylor, 1 run, again opts for the paddle and sends it to fine leg]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, gets down on one knee and paddles the flighted delivery to fine leg]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Nabi to James Taylor, 1 run, low full toss, Taylor taps it to cover, where the fielder fumbles]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Nabi to James Taylor, no run, flatter delivery outside off stump, dabbed to point]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Nabi to James Taylor, no run, tries to flick off the front foot but the ball turns more than he expected and hits him on the pad. It was going down the leg-side though]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Nabi to James Taylor, no run, flighted delivery on the off stump, flicked to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, bit of extra bounce on this short of length delivery, Bell looks to leave but ends up guiding it towards slip]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Hamid to James Taylor, 1 run, on the off stump, Taylor turns it to short mid-wicket and sets off for a sharp run]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Hamid to James Taylor, no run, good length delivery swinging back in, Taylor defends off the front foot]]></line><line><![CDATA[<b>James Taylor, right handed bat, comes to the crease</b>]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Hamid to Hales, <b>out</b> Caught by Zazai!! Edged and taken. Good length delivery outside off stump, Hales looks to defend, ends up feeling for the ball and gets an outside edge which is easily held by the keeper. Maybe, the ball just nipped away off the deck. <b>Hales c Zazai b Hamid 37(33) [4s-3 6s-2]</b>]]></line><line><![CDATA[Hamid to Hales, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Hamid to Hales, 2 runs, driven along the ground to deep extra-cover]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Hamid to Bell, 3 runs, short and outside off stump, Bell rocks back and pulls it to deep mid-wicket, two fielders were approaching the ball, both left it for each other initially, but Dawlat reacted just in time to stop the ball from reaching from boundary]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan [3.0-0-8-0] is back into the attack</b>]]></line><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, spinning past the leg stump, Bell works it behind square on the on-side]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;Nabi to Bell, no run, the straighter one from Nabi, Bell defends off the front foot]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;Nabi to Bell, no run, tossed up outside off stump, Bell defends it to mid-wicket]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;Nabi to Hales, 1 run, down the leg-side, flicked to backward square leg]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;Nabi to Hales, no run, on the leg stump, Hales defends]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;Nabi to Hales, 2 runs, full and outside off stump, Hales opens the face of the bat and runs it down to third man]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Shenwari to Hales, 1 run, short and outside off stump, cut to sweeper cover]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Shenwari to Hales, <b>SIX</b>, flighted delivery on the leg stump, Hales gets down on one knee and sweeps it over backward square leg. The ball goes all the way over the boundary]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Shenwari to Bell, 1 run, shortish and on the stumps, pulled to deep mid-wicket]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Shenwari to Bell, <b>FOUR</b>, misfield again! Low full toss on the leg stump, Bell flicks it along the ground, Hamid Hassan runs ro his left and gets to the ball, but the he fumbles and it gets to the boundary]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Shenwari to Bell, no run, goes deep in the crease and delays the cut, times it very well and the man at backward point makes a good save]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Shenwari to Bell, no run, spinning away outside off stump, Bell opens the face of the bat and guides it to point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;Nabi to Hales, no run, tossed up outside off stump, Hales steps out and defends]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;Nabi to Hales, 2 runs, punched off the back foot and along the ground to long-on]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;Nabi to Hales, no run, very full from Nabi, Hales flicks it to mid-wicket]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, on the leg stump, turned to mid-wicket]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;Nabi to Bell, no run, advances and flicks it straight to mid-wicket as he doesn't get to the pitch of the ball]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;Nabi to Bell, no run, flighted delivery just outside off stump, Bell defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Shenwari to Bell, 1 run, short and spinning away outside off stump, punched to sweeper cover]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Shenwari to Bell, no run, cut nicely again, but straight to backward point]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Shenwari to Bell, no run, appeal for LBW, but it was going down the leg-side. The skidder from Shenwari, Bell misses the flick and gets hit on the pad]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Shenwari to Bell, <b>FOUR</b>, oh dear, another fumble! Short and on the off stump again, Bell pulls well through mid-wicket, the fielder in the deep runs to his right and gets there, but misfields the ball as he slides]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Shenwari to Bell, no run, shortish and outside off stump, cut straight to backward point]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Shenwari to Bell, 2 runs, short and on the off stump, Bell pulls it wide of mid-on, who tumbles and fumbles the ball]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Samiullah Shenwari, right-arm leg break, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, to backward square leg]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, bit of extra bounce and spin on this flighted delivery, Bell turns it to square leg]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;Nabi to Hales, 1 run, on the leg stump, Hales flicks it to mid-wicket]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;Nabi to Hales, no run, spinning back in and beats Hales' attempted forward defence, hits him just outside the line of off stump though]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;Nabi to Hales, no run, on the off stump, Hales flicks it to mid-wicket]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;Nabi to Bell, 1 run, full and outside off stump, Bell pushes it to backward point]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;Nabi to Bell, leg byes, 2 runs, bit of spin there for Nabi. Bell tries to flick, but the ball brushes the thigh pad and rolls to fine leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Mohammad Nabi, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Hamid to Bell, 1 run, allows the length ball to come and guides it down to third man]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, back of a length and on the off stump, Bell defends off the back foot]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Hamid to Bell, 2 runs, driven down to mid-on, but the fielder fumbles and allows the second run]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, full and angling into the right-hander, Bell misses the flick and gets hit on the pad. The ball was going down the leg-side]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, fine yorker on the off stump, Bell digs it out]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, feels for the ball away from the body and gets beaten]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, no run, good length delivery on the off stump, Hales defends and gets an inside edge onto pad. There was a huge appeal for LBW, but the umpire spotted the edge]]></line><line><![CDATA[Some sawdust being applied around the bowler's landing area.]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, no run, short and on the leg stump, Hales ducks under it]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, no run, short of length delivery just outside off stump, defended off the back foot]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, <b>FOUR</b>, edged but it's gone over the keeper. Short and on the stumps, Hales rocks back and pulls, gets a top edge and it flies over the diving keeper, who tried to jump high and grab it with his right hand]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, <b>FOUR</b>, short and on the leg stump, Hales rocks back and pulls it over square leg and it rocketed to the boundary]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, no run, short of length delivery outside off stump, Hales guides gently into the off-side]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran [1.0-0-12-0] is back into the attack</b>]]></line><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, gets right behind the line of this short of length delivery and defends easily]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, short of length delivery outside off stump, Bell shoulders arms]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, good leave. Short of a length delivery outside off stump, the ball jags back in off the deck, but Bell covers the stumps and lets it go]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Hamid to Hales, 1 run, full and angling into the right-hander, Hales works it wide of mid-on]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Hamid to Bell, 3 runs, low full toss outside off stump, driven wide of mid-off and it's good enough for three]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, this good length delivery nips back in but Bell opts to let it go to the keeper]]></line><end-of-over>end of over</end-of-over><line><![CDATA[End of the mandatory powerplay.]]></line><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;Shapoor to Bell, 1 run, short of length delivery outside off stump, steered to third man]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;Shapoor to Bell, no run, moving away outside off stump, left alone]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;Shapoor to Hales, 1 run, good length delivery outside off stump, guided to third man]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;Shapoor to Hales, no run, "catch ittt" is the cry and <b>Hales has been dropped again</b>. It's Najibullah again. Full and outside off stump, Hales plays the square-drive and hits it to backward point, where the fielder moves to his left and grasses the ball despite getting both hands to it]]></line><line><![CDATA[There is a man at leg slip now as Shapoor comes round the wicket]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;Shapoor to Hales, <b>FOUR</b>, cut very hard and even the man at sweeper had no chance. Shortish and outside off stump, Hales cuts uppishly but to the left of the man at short cover-point, sweeper runs to his left but the ball wins the race]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;Shapoor to Bell, 1 run, low full toss outside off stump, driven to sweeper cover]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Hamid to Bell, 1 run, full and outside off stump, Bell leans forward and drives, gets a thickish edge that rolls to third man. Shapoor fumbles the ball, but they don't take the extra run]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, another inside edge onto pad. Bell looks to play on the on-side, Bell doesn't move his feet much and fails to make proper contact]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, short of length and outside off stump, defended to backward point]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, full and outside off stump, Bell goes for the drive and gets beaten. The ball just nipped away on that occasion]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, Bell looks for the off-drive but gets it on the inside half of the bat and rolls to mid-on]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Hamid to Bell, no run, appeal for <b>LBW</b>, but there was a big inside edge. Good length delivery angling into the right-hander, Bell looks to defend and gets an inside edge onto pad]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hamid Hassan, right-arm fast, comes into the attack</b>]]></line><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;Shapoor to Hales, no run, good length delivery outside off stump, Hales was just ball-watching on that occasion]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;Shapoor to Hales, no run, full and outside off stump, left alone]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;Shapoor to Bell, 1 run, full and outside off stump, driven softly to sweeper cover]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;Shapoor to Bell, <b>FOUR</b>, now he's crashed this. Overpitched and outside off stump, Bell plays a lovely little uppish square-drive, he ended up slicing it over cover-point and it went away to the boundary]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;Shapoor to Bell, no run, good length delivery outside off stump, Bell defends off the back foot]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;Shapoor to Bell, 2 runs, in the air and just over the fielder again. Good length delivery outside off stump, Bell lofts this with an angled bat, the ball goes over the diving fielder at cover-point and it is just flicked back in time before it hits the rope]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, no run, this length ball bounces extra and surprises Hales as he looks to cut, the ball hits him high on the bat and rolls into the off-side]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, no run, back of a length and just outside off stump, Hales defends off the back foot]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Dawlat Zadran to Bell, 1 run, short of length on the stumps, knocked wide of mid-on]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Dawlat Zadran to Bell, <b>FOUR</b>, Dawlat Zadran is not learning his lessons. With three slips in place, Dawlat opts to bang the ball short again for some reason, Bell has enough time to rock back and pull it through mid-wicket]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, 1 run, in the airrrrrr and just over the man at mid-on. Dawlat Zadran attempts another bumper, Hales goes early into the pull shot and gets it off the toe end of the bat, mid-on runs back but the ball evades him]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Dawlat Zadran to Hales, <b>SIX</b>, rank long hop to start with and Hales sends it all the way. Short and not rising much, Hales goes on the back foot and pulls powerfully over backward square leg, the ball goes all the way]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Dawlat Zadran, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;Shapoor to Bell, <b>FOUR</b>, hit deliberately in the air and in the gap as well. Good length delivery outside off stump, Bell leans forward and drives on the rise, there is no one at extra-cover and Bell opens his account in style]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;Shapoor to Bell, no run, short of length delivery wide outside off stump, Bell looks for the cut but misses]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;Shapoor to Hales, 1 run, full and outside off stump, Hales drives it wide of mid-off and sets off. England and Hales are away]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;Shapoor to Hales, no run, <b>dropped</b>. Looks like it is Najibullah, who has put down the catch. Fullish and outside off stump, Hales drives away from the body, gets a thickish edge that flies to backward point, he almost sliced that, the fielder dives forward and gets both hands to it, but spills it]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;Shapoor to Hales, no run, steeply rising short of length delivery just outside off stump, Hales defends off the back foot]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;Shapoor to Hales, no run, short of length delivery angling away from the right-hander, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Hales and Bell are at the crease. Hales is on strike. Shapoor will open the attack</b>]]></line><line><![CDATA[Three slips in place. Shapoor to start from round the wicket.]]></line><line><![CDATA[The players are making their way out to the middle.]]></line><line><![CDATA[<b>20:30 Local Time, 09:30 GMT, 15:00 IST:</b> It is official. The <b>game will resume at 20:45</b>. England need 101 off 25 overs.]]></line><line><![CDATA[<b>20:25 Local Time, 09:25 GMT, 14:55 IST:</b> The outfield is being roped as the umpires have an inspection. Play is expected to start around <b>20:45</b>]]></line><line><![CDATA[<b>20:05 Local Time, 09:05 GMT, 14:35 IST:</b> The rain has stopped and the covers are being taken off. The umpires will have another inspection at <b>20:30</b>]]></line><line><![CDATA[<b>20:00 Local Time, 09:00 GMT, 14:30 IST:</b> It is official that Afghanistan's innings has ended. The covers are still on at the SCG. The umpires are having a look. Not sure if it has stopped raining though.]]></line><line><![CDATA[<b>19:40 Local Time, 08:40 GMT, 14:10 IST:</b> It is still raining at the SCG and things are not looking great at the moment. The <b>cut-off time</b> for a 20-over game is <b>21:06</b>.]]></line><line><![CDATA[<b>19:30 Local Time, 08:30 GMT, 14:00 IST:</b> Oops! Just as the umpires were about to make an inspection, the rain returned. Covers are back on.]]></line><line><![CDATA[<b>19:25 Local Time, 08:25 GMT, 13:55 IST:</b> Looks like the puddles on the outfield have been cleared.]]></line><line><![CDATA[<b>19:09 Local Time, 08:09 GMT, 13:39 IST:</b> The rain has stopped and the covers are coming off. Umpires will have an inspection in about 20 minutes from now.]]></line><line><![CDATA[<b>England Cricket's tweet:</b> The scene @scg - rain really heavy. Prospects of further play do not look promising at the moment. #EngvAfg #CWC15]]></line><line><![CDATA[<b>18:43 Local Time, 07:43 GMT, 13:13 IST:</b> It's coming down very heavy at the moment. There are puddles on the outfield. Looks like we are in for a long delay.]]></line><line><![CDATA[<b>18:30 Local Time, 07:30 GMT, 13:00 IST:</b> The rain is steady and this could well be the end of Afghanistan's innings. I think it will be officially confirmed in another 15-20 minutes.]]></line><line><![CDATA[<b>18:14 Local Time, 07:14 GMT, 12:45 IST:</b> The rain has got heavier and the umpires have decided to take the players off the field. This is the third rain break today. Remember, we have already started losing overs and the game will be curtailed further.]]></line><line><![CDATA[36.2&nbsp;&nbsp;&nbsp;Jordan to Najibullah, no run, great response from Jordan, bowls a steep bouncer, Najibullah looks to fend and gets hit on the glove]]></line><line><![CDATA[36.1&nbsp;&nbsp;&nbsp;Jordan to Najibullah, <b>FOUR</b>, full and outside off stump, Najibullah waits for the ball to come and smashes it back over mid-on and it almost went all the way]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan [6.0-2-9-2] is back into the attack</b>]]></line><line><![CDATA[It is drizzling out there again, but we are continuing for now.]]></line><line><![CDATA[Time for the <b>batting powerplay</b>. Remember, it is only for 4 overs.]]></line><line><![CDATA[35.6&nbsp;&nbsp;&nbsp;Broad to Hamid, no run, yorker and outside off stump, Hamid digs it out]]></line><line><![CDATA[35.5&nbsp;&nbsp;&nbsp;Broad to Hamid, no run, good length delivery outside off stump, Hamid slashes and misses]]></line><line><![CDATA[35.4&nbsp;&nbsp;&nbsp;Broad to Najibullah, 1 run, short of length delivery outside off stump, punched off the back foot to cover]]></line><line><![CDATA[35.3&nbsp;&nbsp;&nbsp;Broad to Najibullah, no run, good length delivery outside off stump, Najibullah plays inside the line and gets beaten]]></line><line><![CDATA[35.2&nbsp;&nbsp;&nbsp;Broad to Najibullah, no run, short from round the wicket, Najibullah ducks under it]]></line><line><![CDATA[35.1&nbsp;&nbsp;&nbsp;Broad to Najibullah, no run, fuller length delivery outside off stump, Najibullah defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[34.6&nbsp;&nbsp;&nbsp;Tredwell to Najibullah, 1 run, tossed up outside off stump, Najibullah drives it to long-off]]></line><line><![CDATA[34.5&nbsp;&nbsp;&nbsp;Tredwell to Najibullah, <b>FOUR</b>, flighted delivery down the leg-side, Najibullah gets down on one knee and smashes the sweep through backward square leg]]></line><line><![CDATA[<b>Hamid Hassan, right handed bat, comes to the crease</b>]]></line><line><![CDATA[34.4&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, <b>out</b> Caught by Bopara!! Excellent catch from Bopara. Flighted delivery on the stumps, Shafiqullah goes for the slog-sweep, gets a top edge, Jordan was running to his right from deep mid-wicket as Bopara runs to his left from deep backward square leg. There was a slight misunderstanding between the two as to who was going for the catch. Bopara called for it just in time, ran and dived forward to take a good low catch. <b>Shafiqullah c Bopara b Tredwell 30(64) [4s-1]</b>]]></line><line><![CDATA[Tredwell to Shafiqullah, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[34.3&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, flighted delivery, Shafiqullah defends]]></line><line><![CDATA[34.2&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, gets down on on knee and tries to paddle it fine, but the ball grips and turns, it bounced extra as well and beat the batsman]]></line><line><![CDATA[34.1&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, flighted delivery on the stumps, Shafiqullah flicks it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[33.6&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, 1 run, fullish and outside off stump, Shafiqullah leans forward and defends it to the right of backward point]]></line><line><![CDATA[33.5&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, no run, down the leg-side, Shafiqullah tries to help it on its way and misses]]></line><line><![CDATA[33.4&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, 2 runs, opens the face of the bat and guides the fuller length delivery to third man. <b>100 up for Afghanistan</b>]]></line><line><![CDATA[33.3&nbsp;&nbsp;&nbsp;Broad to Najibullah, 1 run, down the leg-side, tickled it to backward square leg]]></line><line><![CDATA[33.2&nbsp;&nbsp;&nbsp;Broad to Najibullah, no run, fullish and outside off stump, Najibullah offers a compact defence from the crease]]></line><line><![CDATA[33.1&nbsp;&nbsp;&nbsp;Broad to Najibullah, no run, short of length delivery on the stumps, Najibullah defends off the back foot]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [6.0-1-13-1] is back into the attack</b>]]></line><line><![CDATA[32.6&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, on the off stump, Shafiqullah defends off the front foot]]></line><line><![CDATA[32.5&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 2 runs, turns this flighted delivery to backward square leg, Najibullah races back for the second and gets home before Tredwell disturbed the bails]]></line><line><![CDATA[32.4&nbsp;&nbsp;&nbsp;Tredwell to Najibullah, 1 run, a direct-hit would have been very interesting. Najibullah dabs this flighted delivery towards point, they take off for a run, Shafiqullah puts in the dive and makes his ground]]></line><line><![CDATA[32.3&nbsp;&nbsp;&nbsp;Tredwell to Najibullah, no run, flighted delivery from round the wicket, Najibullah defends]]></line><line><![CDATA[32.2&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 1 run, gets down on one knee and sweeps the flighted delivery along the ground to deep backward square leg]]></line><line><![CDATA[32.1&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, on the off stump, turned to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[31.6&nbsp;&nbsp;&nbsp;Bopara to Najibullah, no run, on the off stump, Najibullah defends]]></line><line><![CDATA[31.5&nbsp;&nbsp;&nbsp;Bopara to Najibullah, no run, good length delivery outside off stump, left alone]]></line><line><![CDATA[<b>Najibullah Zadran, left handed bat, comes to the crease</b>]]></line><line><![CDATA[31.4&nbsp;&nbsp;&nbsp;Bopara to Nabi, <b>out</b> Caught by Tredwell!! In the air and straight to mid-on. The skipper has thrown it away looking for some big hits. Nabi shakes his head in disappointment. Short of a length delivery from Bopara, Nabi goes for the pull but hits it very straight and Tredwell takes an easy catch around shoulder height. <b>Nabi c Tredwell b Bopara 16(17) [4s-1 6s-1]</b>]]></line><line><![CDATA[Bopara to Nabi, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[31.3&nbsp;&nbsp;&nbsp;Bopara to Nabi, no run, good length just outside off stump, Nabi defends from the crease]]></line><line><![CDATA[31.2&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, fullish and outside off stump, Shafiqullah opens the face of the bat and pushes it through cover-point]]></line><line><![CDATA[31.1&nbsp;&nbsp;&nbsp;Bopara to Nabi, 1 run, good length delivery on the off stump, turned to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The keeper is up to the stumps now]]></line><line><![CDATA[30.6&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, tossed up outside off stump, defended to cover]]></line><line><![CDATA[30.5&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 2 runs, turns this wide of mid-wicket, Nabi rushes back for the second and makes his ground]]></line><line><![CDATA[30.4&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, around the off stump, punched towards short mid-wicket]]></line><line><![CDATA[30.3&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, flatter and a touch shorter as well, punched back to the bowler]]></line><line><![CDATA[30.2&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, leans forward and defends this flighted delivery to the left of the bowler]]></line><line><![CDATA[30.1&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, on the leg stump, defended]]></line><end-of-over>end of over</end-of-over><line><![CDATA[29.6&nbsp;&nbsp;&nbsp;Bopara to Nabi, 2 runs, full and outside off stump, Nabi leans forward and drives it to deep extra-cover for a couple of runs]]></line><line><![CDATA[29.5&nbsp;&nbsp;&nbsp;Bopara to Nabi, no run, <b>almost knocked him over</b>. Good length delivery on the stumps, Nabi goes for an ugly slog, misses it and the ball just goes past the leg stump]]></line><line><![CDATA[29.4&nbsp;&nbsp;&nbsp;Bopara to Nabi, no run, slower ball outside off stump, Nabi adjusts and defends]]></line><line><![CDATA[29.3&nbsp;&nbsp;&nbsp;Bopara to Nabi, no run, short of length delivery just outside off stump, Nabi defends it to mid-on]]></line><line><![CDATA[29.2&nbsp;&nbsp;&nbsp;Bopara to Nabi, <b>FOUR</b>, short and outside off stump, Nabi dances down the track and slaps it hard over cover-point, he also went leg-side a bit to free his arms and times it very well]]></line><line><![CDATA[29.1&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, very full slower ball from Bopara, Shafiqullah gently turns it to mid-wicket]]></line><end-of-over>end of over</end-of-over><line><![CDATA[28.6&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 1 run, quicker ball from Tredwell, Shafiqullah works it wide of mid-on]]></line><line><![CDATA[28.5&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, spinning back in, defended to mid-wicket]]></line><line><![CDATA[28.4&nbsp;&nbsp;&nbsp;Tredwell to Nabi, 1 run, opens the face of the bat and drives it along the ground to sweeper cover]]></line><line><![CDATA[28.3&nbsp;&nbsp;&nbsp;Tredwell to Nabi, no run, flighted delivery on the leg stump, driven to the right of the bowler]]></line><line><![CDATA[28.2&nbsp;&nbsp;&nbsp;Tredwell to Nabi, <b>SIX</b>, excellent shot from the skipper. He gave it all. Slower through the air from Tredwell, Nabi steps out, gets closer to the pitch of the ball and muscles it inside-out over extra-cover]]></line><line><![CDATA[28.1&nbsp;&nbsp;&nbsp;Tredwell to Nabi, no run, flighted delivery on the off stump, Nabi defends from the crease]]></line><end-of-over>end of over</end-of-over><line><![CDATA[27.6&nbsp;&nbsp;&nbsp;Bopara to Nabi, 1 run, guides this with an angled bat down to third man]]></line><line><![CDATA[27.5&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, drives this fuller length to mid-on and sets off, Tredwell has a shy at the stumps but misses. Anyway, Shafiqullah would have been home as he put in a full length dive]]></line><line><![CDATA[27.4&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, Bopara drags his length back, Shafiqullah defends off the back foot]]></line><line><![CDATA[27.3&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, <b>FOUR</b>, in the air and in the gap. Full and angling into the right-hander, Shafiqullah allows the ball to come and lofts it over wide long-on for four]]></line><line><![CDATA[27.2&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, short of length delivery shaping back in, Shafiqullah gets an inside edge onto pad as he looks to guide it to third man]]></line><line><![CDATA[27.1&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, bit of inswing on this fuller length delivery, Shafiqullah drives it to mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[26.6&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 1 run, spinning down the leg-side, Shafiqullah glances it behind square on the on-side]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Tredwell to Nabi, 1 run, advances and looks to drive hard but gets it on the outside half of the bat and the ball goes to sweeper cover]]></line><line><![CDATA[26.5&nbsp;&nbsp;&nbsp;Tredwell to Nabi, 1 run, to sweeper cover]]></line><line><![CDATA[26.4&nbsp;&nbsp;&nbsp;Tredwell to Nabi, no run, spinning back in, Nabi defends off the front foot]]></line><line><![CDATA[Leg slip in place]]></line><line><![CDATA[26.3&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 1 run, flatter delivery outside off stump, punched to sweeper cover]]></line><line><![CDATA[26.2&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, on the stumps, turned into the on-side]]></line><line><![CDATA[26.1&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, flighted delivery on the off stump, Shafiqullah defends]]></line><end-of-over>end of over</end-of-over><line><![CDATA[25.6&nbsp;&nbsp;&nbsp;Bopara to Nabi, no run, almost another outside edge. Good length delivery outside off stump, Nabi pokes away from the body and gets beaten]]></line><line><![CDATA[25.5&nbsp;&nbsp;&nbsp;Bopara to Nabi, no run, short of length delivery outside off stump, Nabi defends off the back foot]]></line><line><![CDATA[<b>Mohammad Nabi, right handed bat, comes to the crease</b>]]></line><line><![CDATA[25.4&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, <b>out</b> Caught by Buttler!! It's another outside edge and that is an easy catch for the England vice-captain. Nothing but a length ball outside off stump, the ball swung away just a bit, Jamal looks to defend off the front foot, but doesn't lean fully forward, feels for the ball and gets a thick edge. End of a struggling knock from Nasir Jamal. <b>Nasir Jamal c Buttler b Bopara 17(52) [4s-2]</b>]]></line><line><![CDATA[Bopara to Nasir Jamal, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[25.3&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, width on offer outside off stump, Shafiqullah guides it down to third man]]></line><line><![CDATA[25.2&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, 1 run, stands tall and punches the back of a length delivery through cover-point]]></line><line><![CDATA[25.1&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, short of length delivery on the off stump, Shafiqullah flicks it to backward square leg]]></line><end-of-over>end of over</end-of-over><line><![CDATA[The batting powerplay for Afghanistan has been reduced to 4 overs. The players are making their way out to the middle.]]></line><line><![CDATA[<b>17:20 Local Time, 06:20 GMT, 11:50 IST:</b> The match has been reduced to 45-overs-a-side. A bowler can bowl a maximum of 9 overs. England will be chasing a D/L revised score]]></line><line><![CDATA[<b>17:15 Local Time, 06:15 GMT, 11:45 IST:</b> Rain is playing hide and seek. It has stopped for now and the covers are coming off. Play will resume in 15 minutes time, but we may lose a few overs.]]></line><line><![CDATA[<b>16:53 Local Time, 05:53 GMT, 11:23 IST:</b> It's started to drizzle once again and it has become harder. We will have another <b>rain delay</b>. Not great for both teams, once again the momentum will be lost. Hopefully, this was only be a passing shower]]></line><line><![CDATA[24.6&nbsp;&nbsp;&nbsp;Tredwell to Nasir Jamal, no run, tossed up and just outside off, defended to the right of the bowler, Tredwell tumbles and stops it]]></line><line><![CDATA[24.5&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, 1 run, the sweep from Tredwell, rolls his wrists and gets a single behid square on the on-side]]></line><line><![CDATA[24.4&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, pushed through quicker and just outside off, defended back at the bowler]]></line><line><![CDATA[24.3&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, slower and well outside off, Shafiq lunges forward and blocks]]></line><line><![CDATA[24.2&nbsp;&nbsp;&nbsp;Tredwell to Nasir Jamal, 1 run, flighted and well outside off, dabbed in front of cover for a quick single]]></line><line><![CDATA[24.1&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, leg byes, 1 run, tossed up and on Shafiq's pads, he looks to work it towards the on-side and misses, the ball lobs off his pads]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.6&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, on a good length and just outside off, defended with soft hands]]></line><line><![CDATA[23.5&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, tad fuller and just outside off, Jamal presses forward and blocks]]></line><line><![CDATA[23.4&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, 1 run, short and on the stumps, Shafiq swivels across and gets a glove on the pull, the ball rolls away towards fine leg]]></line><line><![CDATA[23.3&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, no run, full toss from Broad, Shafiq shuffles across and clips it uppishly, almost found mid-on]]></line><line><![CDATA[23.2&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, 1 run, on a good length and well outside off, Jamal stabs at that and gets a thick edge towards third man]]></line><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, fuller length delivery and shaping away from outside off, Jamal is lured into the drive and is beaten on the outside edge]]></line><end-of-over>end of over</end-of-over><line><![CDATA[23.1&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, <b>wide</b>, another high bouncer from Broad, Jamal ducks under it, called as a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Drinks</b> are on the field now. It was tough on Afghanistan after they lost the toss. Under cloudy conditions, the English pacers made the ball talk, they weren't very impressive, but have the wickets to show for their efforts. Can Afghanistan bat out fifty overs?]]></line><line><![CDATA[22.6&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, slower and on off, defended back towards the bowler]]></line><line><![CDATA[22.5&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, pushed through flatter and just outside off, blocked back towards the bowler]]></line><line><![CDATA[22.4&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, Tredwell drifts one outside off, defended back towards the bowler]]></line><line><![CDATA[22.3&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, this one is flighted and just outside off, turned towards the on-side]]></line><line><![CDATA[22.2&nbsp;&nbsp;&nbsp;Tredwell to Shafiqullah, no run, tossed up and well outside off, defended back towards the bowler]]></line><line><![CDATA[22.1&nbsp;&nbsp;&nbsp;Tredwell to Nasir Jamal, 1 run, flighted and on the stumps, worked to the left of mid-wicket for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>James Tredwell, right-arm off break, comes into the attack</b>]]></line><line><![CDATA[21.6&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, no run, full and just outside off, Shafiq prods across and defends it towards cover-point]]></line><line><![CDATA[21.5&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, no run, that's nicely bowled by Broad, shortens his length and gets this one to drift across the right-hander, he pushed at that and was beaten]]></line><line><![CDATA[21.4&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, no run, fuller length delivery and well outside off, Shafiq leans forward and pushes it towards cover]]></line><line><![CDATA[21.3&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, 1 run, short of a length and well outside off, punched to the left of mid-off for a single]]></line><line><![CDATA[21.2&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, on a length and just outside off, Jamal presses across and defends it]]></line><line><![CDATA[21.1&nbsp;&nbsp;&nbsp;Broad to Shafiqullah, 1 run, fuller length delivery and on Shafiq's pads, nudged away behind square on the on-side for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad [4.0-1-8-1] is back into the attack</b>]]></line><line><![CDATA[20.6&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, <b>FOUR</b>, lovely on-drive from Jamal, this was full and on the stumps, he leans forward, presents the full face of the bat and punches it past mid-on. Morgan runs after the ball, slides and hauls it back in. But his arm was touching the rope as he did so, signalled as a boundary]]></line><line><![CDATA[20.5&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, on a good length and well outside off, dabbed straight to the fielder at backward point]]></line><line><![CDATA[20.4&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, the swivel pull now, short and on the stumps, Shafiq is quick to rock back and gets it away behind square on the on-side]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, 1 run, fuller length delivery and well outside off, driven past cover for a single]]></line><line><![CDATA[20.3&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, <b>wide</b>, Bopara sprays this one wider outside off, called by the umpire]]></line><line><![CDATA[20.2&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, fuller length delivery and shaping away from well outside off, left alone]]></line><line><![CDATA[20.1&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 1 run, short of a length and well outside off, pushed to the left of cover-point, he dives and misses, so does the man backing up, allows a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[19.6&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, <b>FOUR</b>, that's nicely played by Jamal, short and wide from Jordan, he's quick to rock back and cuts it square and in front of cover, the fielder gives chase but the ball races away to the fence]]></line><line><![CDATA[19.5&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, Jordan shortens his length outside off, pushed towards cover-point, off the back foot]]></line><line><![CDATA[19.4&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, back of a length and just outside off, Jamal shuffles across and defends it]]></line><line><![CDATA[19.3&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, fuller length delivery and well outside off, Jamal leans forward and pushes it towards cover]]></line><line><![CDATA[19.2&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, on a good length and just outside off, dabbed away straight to the fielder at backward point]]></line><line><![CDATA[19.1&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, this was short and angling down leg-side, Jamal gets inside the line, gets his bat and glove out of the way and lets it go. Buttler appealed for a caught behind and umpire Ravi was quick to raise his finger]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Nasir Jamal has been given out <b>caught behind</b>. He wants a <b>review</b>. Not a no-ball, looks like there's daylight between ball and the bat, no glove as well, nothing on the Snicko as well. Umpire Ravi's call will be changed and he does so]]></line><line><![CDATA[18.6&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, fuller length delivery and on the stumps, turned towards square leg]]></line><line><![CDATA[18.5&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 2 runs, too straight from Bopara, ends up drifting onto Shafiq's pads, nudged to the left of square leg for a brace]]></line><line><![CDATA[18.4&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, fuller length delivery and in that channel outside off, defended towards backward point]]></line><line><![CDATA[18.3&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, tad fuller and just outside off, Shafiq presses across and defends it]]></line><line><![CDATA[18.2&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, on a good length and on Shafiq's pads, he presses across and defends it]]></line><line><![CDATA[18.1&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, 2 runs, yorker length delivery and just outside off, Shafiq squeezes it past the slip cordon, comes back for the second run]]></line><end-of-over>end of over</end-of-over><line><![CDATA[17.6&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, Jordan keeps it short and just outside off, Jamal prods across and defends it]]></line><line><![CDATA[17.5&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, short of a length and just outside off, Jamal gets behind the line and defends it]]></line><line><![CDATA[17.4&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, 1 run, tad fuller and on off, Shafiq prods forward and pushes it in front of mid-off for a quick single]]></line><line><![CDATA[17.3&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, no run, on a good length and well outside off, Shafiq leans forward and defends it towards cover-point]]></line><line><![CDATA[17.2&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, 1 run, fuller length delivery and on Jamal's pads, nudged past mid-wicket for a single]]></line><line><![CDATA[17.1&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, on a good length and just outside off, Jamal gets behind the line and defends it towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[16.6&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, fuller length delivery and nipping away from outside off, Shafiq nearly went chasing after that, resists and lets it go]]></line><line><![CDATA[16.5&nbsp;&nbsp;&nbsp;Bopara to Shafiqullah, no run, Bopara shortens his length and gets this one to angle across Shafiq, he rides with the bounce and defends it]]></line><line><![CDATA[16.4&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, 1 run, on a good length and well outside off, steered away towards third man for a single]]></line><line><![CDATA[16.3&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, fuller length delivery and well outside off, Jamal goes chasing after that and misses]]></line><line><![CDATA[16.2&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, short of a length and angling away from outside off, Jamal throws his bat at that and misses]]></line><line><![CDATA[16.1&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, short of a length and well outside off, Jamal swivels across and mistimes the pull towards mid-on]]></line><end-of-over>end of over</end-of-over><line><![CDATA[15.6&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, no run, on a good length and in that corridor outside off, Shafiq pokes at that with soft hands, the ball rolls away towards point]]></line><line><![CDATA[15.5&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, no run, back of a length and just outside off, Shafiq prods across and defends it towards the off-side]]></line><line><![CDATA[15.4&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, no run, tad fuller and shaping away from off, Shafiq presses across and defends it towards mid-off]]></line><line><![CDATA[15.3&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, no run, back of a length and rearing onto Shafiq, he rides with the bounce and defends it]]></line><line><![CDATA[15.2&nbsp;&nbsp;&nbsp;Jordan to Shafiqullah, no run, back of a length and just outside off, Shafiq presses across and defends it]]></line><line><![CDATA[<b>Shafiqullah Shafiq, right handed bat, comes to the crease</b>]]></line><line><![CDATA[15.1&nbsp;&nbsp;&nbsp;Jordan to Shenwari, <b>out</b> Caught by Eoin Morgan!! Excellent catch from Morgan at backward point! This was full and in that channel outside off, Shenwari was leaning forward on the drive, ends up pushing at the ball, gets a thick edge and slices it towards backward point. Morgan dives forward and holds onto a good catch. Second wicket for Jordan, the in-form Shenwari falls. <b>Shenwari c Eoin Morgan b Jordan 7(11) [4s-1]</b>]]></line><end-of-over>end of over</end-of-over><line><![CDATA[Jordan to Shenwari, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[14.6&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, Bopara shortens his length outside off, Jamal thinks about playing before letting it go through, a <b>maiden</b> from Bopara]]></line><line><![CDATA[14.5&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, on a good length and well outside off, dabbed straight to the fielder at backward point]]></line><line><![CDATA[14.4&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, swish and a miss, fuller length delivery and shaping away from well outside off, Jamal goes for the drive and misses]]></line><line><![CDATA[14.3&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, Bopara keeps it full and well outside off, driven back towards the bowler]]></line><line><![CDATA[14.2&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, fuller length delivery and in that channel outside off, shapes away after pitching, driven towards mid-off]]></line><line><![CDATA[14.1&nbsp;&nbsp;&nbsp;Bopara to Nasir Jamal, no run, full and wide from Bopara, slapped straight to the fielder at backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ravi Bopara, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[13.6&nbsp;&nbsp;&nbsp;Jordan to Shenwari, no run, on a good length and on off, Shenwari presses across and defends it back towards the bowler]]></line><line><![CDATA[13.5&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, 1 run, Jamal is off the mark, tad too straight from Jordan, worked behind square on the on-side for a single]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, Jordan shortens his length outside off, Jamal prods across and defends it]]></line><line><![CDATA[13.4&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, <b>wide</b>, the high bumper from Jordan, Jamal ducks under it, called as a wide for height]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run]]></line><line><![CDATA[13.3&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, on a good length and just outside off, driven towards mid-off]]></line><line><![CDATA[13.2&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, that's much better from Jordan, keeps it full and in that channel outside off, lures Jamal into the drive and beats his outside edge]]></line><line><![CDATA[13.1&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, tad fuller and just outside off, Jamal prods across and defends it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[12.6&nbsp;&nbsp;&nbsp;J Anderson to Shenwari, 2 runs, width on offer from Anderson, Shenwari gets on top of the bounce and steers it square past point. Hales gets across from third man, puts in the slide and keeps them down to a brace]]></line><line><![CDATA[12.5&nbsp;&nbsp;&nbsp;J Anderson to Shenwari, no run, back of a length and on off, Shenwari shuffles across and defends it]]></line><line><![CDATA[12.4&nbsp;&nbsp;&nbsp;J Anderson to Shenwari, no run, the bumper from Anderson, Shenwari ducks under it and lets it go]]></line><line><![CDATA[12.3&nbsp;&nbsp;&nbsp;J Anderson to Shenwari, no run, short of a length and just outside off, Shenwari shuffles across and defends it]]></line><line><![CDATA[12.2&nbsp;&nbsp;&nbsp;J Anderson to Shenwari, <b>FOUR</b>, that's a lovely shot from Shenwari, this was pitched up and well outside off, Shenwari leans forward, punches it on the up and finds the gap past cover for a boundary, the first of the day]]></line><line><![CDATA[12.1&nbsp;&nbsp;&nbsp;J Anderson to Shenwari, no run, back of a length and shaping away from outside off, Shenwari doesn't need to play those, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[11.6&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, on a good length and holding its line outside off, left alone]]></line><line><![CDATA[11.5&nbsp;&nbsp;&nbsp;Jordan to Shenwari, 1 run, back of a length and on Shenwari's hips, tucked away behind square on the on-side, he wanted a second slip but slips while turning]]></line><line><![CDATA[11.4&nbsp;&nbsp;&nbsp;Jordan to Shenwari, no run, tad fuller and on the stumps, Shenwari presses across and pushes it towards mid-on]]></line><line><![CDATA[11.3&nbsp;&nbsp;&nbsp;Jordan to Shenwari, no run, the bumper first up, Shenwari ducks under it and lets it go]]></line><line><![CDATA[<b>Samiullah Shenwari, right handed bat, comes to the crease</b>]]></line><line><![CDATA[11.2&nbsp;&nbsp;&nbsp;Jordan to Zazai, <b>out</b> Caught by Buttler!! First wicket for Jordan, he gets his line right, this was pitched up and shaped away very late. Zazai has to play at that, pushes forward and the outside edge is found. Buttler dives across to his right and comes up with a neat catch. Afghanistan are in early trouble once again. <b>Zazai c Buttler b Jordan 6(14)</b>]]></line><line><![CDATA[Jordan to Zazai, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[11.1&nbsp;&nbsp;&nbsp;Jordan to Zazai, no run, fuller length delivery and a hint of late movement, Zazai was looking to work it towards the on-side, gets a leading edge towards backward point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[10.6&nbsp;&nbsp;&nbsp;J Anderson to Nasir Jamal, no run, another big inswinger from Anderson, Jamal was looking to work it towards the on-side and is struck high on the pads]]></line><line><![CDATA[10.5&nbsp;&nbsp;&nbsp;J Anderson to Nasir Jamal, no run, on a good length and jagging bcak into Jamal, he was pressing forward and is surprised by the movement, manages to stab it away towards towards the keeper]]></line><line><![CDATA[More saw-dust being applied to Anderson's landing area]]></line><line><![CDATA[10.4&nbsp;&nbsp;&nbsp;J Anderson to Zazai, 1 run, short and on Zazai's pads, tucked away behind square on the on-side for a single]]></line><line><![CDATA[10.3&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, on a good length and just outside off, Zazai prods forward and defends it towards mid-on]]></line><line><![CDATA[10.2&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, fuller length delivery and shaping away from outside off, Zazai covers the line, lifts his bat and lets it go]]></line><line><![CDATA[10.1&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, on a good length and shaping away from outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[9.6&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, full and wide from Jordan, looking to tempt Jamal into the drive, he goes chasing after that and misses]]></line><line><![CDATA[9.5&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, pitched up and just outside off, Jamal lunges forward and defends it]]></line><line><![CDATA[9.4&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, tad fuller and just outside off, Jamal gets half-forward and defends it]]></line><line><![CDATA[9.3&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, on a good length and just outside off, Jamal prods across and defends it]]></line><line><![CDATA[9.2&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, that's a much better short ball, well-directed and nips back at Jamal, he drops his wrists and lets it go]]></line><line><![CDATA[Jordan has three slips in place. Attacking captaincy from Morgan]]></line><line><![CDATA[9.1&nbsp;&nbsp;&nbsp;Jordan to Nasir Jamal, no run, short of a length and holding its line outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Chris Jordan, right-arm medium, comes into the attack</b>]]></line><line><![CDATA[8.6&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, short of a length and holding its line outside off, left alone]]></line><line><![CDATA[<b>15:35 Local Time, 04:35 GMT, 10:05 IST:</b> The rain has stopped and the covers are coming off. We should have a resumption soon.. We will start at <b>15:45</b>. We haven't lost any overs.]]></line><line><![CDATA[<b>15:15 Local Time, 04:15 GMT, 09:45 IST:</b> Bad news, the rain looks to have settled for a while. We might have a long delay here.]]></line><line><![CDATA[<b>15:08 Local Time, 04:08 GMT, 09:38 IST:</b> It has become dark and has started to drizzle as well. Umpire Billy Bowden isn't too happy with the overhead conditions and <b>off they go</b>. Rain stops play]]></line><line><![CDATA[8.5&nbsp;&nbsp;&nbsp;J Anderson to Zazai, 2 runs, that's a poor ball from Anderson, leg-stump half-volley, whipped away in front of square on the on-side for a couple of runs]]></line><line><![CDATA[8.4&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, yorker length delivery and on the stumps, Zazai gets his bat down in time and blocks it]]></line><line><![CDATA[8.3&nbsp;&nbsp;&nbsp;J Anderson to Zazai, 2 runs, fuller length delivery and just outside off, pushed towards the vacant mid-on region, Broad runs after that from mid-off and keeps them down to a brace]]></line><line><![CDATA[8.2&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, that's a cracker from Anderson, unplayable stuff, this was pitched up around off, held its line before shaping back into the right-hander, he is completely opened up on the drive and misses]]></line><line><![CDATA[8.1&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, on a good length and just outside off, Zazai prods forward and defends it towards mid-off]]></line><end-of-over>end of over</end-of-over><line><![CDATA[7.6&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, Broad keeps it full and in that channel outside off, left alone]]></line><line><![CDATA[7.5&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, Broad shortens his length on off, Jamal prods across and defends it]]></line><line><![CDATA[7.4&nbsp;&nbsp;&nbsp;Broad to Nasir Jamal, no run, short and well outside off, Jamal drops his wrists and sways away from the line]]></line><line><![CDATA[<b>Nasir Jamal, right handed bat, comes to the crease</b>]]></line><line><![CDATA[7.3&nbsp;&nbsp;&nbsp;Broad to Ahmadi, <b>out</b> Caught by J Root!! Catching practice for Root at first slip! Another poor shot, this time from Ahmadi, this was full and well outside off, Ahmadi was lured into the drive, he can't resist and goes hard at that, gets a thick edge that is snapped up by Root, moving across to his left. Afghanistan have lost both openers now. <b>Ahmadi c J Root b Broad 7(15)</b>]]></line><line><![CDATA[Broad to Ahmadi, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[7.2&nbsp;&nbsp;&nbsp;Broad to Ahmadi, no run, almost sneaked through! This was a tad fuller and nipped back in, Ahmadi was playing well in front of his body, gets an inside edge onto his thigh pad]]></line><line><![CDATA[7.1&nbsp;&nbsp;&nbsp;Broad to Ahmadi, no run, the bumper from Broad, Ahmadi drops his wrists and ducks underneath it]]></line><end-of-over>end of over</end-of-over><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, leg byes, 1 run, fuller length delivery and on Ahmadi's pads, he looks to flick and misses, the ball rolls away towards the on-side and they sneak in a leg-bye]]></line><line><![CDATA[6.6&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, <b>wide</b>, full and way outside off, called as a wide]]></line><line><![CDATA[6.5&nbsp;&nbsp;&nbsp;J Anderson to Zazai, 1 run, too straight from Anderson, nudged away to the lone man on the on-side, a single to backward square leg]]></line><line><![CDATA[6.4&nbsp;&nbsp;&nbsp;J Anderson to Zazai, no run, short of a length and just outside off, Zazai does well to ride with the bounce and keeps it down]]></line><line><![CDATA[Anderson has a 8-1 off-side field now. Four slips in place]]></line><line><![CDATA[<b>Afsar Zazai, right handed bat, comes to the crease</b>]]></line><line><![CDATA[6.3&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, <b>out</b> Caught by J Root!! England have struck first blood! Poor shot from Mangal, this was short and well outside off, could have let it go, instead, he goes chasing after that, gets a thick edge and is well held by Root, jumping at first slip and holding it above his head. Afghanistan have lost their first wicket. <b>Nawroz c J Root b J Anderson 4(28)</b>]]></line><line><![CDATA[J Anderson to Nawroz, <b>THATS OUT!!</b> Caught!!]]></line><line><![CDATA[6.2&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, 1 run, short and well outside off, dabbed away towards third man for a single]]></line><line><![CDATA[6.1&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, no run, tad fuller and on off, Ahmadi defends it with soft hands and the ball rolls away towards point]]></line><end-of-over>end of over</end-of-over><line><![CDATA[5.6&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, on a good length and just outside off, Mangal presses across and blocks]]></line><line><![CDATA[5.5&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, fuller length delivery and well outside off, Mangal presses forward and drives it straight to the fielder at cover]]></line><line><![CDATA[5.4&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, that's perfect from Broad, fuller length delivery and shaping away from outside off, draws Mangal into the drive and beats the outside edge]]></line><line><![CDATA[5.3&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, edged, but once again doesn't carry to third slip, on a good length and just outside off, produces the edge as Mangal poked forward, falls well in front of Jordan at third slip]]></line><line><![CDATA[5.2&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, on a good length and just outside off, Mangal shuffles across and defends it]]></line><line><![CDATA[5.1&nbsp;&nbsp;&nbsp;Broad to Ahmadi, 3 runs, full and wide from Broad, Ahmadi reaches out and slaps it square past point. Bopara gets across from third man and keeps them down to three runs]]></line><end-of-over>end of over</end-of-over><line><![CDATA[4.6&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, full and wide from Anderson, Mangal went swishing after that and missed, close to being called as a wide]]></line><line><![CDATA[4.5&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, short and just outside off, Mangal rides with the bounce and keeps it down towards point]]></line><line><![CDATA[4.4&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, on a good length and just outside off, Mangal gets behind the line and defends it]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, fuller length delivery and shaping away from outside off, another easy leave for the batsman]]></line><line><![CDATA[4.3&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, <b>wide</b>, Anderson slips one well down the leg-side, called as a wide]]></line><line><![CDATA[4.2&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, tad fuller and nipping away from outside off, Mangal gets half-forward before letting it go]]></line><line><![CDATA[4.1&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, fuller length delivery and shaping away from outside off, left alone]]></line><end-of-over>end of over</end-of-over><line><![CDATA[3.6&nbsp;&nbsp;&nbsp;Broad to Nawroz, 1 run, short of a length and angling into Mangal's hips, nudged away behind square on the on-side for a single]]></line><line><![CDATA[3.5&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, on a good length and well outside off, Mangal prods across and defends it towards point]]></line><line><![CDATA[3.4&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, tad fuller and just outside off, Mangal presses across and defends it towards the off-side]]></line><line><![CDATA[3.3&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, on a good length and shaping back into the batsman, he was looking to defend, the ball bursts through the gate, clips the trouser on the way to the keeper]]></line><line><![CDATA[Appeal for a <b>caught behind</b>, no review though]]></line><line><![CDATA[3.2&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, on a good length and holding its line outside off, Mangal doesn't need to play those, left alone]]></line><line><![CDATA[3.1&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, Broad shortens his length and gets this one to angle back into Mangal, he covers the line, lifts his bat and lets it go]]></line><end-of-over>end of over</end-of-over><line><![CDATA[2.6&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, no run, tad fuller and a hint of nip back into Ahmadi, he shuffles across and defends it towards mid-on]]></line><line><![CDATA[2.5&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, no run, on a good length and in that channel outside off, dabbed straight to the fielder at backward point]]></line><line><![CDATA[2.4&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, no run, the inswinger now from Anderson, Ahmadi watches it all along, gets his bat in front of the pads and blocks it towards mid-off]]></line><line><![CDATA[2.3&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, no run, Anderson shortens his length and gets this one to shape away from outside off, left alone]]></line><line><![CDATA[2.2&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, 1 run, on a good length and shaping away from the right-hander, Mangal was looking to defend, is completely squared up and gets an outside edge towards third man]]></line><line><![CDATA[2.1&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, tad fuller and nipping away from outside off, draws Mangal forward before beating the outside edge, Mangal plays the original line and misses]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.6&nbsp;&nbsp;&nbsp;Broad to Ahmadi, no run, fuller length delivery and well outside off, driven crisply but straight to the fielder at cover]]></line><line><![CDATA[1.5&nbsp;&nbsp;&nbsp;Broad to Ahmadi, 2 runs, this was full and wide from Broad, lures Ahmadi into the drive, he goes hard and gets a thick edge, flies past Jordan at 3rd slip. The batsman decide to come back for the second run and Ahmadi beats the throw from the deep]]></line><line><![CDATA[The third umpire has been called for a <b>run-out</b> chance. Ahmadi is the man in question and is SAFE]]></line><line><![CDATA[1.4&nbsp;&nbsp;&nbsp;Broad to Ahmadi, no run, that's a swish and a miss from Ahmadi, fuller length delivery and in that channel outside off, Ahmadi went for the ambitious drive and missed]]></line><line><![CDATA[1.3&nbsp;&nbsp;&nbsp;Broad to Nawroz, 1 run, fuller length delivery and well outside off, Mangal drives confidently towards mid-off. Morgan makes a half-stop and allows a single]]></line><line><![CDATA[1.2&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, back of a length and holding its line outside off, Mangal covers the line, lifts his bat and lets it go]]></line><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Broad to Nawroz, no run, edged, but the ball doesn't carry to first slip, cross seam delivery, on a good length and shaping away, Mangal was playing with soft hands, gets the edge and it drops well in front of Root at first slip]]></line><end-of-over>end of over</end-of-over><line><![CDATA[1.1&nbsp;&nbsp;&nbsp;Broad to Nawroz, <b>wide</b>, full and wide from Broad, shapes away further after pitching, Mangal goes chasing after that and misses, called as a wide]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Stuart Broad, right-arm fast medium, comes into the attack</b>]]></line><line><![CDATA[0.6&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, 1 run, on a good length and nipping away a fraction, Mangal pushes forward with soft hands, gets a single towards third man]]></line><line><![CDATA[0.5&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, on a good length and shaping away from outside off, left alone]]></line><line><![CDATA[0.4&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, leg byes, <b>FOUR</b>, that's a cracker from Anderson, pitched up and jagging back in a long way, Mangal was neither forward nor back as he poked at that, the ball cut him in half and goes over the top of middle stump, swings away further and beats Buttler to the fence]]></line><line><![CDATA[0.3&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, on a good length and shaping away from outside off, Mangal covers the line, lifts his bat and lets it go]]></line><line><![CDATA[0.2&nbsp;&nbsp;&nbsp;J Anderson to Nawroz, no run, this is a tad fuller and shaping away from outside off, no need to play at that, but Mangal pokes at that and misses]]></line><line><![CDATA[Three slips in place]]></line><line><![CDATA[0.1&nbsp;&nbsp;&nbsp;J Anderson to Ahmadi, 1 run, short of a length and shaping away from outside off, dabbed away towards third man for a single]]></line><end-of-over>end of over</end-of-over><line><![CDATA[<b>Ahmadi and Nawroz are at the crease. Ahmadi is on strike. J Anderson will open the attack</b>]]></line><line><![CDATA[Anderson has the new ball, a very dull looking England side this, just going through the motions.]]></line><line><![CDATA[Here's an interesting tit-bit: England have named their fielding coach, Chris Taylor, as one of the substitutes. Chris Woakes isn't available with an injury.]]></line><line><![CDATA[The players are out in the middle. It's time for the national anthems.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>England</b> (Playing XI): Ian Bell, Alex Hales, James Taylor, Joe Root, Eoin Morgan(c), Jos Buttler(w), Ravi Bopara, Chris Jordan, James Tredwell, Stuart Broad, James Anderson]]></line><line><![CDATA[<b>Afghanistan</b> (Playing XI): Nawroz Mangal, Javed Ahmadi, Afsar Zazai(w), Nasir Jamal, Samiullah Shenwari, Shafiqullah Shafiq, Mohammad Nabi(c), Najibullah Zadran, Dawlat Zadran, Shapoor Zadran, Hamid Hassan]]></line><line><![CDATA[<b>England have won the toss and have opted to field</b>]]></line><line><![CDATA[<b>Morgan:</b> 'Couple of days after that Bangladesh game, we got together and talked. We want to win this game and finish the tournament with a win. We are going to bowl. It rained a bit this morning and it's overcast. The wicket does look good, so will get the first opportunity with the ball. There are two injuries. Unfortunately Woakes and Ali are missing out, Tredwell and Bopara come in. A performance will be nice, but want to win.']]></line><line><![CDATA[<b>Nabi:</b> 'We have enjoyed the whole tournament so far. We have also taken a bit of experience from the big teams. We would have bowled as well, it rained a little in the morning. We will try to perform well in this game. There will be something for the fast bowlers in the first few overs, but after that it will be a flat wicket. We haven't performed well with the bat. We want to finish the tournament in a good manner.']]></line><line><![CDATA[Even though England lost their last game to Bangladesh, it will be unwise to count them out of this game as well. They are the favourites to win this, but Afghanistan won't make it easy for them. It should be a good contest. Toss and teams coming up in a short while. Stay tuned.]]></line><line><![CDATA[<b>Weather Report:</b> The rain has stopped but it is quite cloudy in Sydney right now. There's some rain expected today, but we should be able to get a game in. The maximum temperature is expected to be around 23 degrees Celsius. Let's just hope that the rain gods stay away. Fingers crossed!]]></line><line><![CDATA[<b>Team News:</b> Moeen Ali and Chris Woakes are injured and won't be able to take part in this game. Ali has a side strain and Woakes has an injury in his left foot. Alex Hales is expected to open the innings today in Ali's absence. Apart from that, Tredwell and Bopara might get a game as well.]]></line><line><![CDATA[Eoin Morgan, the English captain was very disappointed with his team's performance in the last game. After the game, he said, 'I am gutted at the moment. We've struggled and fought and fought our way since we arrived here. The big thing was to fight very hard to try and get through to the quarterfinals and from there fight our way through the last three games, but obviously that was not meant to be.']]></line><line><![CDATA['Since we've landed in Australia, we have tried to address that problem, it hasn't worked. Our expectations are a lot higher than the way we perform, so that's extremely disappointing. To be knocked out this early is disappointing. To be honest, I have no idea what happens from here,' he added.]]></line><line><![CDATA[<b>England</b>]]></line><line><![CDATA[The media crackdown on England after their loss against Bangladesh has been severe. England were expected to reach the quarter-final stage, but their performance in this World Cup has been miserable. It amazes me that the country that invented the game, has just won 1 out of 5 games. In fact, England's coach, Peter Moores' comment after the game, where he said: 'We'll have to look at the data', was criticised by media, former players and experts all around. Their dependency on stats, more than cricketing common sense, is bewildering.]]></line><line><![CDATA[Like Afghanistan, England's only win in the tournament came against the Scots, a game that they won by 119 runs. However, apart from that one instance, England's World Cup campaign has just been disastrous. Ideally, they will want to go out with a win, but they will be wary of the Afghan challenge as well. The Englishmen have been outplayed by most of their teams from Pool A and Afghanistan won't give up without putting up a fight. Eoin Morgan's men might not be in the best frame of minds, but they will have to go out today and take the field. For them, the challenge is not just about how they cope up with the other team, but how mentally tough they are.]]></line><line><![CDATA[<b>Afghanistan</b>]]></line><line><![CDATA[Even though Afghanistan have just won one game in the tournament, their intent on the field has earned them praise from all quarters. A team that has won hearts all around, will now look to upset their English counterparts, who have also won only one of their games prior to this. Afghanistan's only win in the tournament came against the Scots, a match that went down to the wire, with Afghanistan winning by just a wicket in the end. In their last game, they showed their 'never back down' spirit as they posted 186 on the board, after being 59/6 at one stage. This performance against New Zealand, a team that haven't lost even a single game in the World Cup so far, was lauded by former cricketers.]]></line><line><![CDATA[Now, the Blue Tigers will look to finish the tournament on the high. It is a great opportunity for them as they will be playing a team, which won't be very high on confidence. For the Afghans, it is important that they build partnerships while batting, something that they haven't been consistent with. If they manage to keep wickets in hand against England, they can put them under pressure. However, they will still start the game as underdogs, but Bangladesh's win in the last game, will give them a belief, belief that they can pull off an improbable win here.]]></line><line><![CDATA[<b>12:15 Local Time, 02:15 GMT, 07:45 IST:</b> England were knocked out by Bangladesh in the last game, making this game inconsequential, in terms of qualification for the quarter-finals. However, England will now look to play for some pride before they make their way back home. On the other hand, Afghanistan have nothing to lose at all. They will be up against a side, that was expected to reach the next stage, but faltered in their way. For the Afghans, England will be under a lot of pressure to at least win this game comfortably and if the  Blue Tigers can pull off a win here, it will be a historic moment for them. However, the conditions aren't that great as it rained in the morning. The pitch and the square are covered. The good thing is that the rain has stopped, but it is still very gloomy. Before we move further, let's take a look at how both the teams have done recently.]]></line><line><![CDATA[<b> Preview: </b><br/>It might be a game that's a dead rubber on paper, but for England and Afghanistan the game would be largely significant. England and Afghanistan are both out of the reckoning for a spot in the quarterfinals, with both teams taking up positions five and six in Pool A. Both teams have won once, against lowly Scotland. While Afghanistan's one-wicket defeat of Scotland was the latest chapter in a remarkable rise that has taken them from the lowest rung of international cricket to the game's showpiece tournament in barely seven years, for England victory over their neighbours couldn't salvage another wretched World Cup.<br/><br/>Both team will be looking at this game to end their campaigns on a winning note. <br/><br/><b>Team News: </b><br/><br/><b>England:</b><br/><br/>England's 15-run defeat by Bangladesh in Adelaide condemned them to a first round exit without having won a single pool match against a Test nation -- the first time they've suffered this 'double whammy' in the 40-year history of the World Cup. After Monday's match, England coach Peter Moores was widely mocked for saying "we shall have to look at the data", with many pundits saying it was emblematic of a backroom regime where cricketing common sense had been swept aside by statistical analysis. The brickbats will only increase should they succumb to Afghanistan.<br/><br/>Chris Woakes and Moeen Ali have been ruled out with a left foot injury and a side strain respectively. This should allow them to test out Alex Hales at the top. There have been calls for Hales' inclusion at the top of the order since the start of the tournament, but England only brought him in in the defeat to Bangladesh. Hales now has the chance to show why England would have been better off if they'd listened to the endless calls supporting his addition to the side.<br/><br/>James Tredwell, too, could find himself in the playing XI as the specialist spinner, while Ravi Bopara could take up the all-rounder's spot in the middle order.<br/><br/><b>Probable XI:</b> Alex Hales, Ian Bell, Joe Root, Eoin Morgan, James Taylor, Jos Buttler, Ravi Bopara, Chris Jordan, Stuart Broad, James Tredwell, James Anderson.<br/><br/><b>Player to watch out for: Alex Hales</b> - Everyone in England seems to have gone hoarse calling for Alex Hales to be included in the side. His inclusion came a little too late, but the big-hitting top-order batsman will still have to prove why he has been so heavily backed. <br/><br/><b>Afghanistan:</b><br/><br/>The Afghanistan story has been everyone's favourite this World Cup. They created history by claiming their first ever World Cup win, against Scotland, and they will hope to go out on a high by upsetting a top Test playing like England and show the world that they belong. <br/><br/>Samiullah Shenwari has been their side's best batsman, aggregating 247 runs at an average that's almost touching fifty and he will be hoping to end the tournament with another top-notch performance. Afghanistan's bowlers have been the ones to make everyone sit up and take notice of the World Cup newbies. Hamid Hasan, Shapoor Zadran and Dawlat Zadran form a troika that can wreak havoc, and they will hope to put on another strong display before bidding goodbye to the World Cup.<br/><br/><b>Probable XI:</b> Javed Ahmadi, Nawroz Mangal, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi, Najibullah Zadran, Afsar Zazai, Gulbadin Naib, Dawlat Zadran, Hamid Hassan, Shapoor Zadran.<br/><br/><b>Player to watch out for: Shapoor Zadran</b> - The lanky pacer has taken 10 wickets so far in the World Cup. Against an England side that will be nervous after their unexpected defeat to Bangladesh, the left-armer will be hoping he can run riot.<br/><br/><b>Stats and Trivia:</b><br/><br/>-> This is first time England have failed to beat a Test playing nation in a World Cup.<br/>-> This is the first time Afghanistan and England face each other in an ODI.<br/>-> England's ever-present pace trio of James Anderson, Stuart Broad and Chris Woakes has combined to take 12 wickets. New Zealand's Trent Boult and Tim Southee have both bettered that tally alone.<br/><br/><b>Quotes:</b><br/>Paul Farbrace: If losing the game to Bangladesh was terrible, we couldn't possibly imagine what it will be like if tomorrow goes against us. That would be horrendous.<br/>Andy Moles: They (England) are not in the best of nick at the moment and we still believe that, if at the top of the order with the bat especially, we just need to show a bit more composure, we've still got a scare in us.]]></line><line><![CDATA[<b>Teams:</b>]]></line><line><![CDATA[<b>England</b> (From): Ian Bell, Alex Hales, Gary Ballance, Joe Root, Eoin Morgan(c), James Taylor, Jos Buttler(k), Chris Jordan, Stuart Broad, James Tredwell, Steven Finn, James Anderson, Ravi Bopara]]></line><line><![CDATA[<b>Afghanistan</b> (From): Javed Ahmadi, Nawroz Mangal, Asghar Stanikzai, Samiullah Shenwari, Mohammad Nabi(c), Najibullah Zadran, Afsar Zazai(k), Gulbadin Naib, Dawlat Zadran, Hamid Hassan, Shapoor Zadran, Usman Ghani, Shafiqullah Shafiq, Aftab Alam, Nasir Jamal]]></line>		
+		</commentary>
+	<innings no="1">
+		<totalruns>111</totalruns>
+		<totalwickets>7</totalwickets>
+		<totalovers>36.2</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<batsman-name>Ahmadi</batsman-name>
+					<batsman-nickname>Ahmadi</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>15</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Broad</bowler>
+					<bowlerId>554</bowlerId>
+						<fielder>Joe Root</fielder>
+						<fielderId>8019</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<batsman-name>Nawroz</batsman-name>
+					<batsman-nickname>Nawroz</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>28</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Anderson</bowler>
+					<bowlerId>65</bowlerId>
+						<fielder>Joe Root</fielder>
+						<fielderId>8019</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<batsman-name>Zazai</batsman-name>
+					<batsman-nickname>Zazai</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>6</runs>
+					<balls>14</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9846</playerid>
+					<name>Nasir Jamal</name>
+					<batsman-name>Nasir Jamal</batsman-name>
+					<batsman-nickname>Nasir Jamal</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>52</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Bopara</bowler>
+					<bowlerId>571</bowlerId>
+						<fielder>Jos Buttler</fielder>
+						<fielderId>2258</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<batsman-name>Shenwari</batsman-name>
+					<batsman-nickname>Shenwari</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>11</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>C Jordan</bowler>
+					<bowlerId>6532</bowlerId>
+						<fielder>Eoin Morgan</fielder>
+						<fielderId>624</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3016</playerid>
+					<name>Shafiqullah Shafiq</name>
+					<batsman-name>Shafiqullah</batsman-name>
+					<batsman-nickname>Shafiqullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>30</runs>
+					<balls>64</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>J Tredwell</bowler>
+					<bowlerId>1059</bowlerId>
+						<fielder>Ravi Bopara</fielder>
+						<fielderId>571</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<batsman-name>Nabi</batsman-name>
+					<batsman-nickname>Nabi</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>17</balls>
+					<fours>1</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>R Bopara</bowler>
+					<bowlerId>571</bowlerId>
+						<fielder>James Tredwell</fielder>
+						<fielderId>1059</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<batsman-name>Najibullah</batsman-name>
+					<batsman-nickname>Najibullah</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>15</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<batsman-name>Hamid</batsman-name>
+					<batsman-nickname>Hamid</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>2</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<batsman-name>Dawlat Zadran</batsman-name>
+					<batsman-nickname>Dawlat Zadran</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<batsman-name>Shapoor</batsman-name>
+					<batsman-nickname>Shapoor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>3008</playerid>
+				<nbr>1</nbr>
+				<runs>17</runs>
+				<overs>6.3</overs>
+				<batsman>Nawroz Mangal</batsman>
+				<batsman-name>Nawroz</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7614</playerid>
+				<nbr>2</nbr>
+				<runs>20</runs>
+				<overs>7.3</overs>
+				<batsman>Javed Ahmadi</batsman>
+				<batsman-name>Ahmadi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8278</playerid>
+				<nbr>3</nbr>
+				<runs>25</runs>
+				<overs>11.2</overs>
+				<batsman>Afsar Zazai</batsman>
+				<batsman-name>Zazai</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3011</playerid>
+				<nbr>4</nbr>
+				<runs>34</runs>
+				<overs>15.1</overs>
+				<batsman>Samiullah Shenwari</batsman>
+				<batsman-name>Shenwari</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9846</playerid>
+				<nbr>5</nbr>
+				<runs>65</runs>
+				<overs>25.4</overs>
+				<batsman>Nasir Jamal</batsman>
+				<batsman-name>Nasir Jamal</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3007</playerid>
+				<nbr>6</nbr>
+				<runs>93</runs>
+				<overs>31.4</overs>
+				<batsman>Mohammad Nabi</batsman>
+				<batsman-name>Nabi</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>3016</playerid>
+				<nbr>7</nbr>
+				<runs>101</runs>
+				<overs>34.4</overs>
+				<batsman>Shafiqullah Shafiq</batsman>
+				<batsman-name>Shafiqullah</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>6</wides>
+			<noballs>0</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="England">
+			<players>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<bowler-name>J Anderson</bowler-name>
+					<bowler-nickname>J Anderson</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<bowler-name>Broad</bowler-name>
+					<bowler-nickname>Broad</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>1</maidens>
+					<runsoff>18</runsoff>
+					<wickets>1</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<bowler-name>C Jordan</bowler-name>
+					<bowler-nickname>Jordan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>6.2</overs>
+					<maidens>2</maidens>
+					<runsoff>13</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>571</playerid>
+					<name>Ravi Bopara</name>
+					<bowler-name>R Bopara</bowler-name>
+					<bowler-nickname>Bopara</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>1</maidens>
+					<runsoff>31</runsoff>
+					<wickets>2</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1059</playerid>
+					<name>James Tredwell</name>
+					<bowler-name>J Tredwell</bowler-name>
+					<bowler-nickname>Tredwell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>7</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>1</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<bowler-name>Bell</bowler-name>
+					<bowler-nickname>Bell</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<bowler-name>A Hales</bowler-name>
+					<bowler-nickname>Hales</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<bowler-name>James Taylor</bowler-name>
+					<bowler-nickname>James Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<bowler-name>J Root</bowler-name>
+					<bowler-nickname>J Root</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<bowler-name>E Morgan</bowler-name>
+					<bowler-nickname>Eoin Morgan</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<bowler-name>J Buttler</bowler-name>
+					<bowler-nickname>Buttler</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>101</totalruns>
+		<totalwickets>1</totalwickets>
+		<totalovers>18.1</totalovers>
+		<declared></declared>
+		<followon></followon>
+		<batteam name="England">
+			<players>
+				<player>
+					<playerid>6734</playerid>
+					<name>Alex Hales</name>
+					<batsman-name>A Hales</batsman-name>
+					<batsman-nickname>Hales</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>37</runs>
+					<balls>33</balls>
+					<fours>3</fours>
+					<sixes>2</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Hamid</bowler>
+					<bowlerId>3001</bowlerId>
+						<fielder>Afsar Zazai</fielder>
+						<fielderId>8278</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>385</playerid>
+					<name>Ian Bell</name>
+					<batsman-name>Bell</batsman-name>
+					<batsman-nickname>Bell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>52</runs>
+					<balls>56</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6500</playerid>
+					<name>James Taylor</name>
+					<batsman-name>James Taylor</batsman-name>
+					<batsman-nickname>James Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>20</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8019</playerid>
+					<name>Joe Root</name>
+					<batsman-name>J Root</batsman-name>
+					<batsman-nickname>J Root</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>624</playerid>
+					<name>Eoin Morgan</name>
+					<batsman-name>E Morgan</batsman-name>
+					<batsman-nickname>Eoin Morgan</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>2258</playerid>
+					<name>Jos Buttler</name>
+					<batsman-name>J Buttler</batsman-name>
+					<batsman-nickname>Buttler</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>571</playerid>
+					<name>Ravi Bopara</name>
+					<batsman-name>R Bopara</batsman-name>
+					<batsman-nickname>Bopara</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>6532</playerid>
+					<name>Chris Jordan</name>
+					<batsman-name>C Jordan</batsman-name>
+					<batsman-nickname>Jordan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>1059</playerid>
+					<name>James Tredwell</name>
+					<batsman-name>J Tredwell</batsman-name>
+					<batsman-nickname>Tredwell</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>554</playerid>
+					<name>Stuart Broad</name>
+					<batsman-name>Broad</batsman-name>
+					<batsman-nickname>Broad</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+				<player>
+					<playerid>65</playerid>
+					<name>James Anderson</name>
+					<batsman-name>J Anderson</batsman-name>
+					<batsman-nickname>J Anderson</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>0</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[dnb]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>true</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6734</playerid>
+				<nbr>1</nbr>
+				<runs>83</runs>
+				<overs>13.3</overs>
+				<batsman>Alex Hales</batsman>
+				<batsman-name>A Hales</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>0</byes>
+			<wides>1</wides>
+			<noballs>0</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>4</total>
+		</extras>
+		<bowlteam name="Afghanistan">
+			<players>
+				<player>
+					<playerid>3015</playerid>
+					<name>Shapoor Zadran</name>
+					<bowler-name>Shapoor</bowler-name>
+					<bowler-nickname>Shapoor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>25</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8029</playerid>
+					<name>Dawlat Zadran</name>
+					<bowler-name>Dawlat Zadran</bowler-name>
+					<bowler-nickname>Dawlat Zadran</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>3</overs>
+					<maidens>0</maidens>
+					<runsoff>23</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3001</playerid>
+					<name>Hamid Hassan</name>
+					<bowler-name>Hamid</bowler-name>
+					<bowler-nickname>Hamid</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>5</overs>
+					<maidens>0</maidens>
+					<runsoff>17</runsoff>
+					<wickets>1</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3007</playerid>
+					<name>Mohammad Nabi</name>
+					<bowler-name>Nabi</bowler-name>
+					<bowler-nickname>Nabi</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>4.1</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3011</playerid>
+					<name>Samiullah Shenwari</name>
+					<bowler-name>Shenwari</bowler-name>
+					<bowler-nickname>Shenwari</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>19</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3008</playerid>
+					<name>Nawroz Mangal</name>
+					<bowler-name>Nawroz</bowler-name>
+					<bowler-nickname>Nawroz</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7614</playerid>
+					<name>Javed Ahmadi</name>
+					<bowler-name>Ahmadi</bowler-name>
+					<bowler-nickname>Ahmadi</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8278</playerid>
+					<name>Afsar Zazai</name>
+					<bowler-name>Zazai</bowler-name>
+					<bowler-nickname>Zazai</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9846</playerid>
+					<name>Nasir Jamal</name>
+					<bowler-name>Nasir Jamal</bowler-name>
+					<bowler-nickname>Nasir Jamal</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>3016</playerid>
+					<name>Shafiqullah Shafiq</name>
+					<bowler-name>Shafiqullah</bowler-name>
+					<bowler-nickname>Shafiqullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8375</playerid>
+					<name>Najibullah Zadran</name>
+					<bowler-name>Najibullah</bowler-name>
+					<bowler-nickname>Najibullah</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+

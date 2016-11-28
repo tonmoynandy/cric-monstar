@@ -1,0 +1,2121 @@
+<?xml version="1.0" standalone="yes" ?>
+<scorecard>
+	<match id="14292" >
+		<type>TEST</type>
+		<gameDesc>County Div 2</gameDesc>
+		<series>County Championship Division Two 2015</series>
+		<matchday>4</matchday>
+		<home>Glamorgan</home>
+		<away>Essex</away>
+		<teamsabbr>GLAM vs ESS</teamsabbr>
+		<homeabbr>GLAM</homeabbr>
+		<awayabbr>ESS</awayabbr>
+		<homeId>149</homeId>
+		<awayId>152</awayId>
+		<venue>Sophia Gardens, Cardiff</venue>
+		<startdate>18 05 2015</startdate>
+		<enddate>21 05 2015</enddate>
+		<toss>
+			<winner>Essex</winner>
+			<decision>Fielding</decision>
+		</toss>
+		<state>complete</state>
+		<status>Glamorgan won by 89 runs</status>
+		<result type="win">
+			<winningteam>Glamorgan</winningteam>
+			<wonbyruns>89</wonbyruns>
+			<wonbywickets></wonbywickets>
+			
+		</result>
+		<manofmatch></manofmatch>
+		<manofseries></manofseries>
+		<umpires>
+		<Umpire1>
+			<Name>Graham Lloyd</Name>
+			<Country>Eng</Country>
+		</Umpire1>
+		<Umpire2>
+			<Name>Jeremy Lloyds</Name>
+			<Country>Eng</Country>
+		</Umpire2>
+		</umpires>
+		<starttimeGMT>10:00</starttimeGMT>
+		<prevDayPerGMT>false</prevDayPerGMT>
+		<actualendGMT>20150521152820</actualendGMT>
+	</match>
+	<currentscores>
+		<currentinningsno>4</currentinningsno>
+		<batteamname>Ess</batteamname>
+		<bwlteamname>Glam</bwlteamname>
+		<batteamruns>274</batteamruns>
+		<batteamwkts>10</batteamwkts>
+		<batteamovers>87.4</batteamovers>
+		<status>Glamorgan won by 89 runs</status>
+		<batsman>
+			<playerid>640</playerid>
+			<name>Ryan ten Doeschate</name>
+			<batsman-name>ten Doeschate</batsman-name>
+			<batsman-nickname>ten Doeschate</batsman-nickname>
+			<runs>74</runs>
+			<balls-faced>118</balls-faced>
+			<fours>10</fours>
+			<sixes>0</sixes>
+		</batsman>
+			<batsman>
+				<name />
+				<runs />
+				<balls-faced />
+				<fours />
+				<sixes />
+			</batsman>
+		<bowler>
+			<playerid>7732</playerid>
+			<name>Michael Hogan*</name>
+			<bowler-name>M Hogan</bowler-name>
+			<bowler-nickname>Hogan</bowler-nickname>
+			<overs>23.4</overs>
+			<maidens>5</maidens>
+			<runs>67</runs>
+			<wickets>3</wickets>
+		</bowler>
+		<bowler>
+			<playerid>7940</playerid>
+			<name>Craig Meschede</name>
+			<bowler-name>Meschede</bowler-name>
+			<bowler-nickname>Meschede</bowler-nickname>
+			<overs>15</overs>
+			<maidens>1</maidens>
+			<runs>53</runs>
+			<wickets>2</wickets>
+		</bowler>
+		<maxovers>90</maxovers>
+		<target>364</target>
+<lastwicket>
+<playerid>6541</playerid>
+<name>David Masters</name>
+<player-runs>0</player-runs>
+<player-balls>5</player-balls>
+<runs>274</runs>
+<wicket-nbr>10</wicket-nbr>
+<bowlerid>7732</bowlerid>
+<bowlername>M Hogan</bowlername>
+</lastwicket>
+		<extras>
+			<byes>10</byes>
+			<wides>0</wides>
+			<noballs>6</noballs>
+			<legbyes>9</legbyes>
+			<penalty>0</penalty>
+			<total>25</total>
+		</extras>
+		<prevOvers><![CDATA[4 . 1 W . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. . . 1 . 2 <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>. 1 . W . . <b>&nbsp;&nbsp;|&nbsp;&nbsp;</b>1 . . W ]]></prevOvers>
+		<last-over>http://synd.cricbuzz.com/dinamalar/data/2015/2015_COUNTY_DIV2/GLAM_ESS_MAY18_MAY21/over-detail.xml</last-over>
+	</currentscores>
+		<commentary>		
+					
+		</commentary>
+	<innings no="1">
+		<totalruns>314</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>93.3</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<batsman-name>J Kettleborough</batsman-name>
+					<batsman-nickname>Kettleborough</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>1</runs>
+					<balls>19</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<batsman-name>J Rudolph</batsman-name>
+					<batsman-nickname>Rudolph</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>82</runs>
+					<balls>222</balls>
+					<fours>8</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder>Jaik Mickleburgh</fielder>
+						<fielderId>6519</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<batsman-name>W Bragg</batsman-name>
+					<batsman-nickname>Bragg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>17</runs>
+					<balls>36</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>G Napier</bowler>
+					<bowlerId>1870</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<batsman-name>Ingram</batsman-name>
+					<batsman-nickname>Ingram</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>26</runs>
+					<balls>42</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>ten Doeschate</bowler>
+					<bowlerId>640</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<batsman-name>C Cooke</batsman-name>
+					<batsman-nickname>C Cooke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>42</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>ten Doeschate</bowler>
+					<bowlerId>640</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<batsman-name>Mark Wallace</batsman-name>
+					<batsman-nickname>Mark Wallace</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>15</runs>
+					<balls>19</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Napier</bowler>
+					<bowlerId>1870</bowlerId>
+						<fielder>Nicholas Browne</fielder>
+						<fielderId>9388</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<batsman-name>G Wagg</batsman-name>
+					<batsman-nickname>Wagg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>47</runs>
+					<balls>94</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<batsman-name>Meschede</batsman-name>
+					<batsman-nickname>Meschede</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>68</runs>
+					<balls>52</balls>
+					<fours>7</fours>
+					<sixes>4</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>Daniel Lawrence</fielder>
+						<fielderId>10385</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9345</playerid>
+					<name>David Lloyd</name>
+					<batsman-name>D Lloyd</batsman-name>
+					<batsman-nickname>Lloyd</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>16</runs>
+					<balls>22</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>Jaik Mickleburgh</fielder>
+						<fielderId>6519</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7866</playerid>
+					<name>Andrew Salter</name>
+					<batsman-name>A Salter</batsman-name>
+					<batsman-nickname>Salter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>9</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Napier</bowler>
+					<bowlerId>1870</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<batsman-name>M Hogan</batsman-name>
+					<batsman-nickname>Hogan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>4</runs>
+					<balls>5</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>9322</playerid>
+				<nbr>1</nbr>
+				<runs>9</runs>
+				<overs>5.4</overs>
+				<batsman>James Kettleborough</batsman>
+				<batsman-name>J Kettleborough</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6595</playerid>
+				<nbr>2</nbr>
+				<runs>36</runs>
+				<overs>17.1</overs>
+				<batsman>William Bragg</batsman>
+				<batsman-name>W Bragg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7664</playerid>
+				<nbr>3</nbr>
+				<runs>77</runs>
+				<overs>29.6</overs>
+				<batsman>Colin Ingram</batsman>
+				<batsman-name>Ingram</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7958</playerid>
+				<nbr>4</nbr>
+				<runs>118</runs>
+				<overs>45.3</overs>
+				<batsman>Chris Cooke</batsman>
+				<batsman-name>C Cooke</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6601</playerid>
+				<nbr>5</nbr>
+				<runs>151</runs>
+				<overs>52.6</overs>
+				<batsman>Mark Wallace</batsman>
+				<batsman-name>Mark Wallace</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>219</playerid>
+				<nbr>6</nbr>
+				<runs>189</runs>
+				<overs>71.4</overs>
+				<batsman>Jacques Rudolph</batsman>
+				<batsman-name>J Rudolph</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6803</playerid>
+				<nbr>7</nbr>
+				<runs>281</runs>
+				<overs>86.1</overs>
+				<batsman>Graham Wagg</batsman>
+				<batsman-name>G Wagg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7940</playerid>
+				<nbr>8</nbr>
+				<runs>304</runs>
+				<overs>90.6</overs>
+				<batsman>Craig Meschede</batsman>
+				<batsman-name>Meschede</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9345</playerid>
+				<nbr>9</nbr>
+				<runs>306</runs>
+				<overs>92.1</overs>
+				<batsman>David Lloyd</batsman>
+				<batsman-name>D Lloyd</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7866</playerid>
+				<nbr>10</nbr>
+				<runs>314</runs>
+				<overs>93.3</overs>
+				<batsman>Andrew Salter</batsman>
+				<batsman-name>A Salter</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>4</byes>
+			<wides>3</wides>
+			<noballs>2</noballs>
+			<legbyes>3</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="Essex">
+			<players>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<bowler-name>D Masters</bowler-name>
+					<bowler-nickname>David Masters</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>29</overs>
+					<maidens>8</maidens>
+					<runsoff>51</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<bowler-name>James Porter</bowler-name>
+					<bowler-nickname>James Porter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>23</overs>
+					<maidens>4</maidens>
+					<runsoff>77</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<bowler-name>G Napier</bowler-name>
+					<bowler-nickname>Napier</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>20.3</overs>
+					<maidens>2</maidens>
+					<runsoff>84</runsoff>
+					<wickets>3</wickets>
+					<wides>1</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>640</playerid>
+					<name>Ryan ten Doeschate</name>
+					<bowler-name>ten Doeschate</bowler-name>
+					<bowler-nickname>ten Doeschate</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>8</overs>
+					<maidens>0</maidens>
+					<runsoff>30</runsoff>
+					<wickets>2</wickets>
+					<wides>2</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10386</playerid>
+					<name>Adeel Malik</name>
+					<bowler-name>Adeel Malik</bowler-name>
+					<bowler-nickname>Adeel Malik</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>13</overs>
+					<maidens>1</maidens>
+					<runsoff>65</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<bowler-name>N Browne</bowler-name>
+					<bowler-nickname>Nicholas Browne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<bowler-name>J Mickleburgh</bowler-name>
+					<bowler-nickname>Mickleburgh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<bowler-name>Daniel Lawrence</bowler-name>
+					<bowler-nickname>Daniel Lawrence</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<bowler-name>J Foster</bowler-name>
+					<bowler-nickname>Foster</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8514</playerid>
+					<name>Kishen Velani</name>
+					<bowler-name>Kishen Velani</bowler-name>
+					<bowler-nickname>Kishen Velani</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10405</playerid>
+					<name>Callum Taylor</name>
+					<bowler-name>Callum Taylor</bowler-name>
+					<bowler-nickname>Callum Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="2">
+		<totalruns>221</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>61.3</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Essex">
+			<players>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<batsman-name>N Browne</batsman-name>
+					<batsman-nickname>Nicholas Browne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>59</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Lloyd</bowler>
+					<bowlerId>9345</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<batsman-name>J Mickleburgh</batsman-name>
+					<batsman-nickname>Mickleburgh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>19</runs>
+					<balls>56</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Lloyd</bowler>
+					<bowlerId>9345</bowlerId>
+						<fielder>Jacques Rudolph</fielder>
+						<fielderId>219</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<batsman-name>Daniel Lawrence</batsman-name>
+					<batsman-nickname>Daniel Lawrence</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>16</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Meschede</bowler>
+					<bowlerId>7940</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<batsman-name>J Foster</batsman-name>
+					<batsman-nickname>Foster</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>38</runs>
+					<balls>64</balls>
+					<fours>3</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>640</playerid>
+					<name>Ryan ten Doeschate</name>
+					<batsman-name>ten Doeschate</batsman-name>
+					<batsman-nickname>ten Doeschate</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>49</runs>
+					<balls>89</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Meschede</bowler>
+					<bowlerId>7940</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10405</playerid>
+					<name>Callum Taylor</name>
+					<batsman-name>Callum Taylor</batsman-name>
+					<batsman-nickname>Callum Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>26</runs>
+					<balls>55</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder>Michael Hogan</fielder>
+						<fielderId>7732</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8514</playerid>
+					<name>Kishen Velani</name>
+					<batsman-name>Kishen Velani</batsman-name>
+					<batsman-nickname>Kishen Velani</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>12</runs>
+					<balls>18</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<batsman-name>G Napier</batsman-name>
+					<batsman-nickname>Napier</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10386</playerid>
+					<name>Adeel Malik</name>
+					<batsman-name>Adeel Malik</batsman-name>
+					<batsman-nickname>Adeel Malik</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>6</runs>
+					<balls>6</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Meschede</bowler>
+					<bowlerId>7940</bowlerId>
+						<fielder>Michael Hogan</fielder>
+						<fielderId>7732</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<batsman-name>D Masters</batsman-name>
+					<batsman-nickname>David Masters</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<batsman-name>James Porter</batsman-name>
+					<batsman-nickname>James Porter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>3</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>6519</playerid>
+				<nbr>1</nbr>
+				<runs>54</runs>
+				<overs>17.5</overs>
+				<batsman>Jaik Mickleburgh</batsman>
+				<batsman-name>J Mickleburgh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9388</playerid>
+				<nbr>2</nbr>
+				<runs>59</runs>
+				<overs>19.1</overs>
+				<batsman>Nicholas Browne</batsman>
+				<batsman-name>N Browne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10385</playerid>
+				<nbr>3</nbr>
+				<runs>86</runs>
+				<overs>23.4</overs>
+				<batsman>Daniel Lawrence</batsman>
+				<batsman-name>Daniel Lawrence</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1914</playerid>
+				<nbr>4</nbr>
+				<runs>140</runs>
+				<overs>37.1</overs>
+				<batsman>James Foster</batsman>
+				<batsman-name>J Foster</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>640</playerid>
+				<nbr>5</nbr>
+				<runs>201</runs>
+				<overs>53.4</overs>
+				<batsman>Ryan ten Doeschate</batsman>
+				<batsman-name>ten Doeschate</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10405</playerid>
+				<nbr>6</nbr>
+				<runs>212</runs>
+				<overs>57.1</overs>
+				<batsman>Callum Taylor</batsman>
+				<batsman-name>Callum Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1870</playerid>
+				<nbr>7</nbr>
+				<runs>212</runs>
+				<overs>57.6</overs>
+				<batsman>Graham Napier</batsman>
+				<batsman-name>G Napier</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8514</playerid>
+				<nbr>8</nbr>
+				<runs>219</runs>
+				<overs>59.5</overs>
+				<batsman>Kishen Velani</batsman>
+				<batsman-name>Kishen Velani</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10386</playerid>
+				<nbr>9</nbr>
+				<runs>221</runs>
+				<overs>60.1</overs>
+				<batsman>Adeel Malik</batsman>
+				<batsman-name>Adeel Malik</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10102</playerid>
+				<nbr>10</nbr>
+				<runs>221</runs>
+				<overs>61.3</overs>
+				<batsman>James Porter</batsman>
+				<batsman-name>James Porter</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>5</byes>
+			<wides>1</wides>
+			<noballs>16</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>28</total>
+		</extras>
+		<bowlteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<bowler-name>M Hogan</bowler-name>
+					<bowler-nickname>Hogan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>21</overs>
+					<maidens>1</maidens>
+					<runsoff>61</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<bowler-name>Meschede</bowler-name>
+					<bowler-nickname>Meschede</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>20.4</overs>
+					<maidens>3</maidens>
+					<runsoff>73</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>9345</playerid>
+					<name>David Lloyd</name>
+					<bowler-name>D Lloyd</bowler-name>
+					<bowler-nickname>Lloyd</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4.2</overs>
+					<maidens>0</maidens>
+					<runsoff>14</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<bowler-name>G Wagg</bowler-name>
+					<bowler-nickname>Wagg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>12.3</overs>
+					<maidens>2</maidens>
+					<runsoff>54</runsoff>
+					<wickets>5</wickets>
+					<wides>1</wides>
+					<noballs>4</noballs>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<bowler-name>W Bragg</bowler-name>
+					<bowler-nickname>Bragg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>2</overs>
+					<maidens>0</maidens>
+					<runsoff>7</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7866</playerid>
+					<name>Andrew Salter</name>
+					<bowler-name>A Salter</bowler-name>
+					<bowler-nickname>Salter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>1</overs>
+					<maidens>0</maidens>
+					<runsoff>1</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<bowler-name>J Kettleborough</bowler-name>
+					<bowler-nickname>Kettleborough</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<bowler-name>J Rudolph</bowler-name>
+					<bowler-nickname>Rudolph</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<bowler-name>Ingram</bowler-name>
+					<bowler-nickname>Ingram</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<bowler-name>C Cooke</bowler-name>
+					<bowler-nickname>C Cooke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<bowler-name>Mark Wallace</bowler-name>
+					<bowler-nickname>Mark Wallace</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="3">
+		<totalruns>270</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>55.5</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<batsman-name>J Kettleborough</batsman-name>
+					<batsman-nickname>Kettleborough</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>21</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder>Kishen Velani</fielder>
+						<fielderId>8514</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<batsman-name>J Rudolph</batsman-name>
+					<batsman-nickname>Rudolph</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<runs>7</runs>
+					<balls>18</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder>Nicholas Browne</fielder>
+						<fielderId>9388</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<batsman-name>W Bragg</batsman-name>
+					<batsman-nickname>Bragg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>24</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>D Masters</bowler>
+					<bowlerId>6541</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<batsman-name>Ingram</batsman-name>
+					<batsman-nickname>Ingram</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>41</balls>
+					<fours>6</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder>Ryan ten Doeschate</fielder>
+						<fielderId>640</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<batsman-name>C Cooke</batsman-name>
+					<batsman-nickname>C Cooke</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>1</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>James Porter</bowler>
+					<bowlerId>10102</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<batsman-name>Mark Wallace</batsman-name>
+					<batsman-nickname>Mark Wallace</batsman-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<runs>79</runs>
+					<balls>87</balls>
+					<fours>9</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>Adeel Malik</bowler>
+					<bowlerId>10386</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<batsman-name>G Wagg</batsman-name>
+					<batsman-nickname>Wagg</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>61</balls>
+					<fours>7</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>G Napier</bowler>
+					<bowlerId>1870</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<batsman-name>Meschede</batsman-name>
+					<batsman-nickname>Meschede</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>25</balls>
+					<fours>4</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Napier</bowler>
+					<bowlerId>1870</bowlerId>
+						<fielder>James Foster</fielder>
+						<fielderId>1914</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>9345</playerid>
+					<name>David Lloyd</name>
+					<batsman-name>D Lloyd</batsman-name>
+					<batsman-nickname>Lloyd</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>10</runs>
+					<balls>11</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Adeel Malik</bowler>
+					<bowlerId>10386</bowlerId>
+						<fielder>Adeel Malik</fielder>
+						<fielderId>10386</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7866</playerid>
+					<name>Andrew Salter</name>
+					<batsman-name>A Salter</batsman-name>
+					<batsman-nickname>Salter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>14</runs>
+					<balls>26</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<batsman-name>M Hogan</batsman-name>
+					<batsman-nickname>Hogan</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>20</runs>
+					<balls>20</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Adeel Malik</bowler>
+					<bowlerId>10386</bowlerId>
+						<fielder>James Porter</fielder>
+						<fielderId>10102</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>219</playerid>
+				<nbr>1</nbr>
+				<runs>16</runs>
+				<overs>5.3</overs>
+				<batsman>Jacques Rudolph</batsman>
+				<batsman-name>J Rudolph</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9322</playerid>
+				<nbr>2</nbr>
+				<runs>20</runs>
+				<overs>6.6</overs>
+				<batsman>James Kettleborough</batsman>
+				<batsman-name>J Kettleborough</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6595</playerid>
+				<nbr>3</nbr>
+				<runs>33</runs>
+				<overs>12.6</overs>
+				<batsman>William Bragg</batsman>
+				<batsman-name>W Bragg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7958</playerid>
+				<nbr>4</nbr>
+				<runs>38</runs>
+				<overs>13.4</overs>
+				<batsman>Chris Cooke</batsman>
+				<batsman-name>C Cooke</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7664</playerid>
+				<nbr>5</nbr>
+				<runs>78</runs>
+				<overs>22.4</overs>
+				<batsman>Colin Ingram</batsman>
+				<batsman-name>Ingram</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6803</playerid>
+				<nbr>6</nbr>
+				<runs>176</runs>
+				<overs>38.2</overs>
+				<batsman>Graham Wagg</batsman>
+				<batsman-name>G Wagg</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6601</playerid>
+				<nbr>7</nbr>
+				<runs>214</runs>
+				<overs>45.2</overs>
+				<batsman>Mark Wallace</batsman>
+				<batsman-name>Mark Wallace</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7940</playerid>
+				<nbr>8</nbr>
+				<runs>228</runs>
+				<overs>46.3</overs>
+				<batsman>Craig Meschede</batsman>
+				<batsman-name>Meschede</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>9345</playerid>
+				<nbr>9</nbr>
+				<runs>240</runs>
+				<overs>49.4</overs>
+				<batsman>David Lloyd</batsman>
+				<batsman-name>D Lloyd</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>7732</playerid>
+				<nbr>10</nbr>
+				<runs>270</runs>
+				<overs>55.5</overs>
+				<batsman>Michael Hogan</batsman>
+				<batsman-name>M Hogan</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>6</byes>
+			<wides>0</wides>
+			<noballs>0</noballs>
+			<legbyes>6</legbyes>
+			<penalty>0</penalty>
+			<total>12</total>
+		</extras>
+		<bowlteam name="Essex">
+			<players>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<bowler-name>D Masters</bowler-name>
+					<bowler-nickname>David Masters</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>17</overs>
+					<maidens>3</maidens>
+					<runsoff>77</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<bowler-name>James Porter</bowler-name>
+					<bowler-nickname>James Porter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>14</overs>
+					<maidens>1</maidens>
+					<runsoff>49</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<bowler-name>G Napier</bowler-name>
+					<bowler-nickname>Napier</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>11</overs>
+					<maidens>0</maidens>
+					<runsoff>75</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>640</playerid>
+					<name>Ryan ten Doeschate</name>
+					<bowler-name>ten Doeschate</bowler-name>
+					<bowler-nickname>ten Doeschate</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>4</overs>
+					<maidens>0</maidens>
+					<runsoff>18</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10386</playerid>
+					<name>Adeel Malik</name>
+					<bowler-name>Adeel Malik</bowler-name>
+					<bowler-nickname>Adeel Malik</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>9.5</overs>
+					<maidens>1</maidens>
+					<runsoff>39</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<bowler-name>N Browne</bowler-name>
+					<bowler-nickname>Nicholas Browne</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<bowler-name>J Mickleburgh</bowler-name>
+					<bowler-nickname>Mickleburgh</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<bowler-name>Daniel Lawrence</bowler-name>
+					<bowler-nickname>Daniel Lawrence</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<bowler-name>J Foster</bowler-name>
+					<bowler-nickname>Foster</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>8514</playerid>
+					<name>Kishen Velani</name>
+					<bowler-name>Kishen Velani</bowler-name>
+					<bowler-nickname>Kishen Velani</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>10405</playerid>
+					<name>Callum Taylor</name>
+					<bowler-name>Callum Taylor</bowler-name>
+					<bowler-nickname>Callum Taylor</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	<innings no="4">
+		<totalruns>274</totalruns>
+		<totalwickets>10</totalwickets>
+		<totalovers>87.4</totalovers>
+		<declared>no</declared>
+		<followon>no</followon>
+		<batteam name="Essex">
+			<players>
+				<player>
+					<playerid>9388</playerid>
+					<name>Nicholas Browne</name>
+					<batsman-name>N Browne</batsman-name>
+					<batsman-nickname>Nicholas Browne</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>24</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[lbw]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6519</playerid>
+					<name>Jaik Mickleburgh</name>
+					<batsman-name>J Mickleburgh</batsman-name>
+					<batsman-nickname>Mickleburgh</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>13</runs>
+					<balls>47</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[stumped]]></status>
+					<bowler>A Salter</bowler>
+					<bowlerId>7866</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10385</playerid>
+					<name>Daniel Lawrence</name>
+					<batsman-name>Daniel Lawrence</batsman-name>
+					<batsman-nickname>Daniel Lawrence</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>43</runs>
+					<balls>81</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Salter</bowler>
+					<bowlerId>7866</bowlerId>
+						<fielder>Chris Cooke</fielder>
+						<fielderId>7958</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10102</playerid>
+					<name>James Porter</name>
+					<batsman-name>James Porter</batsman-name>
+					<batsman-nickname>James Porter</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>34</runs>
+					<balls>93</balls>
+					<fours>2</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>M Hogan</bowler>
+					<bowlerId>7732</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1914</playerid>
+					<name>James Foster</name>
+					<batsman-name>J Foster</batsman-name>
+					<batsman-nickname>Foster</batsman-nickname>
+					<captain>yes</captain>
+					<keeper>yes</keeper>
+					<runs>9</runs>
+					<balls>23</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>A Salter</bowler>
+					<bowlerId>7866</bowlerId>
+						<fielder>A Salter</fielder>
+						<fielderId>7866</fielderId>
+						<fielder2></fielder2>
+						<fielder3></fielder3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>640</playerid>
+					<name>Ryan ten Doeschate</name>
+					<batsman-name>ten Doeschate</batsman-name>
+					<batsman-nickname>ten Doeschate</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>74</runs>
+					<balls>118</balls>
+					<fours>10</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[batting]]></status>
+					<bowler></bowler>
+					<bowlerId>0</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>8514</playerid>
+					<name>Kishen Velani</name>
+					<batsman-name>Kishen Velani</batsman-name>
+					<batsman-nickname>Kishen Velani</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>31</runs>
+					<balls>66</balls>
+					<fours>5</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>M Hogan</bowler>
+					<bowlerId>7732</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10405</playerid>
+					<name>Callum Taylor</name>
+					<batsman-name>Callum Taylor</batsman-name>
+					<batsman-nickname>Callum Taylor</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>22</runs>
+					<balls>43</balls>
+					<fours>3</fours>
+					<sixes>1</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>G Wagg</bowler>
+					<bowlerId>6803</bowlerId>
+						<fielder>Colin Ingram</fielder>
+						<fielderId>7664</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>1870</playerid>
+					<name>Graham Napier</name>
+					<batsman-name>G Napier</batsman-name>
+					<batsman-nickname>Napier</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>8</runs>
+					<balls>23</balls>
+					<fours>1</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>Meschede</bowler>
+					<bowlerId>7940</bowlerId>
+						<fielder>Mark Wallace</fielder>
+						<fielderId>6601</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>10386</playerid>
+					<name>Adeel Malik</name>
+					<batsman-name>Adeel Malik</batsman-name>
+					<batsman-nickname>Adeel Malik</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>2</runs>
+					<balls>6</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[bowled]]></status>
+					<bowler>Meschede</bowler>
+					<bowlerId>7940</bowlerId>
+						<fielder></fielder>
+						<fielderId>0</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+				<player>
+					<playerid>6541</playerid>
+					<name>David Masters</name>
+					<batsman-name>D Masters</batsman-name>
+					<batsman-nickname>David Masters</batsman-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<runs>0</runs>
+					<balls>5</balls>
+					<fours>0</fours>
+					<sixes>0</sixes>
+					<status><![CDATA[caught]]></status>
+					<bowler>M Hogan</bowler>
+					<bowlerId>7732</bowlerId>
+						<fielder>Jacques Rudolph</fielder>
+						<fielderId>219</fielderId>
+						<fielder2></fielder2>
+						<fielderId2>0</fielderId2>
+						<fielder3></fielder3>
+						<fielderId3>0</fielderId3>
+					<yetToBat>false</yetToBat>
+				</player>
+			</players>
+		</batteam>
+		<fallofwickets>
+			<wicket>
+				<playerid>9388</playerid>
+				<nbr>1</nbr>
+				<runs>21</runs>
+				<overs>7.6</overs>
+				<batsman>Nicholas Browne</batsman>
+				<batsman-name>N Browne</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6519</playerid>
+				<nbr>2</nbr>
+				<runs>43</runs>
+				<overs>16.2</overs>
+				<batsman>Jaik Mickleburgh</batsman>
+				<batsman-name>J Mickleburgh</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10385</playerid>
+				<nbr>3</nbr>
+				<runs>112</runs>
+				<overs>38.1</overs>
+				<batsman>Daniel Lawrence</batsman>
+				<batsman-name>Daniel Lawrence</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1914</playerid>
+				<nbr>4</nbr>
+				<runs>130</runs>
+				<overs>44.2</overs>
+				<batsman>James Foster</batsman>
+				<batsman-name>J Foster</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10102</playerid>
+				<nbr>5</nbr>
+				<runs>130</runs>
+				<overs>45.1</overs>
+				<batsman>James Porter</batsman>
+				<batsman-name>James Porter</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>8514</playerid>
+				<nbr>6</nbr>
+				<runs>198</runs>
+				<overs>65.3</overs>
+				<batsman>Kishen Velani</batsman>
+				<batsman-name>Kishen Velani</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10405</playerid>
+				<nbr>7</nbr>
+				<runs>242</runs>
+				<overs>77.3</overs>
+				<batsman>Callum Taylor</batsman>
+				<batsman-name>Callum Taylor</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>1870</playerid>
+				<nbr>8</nbr>
+				<runs>269</runs>
+				<overs>84.4</overs>
+				<batsman>Graham Napier</batsman>
+				<batsman-name>G Napier</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>10386</playerid>
+				<nbr>9</nbr>
+				<runs>273</runs>
+				<overs>86.4</overs>
+				<batsman>Adeel Malik</batsman>
+				<batsman-name>Adeel Malik</batsman-name>
+			</wicket>
+			<wicket>
+				<playerid>6541</playerid>
+				<nbr>10</nbr>
+				<runs>274</runs>
+				<overs>87.4</overs>
+				<batsman>David Masters</batsman>
+				<batsman-name>D Masters</batsman-name>
+			</wicket>
+		</fallofwickets>
+		<extras>
+			<byes>10</byes>
+			<wides>0</wides>
+			<noballs>6</noballs>
+			<legbyes>9</legbyes>
+			<penalty>0</penalty>
+			<total>25</total>
+		</extras>
+		<bowlteam name="Glamorgan">
+			<players>
+				<player>
+					<playerid>7732</playerid>
+					<name>Michael Hogan</name>
+					<bowler-name>M Hogan</bowler-name>
+					<bowler-nickname>Hogan</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>23.4</overs>
+					<maidens>5</maidens>
+					<runsoff>67</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>1</noballs>
+				</player>
+				<player>
+					<playerid>6803</playerid>
+					<name>Graham Wagg</name>
+					<bowler-name>G Wagg</bowler-name>
+					<bowler-nickname>Wagg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>22</overs>
+					<maidens>2</maidens>
+					<runsoff>81</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>2</noballs>
+				</player>
+				<player>
+					<playerid>7940</playerid>
+					<name>Craig Meschede</name>
+					<bowler-name>Meschede</bowler-name>
+					<bowler-nickname>Meschede</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>15</overs>
+					<maidens>1</maidens>
+					<runsoff>53</runsoff>
+					<wickets>2</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7866</playerid>
+					<name>Andrew Salter</name>
+					<bowler-name>A Salter</bowler-name>
+					<bowler-nickname>Salter</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>27</overs>
+					<maidens>7</maidens>
+					<runsoff>54</runsoff>
+					<wickets>3</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9322</playerid>
+					<name>James Kettleborough</name>
+					<bowler-name>J Kettleborough</bowler-name>
+					<bowler-nickname>Kettleborough</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>219</playerid>
+					<name>Jacques Rudolph</name>
+					<bowler-name>J Rudolph</bowler-name>
+					<bowler-nickname>Rudolph</bowler-nickname>
+					<captain>yes</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6595</playerid>
+					<name>William Bragg</name>
+					<bowler-name>W Bragg</bowler-name>
+					<bowler-nickname>Bragg</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7664</playerid>
+					<name>Colin Ingram</name>
+					<bowler-name>Ingram</bowler-name>
+					<bowler-nickname>Ingram</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>7958</playerid>
+					<name>Chris Cooke</name>
+					<bowler-name>C Cooke</bowler-name>
+					<bowler-nickname>C Cooke</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>6601</playerid>
+					<name>Mark Wallace</name>
+					<bowler-name>Mark Wallace</bowler-name>
+					<bowler-nickname>Mark Wallace</bowler-nickname>
+					<captain>no</captain>
+					<keeper>yes</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+				<player>
+					<playerid>9345</playerid>
+					<name>David Lloyd</name>
+					<bowler-name>D Lloyd</bowler-name>
+					<bowler-nickname>Lloyd</bowler-nickname>
+					<captain>no</captain>
+					<keeper>no</keeper>
+					<overs>0</overs>
+					<maidens>0</maidens>
+					<runsoff>0</runsoff>
+					<wickets>0</wickets>
+					<wides>0</wides>
+					<noballs>0</noballs>
+				</player>
+			</players>
+		</bowlteam>
+	</innings>
+	
+</scorecard>
+
+
+
