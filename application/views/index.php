@@ -62,7 +62,7 @@
               <div style="clear:both"></div>
               <?php } ?>
               <div style="clear:both"></div>
-              <p><a href="" class="btn btn-block btn-info btn-sm">Match Center</a></p>
+              <p><a href="<?= NAV_URL ?>match-center<?= getGameUri($match->attr['datapath']) ?>" class="btn btn-block btn-info btn-sm">Match Center</a></p>
               
               </div>
               

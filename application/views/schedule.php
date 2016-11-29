@@ -55,6 +55,9 @@
                     <td><?= date('l, jS M, Y',strtotime($start)) ?></td>
                     <td><?= date('l, jS M, Y',strtotime($end)) ?></td>
                     <td><?= $match->find('venue',0)->xmltext ?></td>
+                    <td>
+                      <a href="" class="btn btn-block btn-info btn-sm">Match Center</a>
+                    </td>
                   </tr>
                   <?php } ?>
                 </tbody>

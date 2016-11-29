@@ -38,3 +38,10 @@ if(!function_exists('pr')){
 		
 	}
 }
+
+function getGameUri($url){
+   $uri = $url;
+   $uri = str_replace(API_URL.'j2me/1.0/match','',$uri);
+   $uri = strtolower($uri);
+   return $uri;
+}

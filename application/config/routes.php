@@ -51,6 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 $route['schedule'] = 'welcome/schedule';
+$route['match-center/:any/:any/:any'] = 'welcome/match_center';
 
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';

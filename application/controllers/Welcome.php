@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
    }
 	public function index()
 	{
-        $url  = 'http://synd.cricbuzz.com/j2me/1.0/livematches.xml';
+        $url  = API_URL.'j2me/1.0/livematches.xml';
 		$html = get_content($url);
         $html =str_get_html($html);
 		$this->load->view('index',['games'=>$html]);
@@ -33,10 +33,20 @@ class Welcome extends CI_Controller {
     
     public function schedule()
 	{
-        $url  = 'http://synd.cricbuzz.com/dinamalar/data/series-schedule.xml';
+        $url  = API_URL.'dinamalar/data/series-schedule.xml';
 		$html = get_content($url);
         $html =str_get_html($html);
 		$this->load->view('schedule',['schedule'=>$html]);
 	}
+    public function match_center(){
+        $uri = $this->uri->segment(2).'/'.$this->uri->segment(3).'/'.$this->uri->segment(4);
+        $uri = strtoupper($uri);
+        $url = API_URL.'dinamalar/data/'.$uri.'/scores.xml';
+        $html = get_content($url);
+       // echo $html;die;
+        $html =str_get_html($html);
+		$this->load->view('match_center',['details'=>$html]);
+        
+    }
     
 }
