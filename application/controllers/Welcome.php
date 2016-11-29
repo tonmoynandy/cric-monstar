@@ -30,4 +30,13 @@ class Welcome extends CI_Controller {
         $html =str_get_html($html);
 		$this->load->view('index',['games'=>$html]);
 	}
+    
+    public function schedule()
+	{
+        $url  = 'http://synd.cricbuzz.com/dinamalar/data/series-schedule.xml';
+		$html = get_content($url);
+        $html =str_get_html($html);
+		$this->load->view('schedule',['schedule'=>$html]);
+	}
+    
 }
