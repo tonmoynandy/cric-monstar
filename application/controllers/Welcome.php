@@ -53,4 +53,14 @@ class Welcome extends CI_Controller {
         
     }
     
+    public function news()
+	{
+        $url  = NEWS_URL.'cslide.xml';
+		$html = get_content($url);
+        $html =simplexml_load_string($html);
+        //echo "<pre>";
+       //print_r($html);die;
+		$this->load->view('news',['lists'=>$html]);
+	}
+    
 }
