@@ -39,12 +39,16 @@ class Welcome extends CI_Controller {
 		$this->load->view('schedule',['schedule'=>$html]);
 	}
     public function match_center(){
+        
         $uri = $this->uri->segment(2).'/'.$this->uri->segment(3).'/'.$this->uri->segment(4);
         $uri = strtoupper($uri);
         $url = API_URL.'dinamalar/data/'.$uri.'/scores.xml';
         $html = get_content($url);
        // echo $html;die;
-        $html =str_get_html($html);
+        $html =simplexml_load_string($html);
+        
+       //echo "<pre>";
+       //print_r($html);die;
 		$this->load->view('match_center',['details'=>$html]);
         
     }

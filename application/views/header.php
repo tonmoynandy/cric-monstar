@@ -21,6 +21,9 @@
   <link rel="stylesheet" href="<?= ASSETS ?>plugins/daterangepicker/daterangepicker.css">
   <!-- bootstrap wysihtml5 - text editor -->
   <link rel="stylesheet" href="<?= ASSETS ?>plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+  
+  <link rel="stylesheet" href="<?= ASSETS ?>custom.css">
+  <link rel="stylesheet" href="<?= ASSETS ?>bootstrap/css/bootstrap-responsive-tabs.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -38,6 +41,7 @@
 
 <!-- Bootstrap 3.3.6 -->
 <script src="<?= ASSETS ?>bootstrap/js/bootstrap.min.js"></script>
+<script src="<?= ASSETS ?>bootstrap/js/bootstrap-responsive-tabs.min.js"></script>
 
 <script src="<?= ASSETS ?>plugins/sparkline/jquery.sparkline.min.js"></script>
 <!-- jvectormap -->
@@ -60,8 +64,7 @@
 <script src="<?= ASSETS ?>dist/js/app.min.js"></script>
 
 
-<script>
-            </script>
+
      <style>
         /* use navbar-wrapper to wrap navigation bar, the purpose is to overlay navigation bar above slider */
       

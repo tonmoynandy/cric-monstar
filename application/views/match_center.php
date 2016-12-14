@@ -10,52 +10,65 @@
     <section class="content">
       <div class="row">
         <div class="col-md-12">
-          <div class="col-md-12 box box-default">
+          <div class="box box-default">
             <div class="col-md-6">
-                <h3><?= $details->find('scorecard',0)->find('match',0)->find('series',0)->xmltext ?></h3>
-                <h4><?= $details->find('scorecard',0)->find('match',0)->find('gamedesc',0)->xmltext ?>,
-                <?= $details->find('scorecard',0)->find('match',0)->find('home',0)->xmltext ?>
+                <h3><?= $details->match->series ?></h3>
+                <h4><?= $details->match->gameDesc ?>,
+                <?= $details->match->home ?>
                 vs
-                <?= $details->find('scorecard',0)->find('match',0)->find('away',0)->xmltext ?>
+                <?= $details->match->away ?>
                 </h4>
-                <h5><?= $details->find('scorecard',0)->find('match',0)->find('venue',0)->xmltext ?></h5>
-                <?php if(count($details->find('scorecard',0)->find('match',0)->find('toss'))>0){ ?>
-                <h5><?= $details->find('scorecard',0)->find('match',0)->find('toss',0)->find('winner',0)->xmltext.' won the toss and elected to '.$details->find('scorecard',0)->find('match',0)->find('toss',0)->find('decision',0)->xmltext.' first' ?></h5>
+                <h5><?= $details->match->venue ?></h5>
+                <?php if(property_exists($details->match,'toss')){ ?>
+                <h5><?= $details->match->toss->winner.' won the toss and elected to '.$details->match->toss->decision.' first' ?></h5>
                 <?php } ?>
             </div>
             <div class="col-md-6">
               
-              <?php if(count($details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('Umpire1'))>0){ ?>
+              <?php if(property_exists($details->match,'umpires') and property_exists($details->match->umpires,'Umpire1')){  ?>
               <p><b>Umpires</b></p>
-              <p><b>Umpire 1 : </b><?= $details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('Umpire1',0)->find('Name',0)->xmltext.'('.$details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('Umpire1',0)->find('Country',0)->xmltext.')' ?></p>
+              <p><b>Umpire 1 : </b><?= $details->match->umpires->Umpire1->Name.'('.$details->match->umpires->Umpire1->Country.')' ?></p>
               <?php } ?>
-               <?php if(count($details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('Umpire2'))>0){ ?>
-              <p><b>Umpire 2 : </b><?= $details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('Umpire2',0)->find('Name',0)->xmltext.'('.$details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('Umpire2',0)->find('Country',0)->xmltext.')' ?></p>
-               <?php } ?>
-                <?php if(count($details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('ThirdUmpire'))>0){ ?>
-              <p><b>Third Umpire : </b><?= $details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('ThirdUmpire',0)->find('Name',0)->xmltext.'('.$details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('ThirdUmpire',0)->find('Country',0)->xmltext.')' ?></p>
+               <?php if(property_exists($details->match,'umpires') and property_exists($details->match->umpires,'Umpire2')){  ?>
+              <p><b>Umpire 2 : </b><?= $details->match->umpires->Umpire2->Name.'('.$details->match->umpires->Umpire2->Country.')' ?></p>
               <?php } ?>
-              <?php if(count($details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('MatchReferee'))>0){ ?>
-              <p><b>Match Referee : </b><?= $details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('MatchReferee',0)->find('Name',0)->xmltext.'('.$details->find('scorecard',0)->find('match',0)->find('umpires',0)->find('MatchReferee',0)->find('Country',0)->xmltext.')' ?></p>
+              
+              <?php if(property_exists($details->match,'umpires') and property_exists($details->match->umpires,'ThirdUmpire')){  ?>
+              <p><b>Third Umpire : </b><?= $details->match->umpires->ThirdUmpire->Name.'('.$details->match->umpires->ThirdUmpire->Country.')' ?></p>
               <?php } ?>
+              
+              <?php if(property_exists($details->match,'umpires') and property_exists($details->match->umpires,'MatchReferee')){  ?>
+              <p><b>Match Referee : </b><?= $details->match->umpires->MatchReferee->Name.'('.$details->match->umpires->MatchReferee->Country.')' ?></p>
+              <?php } ?>
+              
              </div>
             <div style="clear: both"></div>
           </div>
         
-        <?php if(count($details->find('scorecard',0)->find('currentscores'))>0){ ?>
-        <div class="col-md-12">
-          <div class="box box-default">
-            <div class="bg-navy color-palette">
+       
+       <ul class="nav nav-tabs responsive-tabs">
+        <li class="col-md-6 col-xs-12 active"><a data-toggle="tab" href="#summery">Summery</a></li>
+        <li class="col-md-6 col-xs-12 "><a data-toggle="tab" href="#scoreboard">Scoreboard</a></li>
+      </ul>
+       
+       <div class="tab-content">
+        
+       <div id="summery" class="tab-pane fade in active">
+        <?php  if(property_exists($details,'currentscores') ){ ?>
+        
+          <div class=" box box-default">
+            <div class="col-md-6 col-xs-12 bg-navy color-palette">
               <h4>
-                <?= $details->find('scorecard',0)->find('currentscores',0)->find('batteamname',0)->xmltext ?>
+                <?= $details->currentscores->batteamname ?>
                 &nbsp;&nbsp;
-                <?= $details->find('scorecard',0)->find('currentscores',0)->find('batteamruns',0)->xmltext ?>
+                <?= $details->currentscores->batteamruns  ?>
                 /
-                <?= $details->find('scorecard',0)->find('currentscores',0)->find('batteamwkts',0)->xmltext ?>
-                (<b>Ov:</b> <?= $details->find('scorecard',0)->find('currentscores',0)->find('batteamovers',0)->xmltext ?>)
+                <?= $details->currentscores->batteamwkts   ?>
+                (<b>Ov:</b> <?= $details->currentscores->batteamovers    ?>)
               </h4>
-              <?php if(count($details->find('scorecard',0)->find('currentscores',0)->find('batsman'))>0){ ?>
-              <table >
+              <?php if(property_exists($details->currentscores,'batsman') ){   ?>
+              <table class="table" >
+                <thead>
                 <tr>
                   <th>Batsman</th>
                   <th>R</th>
@@ -63,14 +76,15 @@
                   <th>4(s)</th>
                   <th>6(s)</th>
                 </tr>
+                </thead>
                 <tbody>
-              <?php foreach($details->find('scorecard',0)->find('currentscores',0)->find('batsman') as $batsman){ ?>
+              <?php foreach($details->currentscores->batsman as $batsman){$bat = (array)$batsman; ?>
               <tr>
-              <td><?= $batsman->find('name',0)->xmltext ?></td>
-              <td><?= $batsman->find('runs',0)->xmltext ?></td>
-              <td><?= $batsman->find('balls-faced',0)->xmltext ?></td>
-              <td><?= $batsman->find('fours',0)->xmltext ?> </td>
-              <td><?= $batsman->find('sixes',0)->xmltext ?></td>
+              <td><?= $bat['name'] ?></td>
+              <td><?= $bat['runs'] ?></td>
+              <td><?= $bat['balls-faced'] ?></td>
+              <td><?= $bat['fours'] ?> </td>
+              <td><?= $bat['sixes'] ?></td>
               </tr>
               <?php } ?>
                 </tbody>
@@ -78,12 +92,13 @@
               <?php } ?>
             </div>
             
-            <div class="bg-navy color-palette">
+            <div class="col-md-6 col-xs-12 bg-navy color-palette">
               <h4>
-                <?= $details->find('scorecard',0)->find('currentscores',0)->find('bwlteamname',0)->xmltext ?>
+                 <?= $details->currentscores->bwlteamname ?>
               </h4>
-              <?php if(count($details->find('scorecard',0)->find('currentscores',0)->find('batsman'))>0){ ?>
-              <table >
+              <?php if(property_exists($details->currentscores,'bowler') ){   ?>
+              <table class="table">
+                <thead>
                 <tr>
                   <th>Bowler</th>
                   <th>O</th>
@@ -91,14 +106,15 @@
                   <th>R</th>
                   <th>W</th>
                 </tr>
+                </thead>
                 <tbody>
-              <?php foreach($details->find('scorecard',0)->find('currentscores',0)->find('bowler') as $bowler){ ?>
+              <?php foreach($details->currentscores->bowler as $bowler){ ?>
               <tr>
-              <td><?= $bowler->find('name',0)->xmltext ?></td>
-              <td><?= $bowler->find('overs',0)->xmltext ?></td>
-              <td><?= $bowler->find('maidens',0)->xmltext ?></td>
-              <td><?= $bowler->find('runs',0)->xmltext ?> </td>
-              <td><?= $bowler->find('wickets',0)->xmltext ?></td>
+              <td><?= $bowler->name ?></td>
+              <td><?= $bowler->overs ?></td>
+              <td><?= $bowler->maidens ?></td>
+              <td><?= $bowler->runs ?> </td>
+              <td><?= $bowler->wickets ?></td>
               </tr>
               <?php } ?>
                 </tbody>
@@ -106,12 +122,162 @@
               <?php } ?>
             </div>
             
-            </div>
+            
           
           </div>
+          <div style="clear: both"></div>
         <?php } ?>
+         <?php if(property_exists($details,'commentary') ){   ?>
+        <div class="col-md-12 box box-default">
+          <div style="height:300px;overflow-y: scroll">
+          <table class="table table-striped">
+            <tbody>
+          <?php foreach($details->commentary->line as $line){ ?>
+          <tr>
+            <td>
+              <?= $line ?>
+            </td>
+            </tr>
+          <?php } ?>
+          </tbody>
+          </table>
+          </div>
+        </div>
+        <?php } ?>
+        </div>
+       
+       
+              <div id="scoreboard" class="tab-pane fade">
+                <?php if( property_exists($details,'innings') ){   ?>
+                <ul class="nav nav-tabs responsive-tabs">
+                  <?php foreach($details->innings  as $ins) { ?>
+                  <li class="col-md-3 col-xs-12 <?= (($ins[0]['no'] ==1)?'active':'') ?>"><a data-toggle="tab" href="#ins<?= $ins[0]['no'] ?>"><?= $ins->batteam[0]['name'] ?>&nbsp; (<?= $ins->totalruns ?> / <?= $ins->totalwickets?>)</a></li>
+                  <?php } ?>
+                </ul>
+                <div class="tab-content">
+                <?php foreach($details->innings  as $ins) { ?>
+                <div id="ins<?= $ins[0]['no'] ?>" class="tab-pane fade <?= (($ins[0]['no'] ==1)?'in active':'') ?>">
+                
+                <?php if(property_exists($ins,'batteam') and property_exists($ins->batteam,'players') ){   ?>
+                <div id="no-more-tables">
+                    <table class="table table-bordered table-striped table-condensed cf">
+                		<thead class="cf">
+                    <tr>
+                      <th></th>
+                      <th></th>
+                      <th>Runs</th>
+                      <th>Balls</th>
+                      <th>Fours</th>
+                      <th>Sixes</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                  <?php foreach($ins->batteam->players->player as $player){ ?>
+                  <tr>
+                      <td data-title="Name"><?= $player->name.( ($player->captain == 'yes')?'(c)':'').( ($player->keeper == 'yes')?'(k)':'') ?></td>
+                      <td data-title="">
+                      <?php if($player->status !='batting'){ ?>
+                      <?= $player->status.' '.(($player->fielder !='')?$player->fielder:'' ).(($player->status !='bowled')? 'b ':'' ).$player->bowler ?>
+                      <?php }else{ echo "not out"; } ?>
+                      </td>
+                      <td data-title="Runs"><?= $player->runs ?></td>
+                      <td data-title="Balls"><?= $player->balls ?></td>
+                      <td data-title="Fours"><?= $player->fours ?></td>
+                      <td data-title="Sixes"><?= $player->sixes ?></td>
+                  </tr>
+                  <?php } ?>
+                  </tbody>
+                  </table>
+                </div>
+                <?php } ?>
+                
+                <div class="bg-navy-active color-palette col-xs-12"><h4>Extras</h4></div><br/><br>
+                  <div id="no-more-tables">
+                    <table class="table  table-bordered table-striped table-condensed cf">
+                		<thead class="cf">
+                    <tr>
+                      <th>Byes</th>
+                      <th>Wides</th>
+                      <th>Noballs</th>
+                      <th>Legbyes</th>
+                      <th>Total</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td data-title="Byes"><?= $ins->extras->byes ?></td>
+                      <td data-title="Wides"><?= $ins->extras->wides ?></td>
+                      <td data-title="Noballs"><?= $ins->extras->noballs ?></td>
+                      <td data-title="Legbyes"><?= $ins->extras->legbyes ?></td>
+                      <td data-title="Total"><?= $ins->extras->total ?></td>
+                      </tr>
+                  </tbody>
+                  </table>
+                    </div>
+                
+                
+                <?php if(property_exists($ins,'bowlteam') and property_exists($ins->bowlteam,'players') ){   ?>
+                <div class="bg-navy-active color-palette col-xs-12"><h4>Bowling</h4></div><br><br>
+                <div id="no-more-tables">
+                    <table class="table  table-bordered table-striped table-condensed cf">
+                		<thead class="cf">
+                    <tr>
+                      <th></th>
+                      <th>Overs</th>
+                      <th>Maidens</th>
+                      <th>Runs</th>
+                      <th>Wickets</th>
+                      <th>NB</th>
+                      <th>WB</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                  <?php foreach($ins->bowlteam->players->player as $player){ if($player->overs != 0){ ?>
+                  <tr>
+                      <td data-title="Name"><?= $player->name.( ($player->captain == 'yes')?'(c)':'').( ($player->keeper == 'yes')?'(k)':'') ?></td>
+                      <td data-title="Overs"><?= $player->overs ?></td>
+                      <td data-title="Maidens"><?= $player->maidens ?></td>
+                      <td data-title="Runs"><?= $player->runsoff ?></td>
+                      <td data-title="Wickets"><?= $player->wickets ?></td>
+                      <td data-title="NB"><?= $player->noballs ?></td>
+                      <td data-title="WB"><?= $player->wides ?></td>
+                  </tr>
+                  <?php } } ?>
+                  </tbody>
+                  </table></div>
+                <?php } ?>
+                
+                <?php if(property_exists($ins,'fallofwickets') and property_exists($ins->fallofwickets,'wicket') ){   ?>
+                <div class="bg-navy-active color-palette col-xs-12"><h4>Fall of Wickets</h4></div>
+                <table class="table table-striped" >
+                  
+                  <tbody>
+                  <?php foreach($ins->fallofwickets->wicket as $player){  ?>
+                  <tr>
+                      <td><?= $player->runs.'/'.$player->nbr ?></td>
+                      <td><?= $player->batsman ?></td>
+                      <td><?= $player->overs ?></td>
+                  </tr>
+                  <?php  } ?>
+                  </tbody>
+                  </table>
+                <?php } ?>
+                  
+                  </div>
+                <?php } ?>
+                </div>
+             <?php } ?>
+       </div>
+
+      
+       
+        </div>
+        
         </div>
      </div>
     </section>
+<!-- <script>$(function(){$('.responsive-tabs').responsiveTabs({
+  accordionOn: ['xs', 'sm']
+});})</script>   -->
     <!-- /.content -->
 <?php include 'footer.php' ?>
