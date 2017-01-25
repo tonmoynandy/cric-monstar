@@ -87,6 +87,6 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 defined('API_URL')        OR define('API_URL', 'http://synd.cricbuzz.com/');
 defined('NEWS_URL')        OR define('NEWS_URL', 'http://www.rediff.com/rss/');
-defined('FRONT_URL')        OR define('FRONT_URL', 'http://localhost/TONMOY/cric/'); 
+defined('FRONT_URL')        OR define('FRONT_URL', 'http://localhost/cric-monstar/'); 
 defined('NAV_URL')        OR define('NAV_URL', FRONT_URL.'index.php/');
 defined('ASSETS')        OR define('ASSETS', FRONT_URL.'assets/'); 

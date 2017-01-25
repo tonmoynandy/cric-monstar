@@ -21,6 +21,7 @@ class Welcome extends CI_Controller {
     function __construct(){
    	parent ::__construct();
 	$this->load->helper('common_helper');
+	$this->load->helper('url');
     require "simple_html_dom.php";
    }
 	public function index()
@@ -52,15 +53,71 @@ class Welcome extends CI_Controller {
 		$this->load->view('match_center',['details'=>$html]);
         
     }
+	
+	
+	public function ranking(){
+        $type = $this->uri->segment(2);
+		switch($type){
+			case "team":
+				$url =	"http://m.cricbuzz.com/cricket-stats/iccrankings/teams";
+				break;
+			case "batting":
+				$url =	"http://m.cricbuzz.com/cricket-stats/iccrankings/batting";
+				break;
+			case "bowling":
+				$url =	"http://m.cricbuzz.com/cricket-stats/iccrankings/bowling";
+				break;
+			case "allrounders":
+				$url =	"http://m.cricbuzz.com/cricket-stats/iccrankings/allrounders";
+				break;
+			default:
+				die('Wrong Rank Type');
+			break;
+		}
+		$html = get_content($url);
+		//echo $html;die;
+        $html =str_get_html($html);
+        $html = $html->find('body',0);
+      
+		$this->load->view('ranking',['details'=>$html]);
+        
+    }
+	
+	public function player_detals(){
+		$player_id = $this->uri->segment(2);
+		$player_name = url_title($this->uri->segment(3));
+		$url = "http://m.cricbuzz.com/cricket-stats/player/".$player_id."/".$player_name;
+		$html = get_content($url);
+		$html =str_get_html($html);
+        $html = $html->find('body',0);
+      
+		$this->load->view('player_details',['details'=>$html]);
+	}
     
     public function news()
 	{
-        $url  = NEWS_URL.'cslide.xml';
-		$html = get_content($url);
-        $html =simplexml_load_string($html);
-        //echo "<pre>";
-       //print_r($html);die;
-		$this->load->view('news',['lists'=>$html]);
+        $this->load->library('Yahoocricket');
+		$news = $this->yahoocricket->getNews();
+		//echo "<pre>";
+		//print_r($news);
+		$this->load->view('news',['lists'=>$news->item]);
+	}
+	
+	public function teams()
+	{
+        $this->load->library('Yahoocricket');
+		$teams = $this->yahoocricket->getTeam();
+		//echo "<pre>";
+		//print_r($teams->Team);die;
+		$this->load->view('teams',['lists'=>$teams]);
 	}
     
+	public function team_detals(){
+		$team_id = $this->uri->segment(2);
+		$this->load->library('Yahoocricket');
+		$team = $this->yahoocricket->getTeamDetails($team_id);
+      echo "<pre>";
+	  print_r($team);die;
+		$this->load->view('player_details',['details'=>$html]);
+	}
 }

@@ -107,6 +107,43 @@
             <i class="fa fa-home"></i> <span>Schedule</span>
           </a>
         </li>
+        <li class="active treeview">
+          <a href="<?= NAV_URL ?>teams">
+            <i class="fa fa-home"></i> <span>Team</span>
+          </a>
+        </li>
+        <li class="active treeview">
+          <a href="<?= NAV_URL ?>news">
+            <i class="fa fa-home"></i> <span>News</span>
+          </a>
+        </li>
+        <li class="active treeview">
+          <a href="javascript:void(0)">
+            <i class="fa fa-home"></i> <span>Ranking</span>
+          </a>
+          <ul class="treeview-menu menu-open">
+            <li class="">
+              <a href="<?= NAV_URL ?>ranking/team">
+                <i class="fa fa-home"></i> <span>Team</span>
+              </a>
+            </li>
+            <li class="">
+              <a href="<?= NAV_URL ?>ranking/batting">
+                <i class="fa fa-home"></i> <span>Batting</span>
+              </a>
+            </li>
+            <li class="">
+              <a href="<?= NAV_URL ?>ranking/bowling">
+                <i class="fa fa-home"></i> <span>Bowling</span>
+              </a>
+            </li>
+            <li class="">
+              <a href="<?= NAV_URL ?>ranking/allrounders">
+                <i class="fa fa-home"></i> <span>Allrounders</span>
+              </a>
+            </li>
+          </ul>
+        </li>
       </ul>
     </section>
     <!-- /.sidebar -->

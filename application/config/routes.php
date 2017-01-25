@@ -50,11 +50,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 
-$route['schedule'] = 'welcome/schedule';
-$route['news'] = 'welcome/news';
-$route['match-center/:any/:any/:any'] = 'welcome/match_center';
+$route['schedule']                      = 'welcome/schedule';
+$route['news']                          = 'welcome/news';
 
-$route['default_controller'] = 'welcome';
-$route['404_override'] = '';
-$route['translate_uri_dashes'] = FALSE;
+
+$route['team/:any/:any']        = 'welcome/team_details';
+$route['teams']                         = 'welcome/teams';
+$route['match-center/:any/:any/:any']   = 'welcome/match_center';
+$route['ranking/:any']                  = 'welcome/ranking';
+$route['player/:any/:any']              = 'welcome/player_detals';
+
+$route['default_controller']            = 'welcome';
+$route['404_override']                  = '';
+$route['translate_uri_dashes']          = FALSE;
 
