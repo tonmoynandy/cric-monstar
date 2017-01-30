@@ -6,7 +6,7 @@
       </h1>
       
     </section>
-
+    
     <!-- Main content -->
     <section class="content">
       <div class="row"><?php $i=0; ?>
@@ -14,7 +14,7 @@
           <?php foreach($lists->Team as $index=> $item){ ?>
           <?php if($i%3 == 0){ echo "</tr><tr>"; } ?>
             <td>
-                <a href="" style="text-align:center;font-weight:bold;display:block;">
+                <a href="<?= NAV_URL ?>team/<?= $item->TeamId ?>/<?= $item->ShortName ?>" style="text-align:center;font-weight:bold;display:block;">
                     <?php if($item->TeamLogoPath !=''){  ?>
                     <img src="<?= $item->TeamLogoPath ?>" alt="Team  Photo" style="width: 76px;height: 76px;" />
                      <?php } ?>

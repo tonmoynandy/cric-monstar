@@ -34,10 +34,20 @@ class Yahoocricket {
     }
     
     public function getTeamDetails($teamId){
+        
         $url        = $this->host;
         $url        .= "&format=json&q=select%20*%20from%20cricket.team.profile%20where%20team_id%3D".$teamId;
         $html       = $this->getContent($url);
-        $html       = json_decode($html);
-        return $html;
+        $profile   = json_decode($html);
+        return $profile;
+    }
+    
+    public function getPlayerDetails($playerId){
+        
+        $url        = $this->host;
+        $url        .= "&format=json&q=select%20*%20from%20cricket.player.profile%20where%20player_id%3D".$playerId;
+        $html       = $this->getContent($url);
+        $profile   = json_decode($html);
+        return $profile;
     }
 }

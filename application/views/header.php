@@ -121,7 +121,7 @@
           <a href="javascript:void(0)">
             <i class="fa fa-home"></i> <span>Ranking</span>
           </a>
-          <ul class="treeview-menu menu-open">
+          <ul class="treeview-menu menu" style="display: none">
             <li class="">
               <a href="<?= NAV_URL ?>ranking/team">
                 <i class="fa fa-home"></i> <span>Team</span>

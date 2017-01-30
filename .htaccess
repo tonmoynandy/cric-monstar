@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteBase    /cric-monstar/
-RewriteCond $1 !^(index\.php|assets|images|robots\.txt)
+RewriteCond $1 !^(index\.php|assets|img|robots\.txt)
 RewriteRule ^(.*)$ /cric-monstar/index.php/$1 [L]

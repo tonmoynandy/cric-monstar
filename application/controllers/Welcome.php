@@ -112,12 +112,25 @@ class Welcome extends CI_Controller {
 		$this->load->view('teams',['lists'=>$teams]);
 	}
     
-	public function team_detals(){
-		$team_id = $this->uri->segment(2);
-		$this->load->library('Yahoocricket');
-		$team = $this->yahoocricket->getTeamDetails($team_id);
-      echo "<pre>";
-	  print_r($team);die;
-		$this->load->view('player_details',['details'=>$html]);
-	}
+	public function player_details(){
+        $this->load->library('Yahoocricket');
+        $player_id = $this->uri->segment(3);
+        $content = $this->yahoocricket->getPlayerDetails($player_id);
+    }
+    
+    public function player_images(){
+        $this->load->library('Yahoocricket');
+        $player_id = $this->uri->segment(3);
+        $content = $this->yahoocricket->getPlayerDetails($player_id);
+        $content = $content->query->results->PlayerProfile->PersonalDetails->PlayerLargeImgName;
+        echo json_encode(['image'=>$content]);
+    }
+    
+    public function team_details(){
+        $this->load->library('Yahoocricket');
+        $team_id = $this->uri->segment(2);
+        $content = $this->yahoocricket->getTeamDetails($team_id);
+        $content = $content->query->results->TeamProfile;
+        $this->load->view('team_details',['details'=>$content]);
+    }
 }
